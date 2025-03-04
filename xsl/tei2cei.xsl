@@ -11,6 +11,8 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+     <xsl:strip-space elements="*"/> 
+    
     <xsl:template match="*" priority="-1">
         <xsl:message terminate="no">
             Unmatched element: <xsl:value-of select="name()"/>
@@ -94,7 +96,7 @@
     
     <xsl:template match="witness">
         <cei:witness>
-            <xsl:copy-of select="@*"/>
+            <xsl:copy-of select="@*[name() != 'source']"/>
             <xsl:apply-templates/>
             <xsl:apply-templates select="//layoutDesc"/>
             <xsl:call-template name="images">
@@ -445,7 +447,8 @@
     </xsl:template>
     
     <xsl:template match="choice[sic and corr]">
-        <xsl:apply-templates select="corr"/>
+        <xsl:apply-templates select="sic"/>
+        <xsl:text> (!)</xsl:text>
     </xsl:template>
     
     <xsl:template match="choice[expan and abbr]">
@@ -482,7 +485,7 @@
     
     <xsl:template match="note">
         <cei:note>
-            <xsl:copy-of select="@*[name() != 'wit']"/>
+            <xsl:copy-of select="@*[name() != 'wit' and name() != 'xml:id']"/>
             <xsl:if test="@wit">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@wit/data()"/>
@@ -668,7 +671,12 @@
     </xsl:template>
     
     <xsl:template match="subst">
-        <xsl:apply-templates/>
+        <xsl:apply-templates select='add'/>
+        <xsl:text> (</xsl:text>
+        <xsl:apply-templates select='del'/>
+        <xsl:text> </xsl:text>
+        <cei:hi rend='italic'>ante corr.</cei:hi>
+        <xsl:text>) </xsl:text>
     </xsl:template>
     
     <xsl:template match="add">
