@@ -218,7 +218,7 @@
         </cei:p>
     </xsl:template>
     
-    <xsl:template match="p[parent::p]">
+    <xsl:template match="p[parent::p or parent::history or parent::origin]">
         <xsl:apply-templates/>
     </xsl:template>
     
@@ -273,6 +273,10 @@
             </xsl:if>-->
             <xsl:apply-templates/>
         </cei:bibl>
+    </xsl:template>
+    
+    <xsl:template match="bibl[ancestor::creation]">
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="biblScope">
@@ -446,6 +450,12 @@
         </cei:pTenor>
     </xsl:template>
     
+    <xsl:template match="p[parent::note]" priority="5">
+        <cei:p>
+            <xsl:apply-templates/>
+        </cei:p>
+    </xsl:template>
+    
     <xsl:template match="choice[sic and corr]">
         <xsl:apply-templates select="sic"/>
         <xsl:text> (!)</xsl:text>
@@ -485,7 +495,7 @@
     
     <xsl:template match="note">
         <cei:note>
-            <xsl:copy-of select="@*[name() != 'wit' and name() != 'xml:id']"/>
+            <xsl:copy-of select="@*[name() != 'wit' and name() != 'xml:id' and name() != 'rend']"/>
             <xsl:if test="@wit">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@wit/data()"/>
@@ -542,6 +552,10 @@
             <xsl:apply-templates/>
         </cei:supplied>
     </xsl:template>
+    
+    <xsl:template match="supplied[figure]">
+        <xsl:apply-templates/>
+    </xsl:template>
 
     <xsl:template match="damage">
         <xsl:apply-templates/>
@@ -565,7 +579,7 @@
             <xsl:copy-of select="@*[not(name() = 'type')]"/>
             <xsl:if test="@type">
                 <cei:figDesc>
-                    <xsl:value-of select="@type"/>
+                    <xsl:value-of select="@type/data()"/>
                 </cei:figDesc>
             </xsl:if>
             <xsl:apply-templates/>
@@ -573,7 +587,19 @@
     </xsl:template>
     
     <xsl:template match="figure[ancestor::text]">
-        <cei:pict type="{@rend}">
+        <cei:pict>
+            <xsl:choose>
+                <xsl:when test="@type">
+                    <xsl:attribute name="type">
+                        <xsl:value-of select="@type"/>
+                    </xsl:attribute>
+                </xsl:when>
+                <xsl:when test="@rend">
+                    <xsl:attribute name="type">
+                        <xsl:value-of select="@rend"/>
+                    </xsl:attribute>
+                </xsl:when>
+            </xsl:choose>
             <xsl:apply-templates/>
         </cei:pict>
     </xsl:template>
