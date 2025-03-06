@@ -525,6 +525,10 @@
         </cei:witStart>
     </xsl:template>
     
+    <xsl:template match="witStart[parent::rdg]">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <xsl:template match="witEnd">
         <cei:witEnd>
             <xsl:copy-of select="@*"/>
@@ -745,6 +749,34 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="rdg[not(ancestor::rdg) and @wit]">
+        <cei:note>
+            <xsl:value-of select="@wit"/>
+            <xsl:text>] </xsl:text>
+            <xsl:if test="@rend">
+                <xsl:value-of select="@rend/data()"/>
+                <xsl:if test="normalize-space()">
+                    <xsl:text>: </xsl:text>
+                </xsl:if>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </cei:note>
+    </xsl:template>
+    
+    <xsl:template match="rdg[ancestor::rdg and @wit]">
+        <xsl:text> (</xsl:text>
+        <xsl:value-of select="@wit"/>
+        <xsl:text>] </xsl:text>
+        <xsl:if test="@rend">
+            <xsl:value-of select="@rend/data()"/>
+            <xsl:if test="normalize-space()">
+                <xsl:text>: </xsl:text>
+            </xsl:if>
+        </xsl:if>
+        <xsl:apply-templates/>
+        <xsl:text>)</xsl:text>
+    </xsl:template>
+    
     <xsl:template match="rdg">
         <xsl:apply-templates/>
     </xsl:template>
@@ -768,20 +800,6 @@
     
     <xsl:template match="lem[parent::app[rdg/@wit]]">
         <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="rdg[@wit]">
-        <cei:note>
-            <xsl:value-of select="@wit"/>
-            <xsl:text>] </xsl:text>
-            <xsl:if test="@rend">
-                <xsl:value-of select="@rend/data()"/>
-                <xsl:if test="normalize-space()">
-                    <xsl:text>: </xsl:text>
-                </xsl:if>
-            </xsl:if>
-            <xsl:apply-templates/>
-        </cei:note>
     </xsl:template>
     
     <xsl:template match="rdg">
@@ -817,6 +835,10 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
         </cei:surplus>
+    </xsl:template>
+    
+    <xsl:template match="surplus[parent::rdg]">
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="ref | ptr">
