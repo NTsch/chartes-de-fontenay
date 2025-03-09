@@ -255,6 +255,11 @@
     <xsl:template match="bibl">
         <cei:bibl>
             <xsl:copy-of select="@*[not(name() = ('xml:id', 'sameAs', 'default'))]"/>
+            <xsl:if test="idno/@type='ISBN'">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="idno"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:if test="@xml:id">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@xml:id"/>
@@ -265,12 +270,14 @@
                     <xsl:value-of select="parent::witness/@n"/>
                 </xsl:attribute>
             </xsl:if>
-            <!--<xsl:if test="@sameAs">
+            <xsl:if test="@sameAs">
+                <xsl:attribute name="key">
+                    <xsl:value-of select="@sameAs"/>
+                </xsl:attribute>
                 <xsl:call-template name="bibl-key">
                     <xsl:with-param name="key" select="substring(@sameAs/data(), 2)"/>
                 </xsl:call-template>
-                <!-\-<xsl:text> -\\- </xsl:text>-\->
-            </xsl:if>-->
+            </xsl:if>
             <xsl:apply-templates/>
         </cei:bibl>
     </xsl:template>
@@ -408,6 +415,12 @@
         <cei:name>
             <xsl:apply-templates/>
         </cei:name>
+    </xsl:template>
+    
+    <xsl:template match="forename">
+        <cei:forename>
+            <xsl:apply-templates/>
+        </cei:forename>
     </xsl:template>
     
     <xsl:template match="surname">
@@ -869,6 +882,65 @@
         </cei:space>
     </xsl:template>
     
+    <xsl:template match="monogr | analytic">
+        <xsl:apply-templates select="author"/>
+        <xsl:apply-templates select="title"/>
+        <xsl:text>.</xsl:text>
+        <xsl:apply-templates select="imprint"/>
+    </xsl:template>
+    
+    <xsl:template match="title">
+        <cei:title>
+            <xsl:copy-of select="@type"/>
+            <xsl:apply-templates/>
+        </cei:title>
+    </xsl:template>
+    
+    <xsl:template match="author[ancestor::biblStruct]">
+        <cei:author>
+            <cei:persName>
+                <xsl:apply-templates select="surname"/>
+                <xsl:text>, </xsl:text>
+                <xsl:apply-templates select="forename"/>
+            </cei:persName>
+        </cei:author>
+        <xsl:text>: </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="imprint">
+        <cei:imprint>
+            <xsl:apply-templates/>
+        </cei:imprint>
+    </xsl:template>
+    
+    <xsl:template match="publisher">
+        <cei:publisher>
+            <xsl:apply-templates/>
+        </cei:publisher>
+    </xsl:template>
+    
+    <xsl:template match="pubPlace">
+        <cei:pubPlace>
+            <xsl:apply-templates/>
+        </cei:pubPlace>
+    </xsl:template>
+    
+    <xsl:template match="note[ancestor::biblStruct]">
+        <cei:note>
+            <xsl:copy-of select="@*"/>
+            <xsl:if test="@xml:id">
+                <xsl:attribute name="id">
+                    <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </cei:note>
+    </xsl:template>
+    
+    <xsl:template match="note[@type = 'tags']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     <!-- ##### custom templates ##### -->
     
     <xsl:template name='main-id'>
@@ -900,6 +972,20 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:if>
+    </xsl:template>
+    
+    <xsl:template name="bibl-key">
+        <xsl:param name="key" required="yes"/>
+        <xsl:variable name="bibl-file" select="doc('../biblio.xml')"/>
+        <xsl:apply-templates select="$bibl-file//biblStruct[@xml:id = $key]/analytic"/>
+        <xsl:if test="$bibl-file//biblStruct[@xml:id = $key]/analytic">
+            <xsl:text>, </xsl:text>
+        </xsl:if>
+        <xsl:apply-templates select="$bibl-file//biblStruct[@xml:id = $key]/monogr"/>
+        <!--<xsl:if test="$bibl-file//biblStruct[@xml:id = $key]/note">
+            <xsl:text>, </xsl:text>
+        </xsl:if>-->
+        <xsl:apply-templates select="$bibl-file//biblStruct[@xml:id = $key]/note"/>
     </xsl:template>
     
 </xsl:stylesheet>
