@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     xmlns:cei="http://www.monasterium.net/NS/cei"
+    xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="xs math"
     version="3.0">
@@ -306,11 +307,20 @@
         </cei:graphic>
     </xsl:template>
 
-    <xsl:template match="graphic[parent::facsimile]">
+    <xsl:template match="graphic[ancestor::facsimile]">
         <cei:figure>
-            <cei:graphic
-                url="{concat('https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/', substring-before(substring-after(@url, 'Fontenay/'), '.jpg'), '/full/full/0/default.jpg')}"
-            />
+            <cei:graphic>
+                <xsl:attribute name="url">
+                    <xsl:choose>
+                        <xsl:when test="contains(@url/data(), 'Fontenay')">
+                            <xsl:value-of select="concat('https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/', substring-before(substring-after(@url, 'Fontenay/'), '.jpg'), '/full/full/0/default.jpg')"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="@url/data()"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:attribute>
+            </cei:graphic>
         </cei:figure>
     </xsl:template>
 
@@ -953,22 +963,21 @@
     <xsl:template name="images">
         <xsl:param name="pos"/>
         <!--look for the document id, and use it to get the right facsimile entry-->
-        <xsl:variable name="id">
-            <xsl:analyze-string select="string-join(.//*[name() = 'idno' or name() = 'bibl']//text())" regex="(15\sH\s\d+)">
-                <xsl:matching-substring>
-                    <xsl:value-of select="regex-group(1)"/>
-                </xsl:matching-substring>
-            </xsl:analyze-string>
-        </xsl:variable>
+        <xsl:variable name="id" select="
+    for $match in analyze-string(string-join(.//*[name() = 'idno' or name() = 'bibl']//text()), '(15\sH\s\d+)')//fn:match[1] 
+    return normalize-space($match)"/>
         <xsl:if test="$id != ''">
             <xsl:choose>
                 <!--in case of multiple originals with images and same id, assume the first 2 images are for the first, the next 2 for the 2nd, etc.-->
-                <xsl:when test="count(ancestor::TEI/facsimile/graphic[contains(@url/data(), replace($id, ' ', '_'))]) > 2">
-                    <xsl:apply-templates select="ancestor::TEI/facsimile/graphic[contains(@url/data(), replace($id, ' ', '_'))][$pos * 2 - 1]"/>
-                    <xsl:apply-templates select="ancestor::TEI/facsimile/graphic[contains(@url/data(), replace($id, ' ', '_'))][$pos * 2]"/>
+                <xsl:when test="count(ancestor::TEI/facsimile//graphic[contains(@url/data(), replace($id, ' ', '_'))]) > 2">
+                    <xsl:apply-templates select="ancestor::TEI/facsimile//graphic[contains(@url/data(), replace($id, ' ', '_'))][$pos * 2 - 1]"/>
+                    <xsl:apply-templates select="ancestor::TEI/facsimile//graphic[contains(@url/data(), replace($id, ' ', '_'))][$pos * 2]"/>
+                </xsl:when>
+                <xsl:when test="ancestor::TEI/facsimile[@xml:id]//graphic[contains(@url/data(), replace($id, ' ', '_'))]">
+                    <xsl:apply-templates select="ancestor::TEI/facsimile[number(tokenize(@xml:id/data(), '_')[last()]) = $pos]//graphic[contains(@url/data(), replace($id, ' ', '_'))]"/>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:apply-templates select="ancestor::TEI/facsimile/graphic[contains(@url/data(), replace($id, ' ', '_'))]"/>
+                    <xsl:apply-templates select="ancestor::TEI/facsimile//graphic[contains(@url/data(), replace($id, ' ', '_'))]"/>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:if>
