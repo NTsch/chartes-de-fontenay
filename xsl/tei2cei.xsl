@@ -723,15 +723,6 @@
         </cei:handShift>
     </xsl:template>
     
-    <xsl:template match="subst">
-        <xsl:apply-templates select='add'/>
-        <xsl:text> (</xsl:text>
-        <xsl:apply-templates select='del'/>
-        <xsl:text> </xsl:text>
-        <cei:hi rend='italic'>ante corr.</cei:hi>
-        <xsl:text>) </xsl:text>
-    </xsl:template>
-    
     <xsl:template match="add">
         <cei:add>
             <xsl:copy-of select="@*[not(name() = ('place', 'corresp'))]"/>
@@ -754,6 +745,23 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
         </cei:del>
+    </xsl:template>
+    
+    <xsl:template match="subst">
+        <xsl:apply-templates select='add'/>
+        <xsl:text> [</xsl:text>
+        <xsl:apply-templates select='del'/>
+        <xsl:text> </xsl:text>
+        <cei:hi rend='italic'>ante corr.</cei:hi>
+        <xsl:text>] </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="add[parent::subst]">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="del[parent::subst]">
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="metamark">
