@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1162_d1e223042">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1162_d1e223042" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 31@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,50 +43,50 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152178">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152180">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152178" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152180" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, tam futuris quam presentibus notum facio quod
                         <persName key="d1e22524" xml:id="d1e152184">Petrus
                             <addName>Huldrei</addName>
-                    </persName> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152189">Fonteneti</orgName> quod ab eis decimam non exigeret in
-                    toto territorio <placeName key="stutzmann_himanis#324466" xml:id="d1e152192">Laigniaci</placeName>, quocumque modo terras ejusdem territorii monachi
+                    </persName> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152189" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quod ab eis decimam non exigeret in
+                    toto territorio <placeName key="stutzmann_himanis#324466" xml:id="d1e152192" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Laigniaci</placeName>, quocumque modo terras ejusdem territorii monachi
                     excolerent. Hoc autem laudavit <persName key="d1e22530" xml:id="d1e152195">Constantius gener ejusdem <persName key="d1e22537" xml:id="d1e152197">Petri</persName>
                     </persName> et affidavit uterque <persName key="d1e22543" xml:id="d1e152201">Petrus</persName> videlicet et <persName key="d1e22549" xml:id="d1e152204">Constantius</persName> in manu <persName key="d1e22555" xml:id="d1e152207">Willermi <addName>Buri</addName>
                     </persName> id se per omnia ratum habituros et fideliter servaturos. Testes sunt
-                    inde <persName key="d1e22561" xml:id="d1e152212">Wido monachus de <placeName key="stutzmann_himanis#324459" xml:id="d1e152214">Grinione</placeName>
+                    inde <persName key="d1e22561" xml:id="d1e152212">Wido monachus de <placeName key="stutzmann_himanis#324459" xml:id="d1e152214" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>, memoratus <persName key="d1e22567" xml:id="d1e152217">Willermus
                             <addName>Burus</addName>
-                    </persName>, <persName key="d1e22574" xml:id="d1e152222">Ulduinus de <placeName key="stutzmann_himanis#324975" xml:id="d1e152224">
+                    </persName>, <persName key="d1e22574" xml:id="d1e152222">Ulduinus de <placeName key="stutzmann_himanis#324975" xml:id="d1e152224" corresp="Parrece">
                             <foreign>Parrece</foreign>
                         </placeName>
                     </persName>, <persName key="d1e22580" xml:id="d1e152229">Aalardus avunculus
                         ipsius <persName key="d1e22586" xml:id="d1e152231">Constantii</persName>
                     </persName>, <persName key="d1e22592" xml:id="d1e152234">Laurentius
-                        molendinarius de <placeName key="stutzmann_himanis#322865" xml:id="d1e152236">Flaviniaco</placeName>
+                        molendinarius de <placeName key="stutzmann_himanis#322865" xml:id="d1e152236" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaco</placeName>
                     </persName>, <persName key="d1e22598" xml:id="d1e152239">Audelinus
                             <addName>Vaca</addName>
-                    </persName>, <persName key="d1e22604" xml:id="d1e152244">Johannes de <placeName key="stutzmann_himanis#324344" xml:id="d1e152246">Poleigniaco</placeName>
+                    </persName>, <persName key="d1e22604" xml:id="d1e152244">Johannes de <placeName key="stutzmann_himanis#324344" xml:id="d1e152246" corresp="Pouillenay (Côte-d'Or, Montbard)">Poleigniaco</placeName>
                         decanus</persName>, <persName key="d1e22611" xml:id="d1e152250">Girardus
                             <addName>Nocherius</addName>
                     </persName>, <persName key="d1e22617" xml:id="d1e152255">Milo major de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e152257">Buxi</placeName>
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e152257" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxi</placeName>
                     </persName>, <persName key="d1e22623" xml:id="d1e152261">Engelbertus de
-                            <placeName key="stutzmann_himanis#324356" xml:id="d1e152263">Saigniaco</placeName>
-                    </persName>. Designata postmodum die apud <placeName key="stutzmann_himanis#324459" xml:id="d1e152266">Grinionem</placeName> sacramento idipsum iterato
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e152263" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
+                    </persName>. Designata postmodum die apud <placeName key="stutzmann_himanis#324459" xml:id="d1e152266" corresp="Grignon (Côte-d'Or, Montbard)">Grinionem</placeName> sacramento idipsum iterato
                     firmaverunt <persName key="d1e22629" xml:id="d1e152269">Petrus</persName> cum
                     filio suo <persName key="d1e22635" xml:id="d1e152272">Willermo</persName> atque
                         <persName key="d1e22641" xml:id="d1e152275">Constantius</persName> et
                     laudare fecerunt uxores suas et filios. Hujus rei gratia habuit idem <persName key="d1e22648" xml:id="d1e152278">Petrus</persName> de beneficio ecclesie
-                    solidos <num>c</num>. Insuper et concessit illi <persName key="stutzmann_himanis#324660" xml:id="d1e152285">abbas Arnaudus</persName> locum in monasterio quando ipse
-                    vellet et sibi et filio suo pro monacho. Actum publice apud <placeName key="stutzmann_himanis#324459" xml:id="d1e152288">Grinionem</placeName> anno ab
+                    solidos <num>c</num>. Insuper et concessit illi <persName key="stutzmann_himanis#324660" xml:id="d1e152285" corresp="Arnaud, abbé de Fontenay (1154-1163)">abbas Arnaudus</persName> locum in monasterio quando ipse
+                    vellet et sibi et filio suo pro monacho. Actum publice apud <placeName key="stutzmann_himanis#324459" xml:id="d1e152288" corresp="Grignon (Côte-d'Or, Montbard)">Grinionem</placeName> anno ab
                     incarnatione Domini <hi rend="smallcaps">m° c° lx° ii°</hi> coram subtus
                     annotatis testibus, <persName key="d1e22654" xml:id="d1e152294">Wido
                         monachus</persName>, <persName key="d1e22660" xml:id="d1e152297">
                         <sic>Walgerius</sic> sacerdos</persName>, <persName key="d1e22666" xml:id="d1e152303">Wido filius <persName key="d1e22672" xml:id="d1e152305">Oliverii</persName>
                     </persName> et <persName key="d1e22678" xml:id="d1e152308">Oliverus frater
                         ejus</persName>, <persName key="d1e22685" xml:id="d1e152311">Hugo de
-                            <placeName key="stutzmann_himanis#325036" xml:id="d1e152313">Turre</placeName>
-                    </persName>, <persName key="d1e22691" xml:id="d1e152316">Jocelinus de <placeName key="stutzmann_himanis#325296" xml:id="d1e152318">
+                            <placeName key="stutzmann_himanis#325036" xml:id="d1e152313" corresp="La Tour de Rougemont">Turre</placeName>
+                    </persName>, <persName key="d1e22691" xml:id="d1e152316">Jocelinus de <placeName key="stutzmann_himanis#325296" xml:id="d1e152318" corresp="Gurgi">
                             <foreign>Gurgi</foreign>
                         </placeName>
                     </persName>, <persName key="d1e22697" xml:id="d1e152322">Wiardus
@@ -93,7 +94,7 @@
                     </persName>, <persName key="d1e22703" xml:id="d1e152327">Wido
                             <addName>Marini</addName>
                     </persName>, <persName key="d1e22709" xml:id="d1e152333">Petrus major de
-                            <placeName key="stutzmann_himanis#324408" xml:id="d1e152335">
+                            <placeName key="stutzmann_himanis#324408" xml:id="d1e152335" corresp="Benoisey (Côte-d'Or, Montbard)">
                             <foreign>Benoisi</foreign>
                         </placeName>
                     </persName>, <persName key="d1e22715" xml:id="d1e152339">Petrus

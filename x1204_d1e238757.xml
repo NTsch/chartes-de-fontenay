@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1204_d1e238757">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1204_d1e238757" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original *219 bis@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -18,11 +19,11 @@
                             <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
                         <bibl>ADCO 15 H 4, p.  321 (XV. 12. 12) : « […] en date de 1204 est un
                             lambeau de titre latin en parchemin, large de 4 doigts, portant que M.
-                                l’<persName key="d1e28297" xml:id="d1e163388">abbé de <orgName key="stutzmann_himanis#281211" xml:id="d1e163390">St Seine</orgName>
+                                l’<persName key="d1e28297" xml:id="d1e163388">abbé de <orgName key="stutzmann_himanis#281211" xml:id="d1e163390" corresp="abbaye de Saint-Seine (534 -)">St Seine</orgName>
                             </persName> ne doutant plus du témoignage de la vérité touchant le
-                                <placeName key="stutzmann_himanis#325185" xml:id="d1e163393">pré du Breuil de
+                                <placeName key="stutzmann_himanis#325185" xml:id="d1e163393" corresp="pré du Breuil de Buxière">pré du Breuil de
                                 Buxière</placeName>, il en laisse la pleine jouissance à MM. de
-                                <orgName key="stutzmann_himanis#282689" xml:id="d1e163396">Fontenet</orgName>,
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e163396" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenet</orgName>,
                             etc., sans sceau ».</bibl>
                     </listBibl>
                 </sourceDesc>
@@ -38,7 +39,7 @@
         </teiHeader>
         <text>
             <body>
-                <p/>
+                <p />
             </body>
         </text>
     </TEI>

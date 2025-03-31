@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e243139">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1211_d1e243139" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 267@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,34 +38,34 @@
         <text>
             <body>
                 <p>
-                    <persName key="d1e29197" xml:id="d1e166381">Manasses <placeName key="stutzmann_himanis#99215" xml:id="d1e166383">
+                    <persName key="d1e29197" xml:id="d1e166381">Manasses <placeName key="stutzmann_himanis#99215" xml:id="d1e166383" corresp="Orléans (Loiret, Orléans)">
                             <app>
                                 <lem>Aureliensis</lem>
                                 <rdg wit="#C">Aurelianensis</rdg>
                             </app>
                         </placeName>
-                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e166390">Willermus
-                            <placeName key="stutzmann_himanis#324435" xml:id="d1e166392">Autisiodorensis</placeName> Dei gratia episcopi</persName> notum
-                    facimus universis presentes litteras inspecturis quod <persName key="d1e29203" xml:id="d1e166396">Manasses de <placeName key="stutzmann_himanis#324466" xml:id="d1e166398">Laniis</placeName>
+                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e166390" corresp="Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de Paris (1220-1223)">Willermus
+                            <placeName key="stutzmann_himanis#324435" xml:id="d1e166392" corresp="Auxerre (Yonne, Auxerre)">Autisiodorensis</placeName> Dei gratia episcopi</persName> notum
+                    facimus universis presentes litteras inspecturis quod <persName key="d1e29203" xml:id="d1e166396">Manasses de <placeName key="stutzmann_himanis#324466" xml:id="d1e166398" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Laniis</placeName>
                     </persName> et <persName key="d1e29209" xml:id="d1e166401">Agnes uxor ejus de
-                            <placeName key="stutzmann_himanis#325029" xml:id="d1e166403">
+                            <placeName key="stutzmann_himanis#325029" xml:id="d1e166403" corresp="Seneveii">
                             <app>
                                 <lem>Seneveio</lem>
                                 <rdg wit="#C">Seneveyo</rdg>
                             </app>
                         </placeName>
                     </persName>, in presentia nostra constituti, dederunt et concesserunt Deo et
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166410">Fonteneti</orgName>
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166410" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     libere et absolute in perpetuam <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#C">eleemozinam</rdg>
                     </app> pro remedio anime sue et antecessorum suorum omnia que habebant apud
-                        <placeName key="stutzmann_himanis#324475" xml:id="d1e166420">
+                        <placeName key="stutzmann_himanis#324475" xml:id="d1e166420" corresp="Marmagne (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Marmaniam</lem>
                             <rdg wit="#C">Marmanias</rdg>
                         </app>
-                    </placeName> et in finagio ejusdem ville et in finagio <placeName key="stutzmann_himanis#324487" xml:id="d1e166427">Montis Barri</placeName>. Quod ut
+                    </placeName> et in finagio ejusdem ville et in finagio <placeName key="stutzmann_himanis#324487" xml:id="d1e166427" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>. Quod ut
                     ratum sit et firmum maneat in posterum, presens scriptum <app>
                         <lem>sigillorum nostrorum</lem>
                         <rdg wit="#C">sigilli nostri</rdg>

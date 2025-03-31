@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e242477">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e242477" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 258@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,18 +33,18 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e29098" xml:id="d1e165918">Bernardus de <placeName key="stutzmann_himanis#324487" xml:id="d1e165920">Monte Barro</placeName>,
-                            <placeName key="stutzmann_himanis#324447" xml:id="d1e165923">Espissie</placeName>
+                <p>Ego <persName key="d1e29098" xml:id="d1e165918">Bernardus de <placeName key="stutzmann_himanis#324487" xml:id="d1e165920" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>,
+                            <placeName key="stutzmann_himanis#324447" xml:id="d1e165923" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">Espissie</placeName>
                         dominus</persName>, omnibus notum facio <app>
                         <lem>presentibus</lem>
                         <rdg wit="#a">pręsentibus</rdg>
                     </app> et futuris quod pie memorie <persName key="d1e29105" xml:id="d1e165933">Heluydis mater mea</persName> in obitu suo dedit in puram <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#a">eleemosynam</rdg>
-                    </app> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165942">Fonteneti</orgName>
+                    </app> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165942" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     <num>x</num> sextarios bladi medietatem frumenti et medietatem avene ad mensuram
-                        <placeName key="stutzmann_himanis#324447" xml:id="d1e165948">Espissie</placeName>
-                    singulis annis in terris de <placeName key="stutzmann_himanis#325252" xml:id="d1e165951">
+                        <placeName key="stutzmann_himanis#324447" xml:id="d1e165948" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">Espissie</placeName>
+                    singulis annis in terris de <placeName key="stutzmann_himanis#325252" xml:id="d1e165951" corresp="Corseinz">
                         <foreign>Corseinz</foreign>
                     </placeName> circa festum sancti Remigii capiendos. Dedit etiam jamdicte
                     ecclesie fratribus <app>
@@ -51,11 +52,11 @@
                             <num>xx</num>
                         </lem>
                         <rdg wit="#a">viginti</rdg>
-                    </app> solidos censuales, scilicet in terra de <placeName key="stutzmann_himanis#325045" xml:id="d1e165962">Vasseio</placeName> et in terra de capite suo ad
+                    </app> solidos censuales, scilicet in terra de <placeName key="stutzmann_himanis#325045" xml:id="d1e165962" corresp="Vasseio">Vasseio</placeName> et in terra de capite suo ad
                     jamdictum festum sancti Remigii annuatim persolvendos. Hanc autem <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#a">eleemosynam</rdg>
-                    </app> venerabilis matris mee laudavi et concessi supradictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165971">Fonteneti</orgName> et in perpetuam
+                    </app> venerabilis matris mee laudavi et concessi supradictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165971" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et in perpetuam
                     memoriam presenti <app>
                         <lem>paginulle</lem>
                         <rdg wit="#a">paginulæ</rdg>

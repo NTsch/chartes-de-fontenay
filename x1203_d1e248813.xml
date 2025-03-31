@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e248813">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1203_d1e248813" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 213@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -31,21 +32,21 @@
                     </date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e170365">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e170367">Burgundie</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e170365" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e170367" corresp="Bourgogne">Burgundie</placeName>
                     </persName>, notum facio presentibus et futuris quod controversia erat inter
-                        <surplus>mo</surplus> monachos <orgName key="stutzmann_himanis#282689" xml:id="d1e170373">Fonteneti</orgName> et <persName key="d1e2016" xml:id="d1e170376">dominum Hugonem filium <persName key="d1e1990" xml:id="d1e170378">Oberti de <placeName key="stutzmann_himanis#325034" xml:id="d1e170380">Tylio</placeName>
+                        <surplus>mo</surplus> monachos <orgName key="stutzmann_himanis#282689" xml:id="d1e170373" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et <persName key="d1e2016" xml:id="d1e170376">dominum Hugonem filium <persName key="d1e1990" xml:id="d1e170378">Oberti de <placeName key="stutzmann_himanis#325034" xml:id="d1e170380">Tylio</placeName>
                         </persName>
-                    </persName> super terris quas idem monachi habebant in villa <placeName key="stutzmann_himanis#324455" xml:id="d1e170383">Fraxini</placeName> et territorio
+                    </persName> super terris quas idem monachi habebant in villa <placeName key="stutzmann_himanis#324455" xml:id="d1e170383" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxini</placeName> et territorio
                     ipsius. De qua cum in nos et inquisitionem nostrum utriusque partis assensu
                     compromissum fuisset, elegimus hinc et inde sex qui ipsas terras bene dividere scirent<app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>.</p>
             </body>

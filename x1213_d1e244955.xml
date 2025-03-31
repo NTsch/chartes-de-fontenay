@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e244955">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e244955" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 285@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -44,14 +45,14 @@
         <text>
             <body>
                 <p>
-                    <supplied>E</supplied>go <persName key="stutzmann_himanis#324610" xml:id="d1e167685">Galterius, Dei gratia episcopus <placeName key="stutzmann_himanis#319548" xml:id="d1e167687">Eduensis</placeName>
+                    <supplied>E</supplied>go <persName key="stutzmann_himanis#324610" xml:id="d1e167685" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia episcopus <placeName key="stutzmann_himanis#319548" xml:id="d1e167687" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                     </persName>, notum facimus universis presentem paginam inspecturis quod
                         <persName key="d1e29592" xml:id="d1e167690">nobilis mulier nomine Regina,
                         filia <persName key="d1e29598" xml:id="d1e167692">Roberti cognomento <addName>
                                 <foreign>Houdre</foreign>
                             </addName> de Grinione</persName>
-                    </persName>, dedit et libere concessit ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e167699">Fonteneti</orgName> pro remedio
-                    anime sue et antecessorum suorum quicquid ipsa habebat in decimis de <placeName key="stutzmann_himanis#324356" xml:id="d1e167702">Saingi</placeName> et in omnibus
+                    </persName>, dedit et libere concessit ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e167699" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio
+                    anime sue et antecessorum suorum quicquid ipsa habebat in decimis de <placeName key="stutzmann_himanis#324356" xml:id="d1e167702" corresp="Seigny (Côte-d'Or, Montbard)">Saingi</placeName> et in omnibus
                     rebus et terciam partem tractus ipsius decime. Quam donationem laudavit
                         <persName key="d1e29604" xml:id="d1e167707">Johannes maritus ipsius
                             <persName key="d1e29610" xml:id="d1e167709">Regine</persName>
@@ -61,12 +62,12 @@
                     </persName> pater suus et mater sua <persName key="d1e29623" xml:id="d1e167719">Hodierna</persName> cum <persName key="d1e29629" xml:id="d1e167722">filio
                         suo Willermo</persName> et <persName key="d1e29635" xml:id="d1e167725">filia
                         sua Amelina</persName>, et <persName key="d1e29641" xml:id="d1e167728">Adelina soror ipsius <persName key="d1e29647" xml:id="d1e167730">Roberti</persName>
-                    </persName>, <persName key="d1e29653" xml:id="d1e167733">Ansericus de <placeName key="stutzmann_himanis#324356" xml:id="d1e167735">
+                    </persName>, <persName key="d1e29653" xml:id="d1e167733">Ansericus de <placeName key="stutzmann_himanis#324356" xml:id="d1e167735" corresp="Seigny (Côte-d'Or, Montbard)">
                             <foreign>Saigni</foreign>
                         </placeName>
                     </persName>, de cujus chasamento erat, et <persName key="d1e29660" xml:id="d1e167740">Renaudus frater ejus</persName>. Habuit autem superius
                     memorata <persName key="d1e29666" xml:id="d1e167743">Regina</persName> pro hac
-                    donatione de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e167746">Fonteneto</orgName>
+                    donatione de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e167746" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
                     <num>l</num> libras proviniensium. Quod totum ut ratum sit et firmum maneat in
                     posterum presentem cartam sigilii nostri impressione roboravimus. Actum anno
                     verbi incarnati <num>m° cc° xiii°</num>.</p>

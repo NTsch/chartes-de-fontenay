@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e200821">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1202_d1e200821" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1826</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -85,32 +86,32 @@
                     <date type="documentCreation" when="1202-12-31">1202</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0036.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0037.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0036.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0037.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
 
-                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e136041">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e136043">Burgundie</placeName>
-                        </persName>, notum facio presentibus et futuris quod de discordia <lb n="2"/> que erat inter monacos <orgName key="stutzmann_himanis#282689" xml:id="d1e136048">Fontineti</orgName> et dominum <persName key="d1e13083" xml:id="d1e136051">
-                            <sic corresp="#A">Huonem</sic>de <placeName key="stutzmann_himanis#324466" xml:id="d1e136055">Legna</placeName>
-                        </persName> et dominum <persName key="d1e13089" xml:id="d1e136058">Humbau<lb n="3" break="no"/>dum</persName> fratrem ejus, facta inquisitione
-                        per prudentes homines de precepto meo, <lb n="4"/> dictum fuit michi ab
-                        inquisitoribus quod domini Fontaneti habebant apud <placeName key="stutzmann_himanis#324466" xml:id="d1e136066">Legnam</placeName>
-                        <lb n="5"/> quicquid dominus <persName key="d1e13095" xml:id="d1e136070">Rogerius de <placeName key="stutzmann_himanis#325251" xml:id="d1e136072">
+                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e136041" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e136043" corresp="Bourgogne">Burgundie</placeName>
+                        </persName>, notum facio presentibus et futuris quod de discordia <lb n="2" /> que erat inter monacos <orgName key="stutzmann_himanis#282689" xml:id="d1e136048" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontineti</orgName> et dominum <persName key="d1e13083" xml:id="d1e136051">
+                            <sic corresp="#A">Huonem</sic>de <placeName key="stutzmann_himanis#324466" xml:id="d1e136055" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Legna</placeName>
+                        </persName> et dominum <persName key="d1e13089" xml:id="d1e136058">Humbau<lb n="3" break="no" />dum</persName> fratrem ejus, facta inquisitione
+                        per prudentes homines de precepto meo, <lb n="4" /> dictum fuit michi ab
+                        inquisitoribus quod domini Fontaneti habebant apud <placeName key="stutzmann_himanis#324466" xml:id="d1e136066" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Legnam</placeName>
+                        <lb n="5" /> quicquid dominus <persName key="d1e13095" xml:id="d1e136070">Rogerius de <placeName key="stutzmann_himanis#325251" xml:id="d1e136072" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">
                                 <foreign>Corraboi</foreign>
                             </placeName>
-                        </persName> ibi habebat in omni proventu terciam partem <lb n="6"/> nemorum
-                        et terciam partem terragii pertinentis ad nemora illa et terciam partem <lb n="7"/> terciarum et tractum in tercio anno, excepto foresta que est
-                        ante <placeName key="stutzmann_himanis#324466" xml:id="d1e136081">Legnam</placeName>,
-                            <lb n="8"/> de qua non concordaverunt, quam in manum meam retinui et in
-                        inquisitionem. <lb n="9"/> Actum est hoc anno incarnati Verbi millesimo
+                        </persName> ibi habebat in omni proventu terciam partem <lb n="6" /> nemorum
+                        et terciam partem terragii pertinentis ad nemora illa et terciam partem <lb n="7" /> terciarum et tractum in tercio anno, excepto foresta que est
+                        ante <placeName key="stutzmann_himanis#324466" xml:id="d1e136081" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Legnam</placeName>,
+                            <lb n="8" /> de qua non concordaverunt, quam in manum meam retinui et in
+                        inquisitionem. <lb n="9" /> Actum est hoc anno incarnati Verbi millesimo
                         ducentesimo secundo.</p>
                 
             </body>

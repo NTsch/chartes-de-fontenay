@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e192241">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1202_d1e192241" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 440</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,25 +79,25 @@
                     <date type="documentCreation" when="1202-12-31">1202</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0003.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0003.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0004.jpg" scale="20" />
         </facsimile>
         <text>
-            <body> <p>Ego <persName key="d1e11625" xml:id="d1e130378">H. procurator <placeName key="stutzmann_himanis#319548" xml:id="d1e130380">Ed[uensis]</placeName>
-                            ecclesie</persName>, notum facio presentibus <lb n="2"/> et futuris quod
-                            <persName key="d1e11631" xml:id="d1e130386">Johannes miles de <placeName key="stutzmann_himanis#325029" xml:id="d1e130388">Seneveio</placeName>
-                        </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130391">Fonte<lb n="3" break="no"/>neti</orgName> im perpetuam <app>
+            <body> <p>Ego <persName key="d1e11625" xml:id="d1e130378">H. procurator <placeName key="stutzmann_himanis#319548" xml:id="d1e130380" corresp="Autun (Saône-et-Loire, Autun)">Ed[uensis]</placeName>
+                            ecclesie</persName>, notum facio presentibus <lb n="2" /> et futuris quod
+                            <persName key="d1e11631" xml:id="d1e130386">Johannes miles de <placeName key="stutzmann_himanis#325029" xml:id="d1e130388" corresp="Seneveii">Seneveio</placeName>
+                        </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130391" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonte<lb n="3" break="no" />neti</orgName> im perpetuam <app>
                             <lem wit="#A">helemosinam</lem>
                             <rdg wit="#B">elemosinam</rdg>
-                        </app> quicquid habebat in omnibus de<lb n="4" break="no"/>cimis tocius
-                        finagii de <placeName key="stutzmann_himanis#324446" xml:id="d1e130405">Ampileio</placeName> et quod adversus omnes homines <lb n="5"/>
-                        garantiam de hoc portaret. Hoc etiam laudavit <persName key="d1e11637" xml:id="d1e130410">Ag<lb n="6" break="no"/>nes filia prefati <persName key="d1e11643" xml:id="d1e130414">Johannis</persName>
-                        </persName>. Hujus rei testes sunt <persName key="d1e11649" xml:id="d1e130417">Bartho<lb n="7" break="no"/>lomeus <placeName key="stutzmann_himanis#324355" xml:id="d1e130421">Rubei Montis</placeName>
+                        </app> quicquid habebat in omnibus de<lb n="4" break="no" />cimis tocius
+                        finagii de <placeName key="stutzmann_himanis#324446" xml:id="d1e130405" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampileio</placeName> et quod adversus omnes homines <lb n="5" />
+                        garantiam de hoc portaret. Hoc etiam laudavit <persName key="d1e11637" xml:id="d1e130410">Ag<lb n="6" break="no" />nes filia prefati <persName key="d1e11643" xml:id="d1e130414">Johannis</persName>
+                        </persName>. Hujus rei testes sunt <persName key="d1e11649" xml:id="d1e130417">Bartho<lb n="7" break="no" />lomeus <placeName key="stutzmann_himanis#324355" xml:id="d1e130421" corresp="Rougemont (Côte-d'Or, Montbard)">Rubei Montis</placeName>
                         </persName>, <persName key="d1e11656" xml:id="d1e130424">Guillermus <addName>
                                 <foreign>Bachicho</foreign>
                             </addName>
@@ -104,7 +105,7 @@
                             <app>
                                 <lem wit="#A">Haymo</lem>
                                 <rdg wit="#B">Aymo</rdg>
-                            </app> de <placeName key="stutzmann_himanis#324437" xml:id="d1e130438">
+                            </app> de <placeName key="stutzmann_himanis#324437" xml:id="d1e130438" corresp="Quemigny-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>
                                     <app>
                                         <lem wit="#A">Cummine</lem>
@@ -112,11 +113,11 @@
                                     </app>
                                 </foreign>
                             </placeName>
-                        </persName>. Actum anno incarnationis dominice <num>M°. <lb n="8"/>
+                        </persName>. Actum anno incarnationis dominice <num>M°. <lb n="8" />
                             <app>
-                                <lem wit="#A">du<space/>cen<space/>te<space/>si<space/>mo</lem>
+                                <lem wit="#A">du<space />cen<space />te<space />si<space />mo</lem>
                                 <rdg wit="#B">cc°</rdg>
-                            </app> se<space corresp="#A"/>cun<space corresp="#A"/>do.</num>
+                            </app> se<space corresp="#A" />cun<space corresp="#A" />do.</num>
                     </p>
                 
             </body>

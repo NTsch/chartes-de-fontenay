@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1197_d1e206984">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1197_d1e206984" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2469</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -82,39 +83,39 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_341_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_341_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_341_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_341_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
 
                     <p>
-                        <persName key="stutzmann_himanis#324647" xml:id="d1e140196">.G. Dei gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e140198">Lingonensis</placeName>
+                        <persName key="stutzmann_himanis#324647" xml:id="d1e140196" corresp="Garnier II de Rochefort, abbé d'Auberive, abbé de Clairvaux (1186-1193), évêque de Langres (1193-1199)">.G. Dei gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e140198" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
                             episcopus</persName>, omnibus ad quos presentes littere pervenerint in
-                        Domino salutem. Noverit universitas vestra quod cum <lb n="2"/> domus de
-                            <orgName key="stutzmann_himanis#324495" xml:id="d1e140204">
+                        Domino salutem. Noverit universitas vestra quod cum <lb n="2" /> domus de
+                            <orgName key="stutzmann_himanis#324495" xml:id="d1e140204" corresp="Le Caillier">
                             <foreign>Quailler</foreign>
-                        </orgName> juxta grangiam de <placeName key="stutzmann_himanis#324911" xml:id="d1e140208">
+                        </orgName> juxta grangiam de <placeName key="stutzmann_himanis#324911" xml:id="d1e140208" corresp="Grand-Jailly (Côte-d'Or, Montbard)">
                             <foreign>Jaille</foreign>
-                        </placeName> sita sit, formidantes ne domus <orgName key="stutzmann_himanis#282689" xml:id="d1e140212">Fonteneti</orgName> ex vicinitate pre<lb n="3" break="no"/>dicte domus in posterum dampnum aliquod incurrere valeat,
-                        sub pena excommunicationis inhibuimus <lb n="4"/> ne predicta domus ad alium
+                        </placeName> sita sit, formidantes ne domus <orgName key="stutzmann_himanis#282689" xml:id="d1e140212" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ex vicinitate pre<lb n="3" break="no" />dicte domus in posterum dampnum aliquod incurrere valeat,
+                        sub pena excommunicationis inhibuimus <lb n="4" /> ne predicta domus ad alium
                         ordinem se transferat, sed in eo ordine in quo a retro temporibus ordinata
-                        est in ipso <lb n="5"/> perpetuo permaneat. Affuerunt presentes huic nostre
+                        est in ipso <lb n="5" /> perpetuo permaneat. Affuerunt presentes huic nostre
                         inhibitioni <persName key="d1e14489" xml:id="d1e140222">Willelmus prior
-                                <orgName key="stutzmann_himanis#282689" xml:id="d1e140224">Fonten(eti)</orgName>
-                        </persName>, <persName key="d1e14495" xml:id="d1e140227">Andreas de <lb n="6"/>
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e140230">
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e140224" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten(eti)</orgName>
+                        </persName>, <persName key="d1e14495" xml:id="d1e140227">Andreas de <lb n="6" />
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e140230" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                                 <foreign>Buxi</foreign>
                             </placeName>
-                        </persName>, monachus, magister <persName key="d1e14501" xml:id="d1e140234">Hunaudus canonicus <placeName key="stutzmann_himanis#317574" xml:id="d1e140236">Lingonensis</placeName>
+                        </persName>, monachus, magister <persName key="d1e14501" xml:id="d1e140234">Hunaudus canonicus <placeName key="stutzmann_himanis#317574" xml:id="d1e140236" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
                         </persName>, <persName key="d1e14508" xml:id="d1e140239">Stephanus canonicus
-                                <placeName key="stutzmann_himanis#96489" xml:id="d1e140241">Divionensis</placeName>, capellanus noster</persName>, <lb n="7"/>
+                                <placeName key="stutzmann_himanis#96489" xml:id="d1e140241" corresp="Dijon (Côte-d'Or, Dijon)">Divionensis</placeName>, capellanus noster</persName>, <lb n="7" />
                         <persName key="d1e14514" xml:id="d1e140247">Willelmus
                                 <addName>Parvus</addName>, famulus <persName key="d1e14520" xml:id="d1e140252">abbatis Sancti Stephani Divionensis</persName>
-                        </persName>. Ut autem hec nostra inhibitio de cetero rata <lb n="8"/> et
+                        </persName>. Ut autem hec nostra inhibitio de cetero rata <lb n="8" /> et
                         inconcussa permaneat, presentem cartulam sigilli nostri impressione roborari
-                        fecimus. Actum Fon<lb n="9" break="no"/>teneti anno ab incarnatione Domini
+                        fecimus. Actum Fon<lb n="9" break="no" />teneti anno ab incarnatione Domini
                         millesimo. centesimo nonagesimo septimo.</p>
                 
             </body>

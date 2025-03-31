@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1139_d1e210214">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1139_d1e210214" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 5@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -53,56 +54,33 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324643" xml:id="d1e142351">Stephanus, Dei
-                    gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e142353"
-                        >Eduensis</placeName> episcopus</persName>, dilecto sibi in Christo fratri
-                    <persName key="stutzmann_himanis#324659"
-                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Willermo abbati
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e142359"
-                        >Fonteneti</orgName>
+                <p>Ego <persName key="stutzmann_himanis#324643" xml:id="d1e142351" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephanus, Dei
+                    gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e142353" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, dilecto sibi in Christo fratri
+                    <persName key="stutzmann_himanis#324659" corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Willermo abbati
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e142359" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                 </persName> et fratribus qui cum eo sunt salutem et paternam benedictionem. Cum ad
                 omnes beatos pertineat justis petitionibus assensum prebere ad nos quam maxime qui
                 episcopi nomine censemur pertinere non dubium est. Unde ego divina pietate permotus
                 sciens terrarum vestrarum ariditatem ne singulis annis mendicare vos annonam
                 oporteret sicut quesitis do ecclesie vestre et fratribus ibidem Deo in perpetuum
-                servituris totam illam terram quam de honore <placeName
-                    key="stutzmann_himanis#324370" xml:id="d1e142362">Tullionis</placeName>
-                habebamus a <placeName key="stutzmann_himanis#324450" xml:id="d1e142365"
-                    >Fanio</placeName> et a <placeName key="stutzmann_himanis#324455"
-                    xml:id="d1e142368">Fraxino</placeName> susum versus <placeName
-                    key="stutzmann_himanis#324356" xml:id="d1e142372">Saignicum</placeName>. Sed
-                quia de eadem terra maxima ex parte ut michi dictum est nonnulli <choice
-                    corresp="#B #C">
+                servituris totam illam terram quam de honore <placeName key="stutzmann_himanis#324370" xml:id="d1e142362" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                habebamus a <placeName key="stutzmann_himanis#324450" xml:id="d1e142365" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanio</placeName> et a <placeName key="stutzmann_himanis#324455" xml:id="d1e142368" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName> susum versus <placeName key="stutzmann_himanis#324356" xml:id="d1e142372" corresp="Seigny (Côte-d'Or, Montbard)">Saignicum</placeName>. Sed
+                quia de eadem terra maxima ex parte ut michi dictum est nonnulli <choice corresp="#B #C">
                     <sic>nobis</sic>
                     <corr>vobis</corr>
                 </choice> injuriam faciebant, omnes illos qui scienter terram istam vobis
                 abstulerint a liminibus sancte ecclesie excommunicando sequestramus. Doni nostri
-                testes sunt <persName key="stutzmann_himanis#325490"
-                    corresp="Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis"
-                    >Willermus decanus</persName>, <persName key="stutzmann_himanis#325492"
-                    corresp="Gautier, préchantre du chapitre cathédral d'Autun (fl. 1136), Galterius praecentor Eduensis"
-                    >Walterius cantor</persName>, <persName key="stutzmann_himanis#324650"
-                    corresp="Geoffroy, archidiacre dans le diocèse d'Autun">Gaufridus
-                    archidiaconus</persName>, <persName key="stutzmann_himanis#324651"
-                    corresp="Seguin, archidiacre dans le diocèse d'Autun">Siguinus
-                    archidiaconus</persName>, <persName key="stutzmann_himanis#325488"
-                    corresp="Humbert, archidiacre dans le diocèse d'Autun">Humbertus
-                    archidiaconus</persName>, <persName key="stutzmann_himanis#325486"
-                    corresp="Gérard, archidiacre dans le diocèse d'Autun">Gerardus
-                    archidiaconus</persName>, <persName key="stutzmann_himanis#326043"
-                    corresp="Gauthier, chapelain (de l'évêque d'Autun) (fl. 1139)">Walterius
-                    capellanus</persName>, <persName key="stutzmann_himanis#326044"
-                    corresp="Roclenus, archiprêtre dans le diocèse d'Autun (fl. 1139)">Roclenus
-                    archipresbiter</persName>, <persName key="stutzmann_himanis#326045"
-                    corresp="Anseri (fl. 1139)">Ansericus</persName>, <persName
-                    key="stutzmann_himanis#326046" corresp="Humbertus de Sancto Saturnino">Humbertus
-                    de <placeName key="stutzmann_himanis#325014" xml:id="d1e142411">Sancto
+                testes sunt <persName key="stutzmann_himanis#325490" corresp="Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis">Willermus decanus</persName>, <persName key="stutzmann_himanis#325492" corresp="Gautier, préchantre du chapitre cathédral d'Autun (fl. 1136), Galterius praecentor Eduensis">Walterius cantor</persName>, <persName key="stutzmann_himanis#324650" corresp="Geoffroy, archidiacre dans le diocèse d'Autun">Gaufridus
+                    archidiaconus</persName>, <persName key="stutzmann_himanis#324651" corresp="Seguin, archidiacre dans le diocèse d'Autun">Siguinus
+                    archidiaconus</persName>, <persName key="stutzmann_himanis#325488" corresp="Humbert, archidiacre dans le diocèse d'Autun">Humbertus
+                    archidiaconus</persName>, <persName key="stutzmann_himanis#325486" corresp="Gérard, archidiacre dans le diocèse d'Autun">Gerardus
+                    archidiaconus</persName>, <persName key="stutzmann_himanis#326043" corresp="Gauthier, chapelain (de l'évêque d'Autun) (fl. 1139)">Walterius
+                    capellanus</persName>, <persName key="stutzmann_himanis#326044" corresp="Roclenus, archiprêtre dans le diocèse d'Autun (fl. 1139)">Roclenus
+                    archipresbiter</persName>, <persName key="stutzmann_himanis#326045" corresp="Anseri (fl. 1139)">Ansericus</persName>, <persName key="stutzmann_himanis#326046" corresp="Humbertus de Sancto Saturnino">Humbertus
+                    de <placeName key="stutzmann_himanis#325014" xml:id="d1e142411" corresp="Sanctus Saturninus">Sancto
                         Saturnino</placeName>
-                </persName>, <persName key="stutzmann_himanis#324672"
-                    corresp="Obert, prieur de Saint-Symphorien (av.1139-av.1151)">Obertus
-                    prior</persName>, <persName key="stutzmann_himanis#326048"
-                    corresp="Pierre d'Arnay,Petrus de Arneto">Petrus de <placeName
-                        key="stutzmann_himanis#324954" xml:id="d1e142420">Arneto</placeName>
+                </persName>, <persName key="stutzmann_himanis#324672" corresp="Obert, prieur de Saint-Symphorien (av.1139-av.1151)">Obertus
+                    prior</persName>, <persName key="stutzmann_himanis#326048" corresp="Pierre d'Arnay,Petrus de Arneto">Petrus de <placeName key="stutzmann_himanis#324954" xml:id="d1e142420">Arneto</placeName>
                 </persName>. Concedo etiam vobis quicquid de chasamento nostro adquirere poteritis.
                 Sed et omnem decimam vestram de rebus ad vos pertientibus episcopali auctoritate
                 concedo et hec omnia sigilli nostri impressione confirmo.</p>

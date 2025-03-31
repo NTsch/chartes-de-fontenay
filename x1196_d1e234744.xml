@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234744">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e234744" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 157@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -34,24 +35,24 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e160543">Odo archipresbiter
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e160545">Tullionis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e160543" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e160545" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26922" xml:id="d1e160548">Diea</persName> et filii ejus <persName key="d1e26928" xml:id="d1e160553">Robertus</persName>, <persName key="d1e26934" xml:id="d1e160556">Garinus</persName>, <persName key="d1e26940" xml:id="d1e160559">Odeerus</persName> quitaverunt in
-                    perpetuam elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160565">Fonteneti</orgName> quicquid juris habebant in finagio <placeName key="stutzmann_himanis#324449" xml:id="d1e160568">
+                    perpetuam elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160565" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid juris habebant in finagio <placeName key="stutzmann_himanis#324449" xml:id="d1e160568" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Esturmer</foreign>
                     </placeName>. Hoc totum laudavit <persName key="d1e26946" xml:id="d1e160572">uxor <persName key="d1e26952" xml:id="d1e160574">Roberti</persName>
                         <name>
                             <foreign>Richoz</foreign>
                         </name>
-                    </persName>. Hujus rei testes sunt <persName key="d1e26959" xml:id="d1e160580">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e160582">
+                    </persName>. Hujus rei testes sunt <persName key="d1e26959" xml:id="d1e160580">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e160582" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">
                             <foreign>Quinci</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e26965" xml:id="d1e160586">Thomas de <placeName key="stutzmann_himanis#324401" xml:id="d1e160588">
+                    </persName>, <persName key="d1e26965" xml:id="d1e160586">Thomas de <placeName key="stutzmann_himanis#324401" xml:id="d1e160588" corresp="Bellenod-sur-Seine (Côte-d'Or, Montbard)">
                             <foreign>Beleno</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e26971" xml:id="d1e160592">Robertus de <placeName key="stutzmann_himanis#324421" xml:id="d1e160594">
+                    </persName>, <persName key="d1e26971" xml:id="d1e160592">Robertus de <placeName key="stutzmann_himanis#324421" xml:id="d1e160594" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
-                        </placeName> major</persName>, <persName key="d1e26977" xml:id="d1e160600">Aubericus</persName> et <persName key="d1e26983" xml:id="d1e160603">Christianus de <placeName key="stutzmann_himanis#324449" xml:id="d1e160605">
+                        </placeName> major</persName>, <persName key="d1e26977" xml:id="d1e160600">Aubericus</persName> et <persName key="d1e26983" xml:id="d1e160603">Christianus de <placeName key="stutzmann_himanis#324449" xml:id="d1e160605" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Esturmer</foreign>
                         </placeName>
                     </persName>. Quod ut ratum habeatur in perpetuum sigilli mei impressione

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e194253">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1186_d1e194253" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 506</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -81,13 +82,13 @@
                     <date type="documentCreation" when="1186-12-31">1186</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
@@ -97,23 +98,23 @@
                             l’acte.</hi>
                     </p>
                     <p>
-                        <persName key="stutzmann_himanis#324640" xml:id="d1e131750">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e131752">Autissiodorensis</orgName>
+                        <persName key="stutzmann_himanis#324640" xml:id="d1e131750" corresp="Hugues de Noyers, évêque d'Auxerre (1183-1206)">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e131752" corresp="Auxerre (diocèse) ( - 1790)">Autissiodorensis</orgName>
                             episcopus</persName>, omnibus ad quos litere presentes pervenerint, in
                         Domino salutem. Notum fieri volumus quod <persName key="d1e11899" xml:id="d1e131756">Ebrardus <addName>
                                 <foreign>Rebos</foreign>
                             </addName>
-                        </persName> et uxor ejus <lb n="2"/>
-                        <space/> et filii eorum <persName key="d1e11905" xml:id="d1e131765">Stephanus</persName> et <persName key="d1e11911" xml:id="d1e131768">Landricus</persName> in presentia nostra vendiderunt monachis de
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131772">
+                        </persName> et uxor ejus <lb n="2" />
+                        <space /> et filii eorum <persName key="d1e11905" xml:id="d1e131765">Stephanus</persName> et <persName key="d1e11911" xml:id="d1e131768">Landricus</persName> in presentia nostra vendiderunt monachis de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131772" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                             <sic>Fontenoio</sic>
-                        </orgName> vineam quam habebant in <placeName key="stutzmann_himanis#324968" xml:id="d1e131776">Nantala</placeName>. <lb n="3"/> pro <num>c</num> et
+                        </orgName> vineam quam habebant in <placeName key="stutzmann_himanis#324968" xml:id="d1e131776" corresp="Nantala">Nantala</placeName>. <lb n="3" /> pro <num>c</num> et
                             <num>xxv</num> libris provin[ensis] monete. Nos autem prefatis
                         concessimus monachis quod si aliquis illam venditionem impedire voluerit,
-                        qui nostre <lb n="4"/> sit subditus potestati aut ipsum a sua faciemus
+                        qui nostre <lb n="4" /> sit subditus potestati aut ipsum a sua faciemus
                         cessare calumpnia, aut de ipso in quantum jus dictaverit ad petitionem
-                        predictorum mo<lb n="5" break="no"/>nachorum justitiam faciemus. In hujus
+                        predictorum mo<lb n="5" break="no" />nachorum justitiam faciemus. In hujus
                         rei testimonium, presens scriptum nostro munivimus sigillo. Datum anno
-                        incarnationis dominice <num>m°<lb n="6"/> c° <space/>lxxx <space/>
+                        incarnationis dominice <num>m°<lb n="6" /> c° <space />lxxx <space />
                         vi°</num>.</p>
                 
             </body>

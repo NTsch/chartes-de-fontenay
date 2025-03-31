@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e238310">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1202_d1e238310" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 203@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,8 +33,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163084">O<supplied>do</supplied>
-                        dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163089">Burgundie</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163084" corresp="Eudes III, duc de Bourgogne (1192-1218)">O<supplied>do</supplied>
+                        dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163089" corresp="Bourgogne">Burgundie</placeName>
                     </persName>, notum facio presentibus pariter et futuris. <metamark>Cetera ut
                         supra.</metamark>
                     <note>(renvoie à <hi rend="italic">Flaciacum</hi>, 38)</note>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e198497">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e198497" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1125</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -75,23 +76,23 @@
                     <date type="documentCreation" when="1210-12-31">1210</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0018.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0019.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0018.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0019.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e134529">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e134531">Burgundie</placeName>
-                        </persName>, notum facio tam presentibus quam futuris me <lb n="2"/> dedisse
-                        et in perpetuam elemosinam concessisse ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e134536">Fonteneti</orgName> omnes <lb n="3"/> terras meas <sic>gaegnabiles</sic> que sunt apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134545">Belnam</placeName> sicut in
-                        carta eorum sigillo meo <lb n="4"/> sigillata habetur. Dedi etiam eis
-                        tercias earumdem terrarum, de illis videlicet <lb n="5"/> terris que sunt
-                        sine censu et costuma. In cujus rei testimonium presenti <lb n="6"/> scripto
+                                        <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e134529" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e134531" corresp="Bourgogne">Burgundie</placeName>
+                        </persName>, notum facio tam presentibus quam futuris me <lb n="2" /> dedisse
+                        et in perpetuam elemosinam concessisse ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e134536" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> omnes <lb n="3" /> terras meas <sic>gaegnabiles</sic> que sunt apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134545" corresp="Beaune (Côte-d'Or)">Belnam</placeName> sicut in
+                        carta eorum sigillo meo <lb n="4" /> sigillata habetur. Dedi etiam eis
+                        tercias earumdem terrarum, de illis videlicet <lb n="5" /> terris que sunt
+                        sine censu et costuma. In cujus rei testimonium presenti <lb n="6" /> scripto
                         sigillum meum apposui. Actum est hoc anno gratie <num>m° cc° x°</num>.</p>
                 
             </body>

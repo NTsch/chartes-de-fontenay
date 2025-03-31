@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230148">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e230148" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 108@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -16,7 +17,7 @@
 
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -31,22 +32,22 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157258">Stephanus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157260">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157258" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157260" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, notum fieri volo tam futuris quam presentibus
                         <persName key="d1e25164" xml:id="d1e157264">Guichardus</persName> et
                         <persName key="d1e25170" xml:id="d1e157267">Renaudus frater ejus</persName>
                     et <persName key="d1e25176" xml:id="d1e157270">Warnerius sororius
-                        eorum</persName> dimittunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157273">Fonteneti</orgName> quicquid habebant in territorio
-                        <placeName key="stutzmann_himanis#324449" xml:id="d1e157277">
+                        eorum</persName> dimittunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157273" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid habebant in territorio
+                        <placeName key="stutzmann_himanis#324449" xml:id="d1e157277" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
                     </placeName> et in finagio ejus in decimis et in terris et in omnibus commodis.
                     Hujus rei testes sunt <persName key="d1e25182" xml:id="d1e157281">Humbertus
-                        magister de <placeName key="stutzmann_himanis#324904" xml:id="d1e157283">Ponte
+                        magister de <placeName key="stutzmann_himanis#324904" xml:id="d1e157283" corresp="Pontaubert (Yonne, Avallon)">Ponte
                             Arberti</placeName>
                     </persName> et <persName key="d1e25188" xml:id="d1e157286">Bernardus confrater
                         ejus</persName>, <persName key="d1e25194" xml:id="d1e157289">frater Garinus
-                        magister Sancti Aniani</persName>, <persName key="d1e25201" xml:id="d1e157292">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157294">
+                        magister Sancti Aniani</persName>, <persName key="d1e25201" xml:id="d1e157292">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157294" corresp="Conforgien (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Corfergeol</foreign>
                         </placeName>
                     </persName>, <persName key="d1e25207" xml:id="d1e157298">Girardus capellanus
@@ -55,7 +56,7 @@
                             <persName key="d1e25231" xml:id="d1e157310">Renaudi</persName>
                     </persName>. Hoc donum etiam laudaverunt <persName key="d1e25238" xml:id="d1e157313">Gaufridus filius prefati <persName key="d1e25244" xml:id="d1e157315">Warnerii</persName>
                     </persName> et <persName key="d1e25250" xml:id="d1e157318">filia ejus
-                        Adelina</persName>. Hujus rei testes sunt <persName key="d1e25256" xml:id="d1e157321">Dodo capellanus <placeName key="stutzmann_himanis#324475" xml:id="d1e157323">Marmanie</placeName>
+                        Adelina</persName>. Hujus rei testes sunt <persName key="d1e25256" xml:id="d1e157321">Dodo capellanus <placeName key="stutzmann_himanis#324475" xml:id="d1e157323" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanie</placeName>
                     </persName>, <persName key="d1e25262" xml:id="d1e157326">Oilerius</persName>,
                         <persName key="d1e25268" xml:id="d1e157329">Martinus</persName>, <persName key="d1e25275" xml:id="d1e157333">Stephanus forestarius</persName>.</p>
             </body>

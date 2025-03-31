@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1193_d1e202289">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1193_d1e202289" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2027</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -92,68 +93,68 @@
                     <date type="documentCreation" notBefore="1179" notAfter="1193">[1179-1193]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_249_0022.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_249_0023.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_249_0022.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_249_0023.jpg" scale="20" />
         </facsimile>
         <text>
-            <body><p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e137034">Manasses, Dei gratia
-                                <placeName key="stutzmann_himanis#317574" xml:id="d1e137036">Lingonensis</placeName> episcopus</persName>
+            <body><p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e137034" corresp="Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)">Manasses, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e137036" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>
                         <witDetail wit="#B">Fin du texte attesté par la photographie</witDetail>,
-                        notum facio presentibus et futuris quod <persName key="d1e13416" xml:id="d1e137042">Johannes de <placeName key="stutzmann_himanis#324373" xml:id="d1e137044">Asneriis</placeName>
-                        </persName> dedit <lb n="2"/> et concessit Deo et fratribus ecclesie
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e137049">Fonteneti</orgName>
-                        quicquid ad eum pertinebat de secatorio bosci <placeName key="stutzmann_himanis#324341" xml:id="d1e137052">Plaaneti</placeName>, sic <lb n="3"/> tamen ut idem secatorium deinceps <orgName key="stutzmann_himanis#282689" xml:id="d1e137058">Fontenetensibus</orgName> augere non liceat excidio
-                        nemoris circun<lb n="4" break="no"/>stantis, nis hoc eis ipse <persName key="d1e13422" xml:id="d1e137063">Johannes</persName> concedat vel
-                        heredes ipsius. Hoc autem juraverunt super sancta filii <lb n="5"/> ejusdem
+                        notum facio presentibus et futuris quod <persName key="d1e13416" xml:id="d1e137042">Johannes de <placeName key="stutzmann_himanis#324373" xml:id="d1e137044" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName>
+                        </persName> dedit <lb n="2" /> et concessit Deo et fratribus ecclesie
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e137049" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        quicquid ad eum pertinebat de secatorio bosci <placeName key="stutzmann_himanis#324341" xml:id="d1e137052" corresp="Planay (Côte-d'Or, Montbard)">Plaaneti</placeName>, sic <lb n="3" /> tamen ut idem secatorium deinceps <orgName key="stutzmann_himanis#282689" xml:id="d1e137058" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> augere non liceat excidio
+                        nemoris circun<lb n="4" break="no" />stantis, nis hoc eis ipse <persName key="d1e13422" xml:id="d1e137063">Johannes</persName> concedat vel
+                        heredes ipsius. Hoc autem juraverunt super sancta filii <lb n="5" /> ejusdem
                             <persName key="d1e13428" xml:id="d1e137068">Johannis</persName>,
                             <persName key="d1e13435" xml:id="d1e137072">Rainerius</persName>,
                             <persName key="d1e13441" xml:id="d1e137075">Carpinus</persName>,
                             <persName key="d1e13447" xml:id="d1e137078">Rainaldus</persName>,
                             <persName key="d1e13453" xml:id="d1e137081">Bauduinus</persName>, quod
-                        deinceps nichil suum clamabunt, <lb n="6"/> nec ipsi nec heredes ipsorum nec
-                        in ipso bosco excorticabunt. Quod si quis ceterorum participum <lb n="7"/>
+                        deinceps nichil suum clamabunt, <lb n="6" /> nec ipsi nec heredes ipsorum nec
+                        in ipso bosco excorticabunt. Quod si quis ceterorum participum <lb n="7" />
                         corticem ibi levaverit. <persName key="d1e13459" xml:id="d1e137089">Johannes</persName> vel ipsius heredes monachos admonebunt, ut eum qui
-                        levaverit <lb n="8"/> cessare faciant. Quod si cessare noluerit, et ipsi
-                        similiter levabunt. Habuit propter hoc <persName key="d1e13465" xml:id="d1e137094">Johannes</persName> de bene<lb n="9" break="no"/>ficio ejusdem ecclesie .XL. solidos. Hec etiam laudavit <persName key="d1e13472" xml:id="d1e137099">Uldealdis</persName> uxor ejusdem et
-                        pro laude .VII. solidos <lb n="10"/> recepit. Singulis etiam annis reddent
-                        monachi predicte <persName key="d1e13478" xml:id="d1e137105">Uldealdi</persName> .XII. nummos debito censua<lb n="11" break="no"/>li, vel cuicumque ipsa voluerit. Horum testes sunt frater <persName key="d1e13484" xml:id="d1e137110">Hugo, magister <placeName key="stutzmann_himanis#324452" xml:id="d1e137112">Fontanarum</placeName>
+                        levaverit <lb n="8" /> cessare faciant. Quod si cessare noluerit, et ipsi
+                        similiter levabunt. Habuit propter hoc <persName key="d1e13465" xml:id="d1e137094">Johannes</persName> de bene<lb n="9" break="no" />ficio ejusdem ecclesie .XL. solidos. Hec etiam laudavit <persName key="d1e13472" xml:id="d1e137099">Uldealdis</persName> uxor ejusdem et
+                        pro laude .VII. solidos <lb n="10" /> recepit. Singulis etiam annis reddent
+                        monachi predicte <persName key="d1e13478" xml:id="d1e137105">Uldealdi</persName> .XII. nummos debito censua<lb n="11" break="no" />li, vel cuicumque ipsa voluerit. Horum testes sunt frater <persName key="d1e13484" xml:id="d1e137110">Hugo, magister <placeName key="stutzmann_himanis#324452" xml:id="d1e137112" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>
                         </persName>, frater <persName key="d1e13490" xml:id="d1e137115">Petrus,
-                            magister <lb n="12"/>
-                            <placeName key="stutzmann_himanis#324341" xml:id="d1e137118">Plaaneti</placeName>
+                            magister <lb n="12" />
+                            <placeName key="stutzmann_himanis#324341" xml:id="d1e137118" corresp="Planay (Côte-d'Or, Montbard)">Plaaneti</placeName>
                         </persName>, <persName key="d1e13496" xml:id="d1e137121">Hugo
                             leprosus</persName>, <persName key="d1e13502" xml:id="d1e137124">
-                            <foreign>Costelez</foreign> de <placeName key="stutzmann_himanis#324375" xml:id="d1e137128">Verdunniaco</placeName>
+                            <foreign>Costelez</foreign> de <placeName key="stutzmann_himanis#324375" xml:id="d1e137128" corresp="Verdonnet (Côte-d'Or, Montbard)">Verdunniaco</placeName>
                         </persName>, <persName key="d1e13509" xml:id="d1e137132">Willelmus de
-                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137134">Asneriis</placeName>
-                        </persName> et <persName key="d1e13515" xml:id="d1e137137">Raaldus</persName> frater ejus, et <persName key="d1e13521" xml:id="d1e137140">Micha<lb n="13" break="no"/>el</persName> nepos
-                        eorum. Medietatem etiam totius territorii <placeName key="stutzmann_himanis#324341" xml:id="d1e137145">Plaaneti</placeName>, que ad eundem <persName key="d1e13527" xml:id="d1e137148">Johannem</persName> pertinebat, hoc
-                        pacto <lb n="14"/> emerunt fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e137154">Fonteneti</orgName> quod in illa deinceps nichil suum
-                        clamabunt, nec ipse nec heredes ipsius. <lb n="15"/> Quod si forte
+                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137134" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName>
+                        </persName> et <persName key="d1e13515" xml:id="d1e137137">Raaldus</persName> frater ejus, et <persName key="d1e13521" xml:id="d1e137140">Micha<lb n="13" break="no" />el</persName> nepos
+                        eorum. Medietatem etiam totius territorii <placeName key="stutzmann_himanis#324341" xml:id="d1e137145" corresp="Planay (Côte-d'Or, Montbard)">Plaaneti</placeName>, que ad eundem <persName key="d1e13527" xml:id="d1e137148">Johannem</persName> pertinebat, hoc
+                        pacto <lb n="14" /> emerunt fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e137154" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quod in illa deinceps nichil suum
+                        clamabunt, nec ipse nec heredes ipsius. <lb n="15" /> Quod si forte
                         contigerit ut participes terre illius inter se dividant et aliquis illorum
-                        de parte il<lb n="16" break="no"/>la quam monachi a <persName key="d1e13533" xml:id="d1e137161">Johanne</persName> emerunt aliquid tulerit, ipse
+                        de parte il<lb n="16" break="no" />la quam monachi a <persName key="d1e13533" xml:id="d1e137161">Johanne</persName> emerunt aliquid tulerit, ipse
                             <persName key="d1e13539" xml:id="d1e137164">Johannes</persName> vel
-                        heredes ejus tantundem mona<lb n="17" break="no"/>chis de sua parte
+                        heredes ejus tantundem mona<lb n="17" break="no" />chis de sua parte
                         restituent. Hoc laudavit uxor illius <persName key="d1e13546" xml:id="d1e137170">Uldealdis</persName> et filii ejus omnes superius
-                        nominati <lb n="18"/> qui etiam hoc super sanctas reliquias juraverunt.
-                        Horum quoque testes sunt frater <persName key="d1e13552" xml:id="d1e137175">Hugo magister <lb n="19"/>
-                            <placeName key="stutzmann_himanis#324452" xml:id="d1e137178">Fontanarum</placeName>
+                        nominati <lb n="18" /> qui etiam hoc super sanctas reliquias juraverunt.
+                        Horum quoque testes sunt frater <persName key="d1e13552" xml:id="d1e137175">Hugo magister <lb n="19" />
+                            <placeName key="stutzmann_himanis#324452" xml:id="d1e137178" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>
                         </persName>, frater <persName key="d1e13558" xml:id="d1e137181">Petrus
-                            magister <placeName key="stutzmann_himanis#324341" xml:id="d1e137183">Plaaneti</placeName>
+                            magister <placeName key="stutzmann_himanis#324341" xml:id="d1e137183" corresp="Planay (Côte-d'Or, Montbard)">Plaaneti</placeName>
                         </persName>, <persName key="d1e13564" xml:id="d1e137186">Wiardus de
-                                <placeName key="stutzmann_himanis#325027" xml:id="d1e137188">
+                                <placeName key="stutzmann_himanis#325027" xml:id="d1e137188" corresp="Saud">
                                 <foreign>Saud</foreign>
                             </placeName>
-                        </persName>, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e137192">Fonteneti</orgName>, <persName key="d1e13570" xml:id="d1e137196">Bernardus capel<lb n="20" break="no"/>lanus <placeName key="stutzmann_himanis#324375" xml:id="d1e137200">Verdunniaci</placeName>
+                        </persName>, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e137192" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, <persName key="d1e13570" xml:id="d1e137196">Bernardus capel<lb n="20" break="no" />lanus <placeName key="stutzmann_himanis#324375" xml:id="d1e137200" corresp="Verdonnet (Côte-d'Or, Montbard)">Verdunniaci</placeName>
                         </persName>, <persName key="d1e13576" xml:id="d1e137203">Willelmus de
-                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137205">Asneriis</placeName>
-                        </persName> et <persName key="d1e13583" xml:id="d1e137208">Raaldus</persName> frater ejus et <persName key="d1e13589" xml:id="d1e137211">Girardus</persName> filius ejusdem <persName key="d1e13595" xml:id="d1e137214">Willelmi</persName>. Presentem <lb n="21"/> igitur cartam sigilli nostri appensione munientes, sub
-                        excommunicationis sententia interdicimus <lb n="22"/> ne quis fratres
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e137222">Fonteneti</orgName>
+                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137205" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName>
+                        </persName> et <persName key="d1e13583" xml:id="d1e137208">Raaldus</persName> frater ejus et <persName key="d1e13589" xml:id="d1e137211">Girardus</persName> filius ejusdem <persName key="d1e13595" xml:id="d1e137214">Willelmi</persName>. Presentem <lb n="21" /> igitur cartam sigilli nostri appensione munientes, sub
+                        excommunicationis sententia interdicimus <lb n="22" /> ne quis fratres
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e137222" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         super his ullo modo molestare presumat.</p>
                 
             </body>

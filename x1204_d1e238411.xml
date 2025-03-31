@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1204_d1e238411">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1204_d1e238411" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 214@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,43 +36,43 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e163149">Gauterius Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e163151">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e163149" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e163151" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, omnibus notum facio tam presentibus quam futuris quod
-                    dominus <persName key="d1e28143" xml:id="d1e163155">Renardus de <placeName key="stutzmann_himanis#325264" xml:id="d1e163157">Curcellis</placeName>
+                    dominus <persName key="d1e28143" xml:id="d1e163155">Renardus de <placeName key="stutzmann_himanis#325264" xml:id="d1e163157" corresp="Curcellarum">Curcellis</placeName>
                     </persName> laudavit et concessit pro salute anime sue et antecessorum suorum
-                    ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163160">Fonteneti</orgName> totum chasamentum suum tam adquisitum quam adquirendum,
+                    ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163160" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> totum chasamentum suum tam adquisitum quam adquirendum,
                     quod <persName key="d1e28149" xml:id="d1e163163">Willermus <addName>
                             <foreign>Bechecho</foreign>
                         </addName>
-                    </persName> et fratres ejus milites de <placeName key="stutzmann_himanis#324475" xml:id="d1e163169">Marmania</placeName>, <persName key="d1e28155" xml:id="d1e163173">Gislebertus</persName> scilicet, <persName key="d1e28161" xml:id="d1e163176">Hugo</persName>, <persName key="d1e28167" xml:id="d1e163179">Bernardus</persName>, et <persName key="d1e28173" xml:id="d1e163182">soror eorum Margarita</persName> tenebant ab eo.
+                    </persName> et fratres ejus milites de <placeName key="stutzmann_himanis#324475" xml:id="d1e163169" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>, <persName key="d1e28155" xml:id="d1e163173">Gislebertus</persName> scilicet, <persName key="d1e28161" xml:id="d1e163176">Hugo</persName>, <persName key="d1e28167" xml:id="d1e163179">Bernardus</persName>, et <persName key="d1e28173" xml:id="d1e163182">soror eorum Margarita</persName> tenebant ab eo.
                     Videlicet a <geogName xml:id="d1e163185">rivo de Jalen</geogName> citra aquam de
                         <geogName xml:id="d1e163188">
                         <foreign>Braanen</foreign>
-                    </geogName> usque ad <placeName key="stutzmann_himanis#324487" xml:id="d1e163193">Montem
-                        Barrum</placeName> et ultra eamdem aquam pratum de <placeName key="stutzmann_himanis#325248" xml:id="d1e163196">
+                    </geogName> usque ad <placeName key="stutzmann_himanis#324487" xml:id="d1e163193" corresp="Montbard (Côte-d'Or, Montbard)">Montem
+                        Barrum</placeName> et ultra eamdem aquam pratum de <placeName key="stutzmann_himanis#325248" xml:id="d1e163196" corresp="Cornelen">
                         <foreign>Cornelen</foreign>
-                    </placeName>. Concessit etiam eisdem fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163200">Fonteneti</orgName> calumpniam quam <persName key="d1e28180" xml:id="d1e163203">Willermus</persName> supradictus habebat
+                    </placeName>. Concessit etiam eisdem fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163200" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> calumpniam quam <persName key="d1e28180" xml:id="d1e163203">Willermus</persName> supradictus habebat
                     adversus filios <persName key="d1e28186" xml:id="d1e163206">Girardi de
-                            <placeName key="stutzmann_himanis#324408" xml:id="d1e163208">Boneseio</placeName>
+                            <placeName key="stutzmann_himanis#324408" xml:id="d1e163208" corresp="Benoisey (Côte-d'Or, Montbard)">Boneseio</placeName>
                     </persName>. Homines suos sive per elemosinam sive per emptionem sine violentia
                     adquirendam. Habuit autem idem <persName key="d1e28192" xml:id="d1e163211">Renardus</persName> propter hoc de bonis ecclesie <num>vii</num> libras
                     divionensis monete. Hoc totum laudaverunt <persName key="d1e28198" xml:id="d1e163218">Agnes supradicti Renardi uxor</persName> et omnes liberi
                     eorum, <persName key="d1e28204" xml:id="d1e163221">Renaudus</persName> scilicet,
                         <persName key="d1e28210" xml:id="d1e163224">Gauterius</persName>, <persName key="d1e28217" xml:id="d1e163227">Stephanus</persName>, <persName key="d1e28223" xml:id="d1e163230">Petrus</persName>, <persName key="d1e28229" xml:id="d1e163234">Margarita</persName>, <persName key="d1e28235" xml:id="d1e163237">Gertrudis</persName> et <persName key="d1e28241" xml:id="d1e163240">Aaliz</persName>. Hujus rei testes sunt
-                        <persName key="d1e28247" xml:id="d1e163243">Bernardus de <placeName key="stutzmann_himanis#324334" xml:id="d1e163245">Nogento</placeName>
-                    </persName>, <persName key="d1e28254" xml:id="d1e163248">Leonardus de <placeName key="stutzmann_himanis#324475" xml:id="d1e163250">Marmania</placeName>
-                    </persName>, <persName key="d1e28260" xml:id="d1e163253">Robertus de <placeName key="stutzmann_himanis#325264" xml:id="d1e163255">Curcellis</placeName>
+                        <persName key="d1e28247" xml:id="d1e163243">Bernardus de <placeName key="stutzmann_himanis#324334" xml:id="d1e163245" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">Nogento</placeName>
+                    </persName>, <persName key="d1e28254" xml:id="d1e163248">Leonardus de <placeName key="stutzmann_himanis#324475" xml:id="d1e163250" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
+                    </persName>, <persName key="d1e28260" xml:id="d1e163253">Robertus de <placeName key="stutzmann_himanis#325264" xml:id="d1e163255" corresp="Curcellarum">Curcellis</placeName>
                     </persName> capellani, <persName key="d1e28266" xml:id="d1e163259">Humbaudus de
-                            <placeName key="stutzmann_himanis#324355" xml:id="d1e163261">Rubeo
+                            <placeName key="stutzmann_himanis#324355" xml:id="d1e163261" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo
                             Monte</placeName>
                     </persName>, <persName key="d1e28272" xml:id="d1e163264">Bartholomeus <addName>
                             <foreign>aus Poces</foreign>
                         </addName>
-                    </persName>, <persName key="d1e28278" xml:id="d1e163270">Renerius de <placeName key="stutzmann_himanis#324430" xml:id="d1e163272">
+                    </persName>, <persName key="d1e28278" xml:id="d1e163270">Renerius de <placeName key="stutzmann_himanis#324430" xml:id="d1e163272" corresp="Champ-d'Oiseau (Côte-d'Or, Montbard)">
                             <foreign>Chaudoisaul</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e28284" xml:id="d1e163276">Teobaudus de <placeName key="stutzmann_himanis#324487" xml:id="d1e163278">Monte Barro</placeName>
+                    </persName>, <persName key="d1e28284" xml:id="d1e163276">Teobaudus de <placeName key="stutzmann_himanis#324487" xml:id="d1e163278" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
                         prepositus</persName>. Ut igitur hoc ratum sit et firmum in posterum ad
                     preces ipsius <persName key="d1e28291" xml:id="d1e163282">Renardi</persName>
                     presenti pagine sigillum meum apponi precepi. Anno verbi incarnati <num>m° cc°

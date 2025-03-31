@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1207_d1e239591">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1207_d1e239591" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 227@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,10 +42,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e28402" xml:id="d1e163922">Willermus comes <placeName key="stutzmann_himanis#324925" xml:id="d1e163924">Joviniaci</placeName>
+                <p>Ego <persName key="d1e28402" xml:id="d1e163922">Willermus comes <placeName key="stutzmann_himanis#324925" xml:id="d1e163924" corresp="Joviniaci">Joviniaci</placeName>
                     </persName>, notum facio omnibus tam presentibus quam futuris quod pro remedio
-                    animae meae et pro reverentia <orgName key="stutzmann_himanis#281483" xml:id="d1e163927">Cisterciensis ordinis</orgName> de<hi rend="background(red)">dit</hi> et
-                    concessi domui et fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e163933">Fonteneti</orgName> liberum transitum terrae et aquae per
+                    animae meae et pro reverentia <orgName key="stutzmann_himanis#281483" xml:id="d1e163927" corresp="ordre des cisterciens">Cisterciensis ordinis</orgName> de<hi rend="background(red)">dit</hi> et
+                    concessi domui et fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e163933" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> liberum transitum terrae et aquae per
                     omnia loco dominationis meae ut pacifice vadant et veniant conducentes ea quae
                     ad se pertinent immunes ab omni consuetudine et exactione. Quod ut apud posteros
                     manifestum sit presens scriptum sigilli mei munimine corroboravi. Actum est hoc

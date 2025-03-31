@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1164_d1e224162">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1164_d1e224162" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 34@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -28,25 +29,25 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152964">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152966">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152964" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152966" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, tam futuris quam presentibus notum facio quod
                         <persName key="d1e23092" xml:id="d1e152970">Symeon quondam conversus de
-                            <placeName key="stutzmann_himanis#324453" xml:id="d1e152972">Fonteneto</placeName>
+                            <placeName key="stutzmann_himanis#324453" xml:id="d1e152972" corresp="Fontenay (Côte-d'Or, Montbard)">Fonteneto</placeName>
                     </persName> et <persName key="d1e23098" xml:id="d1e152975">Pontius frater
-                        ejus</persName> guerpiverunt in manu <persName key="d1e23104" xml:id="d1e152978">fratris Hugonis de <placeName key="stutzmann_himanis#325251" xml:id="d1e152980">Curte Rabodi</placeName>
-                    </persName> quicquid querele habebant adversus domum <orgName key="stutzmann_himanis#282689" xml:id="d1e152983">Fonteneti</orgName> tam in tenemento
+                        ejus</persName> guerpiverunt in manu <persName key="d1e23104" xml:id="d1e152978">fratris Hugonis de <placeName key="stutzmann_himanis#325251" xml:id="d1e152980" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
+                    </persName> quicquid querele habebant adversus domum <orgName key="stutzmann_himanis#282689" xml:id="d1e152983" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> tam in tenemento
                     quam in mobili. Et coram testibus juraverunt quia deinceps nullam inquietationem
-                    super hoc facerent monasterio. S. <persName key="stutzmann_himanis#324588" xml:id="d1e152987">Henrici episcopi <placeName key="stutzmann_himanis#319548" xml:id="d1e152989">Eduensis</placeName>
+                    super hoc facerent monasterio. S. <persName key="stutzmann_himanis#324588" xml:id="d1e152987" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henrici episcopi <placeName key="stutzmann_himanis#319548" xml:id="d1e152989" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                     </persName>. S. <persName key="d1e23110" xml:id="d1e152992">Hugonis de
-                            <placeName key="stutzmann_himanis#325251" xml:id="d1e152994">Curte
+                            <placeName key="stutzmann_himanis#325251" xml:id="d1e152994" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
                             Rabodi</placeName>
                     </persName>. S. <persName key="d1e23116" xml:id="d1e152997">Galterii
                             <addName>Pelliparii</addName>
                     </persName>. S. <persName key="d1e23122" xml:id="d1e153002">Evrardi sororii
                         ejus</persName>. S. <persName key="d1e23129" xml:id="d1e153005">Duranni
                         filii <persName key="d1e23135" xml:id="d1e153007">Terrei</persName>
-                    </persName>. Actum apud <placeName key="stutzmann_himanis#324450" xml:id="d1e153010">Fanium</placeName> sabbato ante Pascha floridum anno Verbi incarnati <hi rend="smallcaps">m° c° lx° iii°</hi>.</p>
+                    </persName>. Actum apud <placeName key="stutzmann_himanis#324450" xml:id="d1e153010" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanium</placeName> sabbato ante Pascha floridum anno Verbi incarnati <hi rend="smallcaps">m° c° lx° iii°</hi>.</p>
             </body>
         </text>
     </TEI>

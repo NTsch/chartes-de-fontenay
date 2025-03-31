@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e243976">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e243976" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 274@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,16 +44,16 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e29339" xml:id="d1e166977">Martinus, <placeName key="stutzmann_himanis#322865" xml:id="d1e166979">
+                <p>Ego <persName key="d1e29339" xml:id="d1e166977">Martinus, <placeName key="stutzmann_himanis#322865" xml:id="d1e166979" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">
                             <sic>Flavineii</sic>
                         </placeName> archidiaconus</persName>, notum facio tam futuris quam
                     presentibus quod <persName key="d1e29345" xml:id="d1e166984">dominus Guido de
-                            <placeName key="stutzmann_himanis#324374" xml:id="d1e166986">Venerri</placeName>
+                            <placeName key="stutzmann_himanis#324374" xml:id="d1e166986" corresp="Venarey-les-Laumes,Venarey (Côte-d'Or, Montbard)">Venerri</placeName>
                     </persName> in presentia nostra constitutus dedit et in perpetuam elemosinam
-                    concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166989">Fonteneti</orgName> pro remedio anime sue et antecessorum suorum libere et
-                    absolute omnia que habebat in decimis de <placeName key="stutzmann_himanis#324458" xml:id="d1e166992">Grangiis</placeName> et de <placeName key="stutzmann_himanis#324459" xml:id="d1e166995">Grinione</placeName> tam bladi quam
+                    concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166989" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio anime sue et antecessorum suorum libere et
+                    absolute omnia que habebat in decimis de <placeName key="stutzmann_himanis#324458" xml:id="d1e166992" corresp="Granges (Les) (Côte-d'Or, Montbard)">Grangiis</placeName> et de <placeName key="stutzmann_himanis#324459" xml:id="d1e166995" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName> tam bladi quam
                     vini et tractus earumdem decimarum, hoc excepto quod de ipsis decimis unum
-                    modium vini dedit monacho et capellano de <placeName key="stutzmann_himanis#324459" xml:id="d1e166999">Grinione</placeName> annuo jure persolvendum. Dedit etiam
+                    modium vini dedit monacho et capellano de <placeName key="stutzmann_himanis#324459" xml:id="d1e166999" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName> annuo jure persolvendum. Dedit etiam
                     idem <persName key="d1e29351" xml:id="d1e167002">Guido</persName> jamdictis
                     fratribus et concessit quicquid adquirere poterunt in alia parte dictarum
                     decimarum que sunt de feodo suo. Hoc totum laudavit <persName key="d1e29357" xml:id="d1e167005">uxor sua Adelina</persName>, <persName key="d1e29364" xml:id="d1e167012">Huguo</persName> et <persName key="d1e29370" xml:id="d1e167019">Guido filii ipsius</persName>. Quod ut ratum sit et

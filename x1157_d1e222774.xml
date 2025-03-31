@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1157_d1e222774">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1157_d1e222774" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 28@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -48,46 +49,46 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324555" xml:id="d1e151963">Godefridus, Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e151965">Linguonensis</placeName> episcopus</persName>, dilectis fratribus
-                        <persName key="stutzmann_himanis#324660" xml:id="d1e151969">Arnaudo <orgName key="stutzmann_himanis#282689" xml:id="d1e151971">Fontenetensi</orgName>
+                    <persName key="stutzmann_himanis#324555" xml:id="d1e151963" corresp="Geoffroy de La Roche-Vanneau, abbé de Fontenay (1119-1126), évêque de Langres (1138-1163)">Godefridus, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e151965" corresp="Langres (Haute-Marne, Langres)">Linguonensis</placeName> episcopus</persName>, dilectis fratribus
+                        <persName key="stutzmann_himanis#324660" xml:id="d1e151969" corresp="Arnaud, abbé de Fontenay (1154-1163)">Arnaudo <orgName key="stutzmann_himanis#282689" xml:id="d1e151971" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensi</orgName>
                         abbati</persName> quique sub ejus cura domino Ihesu Christo serviunt.
                     Episcopalis officii ratio exigit paci nos ecclesiarum prospicere maxime vero
-                    monasteriorum quieti. Ideoque quod inter vestram <orgName key="stutzmann_himanis#324496" xml:id="d1e151975">Rubeique Montis convenit ecclesiam</orgName> nostro
+                    monasteriorum quieti. Ideoque quod inter vestram <orgName key="stutzmann_himanis#324496" xml:id="d1e151975" corresp="abbaye Notre-Dame de Rougemont">Rubeique Montis convenit ecclesiam</orgName> nostro
                     sigillo signatum testiumque firmatum subscriptione, per hanc vobis paginam
                     tradimus ut semel diligenti diffinitione determinatum, ratum decetero et
-                    indissolubile perseveret. Res igitur ita se habet : <persName key="d1e22426" xml:id="d1e151978">Margarita <orgName key="stutzmann_himanis#324496" xml:id="d1e151980">Rubei Montis</orgName> abbatissa</persName> per manum
+                    indissolubile perseveret. Res igitur ita se habet : <persName key="d1e22426" xml:id="d1e151978">Margarita <orgName key="stutzmann_himanis#324496" xml:id="d1e151980" corresp="abbaye Notre-Dame de Rougemont">Rubei Montis</orgName> abbatissa</persName> per manum
                     nostram generalemque sui assensum capituli vobis vestrisque in sancta
-                    propositione successoribus quecumque in territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e151984">Fanii</placeName> ex ecclesie sue
-                    jure possidebat <placeName key="stutzmann_himanis#325149" xml:id="d1e151987">molendinum
-                        scilicet de Colle</placeName> et cetera que sibi erant a finibus <placeName key="stutzmann_himanis#324475" xml:id="d1e151991">Marmannie</placeName> usque ad
-                        <placeName key="stutzmann_himanis#324451" xml:id="d1e151994">Flaciacum</placeName> et
-                    a <geogName xml:id="d1e151997">Branna fluvio</geogName> usque in <placeName key="stutzmann_himanis#324370" xml:id="d1e152000">Tullionis</placeName> fines tam
+                    propositione successoribus quecumque in territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e151984" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName> ex ecclesie sue
+                    jure possidebat <placeName key="stutzmann_himanis#325149" xml:id="d1e151987" corresp="molendino de Colle">molendinum
+                        scilicet de Colle</placeName> et cetera que sibi erant a finibus <placeName key="stutzmann_himanis#324475" xml:id="d1e151991" corresp="Marmagne (Côte-d'Or, Montbard)">Marmannie</placeName> usque ad
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e151994" corresp="Flacey (Côte-d'Or, Montbard)">Flaciacum</placeName> et
+                    a <geogName xml:id="d1e151997">Branna fluvio</geogName> usque in <placeName key="stutzmann_himanis#324370" xml:id="d1e152000" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> fines tam
                     plano quam bosco, sub annuo <num>v</num>
                     <hi rend="superscript">e</hi> solidorum mense martio reddendorum censu
-                    possidenda concessit. Retinuit sane in ipso <placeName key="stutzmann_himanis#324450" xml:id="d1e152009">Fanio</placeName> tria mansa donec aut eadem mansa absque
-                    habitatore remaneant aut certe reliqua quam prediximus <placeName key="stutzmann_himanis#324450" xml:id="d1e152012">Fanii</placeName> villa in verstra
+                    possidenda concessit. Retinuit sane in ipso <placeName key="stutzmann_himanis#324450" xml:id="d1e152009" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanio</placeName> tria mansa donec aut eadem mansa absque
+                    habitatore remaneant aut certe reliqua quam prediximus <placeName key="stutzmann_himanis#324450" xml:id="d1e152012" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName> villa in verstra
                     ex integro transeat ditionem. Huic itaque investiture sub die <num>xiii</num>°
                     kl. janua<hi rend="background(red)">ris</hi>, anno ab incarnatione Domini <hi rend="smallcaps">m° c° lvii°</hi>, <persName key="d1e22432" xml:id="d1e152024">abbatisse Margarete</persName> manum vestra <persName key="d1e22438" xml:id="d1e152028">domne abba Arnaude</persName> sub nostra
-                    totiusque capituli presentia <placeName key="stutzmann_himanis#324355" xml:id="d1e152031">Rubeo Monte</placeName> commisse. Testes affuerunt quos subnotavimus : ex
+                    totiusque capituli presentia <placeName key="stutzmann_himanis#324355" xml:id="d1e152031" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName> commisse. Testes affuerunt quos subnotavimus : ex
                     monachis quidem vestris <persName key="d1e22444" xml:id="d1e152034">frater Milo
                         de <placeName key="stutzmann_himanis#325034" xml:id="d1e152036">Tilo</placeName>
-                    </persName>, ex clericis autem <persName key="d1e22450" xml:id="d1e152039">Girardus de <placeName key="stutzmann_himanis#324917" xml:id="d1e152041">Monte
+                    </persName>, ex clericis autem <persName key="d1e22450" xml:id="d1e152039">Girardus de <placeName key="stutzmann_himanis#324917" xml:id="d1e152041" corresp="Montsaugeon (Côte-d'Or, Semur-en-Auxois)">Monte
                             Saugionis</placeName> noster super illius provincie parrochias
-                        archidiaconus</persName>, itemque alter ecclesie nostre <persName key="d1e22456" xml:id="d1e152045">archidiaconus Hugo de <placeName key="stutzmann_himanis#324997" xml:id="d1e152047">Ripparia</placeName>
+                        archidiaconus</persName>, itemque alter ecclesie nostre <persName key="d1e22456" xml:id="d1e152045">archidiaconus Hugo de <placeName key="stutzmann_himanis#324997" xml:id="d1e152047" corresp="Ripparia">Ripparia</placeName>
                     </persName>, <persName key="d1e22463" xml:id="d1e152050">Rainaldus quoque de
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e152052">Monte
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e152052" corresp="Montbard (Côte-d'Or, Montbard)">Monte
                             Barri</placeName> earumdem parrochiarum decanus</persName>. Sed et
-                        <persName key="d1e22469" xml:id="d1e152057">Rainaldus de <placeName key="stutzmann_himanis#324448" xml:id="d1e152059">
+                        <persName key="d1e22469" xml:id="d1e152057">Rainaldus de <placeName key="stutzmann_himanis#324448" xml:id="d1e152059" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>
                     </persName>, <persName key="d1e22475" xml:id="d1e152063">Miloque <addName>Malas
                             Manus</addName>
-                    </persName> et <persName key="d1e22481" xml:id="d1e152068">Arenbertus</persName>, <persName key="d1e22487" xml:id="d1e152071">Symeon</persName> etiam et <persName key="d1e22493" xml:id="d1e152074">Bellinus, hic noster ille <placeName key="stutzmann_himanis#324355" xml:id="d1e152076">Rubei Montis</placeName> capellanus</persName>. Ex
+                    </persName> et <persName key="d1e22481" xml:id="d1e152068">Arenbertus</persName>, <persName key="d1e22487" xml:id="d1e152071">Symeon</persName> etiam et <persName key="d1e22493" xml:id="d1e152074">Bellinus, hic noster ille <placeName key="stutzmann_himanis#324355" xml:id="d1e152076" corresp="Rougemont (Côte-d'Or, Montbard)">Rubei Montis</placeName> capellanus</persName>. Ex
                     laicis vero <persName key="d1e22500" xml:id="d1e152080">Petrus <addName>
                             <foreign>Aillerez</foreign>
                         </addName>
-                    </persName>, <persName key="d1e22506" xml:id="d1e152087">Bernardus de <placeName key="stutzmann_himanis#324403" xml:id="d1e152089">Barrensi</placeName>
+                    </persName>, <persName key="d1e22506" xml:id="d1e152087">Bernardus de <placeName key="stutzmann_himanis#324403" xml:id="d1e152089" corresp="Bar-sur-Seine (Aube, Bar-sur-Seine)">Barrensi</placeName>
                     </persName>, <persName key="d1e22512" xml:id="d1e152094">Arenbertus
                             <addName>Bucellus</addName>
                     </persName> et <persName key="d1e22518" xml:id="d1e152099">prepositus abbatisse

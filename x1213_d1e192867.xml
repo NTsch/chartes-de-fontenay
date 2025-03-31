@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e192867">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e192867" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 444</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -84,18 +85,18 @@
                     <date type="documentCreation" when="1213-12-31">1213</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0015.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0016.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0015.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0016.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e130806">Galterius, Dei gratia
-                                <orgName key="stutzmann_himanis#281272" xml:id="d1e130808">Eduensis</orgName>
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e130806" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                                <orgName key="stutzmann_himanis#281272" xml:id="d1e130808" corresp="évêché d'Autun">Eduensis</orgName>
                             episcopus</persName>, universis presentem paginam inspecturis notum
                         facimus quod <persName key="d1e11723" xml:id="d1e130812">Milo</persName>,
                             <persName key="d1e11730" xml:id="d1e130815">Andreas</persName> et
@@ -105,40 +106,40 @@
                                 <rdg wit="#B">Radulphus</rdg>
                             </app>
                         </persName>
-                        <lb n="2"/> fratres, filii <persName key="d1e11742" xml:id="d1e130826">Roberti majoris de <placeName key="stutzmann_himanis#324421" xml:id="d1e130828">Buxeio</placeName>
+                        <lb n="2" /> fratres, filii <persName key="d1e11742" xml:id="d1e130826">Roberti majoris de <placeName key="stutzmann_himanis#324421" xml:id="d1e130828" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxeio</placeName>
                         </persName>, in presentia nostra constituti laudaverunt et bona fide
-                        concesserunt pro remedio anime <lb n="3"/> sue et antecessorum suorum
-                        ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e130834">Fonteneti</orgName> omnes elemosinas quas pater suus <persName key="d1e11748" xml:id="d1e130837">Robertus</persName> et mater sua
+                        concesserunt pro remedio anime <lb n="3" /> sue et antecessorum suorum
+                        ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e130834" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> omnes elemosinas quas pater suus <persName key="d1e11748" xml:id="d1e130837">Robertus</persName> et mater sua
                             <persName key="d1e11754" xml:id="d1e130840">
                             <app>
                                 <lem wit="#A">Aalid</lem>
                                 <rdg wit="#B">Aaliz</rdg>
                             </app>
-                        </persName> de cujus capite <lb n="4"/> erant dicte ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130849">Fonteneti</orgName> fecerant dum
-                        viverent in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130853">Ampilleio</placeName>, et <num>
+                        </persName> de cujus capite <lb n="4" /> erant dicte ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130849" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> fecerant dum
+                        viverent in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130853" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampilleio</placeName>, et <num>
                             <app>
                                 <lem wit="#A">quindecim</lem>
                                 <rdg wit="#B">xv</rdg>
                             </app>
-                        </num> denarios quod ipsi <orgName key="stutzmann_himanis#282689" xml:id="d1e130863">Fonten<add>eten<lb n="5" break="no"/>ses</add>
+                        </num> denarios quod ipsi <orgName key="stutzmann_himanis#282689" xml:id="d1e130863" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten<add>eten<lb n="5" break="no" />ses</add>
                         </orgName> annuatim persolvere tenebantur eisdem de terra juxta stagnum de
-                            <placeName key="stutzmann_himanis#324449" xml:id="d1e130870">
+                            <placeName key="stutzmann_himanis#324449" xml:id="d1e130870" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Estormer</foreign>
-                        </placeName>. Tenentur etiam dicti fratres de <placeName key="stutzmann_himanis#324421" xml:id="d1e130874">Buxeio</placeName> annuatim
-                        persolvere <lb n="6"/> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130880">Fonteneti</orgName>
+                        </placeName>. Tenentur etiam dicti fratres de <placeName key="stutzmann_himanis#324421" xml:id="d1e130874" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxeio</placeName> annuatim
+                        persolvere <lb n="6" /> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130880" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         <num>viii</num> denarios censuales quos <persName key="d1e11760" xml:id="d1e130885">Girardus cognomento <persName key="d1e11767" xml:id="d1e130887">
                                 <foreign>Choe</foreign>
                             </persName>
                         </persName> in elemosinam <app>
                             <lem wit="#A">dedit</lem>
                             <rdg wit="#B">dederat</rdg>
-                        </app> superius memorate ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130897">Fonte<lb n="7" break="no"/>neti</orgName>. Et ut ista
+                        </app> superius memorate ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130897" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonte<lb n="7" break="no" />neti</orgName>. Et ut ista
                         majorem habeant firmitatem, ad petitionem fratrum supradictorum, <persName key="d1e11773" xml:id="d1e130902">Milonis</persName>, <persName key="d1e11779" xml:id="d1e130906">Andree</persName> et <persName key="d1e11785" xml:id="d1e130909">
                             <app>
                                 <lem wit="#A">Radulfi</lem>
                                 <rdg wit="#B">Radulphi</rdg>
                             </app>
-                        </persName>, presentem pa<lb n="8" break="no"/>ginam sigilli nostri munimine
+                        </persName>, presentem pa<lb n="8" break="no" />ginam sigilli nostri munimine
                         fecimus roborari. Actum anno ab incarnatione Domini <app>
                             <lem wit="#A">millesimo ducentesimo terciodecimo</lem>
                             <rdg wit="#B">m° cc° xiii°</rdg>

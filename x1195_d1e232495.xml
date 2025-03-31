@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232495">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1195_d1e232495" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 142@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -40,12 +41,12 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e159014">
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e159014" corresp="Eudes, archiprêtre de Touillon (1173-1200)">
                         <app>
                             <lem>O.</lem>
                             <rdg wit="#C">Odo</rdg>
-                        </app>, archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159021">Tulionis</placeName>
-                    </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26262" xml:id="d1e159024">Tecelinus de <placeName key="stutzmann_himanis#324334" xml:id="d1e159026">
+                        </app>, archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159021" corresp="Touillon (Côte-d'Or, Montbard)">Tulionis</placeName>
+                    </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26262" xml:id="d1e159024">Tecelinus de <placeName key="stutzmann_himanis#324334" xml:id="d1e159026" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">
                             <app>
                                 <lem>
                                     <foreign>Nojent</foreign>
@@ -62,7 +63,7 @@
                     <app>
                         <lem>quitaverunt</lem>
                         <rdg wit="#C">quittaverunt</rdg>
-                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159046">Fonteneti</orgName> in manu <persName key="d1e26274" xml:id="d1e159049">
+                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159046" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in manu <persName key="d1e26274" xml:id="d1e159049">
                         <app>
                             <lem>H.</lem>
                             <rdg wit="#C">Huberti</rdg>
@@ -76,7 +77,7 @@
                     <app>
                         <lem>calumpniabantur</lem>
                         <rdg wit="#C">calumniabantur</rdg>
-                    </app> ei apud <placeName key="stutzmann_himanis#324450" xml:id="d1e159069">
+                    </app> ei apud <placeName key="stutzmann_himanis#324450" xml:id="d1e159069" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Fanium</lem>
                             <rdg wit="#C">Fanum</rdg>
@@ -84,17 +85,17 @@
                     </placeName> ex dono <persName key="d1e26280" xml:id="d1e159076">Girardi
                             <addName>Britonis</addName>
                     </persName>, hoc tantum modo excepto quod duo homines quos eadem ecclesia apud
-                        <placeName key="stutzmann_himanis#324450" xml:id="d1e159081">
+                        <placeName key="stutzmann_himanis#324450" xml:id="d1e159081" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Fanium</lem>
                             <rdg wit="#C">Fanum</rdg>
                         </app>
                     </placeName> possidebat predicto <persName key="d1e26286" xml:id="d1e159088">Tecelino</persName> concessi sunt possidendi tantum in vita sua et unum
-                    mansum similiter tantum in vita sua. Hujus rei testes sunt <persName key="d1e26293" xml:id="d1e159092">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159094">Grinione</placeName>
-                    </persName>, <persName key="d1e26299" xml:id="d1e159097">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e159099">
+                    mansum similiter tantum in vita sua. Hujus rei testes sunt <persName key="d1e26293" xml:id="d1e159092">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159094" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName>, <persName key="d1e26299" xml:id="d1e159097">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e159099" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e26305" xml:id="d1e159103">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159105">Quinciaco</placeName>
+                    </persName>, <persName key="d1e26305" xml:id="d1e159103">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159105" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinciaco</placeName>
                     </persName> monachi, <persName key="d1e26311" xml:id="d1e159108">
                         <app>
                             <lem>Symon</lem>
@@ -102,7 +103,7 @@
                         </app>
                     </persName> et <persName key="d1e26317" xml:id="d1e159115">Sauvegius</persName>
                     conversi, <persName key="d1e26323" xml:id="d1e159118">Hugo presbiter de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e159120">Buxi</placeName>
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e159120" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxi</placeName>
                     </persName>. Quod totum ut ratum habeatur in posterum sigilli mei impressione
                     confirmavi, anno ab incarnatione Domini <app>
                         <lem>

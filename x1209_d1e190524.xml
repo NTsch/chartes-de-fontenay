@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e190524">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e190524" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 257</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -87,89 +88,89 @@
                     <date type="documentCreation" when="1209-12-31">1209</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_118_0010.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_118_0011.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_118_0010.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_118_0011.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                <p>Notum sit omnibus tam futuris quam presentibus quod <persName key="d1e11270" xml:id="d1e129192">Matheus, dominus de <placeName key="stutzmann_himanis#324448" xml:id="d1e129194">
+                <p>Notum sit omnibus tam futuris quam presentibus quod <persName key="d1e11270" xml:id="d1e129192">Matheus, dominus de <placeName key="stutzmann_himanis#324448" xml:id="d1e129194" corresp="Étais (Côte-d'Or, Montbard)">
                                 <foreign>Estez</foreign>
                             </placeName>
-                        </persName>, laude et assensu <persName key="d1e11276" xml:id="d1e129198">uxoris sue Adeline</persName> et filiarum <lb n="2"/> suarum <persName key="d1e11283" xml:id="d1e129203">Aglantine</persName>, <persName key="d1e11289" xml:id="d1e129206">Adalaydis</persName> et <persName key="d1e11295" xml:id="d1e129210">Emengardis</persName> dedit et in
+                        </persName>, laude et assensu <persName key="d1e11276" xml:id="d1e129198">uxoris sue Adeline</persName> et filiarum <lb n="2" /> suarum <persName key="d1e11283" xml:id="d1e129203">Aglantine</persName>, <persName key="d1e11289" xml:id="d1e129206">Adalaydis</persName> et <persName key="d1e11295" xml:id="d1e129210">Emengardis</persName> dedit et in
                         perpetuam elemosinam concessit ecclesie et fratribus Fonteneti, pro remedio
-                            <lb n="3"/> anime sue et antecessorum suorum, in omni nemore suo per
-                        totum finagium de <placeName key="stutzmann_himanis#324448" xml:id="d1e129215">
+                            <lb n="3" /> anime sue et antecessorum suorum, in omni nemore suo per
+                        totum finagium de <placeName key="stutzmann_himanis#324448" xml:id="d1e129215" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
-                        </placeName> usuarium lignorum omnimodorum, id est tam vivorum <lb n="4"/>
+                        </placeName> usuarium lignorum omnimodorum, id est tam vivorum <lb n="4" />
                         quam mortuorum, tam viridum quam siccorum, ad omnes usus necessarios, preter
-                        dare et vendere et exceptis locis secabilibus, id est ubi fena <lb n="5"/>
+                        dare et vendere et exceptis locis secabilibus, id est ubi fena <lb n="5" />
                         de consuetudine secantur, in quibus quamdiu secabilia erunt, lignorum
-                        tantummodo siccorum et mortuorum predicta ecclesia usuarium <lb n="6"/>
+                        tantummodo siccorum et mortuorum predicta ecclesia usuarium <lb n="6" />
                         habebit. Si vero secabilia esse desierint, in illis sicut in reliquo nemore
                         plenarium accipiet usuarium. Et si forte in illis <supplied>locis</supplied>
                         <note>Restitué d'après l’acte 15 H 118 n°3</note>
-                        <lb n="7"/> quamdiu secabilia erunt, aliquis de <orgName key="stutzmann_himanis#282689" xml:id="d1e129232">Fontenetensibus</orgName> lignum
+                        <lb n="7" /> quamdiu secabilia erunt, aliquis de <orgName key="stutzmann_himanis#282689" xml:id="d1e129232" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> lignum
                         aliquod vivum inciderit, sine emendatione forisfacti satisfacio fiet,
-                        tantummodo <lb n="8"/> ad valentiam ipsius ligni. Et similiter si in pratis
+                        tantummodo <lb n="8" /> ad valentiam ipsius ligni. Et similiter si in pratis
                         vel satis dampnum aliquod factum fuerit, sine emendatione forisfacti
-                        satisfatio fiet, <lb n="9"/> tantummodo ad valentiam dampni illati.
-                        Concessit etiam idem <persName key="d1e11301" xml:id="d1e129239">Matheus</persName> supradictis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e129243">Fonteneto</orgName> ut porci
-                        eorum a festo Sancti Remigii <lb n="10"/> usque ad exitum marcii per omnia
+                        satisfatio fiet, <lb n="9" /> tantummodo ad valentiam dampni illati.
+                        Concessit etiam idem <persName key="d1e11301" xml:id="d1e129239">Matheus</persName> supradictis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e129243" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> ut porci
+                        eorum a festo Sancti Remigii <lb n="10" /> usque ad exitum marcii per omnia
                         nemora sua discurrerent, tam pro pastura quam <subst>
                             <del rend="remploi dans le mot suivant">pa</del>
                             <add>pro</add>
                         </subst> pastione<note>Le copiste avait initialement omis « pro », de sorte
                             qu’entre le « p » barré courbe et le « p » de « pastione » se trouve un
                             élément de la lettre « a », dont la hampe est utilisée par le second
-                            « p ».</note> absque ulla occasione et dampni reclamati<lb n="11" break="no"/>one quantum spectat ad fossionem et terre subversionem in
+                            « p ».</note> absque ulla occasione et dampni reclamati<lb n="11" break="no" />one quantum spectat ad fossionem et terre subversionem in
                         illis locis in quibus fena solent secari. Concessit etiam eis succisi
-                        nemoris <lb n="12"/> et de exartibus corticem et ad omnia animalia sua
+                        nemoris <lb n="12" /> et de exartibus corticem et ad omnia animalia sua
                         usuarium in pasturis et pastionem porcis in finagiis duarum villarum de
-                            <placeName key="stutzmann_himanis#324348" xml:id="d1e129262">Puteis</placeName> et
-                        de <placeName key="stutzmann_himanis#324448" xml:id="d1e129265">
+                            <placeName key="stutzmann_himanis#324348" xml:id="d1e129262" corresp="Puits (Côte-d'Or, Châtillon-sur-Seine)">Puteis</placeName> et
+                        de <placeName key="stutzmann_himanis#324448" xml:id="d1e129265" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
-                        </placeName>, <lb n="13"/> tali condicione quod si animalia eorum aliquod
+                        </placeName>, <lb n="13" /> tali condicione quod si animalia eorum aliquod
                         dampnum in pratis vel bladis fecerint, dampnum solummodo sine aliqua
-                        emendatione restituent ; si vero usque ad <lb n="14"/> festum Omnium
+                        emendatione restituent ; si vero usque ad <lb n="14" /> festum Omnium
                         sanctorum dampnum factum fuerit ab animalibus, nichil inde restituetur. Et
-                        sciendum quod <orgName key="stutzmann_himanis#282689" xml:id="d1e129273">Fontenetenses</orgName> nulla animalia nisi <lb n="15"/> sua in easdem
+                        sciendum quod <orgName key="stutzmann_himanis#282689" xml:id="d1e129273" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> nulla animalia nisi <lb n="15" /> sua in easdem
                         pasturas et pastiones adducent, nec ipse <persName key="d1e11307" xml:id="d1e129279">Matheus</persName> eas alicui vendere vel alios
-                        alicujus ordinis introducere poterit, nisi <lb n="16"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e129283">Fontenetenses</orgName>.
-                        Dedit etiam supradictus <persName key="d1e11313" xml:id="d1e129286">Matheus</persName> jamdictis fratribus duos campos apud <placeName key="stutzmann_himanis#324334" xml:id="d1e129289">Nogentum</placeName> : unum ex
-                        una parte aque, et alium <lb n="17"/> ex alia parte, et <placeName key="stutzmann_himanis#325213" xml:id="d1e129295">terram Brutini</placeName> in
-                        campo de <placeName key="stutzmann_himanis#325253" xml:id="d1e129298">
+                        alicujus ordinis introducere poterit, nisi <lb n="16" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e129283" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>.
+                        Dedit etiam supradictus <persName key="d1e11313" xml:id="d1e129286">Matheus</persName> jamdictis fratribus duos campos apud <placeName key="stutzmann_himanis#324334" xml:id="d1e129289" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">Nogentum</placeName> : unum ex
+                        una parte aque, et alium <lb n="17" /> ex alia parte, et <placeName key="stutzmann_himanis#325213" xml:id="d1e129295" corresp="terram Brutini">terram Brutini</placeName> in
+                        campo de <placeName key="stutzmann_himanis#325253" xml:id="d1e129298" corresp="Correson">
                             <foreign>Cortreson</foreign>
                         </placeName>. Item dedit eis terram que dicitur <q>
-                            <placeName key="stutzmann_himanis#325280" xml:id="d1e129303">Foresta</placeName>
-                        </q>, sitam super abbatiam <placeName key="stutzmann_himanis#324453" xml:id="d1e129306">Fonteneti</placeName> in qua ha<lb n="18" break="no"/>bebat duas partes et monachi terciam. Dedit etiam eis terram de <placeName key="stutzmann_himanis#324924" xml:id="d1e129311">
+                            <placeName key="stutzmann_himanis#325280" xml:id="d1e129303" corresp="Foresta">Foresta</placeName>
+                        </q>, sitam super abbatiam <placeName key="stutzmann_himanis#324453" xml:id="d1e129306" corresp="Fontenay (Côte-d'Or, Montbard)">Fonteneti</placeName> in qua ha<lb n="18" break="no" />bebat duas partes et monachi terciam. Dedit etiam eis terram de <placeName key="stutzmann_himanis#324924" xml:id="d1e129311" corresp="Juvance">
                             <unclear reason="Deux premières                                 lettres effacées par une pliure ancienne">Juvance</unclear>
                         </placeName> que dicitur <q>
-                            <placeName key="stutzmann_himanis#325281" xml:id="d1e129317">Foresta sancti
+                            <placeName key="stutzmann_himanis#325281" xml:id="d1e129317" corresp="Foresta sancti Petri">Foresta sancti
                                 Petri</placeName>
-                        </q> et duos solidos censuales quos mona<lb n="19" break="no"/>chi ei
+                        </q> et duos solidos censuales quos mona<lb n="19" break="no" />chi ei
                         debebant de ipsis duabus forestis. Unam quoque vineam dedit eis apud
-                            <placeName key="stutzmann_himanis#324406" xml:id="d1e129322">Belnam</placeName>
-                        quam ipse plantaverat in finagio de <placeName key="stutzmann_himanis#324345" xml:id="d1e129325">
+                            <placeName key="stutzmann_himanis#324406" xml:id="d1e129322" corresp="Beaune (Côte-d'Or)">Belnam</placeName>
+                        quam ipse plantaverat in finagio de <placeName key="stutzmann_himanis#324345" xml:id="d1e129325" corresp="Pommard (Côte-d'Or, Ladoix-Serrigny)">
                             <foreign>Pomart</foreign>
-                        </placeName> et <lb n="20"/> aliam vineam apud <placeName key="stutzmann_himanis#324475" xml:id="d1e129331">Marmanniam</placeName> ad opus
-                        lampadis investiario. Concessit denique eis apud <placeName key="stutzmann_himanis#325060" xml:id="d1e129335">Villenas</placeName> usuarium in
-                        pasturis et pastionem <lb n="21"/> porcis et ad rameias faciendas et omnem
-                        aasantiam pastoribus in nemoribus, et <placeName key="stutzmann_himanis#325214" xml:id="d1e129340">terram Seguini</placeName> apud <placeName key="stutzmann_himanis#324916" xml:id="d1e129343">Corbeton</placeName> preter
-                        ochias. Et <lb n="22"/> pro his omnibus tenentur <orgName key="stutzmann_himanis#282689" xml:id="d1e129348">Fontenetenses</orgName> ipsi
+                        </placeName> et <lb n="20" /> aliam vineam apud <placeName key="stutzmann_himanis#324475" xml:id="d1e129331" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanniam</placeName> ad opus
+                        lampadis investiario. Concessit denique eis apud <placeName key="stutzmann_himanis#325060" xml:id="d1e129335" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenas</placeName> usuarium in
+                        pasturis et pastionem <lb n="21" /> porcis et ad rameias faciendas et omnem
+                        aasantiam pastoribus in nemoribus, et <placeName key="stutzmann_himanis#325214" xml:id="d1e129340" corresp="terram Seguini">terram Seguini</placeName> apud <placeName key="stutzmann_himanis#324916" xml:id="d1e129343" corresp="Corbeton (Côte-d'Or, Montbard)">Corbeton</placeName> preter
+                        ochias. Et <lb n="22" /> pro his omnibus tenentur <orgName key="stutzmann_himanis#282689" xml:id="d1e129348" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> ipsi
                             <persName key="d1e11320" xml:id="d1e129352">Matheo</persName> et
                             <persName key="d1e11326" xml:id="d1e129355">Adeline, uxori
-                            ejus</persName>, et eorum heredibus in suo cimiterio exhibere sepultu<lb n="23" break="no"/>ram et in anniversario <persName key="d1e11332" xml:id="d1e129360">Mathei</persName> conventui procurationem. Ut autem
-                        hoc totum firmum permaneret et ratum in posterum, <persName key="d1e11338" xml:id="d1e129363">dominus <lb n="24"/> Lugdunensis</persName> et
+                            ejus</persName>, et eorum heredibus in suo cimiterio exhibere sepultu<lb n="23" break="no" />ram et in anniversario <persName key="d1e11332" xml:id="d1e129360">Mathei</persName> conventui procurationem. Ut autem
+                        hoc totum firmum permaneret et ratum in posterum, <persName key="d1e11338" xml:id="d1e129363">dominus <lb n="24" /> Lugdunensis</persName> et
                             <persName key="d1e11344" xml:id="d1e129368">dominus Eduensis</persName>,
                             <persName key="d1e11350" xml:id="d1e129372">dominus quoque
-                            Linguonensis</persName> et <persName key="stutzmann_himanis#324624" xml:id="d1e129375">Odo, dux Burgundie</persName>, sigillis suis
-                        presentem paginam confirmaverunt. <lb n="25"/> Actum est hoc anno ab
+                            Linguonensis</persName> et <persName key="stutzmann_himanis#324624" xml:id="d1e129375" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux Burgundie</persName>, sigillis suis
+                        presentem paginam confirmaverunt. <lb n="25" /> Actum est hoc anno ab
                         incarnatione Domini millesimo ducentesimo nono.</p>
                 
             </body>

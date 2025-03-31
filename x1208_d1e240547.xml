@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240547">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e240547" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 236@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -38,10 +39,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e164593">Galterius, Dei gratia
-                            <orgName key="stutzmann_himanis#281272" xml:id="d1e164595">Eduensis</orgName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e164593" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                            <orgName key="stutzmann_himanis#281272" xml:id="d1e164595" corresp="évêché d'Autun">Eduensis</orgName>
                         episcopus</persName>, notum facimus universis præsentes litteras inspecturis
-                    quod <persName key="d1e28556" xml:id="d1e164599">domina Gilla, relicta <persName key="d1e28562" xml:id="d1e164601">domini Odonis militis de <placeName key="stutzmann_himanis#324443" xml:id="d1e164603">
+                    quod <persName key="d1e28556" xml:id="d1e164599">domina Gilla, relicta <persName key="d1e28562" xml:id="d1e164601">domini Odonis militis de <placeName key="stutzmann_himanis#324443" xml:id="d1e164603" corresp="Épiry (Nièvre, Corbigny)">
                                 <foreign>Esperie</foreign>
                             </placeName>
                         </persName>
@@ -49,27 +50,27 @@
                         sua</persName>, et <persName key="d1e28574" xml:id="d1e164612">Odo ejusdem
                             <persName key="d1e28580" xml:id="d1e164614">Emengardis frater</persName>
                     </persName>, laude et assensu <persName key="d1e28587" xml:id="d1e164617">domini
-                        Galteri de <placeName key="stutzmann_himanis#324487" xml:id="d1e164619">Monte
+                        Galteri de <placeName key="stutzmann_himanis#324487" xml:id="d1e164619" corresp="Montbard (Côte-d'Or, Montbard)">Monte
                             Barro</placeName>, <persName key="d1e28593" xml:id="d1e164622">ejusdem
                             Emengardis</persName> mariti</persName>, dederunt et concesserunt
-                    ecclesiæ et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164627">Fonteneti</orgName> in perpetuam eleemosinam libere et absolute hominem
+                    ecclesiæ et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164627" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpetuam eleemosinam libere et absolute hominem
                     suum scilicet <persName key="d1e28599" xml:id="d1e164630">Odonem
-                            <addName>Pelliparum</addName> de <placeName key="stutzmann_himanis#324475" xml:id="d1e164639">Marmenia</placeName>
+                            <addName>Pelliparum</addName> de <placeName key="stutzmann_himanis#324475" xml:id="d1e164639" corresp="Marmagne (Côte-d'Or, Montbard)">Marmenia</placeName>
                     </persName>, cum heredibus suis et omnia tenementa sua, scilicet holchiam retro
                     domum <persName key="d1e28605" xml:id="d1e164646">filiorum domini <persName key="d1e28611" xml:id="d1e164648">Thecelini</persName>
-                    </persName>, p… serum subtus <placeName key="stutzmann_himanis#325221" xml:id="d1e164656">vadum Sancti Cleri </placeName>, quandam <hi rend="background(red)">petiam</hi> terræ sitam in lavin<hi rend="background(red)">iis</hi> juxta
+                    </persName>, p… serum subtus <placeName key="stutzmann_himanis#325221" xml:id="d1e164656" corresp="vadum Sancti Cleri">vadum Sancti Cleri </placeName>, quandam <hi rend="background(red)">petiam</hi> terræ sitam in lavin<hi rend="background(red)">iis</hi> juxta
                     viveriam de Braanem et aliam petiam terræ in cumba de Tullione. Dictus autem Odo
                     recognovit quod non erat sub tutela matris suæ et si esset, coram <hi rend="background(red)">predentibus</hi>
-                    <hi rend="background(red)">vicis</hi> assensu et voluntate <hi rend="background(red)">…</hi> dictæ matris se amoris <hi rend="background(red)">… laudaver…</hi> dominus <persName key="d1e28617" xml:id="d1e164679">Milo de <placeName key="stutzmann_himanis#325015" xml:id="d1e164681">Sancto Florentino</placeName>
+                    <hi rend="background(red)">vicis</hi> assensu et voluntate <hi rend="background(red)">…</hi> dictæ matris se amoris <hi rend="background(red)">… laudaver…</hi> dominus <persName key="d1e28617" xml:id="d1e164679">Milo de <placeName key="stutzmann_himanis#325015" xml:id="d1e164681" corresp="Sancto Florentino">Sancto Florentino</placeName>
                     </persName> de cujus feodo erat et <persName key="d1e28624" xml:id="d1e164684">Aalidis uxor sua</persName>, de cujus capite dictum feodum erat, et
                         <persName key="d1e28630" xml:id="d1e164687">Simon <persName key="d1e28636" xml:id="d1e164689">supradicti Galteri</persName> filius</persName>, et
                         <persName key="d1e28642" xml:id="d1e164693">Maria</persName>, et <persName key="d1e28648" xml:id="d1e164696">Aaladis</persName> filiæ dictorum
                         <persName key="d1e28654" xml:id="d1e164700">Galteri</persName> et <persName key="d1e28661" xml:id="d1e164703">Emengardis</persName>, et <persName key="d1e28667" xml:id="d1e164706">Rainaudus maritus <persName key="d1e28673" xml:id="d1e164708">supradictæ Mariæ</persName>
-                    </persName> in præsentia domini <persName key="d1e28679" xml:id="d1e164711">Rainaldi de <placeName key="stutzmann_himanis#324370" xml:id="d1e164713">Tullione</placeName>
+                    </persName> in præsentia domini <persName key="d1e28679" xml:id="d1e164711">Rainaldi de <placeName key="stutzmann_himanis#324370" xml:id="d1e164713" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
                     </persName>, et domini <persName key="d1e28685" xml:id="d1e164716">Roberti
-                        capellani de <placeName key="stutzmann_himanis#325264" xml:id="d1e164718">Curcellis</placeName>
+                        capellani de <placeName key="stutzmann_himanis#325264" xml:id="d1e164718" corresp="Curcellarum">Curcellis</placeName>
                     </persName>, et <persName key="d1e28691" xml:id="d1e164721">Radulphi majoris de
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e164723">Tullione</placeName>
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e164723" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
                     </persName>, qui de mandato nostro propter hoc fuerant missi. Quod totum ut
                     ratum habeatur in posterum, sigilli nostri munimine roboravimus. Actum est hoc
                     anno gratiæ millesimo ducentesimo octavo.</p>

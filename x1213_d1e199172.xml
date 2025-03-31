@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e199172">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e199172" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1355 + Access n° 1356</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -128,29 +129,29 @@
                     <date type="documentCreation" when="1213-12-31">1213</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_163_0026.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_163_0027.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_163_0028.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_163_0029.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0026.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0027.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0028.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0029.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                                         <p>Ego <persName key="d1e12775" xml:id="d1e135007">Martinus, archidiaconus
-                                <orgName key="stutzmann_himanis#284217" xml:id="d1e135009">Flaviniaci</orgName>
-                        </persName>, notum facio omnibus presentes litteras inspecturis <lb n="2"/>
-                        quod <persName key="d1e12781" xml:id="d1e135014">Girardus de <placeName key="stutzmann_himanis#324455" xml:id="d1e135016">Fraxino</placeName>
-                        </persName> et <persName key="d1e12787" xml:id="d1e135019">Paganus</persName>, frater ejus, apud grangiam que <placeName key="stutzmann_himanis#324489" xml:id="d1e135022">Morvilla</placeName> dicitur, in
-                        presentia <lb n="3"/> mea constituti siquid juris habebant in quodam prato
-                        super quo querelam movebant <orgName key="stutzmann_himanis#282689" xml:id="d1e135028">Fonte<lb n="4" break="no"/>netensibus</orgName> in manu <persName key="d1e12793" xml:id="d1e135033">Willelmi abbatis <orgName key="stutzmann_himanis#282689" xml:id="d1e135035">Fonteneti</orgName>
-                        </persName> precise et absolute dictis <orgName key="stutzmann_himanis#282689" xml:id="d1e135038">Fontenetensibus</orgName> quitaverunt. <lb n="5"/>
-                        Quod pratum sicut predicti <persName key="d1e12799" xml:id="d1e135043">Girardus</persName> et <persName key="d1e12806" xml:id="d1e135047">Paganus</persName> confitebantur ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e135050">Fontentensis</orgName> per quinquaginta annos et <lb n="6"/> amplius possederat pacifice et quiete. In cujus rei testimonium
-                        ad petitionem partium presenti scripto <lb n="7"/> sigilli mei apposui
+                                <orgName key="stutzmann_himanis#284217" xml:id="d1e135009" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniaci</orgName>
+                        </persName>, notum facio omnibus presentes litteras inspecturis <lb n="2" />
+                        quod <persName key="d1e12781" xml:id="d1e135014">Girardus de <placeName key="stutzmann_himanis#324455" xml:id="d1e135016" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
+                        </persName> et <persName key="d1e12787" xml:id="d1e135019">Paganus</persName>, frater ejus, apud grangiam que <placeName key="stutzmann_himanis#324489" xml:id="d1e135022" corresp="Morville (Côte-d'Or, Montbard)">Morvilla</placeName> dicitur, in
+                        presentia <lb n="3" /> mea constituti siquid juris habebant in quodam prato
+                        super quo querelam movebant <orgName key="stutzmann_himanis#282689" xml:id="d1e135028" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonte<lb n="4" break="no" />netensibus</orgName> in manu <persName key="d1e12793" xml:id="d1e135033">Willelmi abbatis <orgName key="stutzmann_himanis#282689" xml:id="d1e135035" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        </persName> precise et absolute dictis <orgName key="stutzmann_himanis#282689" xml:id="d1e135038" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> quitaverunt. <lb n="5" />
+                        Quod pratum sicut predicti <persName key="d1e12799" xml:id="d1e135043">Girardus</persName> et <persName key="d1e12806" xml:id="d1e135047">Paganus</persName> confitebantur ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e135050" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontentensis</orgName> per quinquaginta annos et <lb n="6" /> amplius possederat pacifice et quiete. In cujus rei testimonium
+                        ad petitionem partium presenti scripto <lb n="7" /> sigilli mei apposui
                         firmamentum. Actum anno gratie millesimo ducentesimo terciodecimo.</p>
                 
             </body>

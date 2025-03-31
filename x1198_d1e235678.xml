@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e235678">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1198_d1e235678" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 172@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,29 +38,29 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161202">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161204">Eduensis</placeName>
-                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27193" xml:id="d1e161208">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161210">Cerilliaco</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161202" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161204" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27193" xml:id="d1e161208">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161210" corresp="Cérilly (Côte-d'Or, Châtillon-sur-Seine)">Cerilliaco</placeName>
                     </persName> et <persName key="d1e27199" xml:id="d1e161213">Petrus frater
                         ejus</persName> et <persName key="d1e27205" xml:id="d1e161216">Edelina
-                        eorumdem soror</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161219">Fonteneti</orgName> in perpetuam elemosinam quicquid
-                    juris habebant per totam vallem a <placeName key="stutzmann_himanis#325226" xml:id="d1e161223">via <placeName key="stutzmann_himanis#324356" xml:id="d1e161225">Saigniaci</placeName> que appellatur Waudina</placeName> que ducit in
-                    montem usque ad <placeName key="stutzmann_himanis#324450" xml:id="d1e161229">Fanum</placeName>. Hujus rei testes sunt <persName key="d1e27211" xml:id="d1e161232">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161234">Cerilliaco</placeName>, monachus de <orgName key="stutzmann_himanis#284243" xml:id="d1e161237">Pulteriis</orgName>
-                    </persName>, <persName key="d1e27218" xml:id="d1e161240">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e161242">
+                        eorumdem soror</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161219" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpetuam elemosinam quicquid
+                    juris habebant per totam vallem a <placeName key="stutzmann_himanis#325226" xml:id="d1e161223" corresp="via Saigniaci que appellatur Waudina">via <placeName key="stutzmann_himanis#324356" xml:id="d1e161225" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaci</placeName> que appellatur Waudina</placeName> que ducit in
+                    montem usque ad <placeName key="stutzmann_himanis#324450" xml:id="d1e161229" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanum</placeName>. Hujus rei testes sunt <persName key="d1e27211" xml:id="d1e161232">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161234" corresp="Cérilly (Côte-d'Or, Châtillon-sur-Seine)">Cerilliaco</placeName>, monachus de <orgName key="stutzmann_himanis#284243" xml:id="d1e161237" corresp="abbaye Saint-Pierre-Saint-Paul de Pothières (838 -)">Pulteriis</orgName>
+                    </persName>, <persName key="d1e27218" xml:id="d1e161240">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e161242" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Bussi</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e27224" xml:id="d1e161246">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161248">Turre</placeName>
-                    </persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161251">Fonteneti</orgName>, <persName key="d1e27230" xml:id="d1e161255">Johannes
-                        tunc magister <placeName key="stutzmann_himanis#324451" xml:id="d1e161257">Flaciaci</placeName>
+                    </persName>, <persName key="d1e27224" xml:id="d1e161246">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161248" corresp="La Tour de Rougemont">Turre</placeName>
+                    </persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161251" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, <persName key="d1e27230" xml:id="d1e161255">Johannes
+                        tunc magister <placeName key="stutzmann_himanis#324451" xml:id="d1e161257" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>
                     </persName>, <persName key="d1e27236" xml:id="d1e161260">Hugo capellanus de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161262">
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161262" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
                     </persName>, <persName key="d1e27242" xml:id="d1e161266">Robertus major de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161268">
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161268" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e27248" xml:id="d1e161272">Folcoinus de <placeName key="stutzmann_himanis#324421" xml:id="d1e161274">
+                    </persName>, <persName key="d1e27248" xml:id="d1e161272">Folcoinus de <placeName key="stutzmann_himanis#324421" xml:id="d1e161274" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
                     </persName>. Quod totum ut ratum sit in perpetuum sigillo meo roboravi. Anno

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1173_d1e225914">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1173_d1e225914" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 64@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,64 +43,64 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324645" xml:id="d1e154160">Stephanus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e154162">Eduensis</placeName>
-                        episcopus</persName>, et <persName key="d1e23455" xml:id="d1e154166">Galterius, eadem gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e154168">Lingonensis</placeName>
+                    <persName key="stutzmann_himanis#324645" xml:id="d1e154160" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e154162" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, et <persName key="d1e23455" xml:id="d1e154166">Galterius, eadem gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e154168" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
                     </persName>, presentibus et futuris sigillorum <app>
                         <lem>nostrorum<witDetail wit="#B">écrit dans l’interligne </witDetail></lem>
-                    </app> impressione cartam presentem signantes notificamus cunctis quod <persName key="d1e23462" xml:id="d1e154176">Osmundus <placeName key="stutzmann_himanis#324355" xml:id="d1e154178">Rubei Montis</placeName>
+                    </app> impressione cartam presentem signantes notificamus cunctis quod <persName key="d1e23462" xml:id="d1e154176">Osmundus <placeName key="stutzmann_himanis#324355" xml:id="d1e154178" corresp="Rougemont (Côte-d'Or, Montbard)">Rubei Montis</placeName>
                     </persName>, <persName key="d1e23468" xml:id="d1e154181">domini Girardi de
-                            <placeName key="stutzmann_himanis#324995" xml:id="d1e154183">
+                            <placeName key="stutzmann_himanis#324995" xml:id="d1e154183" corresp="Reum">
                             <foreign>Reun</foreign>
                         </placeName>
                     </persName> aliorumque sapitentium virorum adquiescens consilio, omnes querelas
-                    et calumpnias quas adversus <orgName key="stutzmann_himanis#282689" xml:id="d1e154187">Fontenetenses</orgName> diu habuerat eis bona fide dimisit et ex toto
-                    guerpivit atque finivit pro remedio anime sue absque terra <placeName key="stutzmann_himanis#324408" xml:id="d1e154191">Boneseii</placeName> que de
+                    et calumpnias quas adversus <orgName key="stutzmann_himanis#282689" xml:id="d1e154187" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> diu habuerat eis bona fide dimisit et ex toto
+                    guerpivit atque finivit pro remedio anime sue absque terra <placeName key="stutzmann_himanis#324408" xml:id="d1e154191" corresp="Benoisey (Côte-d'Or, Montbard)">Boneseii</placeName> que de
                     chasamento erat <persName key="d1e23474" xml:id="d1e154194">Willermi de
-                            <placeName key="stutzmann_himanis#324455" xml:id="d1e154196">Fraxino</placeName>
+                            <placeName key="stutzmann_himanis#324455" xml:id="d1e154196" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
                     </persName>. Decetero omnes terras et omnia prata que eo die tenebant monachi
                     quo pax ista <app>
                         <lem>proloquuta</lem>
                         <rdg wit="#C">prolocuta</rdg>
                     </app> est laudavit eis et concessit ut ea deinceps in pace teneant per census
-                    annui solutionem et per costumam reddendo quando eamdem costumam in <placeName key="stutzmann_himanis#319548" xml:id="d1e154205">curia Eduensis episcopi</placeName>
-                    deberi sibi monstraverit. Quod monstrabit apud <placeName key="stutzmann_himanis#322865" xml:id="d1e154208">Flaviniacum</placeName> vel infra versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154211">Fontenetum</placeName> aut apud
-                        <placeName key="stutzmann_himanis#324368" xml:id="d1e154215">Sinemurum</placeName> vel
-                    infra <placeName key="stutzmann_himanis#324453" xml:id="d1e154218">Fontenetum</placeName>,
-                    aut apud <placeName key="stutzmann_himanis#324955" xml:id="d1e154221">Monasterium Sancti
-                        Johannis</placeName> vel infra versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154224">Fontenetum</placeName> aut apud <placeName key="stutzmann_himanis#324370" xml:id="d1e154227">Tullionis</placeName> vel infra
-                    versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154230">Fontenetum</placeName>. Laudavit autem eis et concessit de chasamento <persName key="d1e23480" xml:id="d1e154234">Willermi de <placeName key="stutzmann_himanis#324455" xml:id="d1e154236">Fraxino</placeName>
+                    annui solutionem et per costumam reddendo quando eamdem costumam in <placeName key="stutzmann_himanis#319548" xml:id="d1e154205" corresp="Autun (Saône-et-Loire, Autun)">curia Eduensis episcopi</placeName>
+                    deberi sibi monstraverit. Quod monstrabit apud <placeName key="stutzmann_himanis#322865" xml:id="d1e154208" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniacum</placeName> vel infra versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154211" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName> aut apud
+                        <placeName key="stutzmann_himanis#324368" xml:id="d1e154215" corresp="Semur-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sinemurum</placeName> vel
+                    infra <placeName key="stutzmann_himanis#324453" xml:id="d1e154218" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName>,
+                    aut apud <placeName key="stutzmann_himanis#324955" xml:id="d1e154221" corresp="Monasterium Sancti Johannis">Monasterium Sancti
+                        Johannis</placeName> vel infra versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154224" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName> aut apud <placeName key="stutzmann_himanis#324370" xml:id="d1e154227" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> vel infra
+                    versus <placeName key="stutzmann_himanis#324453" xml:id="d1e154230" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName>. Laudavit autem eis et concessit de chasamento <persName key="d1e23480" xml:id="d1e154234">Willermi de <placeName key="stutzmann_himanis#324455" xml:id="d1e154236" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
                     </persName> et <persName key="d1e23486" xml:id="d1e154239">Bernardi
                             <addName>Nariodi</addName>
                     </persName> quiquid inde jam adquisierunt et quicquid inde quolibet modo
-                    adquirere poterunt ab eis vel ab eorum heredibus a <placeName key="stutzmann_himanis#324487" xml:id="d1e154244">Monte Barro</placeName> sursum
-                    excepta terra <placeName key="stutzmann_himanis#324408" xml:id="d1e154247">Bonesii</placeName> de chasamento <persName key="d1e23492" xml:id="d1e154250">Willermi de <placeName key="stutzmann_himanis#324455" xml:id="d1e154252">Fraxino</placeName>
+                    adquirere poterunt ab eis vel ab eorum heredibus a <placeName key="stutzmann_himanis#324487" xml:id="d1e154244" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName> sursum
+                    excepta terra <placeName key="stutzmann_himanis#324408" xml:id="d1e154247" corresp="Benoisey (Côte-d'Or, Montbard)">Bonesii</placeName> de chasamento <persName key="d1e23492" xml:id="d1e154250">Willermi de <placeName key="stutzmann_himanis#324455" xml:id="d1e154252" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
                     </persName> de qua eis justiciam tenebit quandoque voluerint. Laudavit etiam eis
-                    et concessit quod jam habent de chasamento ipsius a <persName key="d1e23499" xml:id="d1e154255">Roberto de <placeName key="stutzmann_himanis#324359" xml:id="d1e154257">Sancta Columba</placeName>
-                    </persName> et a filiis ejus in territorio <placeName key="stutzmann_himanis#324356" xml:id="d1e154261">Saigniaci</placeName>, sed inde amplius nil conquirant
-                    sine ipsius assensu. De chasamento quoque <persName key="d1e23505" xml:id="d1e154264">Willermi de <placeName key="stutzmann_himanis#324475" xml:id="d1e154266">Marmania</placeName>
+                    et concessit quod jam habent de chasamento ipsius a <persName key="d1e23499" xml:id="d1e154255">Roberto de <placeName key="stutzmann_himanis#324359" xml:id="d1e154257" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
+                    </persName> et a filiis ejus in territorio <placeName key="stutzmann_himanis#324356" xml:id="d1e154261" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaci</placeName>, sed inde amplius nil conquirant
+                    sine ipsius assensu. De chasamento quoque <persName key="d1e23505" xml:id="d1e154264">Willermi de <placeName key="stutzmann_himanis#324475" xml:id="d1e154266" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                     </persName> et <persName key="d1e23511" xml:id="d1e154269">fratrum
                         ejus</persName> et <persName key="d1e23517" xml:id="d1e154272">Emeline
                         matris eorum</persName> laudavit eis quod inde jam adquisierunt, sed inde
                     amplius nil conquirant absque illius assensu. Scambivit autem eis oschiam quam
-                    retro <placeName key="stutzmann_himanis#324451" xml:id="d1e154275">grangiam
+                    retro <placeName key="stutzmann_himanis#324451" xml:id="d1e154275" corresp="Flacey (Côte-d'Or, Montbard)">grangiam
                         Flaciaci</placeName> juxta ortum monachorum habebat et accepit ab eis pro
-                    eadem oschia partem eorum de <placeName key="stutzmann_himanis#325079" xml:id="d1e154278">campo de Rocha</placeName>. Promittens quod eis de oschia garentiam
+                    eadem oschia partem eorum de <placeName key="stutzmann_himanis#325079" xml:id="d1e154278" corresp="campo de Rocha">campo de Rocha</placeName>. Promittens quod eis de oschia garentiam
                     portabit siquis inde calumpniam moverit, et monachi de scambio. De terra arabili
-                    que est <placeName key="stutzmann_himanis#325129" xml:id="d1e154282">inter duos rivos in
+                    que est <placeName key="stutzmann_himanis#325129" xml:id="d1e154282" corresp="inter duos rivos in costa Libremontis">inter duos rivos in
                         costa Libremontis</placeName> medietatem concessit illis et monachi illi
                     aliam medietatem, ita tamen ut quod ex eadem terra censum aut costumam solvit et
                     ochia sub chimino juxta rivum de qua bordam dissipaverunt monachi, monachis
                     extra partem remaneat. Concessit etiam eis <persName key="d1e23523" xml:id="d1e154285">Osmundus</persName> ut per terras et per prata sua libere
                     et absque contradictione carricent fena sua et alia sibi necessara absque dampno
                     faciendo sicut vicini alter ad alterum. Preterea quicquid de capite <persName key="d1e23529" xml:id="d1e154288">matris ejus</persName> vel ipsius est in
-                    territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e154291">Noville
+                    territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e154291" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville
                         Montis</placeName> laudavit monachis et concessit quicquid scilicet ibi jam
                     adquisierunt et quicquid ibi adquirere etiam annuum censum. Hec omnia <persName key="d1e23536" xml:id="d1e154294">Osmundus</persName> et filii ejus
                         <persName key="d1e23542" xml:id="d1e154297">Humbaudus</persName> et
                         <persName key="d1e23548" xml:id="d1e154301">Renardus</persName> ita
                     laudaverunt et concesserunt, jurantes insuper quod fideliter et bona fide semper
-                    hec ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e154304">Fonteneti</orgName> servabunt. Unde testes sunt <persName key="d1e23554" xml:id="d1e154307">Bartholomeus <addName>
+                    hec ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e154304" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> servabunt. Unde testes sunt <persName key="d1e23554" xml:id="d1e154307">Bartholomeus <addName>
                             <foreign>Coquille</foreign>
                         </addName>
                     </persName>, <persName key="d1e23560" xml:id="d1e154313">Guiardus vicecomitis
@@ -107,24 +108,24 @@
                         Noville</persName>, <persName key="d1e23573" xml:id="d1e154319">Guiardus
                         vinanus</persName>, <persName key="d1e23579" xml:id="d1e154326">Petronilla
                         quoque uxor ipsius</persName> et filii ejus <persName key="d1e23585" xml:id="d1e154329">Guillermus</persName>, <persName key="d1e23591" xml:id="d1e154332">Nariodus</persName> et <persName key="d1e23597" xml:id="d1e154335">Obertus</persName> et filia ejus <persName key="d1e23603" xml:id="d1e154338">Margarita</persName> et <persName key="d1e23610" xml:id="d1e154341">
-                        <foreign>Dameruns</foreign> filia <persName key="d1e23616" xml:id="d1e154345">Hugonis de <placeName key="stutzmann_himanis#324951" xml:id="d1e154347">Merleniaco</placeName>,</persName> conjunx
+                        <foreign>Dameruns</foreign> filia <persName key="d1e23616" xml:id="d1e154345">Hugonis de <placeName key="stutzmann_himanis#324951" xml:id="d1e154347" corresp="Merlegniaco">Merleniaco</placeName>,</persName> conjunx
                             <persName key="d1e23622" xml:id="d1e154351">Humbaudi filii <persName key="d1e23628" xml:id="d1e154353">Osmundi</persName>
                         </persName>
                     </persName> hec omnia laudaverunt et concesserunt. Unde testes sunt <persName key="d1e1990" xml:id="d1e154357">Obertus de <placeName key="stutzmann_himanis#325034" xml:id="d1e154359">Tylio</placeName>
-                    </persName>, <persName key="d1e23634" xml:id="d1e154362">Hugo de <placeName key="stutzmann_himanis#324484" xml:id="d1e154364">Montigne</placeName>
+                    </persName>, <persName key="d1e23634" xml:id="d1e154362">Hugo de <placeName key="stutzmann_himanis#324484" xml:id="d1e154364" corresp="Montigny,Montfort (Côte-d'Or, Montbard)">Montigne</placeName>
                     </persName>, <persName key="d1e23640" xml:id="d1e154367">Hugo
                         Dalmatius</persName>, <persName key="d1e23647" xml:id="d1e154370">Robertus
-                        de <placeName key="stutzmann_himanis#325255" xml:id="d1e154372">
+                        de <placeName key="stutzmann_himanis#325255" xml:id="d1e154372" corresp="Crie">
                             <foreign>Crie</foreign>
                         </placeName>
                     </persName>, <persName key="d1e23653" xml:id="d1e154376">Petrus <addName>
                             <foreign>Alirez</foreign>
                         </addName>
-                    </persName>. Pro his omnibus ita gestis <orgName key="stutzmann_himanis#282689" xml:id="d1e154382">Fontenetenses</orgName>, dimittentes <persName key="d1e23659" xml:id="d1e154386">Osmundo</persName> omnia capitalia sua que
+                    </persName>. Pro his omnibus ita gestis <orgName key="stutzmann_himanis#282689" xml:id="d1e154382" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>, dimittentes <persName key="d1e23659" xml:id="d1e154386">Osmundo</persName> omnia capitalia sua que
                     illis usque ad diem hujus compositionis abstulerat, bonam pacem cum eo fecerunt
                     et ut solveretur ab excommunicatione in qua pro eis detinebatur a nobis
                     postulaverunt. Ad testimonium igitur et munimen horum omnium cum sigillis
-                    nostris carte huic sigillum suum <persName key="stutzmann_himanis#324577" xml:id="d1e154389">Hugo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e154391">Burgundie</placeName>
+                    nostris carte huic sigillum suum <persName key="stutzmann_himanis#324577" xml:id="d1e154389" corresp="Hugues III, duc de Bourgogne (1162-1192)">Hugo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e154391" corresp="Bourgogne">Burgundie</placeName>
                     </persName> imprimi voluit et quod pacem istam utrimque teneri faceret sicut
                     princeps firmiter promisit. Actum anno ab incarnatione Domini <hi rend="smallcaps">m° c° lxx° iii°</hi>.</p>
             </body>

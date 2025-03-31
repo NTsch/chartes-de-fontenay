@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e199502">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e199502" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1676</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -77,28 +78,28 @@
                     <date type="documentCreation" when="1209-06">1209, juin</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_181_0006.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_181_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_181_0006.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_181_0007.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e135154">Galterius, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135156">Eduensis</placeName> episcopus</persName>, notum facimus tam
-                        futuris quam presentibus <lb n="2"/> quod dominus <persName key="d1e12812" xml:id="d1e135162">Matheus de <placeName key="stutzmann_himanis#325302" xml:id="d1e135164">Janneio</placeName>
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e135154" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135156" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facimus tam
+                        futuris quam presentibus <lb n="2" /> quod dominus <persName key="d1e12812" xml:id="d1e135162">Matheus de <placeName key="stutzmann_himanis#325302" xml:id="d1e135164" corresp="Janneio">Janneio</placeName>
                         </persName>, in presentia mea constitutus, dedit et in perpetuam elemosinam
-                        concessit <lb n="3"/> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e135169">Fonteneti</orgName> pro remedio anime sue et
-                        antecessorum suorum duas partes prati in <lb n="4"/> finagio de <placeName key="stutzmann_himanis#325298" xml:id="d1e135175">
+                        concessit <lb n="3" /> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e135169" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio anime sue et
+                        antecessorum suorum duas partes prati in <lb n="4" /> finagio de <placeName key="stutzmann_himanis#325298" xml:id="d1e135175" corresp="Jaigne">
                             <foreign>Jaigne</foreign>
                         </placeName>. Hanc autem elemosinam laudavit uxor sua nomine <persName key="d1e12818" xml:id="d1e135179">
                             <foreign>Chevrere</foreign>
-                        </persName> et filii <lb n="5"/> ejus <persName key="d1e12824" xml:id="d1e135185">Jacobus</persName>, <persName key="d1e12830" xml:id="d1e135188">Andreas</persName>, <persName key="d1e12836" xml:id="d1e135192">Odo</persName>, <persName key="d1e12843" xml:id="d1e135195">Hugo</persName> et <persName key="d1e12849" xml:id="d1e135198">Guibertus</persName> et filie ejus <persName key="d1e12855" xml:id="d1e135201">Adelina</persName> et <persName key="d1e12861" xml:id="d1e135204">Emengardis</persName>. Et ut <lb n="6"/> hoc firmum permaneat et ratum, presens scriptum sigillo meo corroboravi.
-                        Actum est <lb n="7"/> hoc anno incarnati Verbi millesimo ducentesimo nono,
+                        </persName> et filii <lb n="5" /> ejus <persName key="d1e12824" xml:id="d1e135185">Jacobus</persName>, <persName key="d1e12830" xml:id="d1e135188">Andreas</persName>, <persName key="d1e12836" xml:id="d1e135192">Odo</persName>, <persName key="d1e12843" xml:id="d1e135195">Hugo</persName> et <persName key="d1e12849" xml:id="d1e135198">Guibertus</persName> et filie ejus <persName key="d1e12855" xml:id="d1e135201">Adelina</persName> et <persName key="d1e12861" xml:id="d1e135204">Emengardis</persName>. Et ut <lb n="6" /> hoc firmum permaneat et ratum, presens scriptum sigillo meo corroboravi.
+                        Actum est <lb n="7" /> hoc anno incarnati Verbi millesimo ducentesimo nono,
                         mense junio<app>
                             <lem wit="#A">
                                 <figure>

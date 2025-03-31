@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1206_d1e193737">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1206_d1e193737" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 504 + Access n° 2102</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -159,10 +160,10 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_65_0004.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_65_0005.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_277_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_277_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_65_0004.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_65_0005.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_277_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_277_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
@@ -171,65 +172,65 @@
                         <hi rend="background(yellow)">Noter que le texte du dispositif est repris
                             mot à mot de l’acte ADCO 15 H 65, pièce 1.</hi>
                     </p>
-                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e131479">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131481">Burgundie</placeName>
+                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e131479" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131481" corresp="Bourgogne">Burgundie</placeName>
                         </persName>, notum facio omnibus presentibus pariter et futuris quod
                             <persName key="d1e11844" xml:id="d1e131484">Petrus, dominus de
-                                <placeName key="stutzmann_himanis#324350" xml:id="d1e131486">Raveriis</placeName>
-                        </persName>, coram <lb n="2" corresp="#A1"/> nobis <lb n="2" corresp="#A2"/>
-                        constitutus, plane recognovit quod fratres et ecclesia de <orgName key="stutzmann_himanis#282689" xml:id="d1e131493">Fonteneto</orgName> ei in
-                        neccessitate sua accommodaverant quater vigin<lb n="3" break="no" corresp="#A1"/>ti<lb n="3" corresp="#A2"/> libras proviniensium. Unde et
+                                <placeName key="stutzmann_himanis#324350" xml:id="d1e131486" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
+                        </persName>, coram <lb n="2" corresp="#A1" /> nobis <lb n="2" corresp="#A2" />
+                        constitutus, plane recognovit quod fratres et ecclesia de <orgName key="stutzmann_himanis#282689" xml:id="d1e131493" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> ei in
+                        neccessitate sua accommodaverant quater vigin<lb n="3" break="no" corresp="#A1" />ti<lb n="3" corresp="#A2" /> libras proviniensium. Unde et
                         ipse <persName key="d1e11850" xml:id="d1e131501">Petrus</persName>, in
                         remedium anime sue et suorum et in recompensationem tanti beneficii sibi
-                        collati <lb n="4" corresp="#A1 #A2"/> a nominatis fratribus, concessit eis
+                        collati <lb n="4" corresp="#A1 #A2" /> a nominatis fratribus, concessit eis
                         pasturas et <app>
                             <lem wit="#A1">pastionem</lem>
                             <rdg wit="#A2">pasti<subst>
                                     <del>ti</del>
                                     <add>o</add>
                                 </subst>nem</rdg>
-                        </app> et aasentiam aque ad usum omnium animalium, peccorum suorum <lb n="5" corresp="#A1 #A2"/> et porcorum per totum finagium ville de <placeName key="stutzmann_himanis#324373" xml:id="d1e131521">Asneriis</placeName> et per
-                        totam potestatem, sicut ipse participat cum <persName key="d1e11856" xml:id="d1e131524">Girardo de <placeName key="stutzmann_himanis#324373" xml:id="d1e131526">Asne<lb n="6" break="no" corresp="#A2"/>riis</placeName>
-                        </persName>, <lb n="6"/> in bosco et plano, in monte et valle. Addidit
-                        insuper prefate donationi sue quecumque ibidem fuerint ne<lb n="7" break="no" corresp="#A2"/>cessaria <lb n="7" corresp="#A1"/> pastoribus
+                        </app> et aasentiam aque ad usum omnium animalium, peccorum suorum <lb n="5" corresp="#A1 #A2" /> et porcorum per totum finagium ville de <placeName key="stutzmann_himanis#324373" xml:id="d1e131521" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName> et per
+                        totam potestatem, sicut ipse participat cum <persName key="d1e11856" xml:id="d1e131524">Girardo de <placeName key="stutzmann_himanis#324373" xml:id="d1e131526" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asne<lb n="6" break="no" corresp="#A2" />riis</placeName>
+                        </persName>, <lb n="6" /> in bosco et plano, in monte et valle. Addidit
+                        insuper prefate donationi sue quecumque ibidem fuerint ne<lb n="7" break="no" corresp="#A2" />cessaria <lb n="7" corresp="#A1" /> pastoribus
                         ecclesie nominate in eisdem pasturis commorantibus, ligna scilicet ad
-                        faciendum focum, ad bordam <lb n="8" corresp="#A2"/> construendam, <lb n="8" corresp="#A1"/> et rameriam. Similiter idem <persName key="d1e11862" xml:id="d1e131542">Petrus</persName> concessit ecclesie sepedicte
-                        pasturas, pastionem et aasentias <lb n="9" corresp="#A2"/> aque et
-                        necessaria <lb n="9" corresp="#A1"/> pastoribus in tota potestate sua de
-                            <placeName key="stutzmann_himanis#324350" xml:id="d1e131549">Raveriis</placeName>.
-                        Quod si predicti fratres vel res ipsorum alicui aliquod<lb n="10" corresp="#A2"/> dampnum intulerint, ad <lb n="10" corresp="#A1"/>
+                        faciendum focum, ad bordam <lb n="8" corresp="#A2" /> construendam, <lb n="8" corresp="#A1" /> et rameriam. Similiter idem <persName key="d1e11862" xml:id="d1e131542">Petrus</persName> concessit ecclesie sepedicte
+                        pasturas, pastionem et aasentias <lb n="9" corresp="#A2" /> aque et
+                        necessaria <lb n="9" corresp="#A1" /> pastoribus in tota potestate sua de
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e131549" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>.
+                        Quod si predicti fratres vel res ipsorum alicui aliquod<lb n="10" corresp="#A2" /> dampnum intulerint, ad <lb n="10" corresp="#A1" />
                         valentiam dampni, capitale solummodo restituetur absque omni alia
-                        emendatione. Hec pre<lb n="11" break="no" corresp="#A2"/>scripta concessit
-                            <persName key="d1e11868" xml:id="d1e131559">Petrus</persName> dictis <lb n="11" corresp="#A1"/> fratribus tenenda pacifice et possidenda <app>
+                        emendatione. Hec pre<lb n="11" break="no" corresp="#A2" />scripta concessit
+                            <persName key="d1e11868" xml:id="d1e131559">Petrus</persName> dictis <lb n="11" corresp="#A1" /> fratribus tenenda pacifice et possidenda <app>
                             <lem wit="#A2">quamdiu</lem>
                             <rdg wit="#A1">
                                 <sic>quadiu</sic>
                             </rdg>
-                        </app> ipse debebit eis summam debiti nomina<lb n="12" break="no" corresp="#A2"/>tam et per duos annos amplius <lb n="12" corresp="#A1"/>
+                        </app> ipse debebit eis summam debiti nomina<lb n="12" break="no" corresp="#A2" />tam et per duos annos amplius <lb n="12" corresp="#A1" />
                         postquam redemerit ipse vel sui. Preterea sciendum quod sepenominatus
-                            <persName key="d1e11874" xml:id="d1e131576">Petrus</persName> usque<lb n="13" corresp="#A2"/> ad plenam <app>
+                            <persName key="d1e11874" xml:id="d1e131576">Petrus</persName> usque<lb n="13" corresp="#A2" /> ad plenam <app>
                             <lem wit="#A2">sol<del rend="expunct">l</del>utionem</lem>
                             <rdg wit="#A1">sollutionem</rdg>
-                        </app> dicte pecunie <lb n="13" corresp="#A1"/> nulli omnino prenominatas
-                        pasturas vendere vel invadiare poterit, nec al<lb n="14" break="no" corresp="#A2"/>terius ecclesie vel religionis peccora vel animalia, nisi
-                            <lb n="14" corresp="#A1"/> sua aut hominum trium villarum, de <placeName key="stutzmann_himanis#324373" xml:id="d1e131597">Asneriis</placeName> scilicet,
-                        de <placeName key="stutzmann_himanis#324350" xml:id="d1e131600">Raveriis</placeName>
-                        <lb n="15" corresp="#A2"/> et de <placeName key="stutzmann_himanis#325255" xml:id="d1e131604">
+                        </app> dicte pecunie <lb n="13" corresp="#A1" /> nulli omnino prenominatas
+                        pasturas vendere vel invadiare poterit, nec al<lb n="14" break="no" corresp="#A2" />terius ecclesie vel religionis peccora vel animalia, nisi
+                            <lb n="14" corresp="#A1" /> sua aut hominum trium villarum, de <placeName key="stutzmann_himanis#324373" xml:id="d1e131597" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName> scilicet,
+                        de <placeName key="stutzmann_himanis#324350" xml:id="d1e131600" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
+                        <lb n="15" corresp="#A2" /> et de <placeName key="stutzmann_himanis#325255" xml:id="d1e131604" corresp="Crie">
                             <foreign>Crie</foreign>
-                        </placeName>, in easdem pasturas ad pascendum introducet. Sed <lb n="15" corresp="#A1"/> et de his omnibus adversus omnes homines debitam
-                            garen<lb n="16" break="no" corresp="#A2"/>tiam promisit. Et ego
-                            <persName key="stutzmann_himanis#324624" xml:id="d1e131613">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131615">Burgundie</placeName>
+                        </placeName>, in easdem pasturas ad pascendum introducet. Sed <lb n="15" corresp="#A1" /> et de his omnibus adversus omnes homines debitam
+                            garen<lb n="16" break="no" corresp="#A2" />tiam promisit. Et ego
+                            <persName key="stutzmann_himanis#324624" xml:id="d1e131613" corresp="Eudes III, duc de Bourgogne (1192-1218)">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131615" corresp="Bourgogne">Burgundie</placeName>
                         </persName> ad preces jamdicti <persName key="d1e11881" xml:id="d1e131618">
                             <app>
                                 <lem wit="#A1">Petri</lem>
                                 <rdg wit="#A2"> P. </rdg>
                             </app>
                         </persName>
-                        <lb n="16" corresp="#A1"/> hec omnia manucepi et me sepenominatis fratribus
-                            <lb n="17" corresp="#A2"/> responsorem constitui. Quod totum laudavit
+                        <lb n="16" corresp="#A1" /> hec omnia manucepi et me sepenominatis fratribus
+                            <lb n="17" corresp="#A2" /> responsorem constitui. Quod totum laudavit
                             <persName key="d1e11887" xml:id="d1e131628">Nicholia uxor ejusdem
                                 <persName key="d1e11893" xml:id="d1e131630">Petri</persName>
-                        </persName>. <lb n="17" corresp="#A1"/> In cujus rei testimonium, presens
-                            <lb n="18" corresp="#A2"/> scriptum sigillo meo confirmari precepi. Anno
+                        </persName>. <lb n="17" corresp="#A1" /> In cujus rei testimonium, presens
+                            <lb n="18" corresp="#A2" /> scriptum sigillo meo confirmari precepi. Anno
                         verbi incarnati millesimo <num>
                             <app>
                                 <lem wit="#A1">cc°</lem>

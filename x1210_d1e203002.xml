@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e203002">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e203002" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2094</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -68,7 +69,7 @@
                         <bibl>ADCO 15 H 2, fol. 20<hi rend="superscript">v</hi> (Beaune. D)</bibl>
                         <bibl>ADCO 15 H 3, p. 60 (V. 2. 1) : « Robert Bonniar [<hi rend="italic">sic</hi>]... scellé d’un sceau de cire jaune à double queue de
                             parchemin pendant »</bibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -78,28 +79,28 @@
                     <origPlace>Beaune</origPlace>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_270_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_270_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_270_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_270_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Noverint universi presentes et futuri quod <persName key="d1e13681" xml:id="d1e137537">Robertus Odomarus</persName>, laudante uxore sua <lb n="2"/> et filio suo <persName key="d1e13687" xml:id="d1e137542">Hugone</persName> pro remedio anime sue et antecessorum suorum, in vita
-                        sua donavit <lb n="3"/> Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137547">sancte Marie de <foreign>Fontenois</foreign>
-                        </orgName> vineam suam que est in plateis <placeName key="stutzmann_himanis#324345" xml:id="d1e137553">Pomarci</placeName> justa vi<lb n="4" break="no"/>neam <orgName key="stutzmann_himanis#324497" xml:id="d1e137558">sancte
+                    <p>Noverint universi presentes et futuri quod <persName key="d1e13681" xml:id="d1e137537">Robertus Odomarus</persName>, laudante uxore sua <lb n="2" /> et filio suo <persName key="d1e13687" xml:id="d1e137542">Hugone</persName> pro remedio anime sue et antecessorum suorum, in vita
+                        sua donavit <lb n="3" /> Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137547" corresp="abbaye Notre-Dame de Fontenay (1119 -)">sancte Marie de <foreign>Fontenois</foreign>
+                        </orgName> vineam suam que est in plateis <placeName key="stutzmann_himanis#324345" xml:id="d1e137553" corresp="Pommard (Côte-d'Or, Ladoix-Serrigny)">Pomarci</placeName> justa vi<lb n="4" break="no" />neam <orgName key="stutzmann_himanis#324497" xml:id="d1e137558" corresp="abbaye Sainte-Marguerite">sancte
                             Margarite</orgName>, usufructu tantum sibi in vita sua retento, et
-                        investivit uno <lb n="5"/> modio vini quod singulis annis reddet fratribus
-                        predicte domus dum predictam vineam tenebit. <lb n="6"/> Ut autem helemosina
-                        sua in posterum rata esset et quieta, presentem cartam sigillo capi<lb n="7" break="no"/>tuli <orgName key="stutzmann_himanis#284473" xml:id="d1e137568">sancte
-                            Marie de <placeName key="stutzmann_himanis#324406" xml:id="d1e137570">Belna</placeName>
-                        </orgName> pro testimonio fecit communiri. Actum est hoc anno Verbi incar<lb n="8" break="no"/>nati <figure/>
-                        <num>.M°. CC°. IX°</num>, <figure/>mense <figure/>Januario <figure/>apud <figure/>
-                        <placeName key="stutzmann_himanis#324406" xml:id="d1e137587">Belnam</placeName>
+                        investivit uno <lb n="5" /> modio vini quod singulis annis reddet fratribus
+                        predicte domus dum predictam vineam tenebit. <lb n="6" /> Ut autem helemosina
+                        sua in posterum rata esset et quieta, presentem cartam sigillo capi<lb n="7" break="no" />tuli <orgName key="stutzmann_himanis#284473" xml:id="d1e137568" corresp="collégiale Notre-Dame de Beaune chapitre">sancte
+                            Marie de <placeName key="stutzmann_himanis#324406" xml:id="d1e137570" corresp="Beaune (Côte-d'Or)">Belna</placeName>
+                        </orgName> pro testimonio fecit communiri. Actum est hoc anno Verbi incar<lb n="8" break="no" />nati <figure />
+                        <num>.M°. CC°. IX°</num>, <figure />mense <figure />Januario <figure />apud <figure />
+                        <placeName key="stutzmann_himanis#324406" xml:id="d1e137587" corresp="Beaune (Côte-d'Or)">Belnam</placeName>
                         <note>Dernière ligne avec traits horizontaux entre les mots pour assurer la
                             justification</note>.</p>
                 

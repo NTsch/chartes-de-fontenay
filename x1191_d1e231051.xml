@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1191_d1e231051">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1191_d1e231051" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 125@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,30 +42,30 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e157954">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157956">Eduensis</placeName>
-                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e25596" xml:id="d1e157960">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e157962">Grinione</placeName>
-                    </persName> laudavit et concessit Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e157965">
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e157954" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157956" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e25596" xml:id="d1e157960">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e157962" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName> laudavit et concessit Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e157965" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>Fonteneti</lem>
                             <rdg wit="#D">Fontenetensis</rdg>
                         </app>
                     </orgName>ecclesie omnes elemosinas quas pater suus et fratres sui eidem
-                    ecclesie fecerant, simul et terram que dicitur <placeName key="stutzmann_himanis#324957" xml:id="d1e157972">
+                    ecclesie fecerant, simul et terram que dicitur <placeName key="stutzmann_himanis#324957" xml:id="d1e157972" corresp="Mons Arlaut">
                         <foreign>Mont Arlant</foreign>
                     </placeName> in bosco et plano. <app>
                         <lem>
-                            <witEnd wit="#D"/>
+                            <witEnd wit="#D" />
                             <witDetail wit="#D">Suite omise et résumée par trois extraits : Haec
                                 omnia laudavit Floria uxor Oliverii, cum duobus filiis suis Pontio
                                 et Hugone etc. Inter testes : Josbertus abbas Fontenetensis, anno ab
                                 incarnatione Domini M. C. XCI.</witDetail>
                         </lem>
-                    </app> Ita tamen quod fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e157983">Fonteneti</orgName> et homines <persName key="d1e25602" xml:id="d1e157986">Oliverii</persName> boscum non exartabunt, terras autem planas fratres
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157989">Fonteneti</orgName> sine
+                    </app> Ita tamen quod fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e157983" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et homines <persName key="d1e25602" xml:id="d1e157986">Oliverii</persName> boscum non exartabunt, terras autem planas fratres
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157989" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> sine
                     ulla custuma arare et excolere. Porro quicumque predictam terram excolere
-                    voluerit fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157992">Fonteneti</orgName> tercias reddet, preter homines <persName key="d1e25608" xml:id="d1e157995">Oliverii</persName> quantum ad ipsius attinet porcionem.
-                    Et quia discordia erat inter <persName key="d1e25614" xml:id="d1e157998">Oliverium</persName> et fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158002">Fonteneti</orgName> de vadis concordatum est quod idem
+                    voluerit fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157992" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> tercias reddet, preter homines <persName key="d1e25608" xml:id="d1e157995">Oliverii</persName> quantum ad ipsius attinet porcionem.
+                    Et quia discordia erat inter <persName key="d1e25614" xml:id="d1e157998">Oliverium</persName> et fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158002" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de vadis concordatum est quod idem
                     fratres solitum vadum suum ita aptabunt et component ut per illud sine periculo
                     transire possint. Si vero vadum aliquo casu ita dirutum fuerit ut per ilud
                     transire non possint, per alia vada ubi poterunt libere et quiete transibut
@@ -73,43 +74,43 @@
                     prata non secata aliquod dampnum fecerint. Ipsum dampnum quantum legitime
                     appreciatum fuerit sine alia emendatione restituent, pasturas et omnes aasentias
                     animalibus et pastoribus necessarias per totam terram suam ubicumque sit quas
-                    predicti fratres in vadio habebant pro quingentis solidis <persName key="d1e25620" xml:id="d1e158005">Oliverius</persName> fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e158008">Fonteneti</orgName> sine aliqua
+                    predicti fratres in vadio habebant pro quingentis solidis <persName key="d1e25620" xml:id="d1e158005">Oliverius</persName> fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e158008" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> sine aliqua
                     retentione in elemosinam bona fide dedit et concessit. Propter quod ei jam dicte
-                    summam pecunie <orgName key="stutzmann_himanis#282689" xml:id="d1e158011">Fontenetenses</orgName> remiserunt. Preterea concessit <persName key="d1e25627" xml:id="d1e158014">Oliverius</persName> quod si <persName key="d1e25633" xml:id="d1e158017">dominus Osbertus de <placeName key="stutzmann_himanis#325304" xml:id="d1e158019">
+                    summam pecunie <orgName key="stutzmann_himanis#282689" xml:id="d1e158011" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> remiserunt. Preterea concessit <persName key="d1e25627" xml:id="d1e158014">Oliverius</persName> quod si <persName key="d1e25633" xml:id="d1e158017">dominus Osbertus de <placeName key="stutzmann_himanis#325304" xml:id="d1e158019" corresp="Joux">
                             <foreign>Joux</foreign>
                         </placeName>
-                    </persName> in terra sua que de chasamento <persName key="d1e25639" xml:id="d1e158024">Oliverii</persName> est ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158027">Fonteneti</orgName> elemosinam
+                    </persName> in terra sua que de chasamento <persName key="d1e25639" xml:id="d1e158024">Oliverii</persName> est ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158027" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> elemosinam
                     facere voluerit usque ad <num>xii</num> carratas feni quales conversi facere
-                    solent libere accipiant <orgName key="stutzmann_himanis#282689" xml:id="d1e158033">Fontenetenses</orgName>. Pro hiis omnibus <persName key="d1e25645" xml:id="d1e158036">Oliverius</persName> de beneficio ecclesie excepta
+                    solent libere accipiant <orgName key="stutzmann_himanis#282689" xml:id="d1e158033" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>. Pro hiis omnibus <persName key="d1e25645" xml:id="d1e158036">Oliverius</persName> de beneficio ecclesie excepta
                     predicta pecunia <num>ccc</num>
-                    <hi rend="superscript">tos</hi> solidos habuit. Hujus rei testes sunt <persName key="d1e25651" xml:id="d1e158045">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158047">Fonteneti</orgName>
-                    </persName> et cum eo <num>iii</num> monachi <persName key="d1e25657" xml:id="d1e158053">Philippus</persName>, <persName key="d1e25664" xml:id="d1e158056">Bernardus</persName> et <persName key="d1e25670" xml:id="d1e158059">Humbertus</persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158063">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e158065">Tullionis</placeName>
+                    <hi rend="superscript">tos</hi> solidos habuit. Hujus rei testes sunt <persName key="d1e25651" xml:id="d1e158045">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158047" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    </persName> et cum eo <num>iii</num> monachi <persName key="d1e25657" xml:id="d1e158053">Philippus</persName>, <persName key="d1e25664" xml:id="d1e158056">Bernardus</persName> et <persName key="d1e25670" xml:id="d1e158059">Humbertus</persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158063" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e158065" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e25676" xml:id="d1e158068">Races capellanus de
-                            <placeName key="stutzmann_himanis#324470" xml:id="d1e158070">Lucennaco</placeName>
-                    </persName>, <persName key="d1e25682" xml:id="d1e158073">Eniaubus de <placeName key="stutzmann_himanis#324991" xml:id="d1e158078">Puteolis</placeName>
-                    </persName>, <persName key="d1e25688" xml:id="d1e158084">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e158086">Frollesio</placeName>
-                    </persName>, <persName key="d1e25694" xml:id="d1e158089">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e158091">
+                            <placeName key="stutzmann_himanis#324470" xml:id="d1e158070" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
+                    </persName>, <persName key="d1e25682" xml:id="d1e158073">Eniaubus de <placeName key="stutzmann_himanis#324991" xml:id="d1e158078" corresp="Puteolis">Puteolis</placeName>
+                    </persName>, <persName key="d1e25688" xml:id="d1e158084">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e158086" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
+                    </persName>, <persName key="d1e25694" xml:id="d1e158089">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e158091" corresp="Lantilly (Côte-d'Or, Semur-en-Auxois)">
                             <foreign>Lantille</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e25701" xml:id="d1e158095">Renerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e158097">Sancta Columba</placeName>
+                    </persName>, <persName key="d1e25701" xml:id="d1e158095">Renerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e158097" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
                     </persName>, <persName key="d1e25707" xml:id="d1e158101">Willermus
                             <addName>Huldrei</addName>
-                    </persName>, <persName key="d1e25713" xml:id="d1e158106">Willermus de <placeName key="stutzmann_himanis#325251" xml:id="d1e158108">Curte Rabodi</placeName>
+                    </persName>, <persName key="d1e25713" xml:id="d1e158106">Willermus de <placeName key="stutzmann_himanis#325251" xml:id="d1e158108" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
                     </persName>. Hec omnia laudavit <persName key="d1e25719" xml:id="d1e158111">Floria uxor <persName key="d1e25725" xml:id="d1e158113">Oliverii</persName>
-                    </persName> cum duobus filiis suis <persName key="d1e25731" xml:id="d1e158116">Pontio</persName> et <persName key="d1e25738" xml:id="d1e158119">Hugone</persName>. Unde testes sunt <persName key="d1e25744" xml:id="d1e158122">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158124">
+                    </persName> cum duobus filiis suis <persName key="d1e25731" xml:id="d1e158116">Pontio</persName> et <persName key="d1e25738" xml:id="d1e158119">Hugone</persName>. Unde testes sunt <persName key="d1e25744" xml:id="d1e158122">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158124" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grinun</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e25750" xml:id="d1e158129">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e158131">
+                    </persName>, <persName key="d1e25750" xml:id="d1e158129">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e158131" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">
                             <foreign>Quinci</foreign>
                         </placeName>
                     </persName>, <hi rend="background(green)">monachi Fonteneti</hi>, et duo
                     conversi frater <persName key="d1e25756" xml:id="d1e158138">Rainadus magister
-                            <placeName key="stutzmann_himanis#324451" xml:id="d1e158140">Flaceii</placeName>
+                            <placeName key="stutzmann_himanis#324451" xml:id="d1e158140" corresp="Flacey (Côte-d'Or, Montbard)">Flaceii</placeName>
                     </persName> et frater <persName key="d1e25762" xml:id="d1e158143">Waldricus</persName> ; <persName key="d1e25768" xml:id="d1e158146">Willermus <addName>
                             <foreign>Uldrez</foreign>
                         </addName>
-                    </persName> et <persName key="d1e25775" xml:id="d1e158152">Petrus de <placeName key="stutzmann_himanis#325039" xml:id="d1e158154">Valle</placeName>
-                    </persName>. Postea querelam movit <orgName key="stutzmann_himanis#282689" xml:id="d1e158158">Fontenetensibus</orgName>
+                    </persName> et <persName key="d1e25775" xml:id="d1e158152">Petrus de <placeName key="stutzmann_himanis#325039" xml:id="d1e158154" corresp="Valle">Valle</placeName>
+                    </persName>. Postea querelam movit <orgName key="stutzmann_himanis#282689" xml:id="d1e158158" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName>
                     <persName key="d1e25781" xml:id="d1e158160">Oliverius</persName> de prato quod
                     ab homine suo emerant et de quodam fossato quod ante <sic corresp="#C">molidinum</sic> suum fecerant propter quod molendinum suum plurimum
                     deterioratum fuisse et se urgens dampnum inde recepisse dicebat et terra sua
@@ -117,28 +118,28 @@
                     hiis <persName key="d1e25787" xml:id="d1e158169">abbas Fonteneti</persName> et
                         <persName key="d1e25793" xml:id="d1e158172">Oliverius</persName> posuerunt
                     se super hos <num>iiii</num>
-                    <hi rend="superscript">or</hi>, scilicet <persName key="d1e25799" xml:id="d1e158181">Pontium de <placeName key="stutzmann_himanis#323218" xml:id="d1e158183">Frollesio</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158186">Odonem
-                        archipresbiterum</persName>, <persName key="d1e25805" xml:id="d1e158189">Philippum de <placeName key="stutzmann_himanis#325251" xml:id="d1e158191">Curte
+                    <hi rend="superscript">or</hi>, scilicet <persName key="d1e25799" xml:id="d1e158181">Pontium de <placeName key="stutzmann_himanis#323218" xml:id="d1e158183" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158186" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odonem
+                        archipresbiterum</persName>, <persName key="d1e25805" xml:id="d1e158189">Philippum de <placeName key="stutzmann_himanis#325251" xml:id="d1e158191" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
                             Rabodi</placeName>
                     </persName>, <persName key="d1e25812" xml:id="d1e158194">Teobaudum prepositum
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158196">Montis
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158196" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                             Barri</placeName>
                     </persName>, qui concorditer dixerunt quod <persName key="d1e25818" xml:id="d1e158200">Oliverius</persName> de prefato molendino justam
                     querimoniam non haberet. Pro aliis vero querelis omnibus pacificandis dixerunt
                     predicti dictores quos <persName key="d1e25824" xml:id="d1e158203">abbas
                         Fonteneti</persName> de beneficio ecclesie carta ista sigillata <persName key="d1e25830" xml:id="d1e158206">Oliverio</persName>
-                    <num>x</num> libras daret. Hinc testes sunt <persName key="d1e25836" xml:id="d1e158211">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158213">Fonteneti</orgName>
-                    </persName>, <persName key="d1e25842" xml:id="d1e158216">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e158218">Curte Robodi</placeName>
-                    </persName>, <persName key="d1e25849" xml:id="d1e158222">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158224">
+                    <num>x</num> libras daret. Hinc testes sunt <persName key="d1e25836" xml:id="d1e158211">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158213" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    </persName>, <persName key="d1e25842" xml:id="d1e158216">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e158218" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Robodi</placeName>
+                    </persName>, <persName key="d1e25849" xml:id="d1e158222">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158224" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grinun</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e25855" xml:id="d1e158228">Johannes <placeName key="stutzmann_himanis#324487" xml:id="d1e158230">Montis Barri</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158233">Odo
-                        archipresbiter</persName>, <persName key="d1e25861" xml:id="d1e158236">Poncius de <placeName key="stutzmann_himanis#323218" xml:id="d1e158238">Frollesio</placeName>
-                    </persName>, <persName key="d1e25867" xml:id="d1e158241">Odo de <placeName key="stutzmann_himanis#324475" xml:id="d1e158243">Marmania</placeName>
+                    </persName>, <persName key="d1e25855" xml:id="d1e158228">Johannes <placeName key="stutzmann_himanis#324487" xml:id="d1e158230" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158233" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                        archipresbiter</persName>, <persName key="d1e25861" xml:id="d1e158236">Poncius de <placeName key="stutzmann_himanis#323218" xml:id="d1e158238" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
+                    </persName>, <persName key="d1e25867" xml:id="d1e158241">Odo de <placeName key="stutzmann_himanis#324475" xml:id="d1e158243" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                     </persName>, <persName key="d1e25873" xml:id="d1e158246">Teobaudus prepositus
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158248">Montis
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158248" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                             Barri</placeName>
                     </persName>, <persName key="d1e25879" xml:id="d1e158252">Petrus avunculus
                         ejus</persName>, <persName key="d1e25886" xml:id="d1e158255">Milo <addName>

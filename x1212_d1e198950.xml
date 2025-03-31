@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e198950">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e198950" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1127</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -77,25 +78,25 @@
                     <date type="documentCreation" when="1212-12-31">1212</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0020.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0020.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego frater <persName key="d1e12756" xml:id="d1e134811">.Sy. de <orgName key="stutzmann_himanis#284222" xml:id="d1e134813">Firmitate</orgName>
-                        </persName>, notum facio omnibus presens scriptum <lb n="2"/> inspecturis
-                        querelam que vertebatur inter nos et ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e134818">Fonteneti</orgName> de terra <placeName key="stutzmann_himanis#324406" xml:id="d1e134821">Bernensi</placeName>
-                        <lb n="3"/> coram <persName key="d1e12762" xml:id="d1e134825">A. <orgName key="stutzmann_himanis#282500" xml:id="d1e134827">Cistercii</orgName>
-                        </persName> et <persName key="d1e12769" xml:id="d1e134831">A. <orgName key="stutzmann_himanis#283145" xml:id="d1e134833">Longivadi</orgName>
-                            abbatibus</persName> in hunc modum terminatam fuis<lb n="4" break="no"/>se : eandem terram consilio et assensu capituli nostri ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e134839">Fonteneti</orgName> quittavimus
-                        et <lb n="5"/> quitamus perpetuo possidendam et ipsi dederunt <add place="above" hand="eademmanu">nobis</add>
-                        <num>.l.</num> libras divionensium. In cujus rei testi<lb n="6" break="no"/>monium sigillum nostrum presenti scripto apposuimus. Actum anno .M. <lb n="7"/> cc° <space/>xii°.</p>
+                                        <p>Ego frater <persName key="d1e12756" xml:id="d1e134811">.Sy. de <orgName key="stutzmann_himanis#284222" xml:id="d1e134813" corresp="abbaye de la Ferté-sur-Grosne (1113 -)">Firmitate</orgName>
+                        </persName>, notum facio omnibus presens scriptum <lb n="2" /> inspecturis
+                        querelam que vertebatur inter nos et ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e134818" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de terra <placeName key="stutzmann_himanis#324406" xml:id="d1e134821" corresp="Beaune (Côte-d'Or)">Bernensi</placeName>
+                        <lb n="3" /> coram <persName key="d1e12762" xml:id="d1e134825">A. <orgName key="stutzmann_himanis#282500" xml:id="d1e134827" corresp="abbaye Notre-Dame de Cîteaux">Cistercii</orgName>
+                        </persName> et <persName key="d1e12769" xml:id="d1e134831">A. <orgName key="stutzmann_himanis#283145" xml:id="d1e134833" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longivadi</orgName>
+                            abbatibus</persName> in hunc modum terminatam fuis<lb n="4" break="no" />se : eandem terram consilio et assensu capituli nostri ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e134839" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quittavimus
+                        et <lb n="5" /> quitamus perpetuo possidendam et ipsi dederunt <add place="above" hand="eademmanu">nobis</add>
+                        <num>.l.</num> libras divionensium. In cujus rei testi<lb n="6" break="no" />monium sigillum nostrum presenti scripto apposuimus. Actum anno .M. <lb n="7" /> cc° <space />xii°.</p>
                 
             </body>
         </text>

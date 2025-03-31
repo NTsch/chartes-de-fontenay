@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1193_d1e207221">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1193_d1e207221" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2560</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -106,41 +107,41 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_357_0003.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_357_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0003.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0004.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e140368">.M., Dei gratia
-                                <placeName key="stutzmann_himanis#317574" xml:id="d1e140370">Lingonensis</placeName> episcopus</persName>, litteris nostris
-                        sigillatis notum facio de gage<lb n="2" break="no"/>ria <persName key="d1e14526" xml:id="d1e140376">Reginaudi filii vicecomitis de
-                                <placeName key="stutzmann_himanis#324349" xml:id="d1e140378">Quinceio</placeName>
-                        </persName>, quia predictus <persName key="d1e14532" xml:id="d1e140381">Reginaudus</persName> po<lb n="3" break="no"/>suit in vadimonium pro
+                    <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e140368" corresp="Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)">.M., Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e140370" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, litteris nostris
+                        sigillatis notum facio de gage<lb n="2" break="no" />ria <persName key="d1e14526" xml:id="d1e140376">Reginaudi filii vicecomitis de
+                                <placeName key="stutzmann_himanis#324349" xml:id="d1e140378" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinceio</placeName>
+                        </persName>, quia predictus <persName key="d1e14532" xml:id="d1e140381">Reginaudus</persName> po<lb n="3" break="no" />suit in vadimonium pro
                             XX<hi rend="superscript">ti</hi> libris de divionensisbus fratribus
-                        ecclesie Sancte Marie de <lb n="4"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e140391">Fonteneto</orgName> censam
-                            <placeName key="stutzmann_himanis#324335" xml:id="d1e140394">Noville
+                        ecclesie Sancte Marie de <lb n="4" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e140391" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> censam
+                            <placeName key="stutzmann_himanis#324335" xml:id="d1e140394" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville
                             Montis</placeName>, scilicet .IIII<hi rend="superscript">or</hi>
-                        sestarios frumenti, .IIII<hi rend="superscript">or</hi>. sestarios <lb n="5"/> avene, .X. solidos divionensis monete. Hoc laudaverunt in presentia
-                        nostra <lb n="6"/>
+                        sestarios frumenti, .IIII<hi rend="superscript">or</hi>. sestarios <lb n="5" /> avene, .X. solidos divionensis monete. Hoc laudaverunt in presentia
+                        nostra <lb n="6" />
                         <persName key="d1e14538" xml:id="d1e140407">Margarita</persName> mater ejus,
                             <persName key="d1e14545" xml:id="d1e140410">Odo</persName> frater ejus.
                         Quando predictus <persName key="d1e14551" xml:id="d1e140413">.R.</persName>
-                        vel aliquis suorum <lb n="7"/> fratrum voluerit redimere, redimet predictis
-                            .XX<hi rend="superscript">ti</hi> libris acceptis, in ea<lb n="8" break="no"/>dem valitudine in qua tunc erant. Tunc vero quinquaginta
-                        solidi illius monete <lb n="9"/> marcam valebant. Et si de moneta illa
-                        fieret contentio, pro .L. solidis mar<lb n="10" break="no"/>ca solveretur.
+                        vel aliquis suorum <lb n="7" /> fratrum voluerit redimere, redimet predictis
+                            .XX<hi rend="superscript">ti</hi> libris acceptis, in ea<lb n="8" break="no" />dem valitudine in qua tunc erant. Tunc vero quinquaginta
+                        solidi illius monete <lb n="9" /> marcam valebant. Et si de moneta illa
+                        fieret contentio, pro .L. solidis mar<lb n="10" break="no" />ca solveretur.
                         Inde testes sunt : <persName key="d1e14557" xml:id="d1e140428">.R. abbas de
-                                <orgName key="stutzmann_himanis#283938" xml:id="d1e140430">Monasterio Sancti
+                                <orgName key="stutzmann_himanis#283938" xml:id="d1e140430" corresp="abbaye Saint-Jean de Réôme ou Moutier-Saint-Jean (440 -)">Monasterio Sancti
                                 Johannis</orgName>
-                        </persName>, <persName key="d1e14563" xml:id="d1e140433">.G. decanus <lb n="11"/> de <placeName key="stutzmann_himanis#324487" xml:id="d1e140437">Monte
+                        </persName>, <persName key="d1e14563" xml:id="d1e140433">.G. decanus <lb n="11" /> de <placeName key="stutzmann_himanis#324487" xml:id="d1e140437" corresp="Montbard (Côte-d'Or, Montbard)">Monte
                                 Barro</placeName>
                         </persName>, <persName key="d1e14569" xml:id="d1e140441">magister Erembertus
-                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e140443">Rubeo
+                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e140443" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo
                                 Monte</placeName>
-                        </persName>. Quicumque contra hoc quod de pre<lb n="12" break="no"/>fata
-                        gageria scripsimus ire voluerit, anatema sit.<figure rend="trait"/>
+                        </persName>. Quicumque contra hoc quod de pre<lb n="12" break="no" />fata
+                        gageria scripsimus ire voluerit, anatema sit.<figure rend="trait" />
                     </p>
                 
             </body>

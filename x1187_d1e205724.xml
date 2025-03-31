@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e205724">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1187_d1e205724" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2275</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -77,40 +78,40 @@
                     <date type="documentCreation" when="1187-12-31">1187</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_320_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_320_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e139342">Manasses, Dei gratia
-                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139344">Lingonensis</placeName> episcopus</persName>, notum fieri volo
-                        presentibus et futuris quod <persName key="d1e14175" xml:id="d1e139348">Johannes de <placeName key="stutzmann_himanis#325029" xml:id="d1e139350">Seneveio</placeName>
-                        </persName> quan<lb n="2" break="no"/>dam vineam acquitavit fratribus de
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139355">Fonteneto</orgName>
-                        apud <placeName key="stutzmann_himanis#324475" xml:id="d1e139358">Marmaniam</placeName> quam eis calumniabatur et dedit eis in <lb n="3"/> elemosinam quicquid habebat in pasturis <placeName key="stutzmann_himanis#325029" xml:id="d1e139364">Seneveii</placeName> a finagio <placeName key="stutzmann_himanis#324452" xml:id="d1e139367">Fontanarum</placeName> usque ad
+                                        <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e139342" corresp="Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)">Manasses, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139344" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, notum fieri volo
+                        presentibus et futuris quod <persName key="d1e14175" xml:id="d1e139348">Johannes de <placeName key="stutzmann_himanis#325029" xml:id="d1e139350" corresp="Seneveii">Seneveio</placeName>
+                        </persName> quan<lb n="2" break="no" />dam vineam acquitavit fratribus de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139355" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
+                        apud <placeName key="stutzmann_himanis#324475" xml:id="d1e139358" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> quam eis calumniabatur et dedit eis in <lb n="3" /> elemosinam quicquid habebat in pasturis <placeName key="stutzmann_himanis#325029" xml:id="d1e139364" corresp="Seneveii">Seneveii</placeName> a finagio <placeName key="stutzmann_himanis#324452" xml:id="d1e139367" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName> usque ad
                             <term>haiam</term>
-                        <placeName key="stutzmann_himanis#325029" xml:id="d1e139372">Seneveii</placeName>. <lb n="4"/> Et propter hoc habuit ab ipsis quendam <sic>equm</sic> precii
-                        librarum septem. Hinc testes sunt : <persName key="d1e14181" xml:id="d1e139381">Johannes tunc cel<lb n="5" break="no"/>lerarius
-                                <orgName key="stutzmann_himanis#282689" xml:id="d1e139385">Fonten(eti)</orgName>
-                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e139388">Oddo
-                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e139390">Tullionis</placeName>
+                        <placeName key="stutzmann_himanis#325029" xml:id="d1e139372" corresp="Seneveii">Seneveii</placeName>. <lb n="4" /> Et propter hoc habuit ab ipsis quendam <sic>equm</sic> precii
+                        librarum septem. Hinc testes sunt : <persName key="d1e14181" xml:id="d1e139381">Johannes tunc cel<lb n="5" break="no" />lerarius
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e139385" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten(eti)</orgName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e139388" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Oddo
+                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e139390" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, frater <persName key="d1e14187" xml:id="d1e139393">Petrus
-                            magister <placeName key="stutzmann_himanis#324452" xml:id="d1e139395">Fontanarum</placeName>
+                            magister <placeName key="stutzmann_himanis#324452" xml:id="d1e139395" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>
                         </persName>. Hoc laudavit <persName key="d1e14193" xml:id="d1e139398">Ilia</persName>
-                        <lb n="6"/> uxor illius, que pro laude habuit tres oves cum tribus agnis, et
+                        <lb n="6" /> uxor illius, que pro laude habuit tres oves cum tribus agnis, et
                             <persName key="d1e14199" xml:id="d1e139403">Hugo clericus filius
-                            ejus</persName>. Unde te<lb n="7" break="no"/>stes sunt : <persName key="d1e14205" xml:id="d1e139408">Rainaudus presbiter</persName>,
-                            <persName key="d1e14212" xml:id="d1e139411">Girardus de <placeName key="stutzmann_himanis#324466" xml:id="d1e139413">Lania</placeName>,
-                            carpentarius</persName>, <persName key="d1e14218" xml:id="d1e139417">frater Petrus</persName>. Laudavit hoc idem <persName key="d1e14224" xml:id="d1e139420">Girar<lb n="8" break="no"/>dus</persName>, filius
+                            ejus</persName>. Unde te<lb n="7" break="no" />stes sunt : <persName key="d1e14205" xml:id="d1e139408">Rainaudus presbiter</persName>,
+                            <persName key="d1e14212" xml:id="d1e139411">Girardus de <placeName key="stutzmann_himanis#324466" xml:id="d1e139413" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>,
+                            carpentarius</persName>, <persName key="d1e14218" xml:id="d1e139417">frater Petrus</persName>. Laudavit hoc idem <persName key="d1e14224" xml:id="d1e139420">Girar<lb n="8" break="no" />dus</persName>, filius
                         supradicti <persName key="d1e14230" xml:id="d1e139426">Johannis</persName>.
-                        Hinc testes sunt : <persName key="d1e14236" xml:id="d1e139429">Johannes</persName> pater ejus, <persName key="d1e14242" xml:id="d1e139432">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e139434">Fonten(eti)</orgName>
-                        </persName> et <persName key="d1e14249" xml:id="d1e139437">Willelmus, <lb n="9"/> prior</persName>, et <persName key="d1e14255" xml:id="d1e139442">frater Petrus</persName>. Actum est anno
+                        Hinc testes sunt : <persName key="d1e14236" xml:id="d1e139429">Johannes</persName> pater ejus, <persName key="d1e14242" xml:id="d1e139432">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e139434" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten(eti)</orgName>
+                        </persName> et <persName key="d1e14249" xml:id="d1e139437">Willelmus, <lb n="9" /> prior</persName>, et <persName key="d1e14255" xml:id="d1e139442">frater Petrus</persName>. Actum est anno
                         incarnationis Domini .M°. C°. LXXX°. VII°.</p>
                 
             </body>

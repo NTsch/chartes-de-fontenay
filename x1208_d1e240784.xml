@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240784">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e240784" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 292@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,27 +43,27 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e28698" xml:id="d1e164811">Robertus de <placeName key="stutzmann_himanis#325016" xml:id="d1e164813">Sancto Marcello</placeName>
+                <p>Ego <persName key="d1e28698" xml:id="d1e164811">Robertus de <placeName key="stutzmann_himanis#325016" xml:id="d1e164813" corresp="Sancto Marcello">Sancto Marcello</placeName>
                     </persName> omnibus notum facio presentes litteras inspecturis quod domina
-                        <persName key="d1e28704" xml:id="d1e164816">Gila uxor domini <persName key="d1e28710" xml:id="d1e164818">Odonis de <placeName key="stutzmann_himanis#324919" xml:id="d1e164820">Espeoruo</placeName>
+                        <persName key="d1e28704" xml:id="d1e164816">Gila uxor domini <persName key="d1e28710" xml:id="d1e164818">Odonis de <placeName key="stutzmann_himanis#324919" xml:id="d1e164820" corresp="Éporve (Côte-d'Or, Châtillon-sur-Seine)">Espeoruo</placeName>
                         </persName>
                     </persName> et filius ipsorum <persName key="d1e28716" xml:id="d1e164825">Odo</persName> laudaverunt in presentia mea elemosinam quam ecclesie et
-                    fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164828">Fonteneti</orgName>
+                    fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164828" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     fecerat dictus <persName key="d1e28722" xml:id="d1e164831">Odo</persName> apud
-                        <placeName key="stutzmann_himanis#324475" xml:id="d1e164835">Marmaniam</placeName>,
-                    scilicet de quadam terra que sita est subtus <placeName key="stutzmann_himanis#324907" xml:id="d1e164838">vadum Sancti Alerii</placeName> inter aquam et <placeName key="stutzmann_himanis#325232" xml:id="d1e164841">viam que de <placeName key="stutzmann_himanis#324453" xml:id="d1e164843">Fonteneto</placeName> venit
-                            <placeName key="stutzmann_himanis#324475" xml:id="d1e164846">Marmaniam</placeName>
-                    </placeName> et de alia terra et prato quod est supra <placeName key="stutzmann_himanis#325140" xml:id="d1e164849">molendini Marmanie</placeName> inter
-                    eamdem aquam et chiminum et de tribus jornalibus terre inter lamas<placeName key="stutzmann_himanis#324475" xml:id="d1e164859">Marmanie</placeName>. De laude
+                        <placeName key="stutzmann_himanis#324475" xml:id="d1e164835" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName>,
+                    scilicet de quadam terra que sita est subtus <placeName key="stutzmann_himanis#324907" xml:id="d1e164838" corresp="Saint-Hilaire (Côte-d'Or, Montbard)">vadum Sancti Alerii</placeName> inter aquam et <placeName key="stutzmann_himanis#325232" xml:id="d1e164841" corresp="viam que de Fonteneto venit Marmaniam">viam que de <placeName key="stutzmann_himanis#324453" xml:id="d1e164843" corresp="Fontenay (Côte-d'Or, Montbard)">Fonteneto</placeName> venit
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e164846" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName>
+                    </placeName> et de alia terra et prato quod est supra <placeName key="stutzmann_himanis#325140" xml:id="d1e164849" corresp="molendini Marmanie">molendini Marmanie</placeName> inter
+                    eamdem aquam et chiminum et de tribus jornalibus terre inter lamas<placeName key="stutzmann_himanis#324475" xml:id="d1e164859" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanie</placeName>. De laude
                     predicte <persName key="d1e28728" xml:id="d1e164862">Gile</persName> et
                         <persName key="d1e28735" xml:id="d1e164865">Odonis filii sui</persName>
                     mecum testes sunt dominus <persName key="d1e28741" xml:id="d1e164868">Petrus
-                        miles quondam major <placeName key="stutzmann_himanis#325198" xml:id="d1e164870">Castell…</placeName>
-                    </persName>, <persName key="d1e28747" xml:id="d1e164876">Gaufridus de <placeName key="stutzmann_himanis#324328" xml:id="d1e164878">
+                        miles quondam major <placeName key="stutzmann_himanis#325198" xml:id="d1e164870" corresp="Castell…">Castell…</placeName>
+                    </persName>, <persName key="d1e28747" xml:id="d1e164876">Gaufridus de <placeName key="stutzmann_himanis#324328" xml:id="d1e164878" corresp="Aignay-le-Duc (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Ennai</foreign>
                         </placeName>
-                    </persName>. Actum apud <placeName key="stutzmann_himanis#325198" xml:id="d1e164882">Castell<hi rend="background(cyan)">…</hi>
-                    </placeName> in <placeName key="stutzmann_himanis#325117" xml:id="d1e164888">domo ejusdem
+                    </persName>. Actum apud <placeName key="stutzmann_himanis#325198" xml:id="d1e164882" corresp="Castell…">Castell<hi rend="background(cyan)">…</hi>
+                    </placeName> in <placeName key="stutzmann_himanis#325117" xml:id="d1e164888" corresp="domo ejusdem domini Petri">domo ejusdem
                         domini Petri</placeName>.</p>
             </body>
         </text>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e191940">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1202_d1e191940" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 307</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -85,46 +86,46 @@
                     <date type="documentCreation" when="1202-12-31">1202</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_58_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_58_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_58_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_58_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                <p>Ego, <persName key="stutzmann_himanis#324673" xml:id="d1e130178">Haymo dictus abbas
-                                <orgName key="stutzmann_himanis#284217" xml:id="d1e130180">Flavin[iacensis]</orgName>
-                        </persName>, notum facio presentibus <lb n="2"/> et futuris quod <persName key="d1e11563" xml:id="d1e130185">Petrus, miles de <placeName key="stutzmann_himanis#324424" xml:id="d1e130187">Alisia</placeName>
-                        </persName>, dedit et concessit in perpetu<lb n="3" break="no"/>am
-                        elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130192">Fonten[eti]</orgName> vineam quamdam sitam apud <placeName key="stutzmann_himanis#324424" xml:id="d1e130196">Alisiam</placeName>
-                        <lb n="4"/> et querelam quam eidem ecclesie moverat de quodam prato bona
-                        fide guer<lb n="5" break="no"/>pivit ; laudans insuper et concedens quod si
-                            <persName key="d1e11569" xml:id="d1e130202">Harveus miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e130204">Fontanis</placeName>
+                <p>Ego, <persName key="stutzmann_himanis#324673" xml:id="d1e130178" corresp="Aimon, abbé de Flavigny (1199)">Haymo dictus abbas
+                                <orgName key="stutzmann_himanis#284217" xml:id="d1e130180" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flavin[iacensis]</orgName>
+                        </persName>, notum facio presentibus <lb n="2" /> et futuris quod <persName key="d1e11563" xml:id="d1e130185">Petrus, miles de <placeName key="stutzmann_himanis#324424" xml:id="d1e130187" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alisia</placeName>
+                        </persName>, dedit et concessit in perpetu<lb n="3" break="no" />am
+                        elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130192" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten[eti]</orgName> vineam quamdam sitam apud <placeName key="stutzmann_himanis#324424" xml:id="d1e130196" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alisiam</placeName>
+                        <lb n="4" /> et querelam quam eidem ecclesie moverat de quodam prato bona
+                        fide guer<lb n="5" break="no" />pivit ; laudans insuper et concedens quod si
+                            <persName key="d1e11569" xml:id="d1e130202">Harveus miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e130204" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
                         </persName>
-                        <lb n="6"/> vineam quam habet in supradicta villa prefate ecclesie vendere
-                        vel in elemosi<lb n="7" break="no"/>nam dare voluerit, quia est de casamento
-                        suo, absque sua contradictione libere <lb n="8"/> facere possit. Concessit
-                        etiam fratribus ejusdem ecclesie per totam terram <lb n="9"/> juris sui
-                        pasturam omnibus animalibus et peccoribus suis usualem et de om<lb n="10" break="no"/>ni terra de qua ipsa ecclesia eidem <persName key="d1e11575" xml:id="d1e130217">Petro</persName> decimas tunc debebat quando <lb n="11"/> presens carta facta fuit, ipsas decimas condonavit. Hoc totum
-                            lau<lb n="12" break="no"/>davit <persName key="d1e11582" xml:id="d1e130224">Regina, uxor sua</persName>, et <persName key="d1e11588" xml:id="d1e130228">Petrus ipsorum filius</persName>.
-                        Horum omnium testes <lb n="13"/> sunt <persName key="d1e11594" xml:id="d1e130233">Garnerius de <placeName key="stutzmann_himanis#324480" xml:id="d1e130235">
+                        <lb n="6" /> vineam quam habet in supradicta villa prefate ecclesie vendere
+                        vel in elemosi<lb n="7" break="no" />nam dare voluerit, quia est de casamento
+                        suo, absque sua contradictione libere <lb n="8" /> facere possit. Concessit
+                        etiam fratribus ejusdem ecclesie per totam terram <lb n="9" /> juris sui
+                        pasturam omnibus animalibus et peccoribus suis usualem et de om<lb n="10" break="no" />ni terra de qua ipsa ecclesia eidem <persName key="d1e11575" xml:id="d1e130217">Petro</persName> decimas tunc debebat quando <lb n="11" /> presens carta facta fuit, ipsas decimas condonavit. Hoc totum
+                            lau<lb n="12" break="no" />davit <persName key="d1e11582" xml:id="d1e130224">Regina, uxor sua</persName>, et <persName key="d1e11588" xml:id="d1e130228">Petrus ipsorum filius</persName>.
+                        Horum omnium testes <lb n="13" /> sunt <persName key="d1e11594" xml:id="d1e130233">Garnerius de <placeName key="stutzmann_himanis#324480" xml:id="d1e130235" corresp="Mauvilly (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Mavoli</foreign>
-                            </placeName>, monachus <orgName key="stutzmann_himanis#284217" xml:id="d1e130239">Flavin<supplied>iacensis</supplied>
+                            </placeName>, monachus <orgName key="stutzmann_himanis#284217" xml:id="d1e130239" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flavin<supplied>iacensis</supplied>
                             </orgName>
                         </persName>, <persName key="d1e11600" xml:id="d1e130244">Petrus presbiter de
-                                <placeName key="stutzmann_himanis#324424" xml:id="d1e130246">Alisia</placeName>
-                        </persName>, <lb n="14"/>
+                                <placeName key="stutzmann_himanis#324424" xml:id="d1e130246" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alisia</placeName>
+                        </persName>, <lb n="14" />
                         <persName key="d1e30924" xml:id="d1e130250">Harveus miles de
                             Fontanis</persName>, <persName key="d1e11606" xml:id="d1e130254">Gauterius <addName>
                                 <foreign>Li Gais</foreign>
                             </addName>
                         </persName>, <persName key="d1e11612" xml:id="d1e130260">Haymo filius
-                                <persName key="d1e11619" xml:id="d1e130262">Bero<lb n="15" break="no"/>ni</persName>
+                                <persName key="d1e11619" xml:id="d1e130262">Bero<lb n="15" break="no" />ni</persName>
                         </persName>. Quod totum ut ratum sit, sigilli nostri munimine roboratur,
-                            an<lb n="16" break="no"/>no verbi incarnati millesimo <num>cc°
+                            an<lb n="16" break="no" />no verbi incarnati millesimo <num>cc°
                         ii°</num>.</p>
                 
             </body>

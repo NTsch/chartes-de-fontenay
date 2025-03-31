@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1144_d1e214001">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1144_d1e214001" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 12@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,82 +38,107 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324636" xml:id="d1e145055">Lucius episcopus</persName>,
-                    servus servorum Dei, dilectis filiis <persName key="d1e16950" xml:id="d1e145058">Willermo</persName> monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e145062">Fonteneto</orgName> ejusque fratribus tam presentibus
-                    quam futuris regularem vitam professis, <app>
-                        <lem wit="#a">in perpetuum</lem>
-                        <rdg wit="#B">in pontificatu pontifex maximus</rdg>
-                        <note>Variante issue de l’abréviation ‘in ppm’ et corrigée silencieusement
-                            par Wiederhold</note>
-                    </app>. Ad hoc universalis ecclesiae cura nobis a provisore omnium bonorum Deo
-                    commissa est, ut religiosas diligamus personas et beneplacentem Deo religionem
-                    studeamus modis omnibus propagare ; nec <app>
-                        <lem>etiam</lem>
-                        <rdg wit="#a">enim</rdg>
-                    </app> Deo gratus aliquando famulatus impenditur, nisi ex caritatis radice
-                    procedens a puritate religionis fuerit conservatus. Eapropter, dilecti in Domino
-                    filii, vestris justis postulationibus clementer annuimus <app>
-                        <lem>et</lem>
-                        <rdg wit="#B">et</rdg>
-                        <note>corrigé d’après le sens a</note>
-                    </app> prefatum beatae Dei genitricis Mariae monasterium, in quo divino
-                    mancipati estis obsequio, sub beati Petri et nostra protectione suscipimus et
-                    presentis scripti privilegio communimus. Statuentes ut quascumque possessiones
-                    quaecumque bona idem monasterium in presentiarum juste et canonice possidet aut
-                    in futurum concessione pontificum, largitione regum vel principum, oblatione
-                    fidelium seu aliis justis modis Deo propitio poterit adipisci, firma vobis
-                    vestrisque successoribus et illibata permaneant. In quibus haec propriis duximus
-                    exprimenda vocabulis locum ipsum videlicet ubi abbatia constructa est, cum
-                    omnibus appenditiis suis sicut a bonae memoriae <persName key="d1e16956" xml:id="d1e145088">Stephano Eduensi</persName> vobis religionis intuitu
-                    concessus est ; grangiam <placeName key="stutzmann_himanis#325165" xml:id="d1e145091">Carmeti</placeName> cum appenditiis suis, usuaria terrae ipsius scilicet
-                    terras ad excolendum sine tertiis, pasturas animalium, pastionem pecorum, nemora
-                    ad edificandum et ardendum, aquas ad piscandum ; grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e145094">Flaciaci</placeName> ex dono
-                        <persName key="d1e16962" xml:id="d1e145097">Rainardi domini Montis
-                        Barri</persName>, <placeName key="stutzmann_himanis#324479" xml:id="d1e145100">Aringias</placeName> et <placeName key="stutzmann_himanis#324452" xml:id="d1e145104">Fontanas</placeName> et usuaria in omni terra ejus, pasturas scilicet
-                    pecorum et pastionem porcorum, nemora <app>
-                        <lem wit="#a">
-                            <supplied>ad</supplied>
-                        </lem>
-                        <rdg type="nihil" wit="#B"/>
-                        <note>Omis B, restitué d’après le sens sans indication a.</note>
-                    </app> aedificandum et ardendum, terras ad excolendum sine tertiis, aquas ad
-                    piscandum ; grangiam <placeName key="stutzmann_himanis#324343" xml:id="d1e145115">Puteoli
-                        Franci</placeName> ex dono <persName key="stutzmann_himanis#324644" xml:id="d1e145118">Hugonis ducis</persName>, <persName key="d1e16968" xml:id="d1e145121">Guillelmi de <placeName key="stutzmann_himanis#324442" xml:id="d1e145123">Duismo</placeName>
-                    </persName>, <persName key="d1e16974" xml:id="d1e145126">Roberti de <placeName key="stutzmann_himanis#325025" xml:id="d1e145128">Sarmasia</placeName>
-                    </persName>, et <persName key="d1e16980" xml:id="d1e145132">Milonis fratris
-                        ejus</persName> ; grangiam <placeName key="stutzmann_himanis#325010" xml:id="d1e145135">Sancti Aniani</placeName>. Sane laborum vestrorum quos
-                    propriis manibus aut sumptibus colitis, sive de nutrimentis vestrorum animalium,
-                    nullus omnino clericus vel laicus decimas a vobis exigere presumat. Decernimus
-                    ergo ut nulli omnino hominum liceat prefatum monasterium temere perturbare aut
-                    ejus possessiones aufferre vel ablatas retinere, minuere aut aliquibus
-                    vexationibus fatigare, sed omnia integra conserventur, eorum pro quorum
-                    gubernatione et sustentatione concessa sunt usibus omnimodis profutura, salva in
-                    omnibus apostolicae sedis aucthoritate. Si qua igitur in futurum ecclesiastica
-                    secularisve persona hanc nostrae constitutionis paginam sciens contra eam temere
-                    venire temptaverit, secundo tertiove commonita, si non satisfactione congrua
-                    emedaverit, potestatis honorisque sui dignitate careat <app>
-                        <lem wit="#a">reamque</lem>
-                        <rdg wit="#B">reaque</rdg>
-                        <note> reaque B, restitué d’après le sens sans indication a.</note>
-                    </app> se divino judicio existere de perpetrata iniquitate cognoscat et a
-                    sacratissimo corpore ac sanguine Dei et domini redemptoris nostri Jesu Christi
-                    aliena fiat atque in extremo examine districtae ultioni subjaceat. Cunctis autem
-                    eidem loco justa servantibus sit pax Domini nostri Jesu Christi, quatinus et hic
-                    fructum bonae actionis percipiant et apud districtum judicem premia eternae
-                    pacis inveniant. Amen. Amen.</p>
+                <persName key="stutzmann_himanis#324636" xml:id="d1e145055"
+                    corresp="Lucius II papa (1144-1145)">Lucius episcopus</persName>, servus
+                servorum Dei, dilectis filiis <persName key="stutzmann_himanis#324659"
+                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Willermo</persName>
+                monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e145062"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> ejusque
+                fratribus tam presentibus quam futuris regularem vitam professis, <app>
+                    <lem wit="#a">in perpetuum</lem>
+                    <rdg wit="#B">in pontificatu pontifex maximus</rdg>
+                    <note>Variante issue de l’abréviation ‘in ppm’ et corrigée silencieusement par
+                        Wiederhold</note>
+                </app>. Ad hoc universalis ecclesiae cura nobis a provisore omnium bonorum Deo
+                commissa est, ut religiosas diligamus personas et beneplacentem Deo religionem
+                studeamus modis omnibus propagare ; nec <app>
+                    <lem>etiam</lem>
+                    <rdg wit="#a">enim</rdg>
+                </app> Deo gratus aliquando famulatus impenditur, nisi ex caritatis radice procedens
+                a puritate religionis fuerit conservatus. Eapropter, dilecti in Domino filii,
+                vestris justis postulationibus clementer annuimus <app>
+                    <lem>et</lem>
+                    <rdg wit="#B">et</rdg>
+                    <note>corrigé d’après le sens a</note>
+                </app> prefatum beatae Dei genitricis Mariae monasterium, in quo divino mancipati
+                estis obsequio, sub beati Petri et nostra protectione suscipimus et presentis
+                scripti privilegio communimus. Statuentes ut quascumque possessiones quaecumque bona
+                idem monasterium in presentiarum juste et canonice possidet aut in futurum
+                concessione pontificum, largitione regum vel principum, oblatione fidelium seu aliis
+                justis modis Deo propitio poterit adipisci, firma vobis vestrisque successoribus et
+                illibata permaneant. In quibus haec propriis duximus exprimenda vocabulis locum
+                ipsum videlicet ubi abbatia constructa est, cum omnibus appenditiis suis sicut a
+                bonae memoriae <persName key="stutzmann_himanis#324643"
+                    corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephano
+                    Eduensi</persName> vobis religionis intuitu concessus est ; grangiam <placeName
+                    key="stutzmann_himanis#325165" xml:id="d1e145091" corresp="Carmeti"
+                    >Carmeti</placeName> cum appenditiis suis, usuaria terrae ipsius scilicet terras
+                ad excolendum sine tertiis, pasturas animalium, pastionem pecorum, nemora ad
+                edificandum et ardendum, aquas ad piscandum ; grangiam <placeName
+                    key="stutzmann_himanis#324451" xml:id="d1e145094"
+                    corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName> ex dono <persName
+                    key="stutzmann_himanis#325498" corresp="Renard, seigneur de Montbard (fl. 1136)"
+                    >Rainardi domini <placeName>Montis Barri</placeName></persName>, <placeName
+                    key="stutzmann_himanis#324479" xml:id="d1e145100"
+                    corresp="Éringes (Côte-d'Or, Montbard)">Aringias</placeName> et <placeName
+                    key="stutzmann_himanis#324452" xml:id="d1e145104"
+                    corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)"
+                    >Fontanas</placeName> et usuaria in omni terra ejus, pasturas scilicet pecorum
+                et pastionem porcorum, nemora <app>
+                    <lem wit="#a">
+                        <supplied>ad</supplied>
+                    </lem>
+                    <rdg type="nihil" wit="#B"/>
+                    <note>Omis B, restitué d’après le sens sans indication a.</note>
+                </app> aedificandum et ardendum, terras ad excolendum sine tertiis, aquas ad
+                piscandum ; grangiam <placeName key="stutzmann_himanis#324343" xml:id="d1e145115"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteoli Franci</placeName>
+                ex dono <persName key="stutzmann_himanis#324644" xml:id="d1e145118"
+                    corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugonis ducis</persName>,
+                    <persName key="stutzmann_himanis#327605"
+                    corresp="Guillaume de Duesme (fl. 1136)">Guillelmi de <placeName
+                        key="stutzmann_himanis#324442" xml:id="d1e145123"
+                        corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
+                </persName>, <persName key="stutzmann_himanis#326066"
+                    corresp="Robert de Salmaise (fl. 1143)">Roberti de <placeName
+                        key="stutzmann_himanis#325025" xml:id="d1e145128">Sarmasia</placeName>
+                </persName>, et <persName key="stutzmann_himanis#325831"
+                    corresp="Milon, fils d'Osmond de Venarey (fl. 1136)">Milonis fratris
+                    ejus</persName> ; grangiam <placeName key="stutzmann_himanis#325010"
+                    xml:id="d1e145135" corresp="Saint-Agnan (Nièvre, Montsauche)">Sancti
+                    Aniani</placeName>. Sane laborum vestrorum quos propriis manibus aut sumptibus
+                colitis, sive de nutrimentis vestrorum animalium, nullus omnino clericus vel laicus
+                decimas a vobis exigere presumat. Decernimus ergo ut nulli omnino hominum liceat
+                prefatum monasterium temere perturbare aut ejus possessiones aufferre vel ablatas
+                retinere, minuere aut aliquibus vexationibus fatigare, sed omnia integra
+                conserventur, eorum pro quorum gubernatione et sustentatione concessa sunt usibus
+                omnimodis profutura, salva in omnibus apostolicae sedis aucthoritate. Si qua igitur
+                in futurum ecclesiastica secularisve persona hanc nostrae constitutionis paginam
+                sciens contra eam temere venire temptaverit, secundo tertiove commonita, si non
+                satisfactione congrua emedaverit, potestatis honorisque sui dignitate careat <app>
+                    <lem wit="#a">reamque</lem>
+                    <rdg wit="#B">reaque</rdg>
+                    <note> reaque B, restitué d’après le sens sans indication a.</note>
+                </app> se divino judicio existere de perpetrata iniquitate cognoscat et a
+                sacratissimo corpore ac sanguine Dei et domini redemptoris nostri Jesu Christi
+                aliena fiat atque in extremo examine districtae ultioni subjaceat. Cunctis autem
+                eidem loco justa servantibus sit pax Domini nostri Jesu Christi, quatinus et hic
+                fructum bonae actionis percipiant et apud districtum judicem premia eternae pacis
+                inveniant. Amen. Amen.</p>
                 <p>[<hi rend="italic">Rota</hi>]<witDetail wit="#a"> Description de la rota
-                        omise</witDetail>  <witDetail wit="#B">B ajoute la mention : "In
-                        sigillo"</witDetail>Sanctus Petrus, sanctus Paulus, <persName key="d1e16987" xml:id="d1e145159">Lucius papa secundus</persName>.</p>
+                    omise</witDetail>  <witDetail wit="#B">B ajoute la mention : "In
+                    sigillo"</witDetail>Sanctus Petrus, sanctus Paulus, <persName
+                    key="stutzmann_himanis#324636" corresp="Lucius II papa (1144-1145)">Lucius papa
+                    secundus</persName>.</p>
                 <p>
                     <witDetail wit="#B">B ajoute la mention : "In legenda"</witDetail>Ostende nobis
                     Domine misericordiam tuam</p>
                 <p>
                     <witDetail wit="#B">Souscriptions copiées sans retour à la ligne B</witDetail>
                     <witDetail wit="#a">croix, mentions de souscriptions et abréviations ajoutées
-                        selon le formulaire pontifical </witDetail>Ego <persName key="stutzmann_himanis#324636" xml:id="d1e145172">Lucius catholicae ecclesiae
+                        selon le formulaire pontifical </witDetail>Ego <persName key="stutzmann_himanis#324636" xml:id="d1e145172" corresp="Lucius II papa (1144-1145)">Lucius catholicae ecclesiae
                         episcopus</persName>. </p>
-                <p>Ego <persName key="d1e16993" xml:id="d1e145177">Conradus Sabinensis
-                        episcopus</persName>. </p>
+                <p>Ego <persName key="notidentified">Conradus Sabinensis episcopus</persName>. </p>
                 <p>Ego <persName key="d1e16999" xml:id="d1e145182">Theodeuvinus sanctae Rufinae
                         episcopus</persName>. </p>
                 <p>Ego <persName key="d1e17005" xml:id="d1e145187">Albericus Ostiensis
@@ -154,7 +180,7 @@
                             <rdg wit="#B">Noye</rdg>
                         </app>
                     </persName>.</p>
-                <p>Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e145274">Laterani</placeName> per
+                <p>Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e145274" corresp="Laterani">Laterani</placeName> per
                     manum <persName key="d1e17098" xml:id="d1e145277">Baronis capellani et <app>
                             <lem wit="#a">scriptoris</lem>
                             <rdg wit="#B">secretarii</rdg>
@@ -173,7 +199,7 @@
                         <lem>
                             <supplied>[anno]</supplied>
                         </lem>
-                        <rdg wit="#B" type="omis"/>
+                        <rdg wit="#B" type="omis" />
                         <note>Omis B, corrigé selon le formulaire pontifical par a.</note>
                     </app>
                     <app>

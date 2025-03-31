@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e207887">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1186_d1e207887" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2568 + Access n° 2570</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -148,75 +149,75 @@
                     <date type="documentCreation" when="1186-12-31">1186</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_199_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_199_0009.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_199_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_199_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0009.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e140906">Stephanus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e140908">Eduensis</placeName> episcopus</persName>, notum facio omnibus tam
-                        futuris quam presentibus <lb n="2"/> quod <persName key="d1e14711" xml:id="d1e140914">
+                                        <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e140906" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e140908" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio omnibus tam
+                        futuris quam presentibus <lb n="2" /> quod <persName key="d1e14711" xml:id="d1e140914">
                             <app>
                                 <lem wit="A2">Raimundus</lem>
                                 <rdg wit="A1">Raimudus</rdg>
-                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e140921">Lucennaco</placeName>
-                        </persName> in obitu suo dedit domui et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e140924">Fonteneti</orgName> pro <lb n="3"/> remedio anime sue, patris quoque ac matris, fratrum et sororum,
-                        necnon et antecessorum suorum pasturas <lb n="4"/> territorii de <placeName key="stutzmann_himanis#324470" xml:id="d1e140932">Lucennaco</placeName> tam in
-                        bosco quam in plano, sicut dividit chiminus qui <lb n="5"/> ducit de
-                            <placeName key="stutzmann_himanis#324426" xml:id="d1e140937">Castellione</placeName> versus <placeName key="stutzmann_himanis#322865" xml:id="d1e140940">
+                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e140921" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
+                        </persName> in obitu suo dedit domui et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e140924" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro <lb n="3" /> remedio anime sue, patris quoque ac matris, fratrum et sororum,
+                        necnon et antecessorum suorum pasturas <lb n="4" /> territorii de <placeName key="stutzmann_himanis#324470" xml:id="d1e140932" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName> tam in
+                        bosco quam in plano, sicut dividit chiminus qui <lb n="5" /> ducit de
+                            <placeName key="stutzmann_himanis#324426" xml:id="d1e140937" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName> versus <placeName key="stutzmann_himanis#322865" xml:id="d1e140940" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">
                             <app>
                                 <lem wit="A1">Flaviniacum</lem>
                                 <rdg wit="A2">Flavineium</rdg>
                             </app>
-                        </placeName> a parte <placeName key="stutzmann_himanis#324370" xml:id="d1e140947">Tullionis</placeName> usque ad ipsum chiminum, <lb n="6"/> hoc retento
+                        </placeName> a parte <placeName key="stutzmann_himanis#324370" xml:id="d1e140947" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> usque ad ipsum chiminum, <lb n="6" /> hoc retento
                         quod si animalia eorum in pratis vel in bladis dampnum aliquod intulerint
-                            <lb n="7"/> ipsi dampnum illatum restituant sine alia emendatione. Hoc
+                            <lb n="7" /> ipsi dampnum illatum restituant sine alia emendatione. Hoc
                         ipsum laudavit <persName key="d1e14717" xml:id="d1e140955">Agnes</persName>
-                        <lb n="8"/> mater ejusdem <persName key="d1e14723" xml:id="d1e140959">Raimundi</persName> et <persName key="d1e14730" xml:id="d1e140962">Margarita</persName> uxor ejus et <persName key="d1e14736" xml:id="d1e140966">Helisabeth</persName> soror ejus et <persName key="d1e14742" xml:id="d1e140969">Gille<lb n="9" break="no"/>bertus de
-                                <placeName key="stutzmann_himanis#324460" xml:id="d1e140973">Grisinneio</placeName>
-                        </persName>, maritus ejusdem <persName key="d1e14748" xml:id="d1e140976">Helisabeth</persName>. Horum omnium testes sunt <persName key="d1e14754" xml:id="d1e140979">Willelmus, <lb n="10"/> prior <orgName key="stutzmann_himanis#282689" xml:id="d1e140983">Fonteneti</orgName>
+                        <lb n="8" /> mater ejusdem <persName key="d1e14723" xml:id="d1e140959">Raimundi</persName> et <persName key="d1e14730" xml:id="d1e140962">Margarita</persName> uxor ejus et <persName key="d1e14736" xml:id="d1e140966">Helisabeth</persName> soror ejus et <persName key="d1e14742" xml:id="d1e140969">Gille<lb n="9" break="no" />bertus de
+                                <placeName key="stutzmann_himanis#324460" xml:id="d1e140973" corresp="Grésigny-Sainte-Reine (Côte-d'Or, Montbard)">Grisinneio</placeName>
+                        </persName>, maritus ejusdem <persName key="d1e14748" xml:id="d1e140976">Helisabeth</persName>. Horum omnium testes sunt <persName key="d1e14754" xml:id="d1e140979">Willelmus, <lb n="10" /> prior <orgName key="stutzmann_himanis#282689" xml:id="d1e140983" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName>, <persName key="d1e14760" xml:id="d1e140986">Philippus de
-                                <placeName key="stutzmann_himanis#325251" xml:id="d1e140988">Curte
+                                <placeName key="stutzmann_himanis#325251" xml:id="d1e140988" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
                                 Rabodi</placeName>
                         </persName> monachus, <persName key="d1e14767" xml:id="d1e140991">Andreas de
-                                <placeName key="stutzmann_himanis#324421" xml:id="d1e140993">Busseio</placeName>
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e140993" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Busseio</placeName>
                         </persName>
                         <app>
                             <lem wit="A1">monachus</lem>
                             <rdg wit="A2"> monacus</rdg>
-                        </app>, <lb n="11"/>
+                        </app>, <lb n="11" />
                         <persName key="d1e14773" xml:id="d1e141003">Matheus <app>
                                 <lem wit="A2">monacus</lem>
                                 <rdg wit="A1"> monachus</rdg>
-                            </app> de <orgName key="stutzmann_himanis#284222" xml:id="d1e141011">Firmitate</orgName>
+                            </app> de <orgName key="stutzmann_himanis#284222" xml:id="d1e141011" corresp="abbaye de la Ferté-sur-Grosne (1113 -)">Firmitate</orgName>
                         </persName>, <persName key="d1e14779" xml:id="d1e141014">Bernardus magister
-                            de <placeName key="stutzmann_himanis#324449" xml:id="d1e141016">
+                            de <placeName key="stutzmann_himanis#324449" xml:id="d1e141016" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
-                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e141020">Odo
-                            archipresbiter <lb n="12"/> de <placeName key="stutzmann_himanis#324370" xml:id="d1e141024">Tullione</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e141020" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                            archipresbiter <lb n="12" /> de <placeName key="stutzmann_himanis#324370" xml:id="d1e141024" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
                         </persName>, <persName key="d1e14785" xml:id="d1e141027">Walterius canonicus
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e141029">Eduensis</placeName>
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e141029" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         </persName>, <persName key="d1e14791" xml:id="d1e141033">Walterius de
-                                <placeName key="stutzmann_himanis#324407" xml:id="d1e141035">Bennopera</placeName>
-                        </persName>, <persName key="d1e14797" xml:id="d1e141038">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e141040">
-                                <foreign>Len<lb n="13" break="no"/>tille</foreign>
+                                <placeName key="stutzmann_himanis#324407" xml:id="d1e141035" corresp="Beneuvre (Côte-d'Or, Châtillon-sur-Seine)">Bennopera</placeName>
+                        </persName>, <persName key="d1e14797" xml:id="d1e141038">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e141040" corresp="Lantilly (Côte-d'Or, Semur-en-Auxois)">
+                                <foreign>Len<lb n="13" break="no" />tille</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e14804" xml:id="d1e141046">Annas de <placeName key="stutzmann_himanis#324470" xml:id="d1e141048">Lucennaco</placeName>
-                        </persName>, miles ejusdem <persName key="d1e14810" xml:id="d1e141051">Raimundi</persName>, <persName key="d1e14816" xml:id="d1e141054">Robertus major <placeName key="stutzmann_himanis#324421" xml:id="d1e141056">Bus<lb n="14" break="no"/>seii</placeName>
+                        </persName>, <persName key="d1e14804" xml:id="d1e141046">Annas de <placeName key="stutzmann_himanis#324470" xml:id="d1e141048" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
+                        </persName>, miles ejusdem <persName key="d1e14810" xml:id="d1e141051">Raimundi</persName>, <persName key="d1e14816" xml:id="d1e141054">Robertus major <placeName key="stutzmann_himanis#324421" xml:id="d1e141056" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Bus<lb n="14" break="no" />seii</placeName>
                         </persName>, <persName key="d1e14822" xml:id="d1e141061">Rainaudus major
-                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141063">Tullionis</placeName>
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141063" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, <persName key="d1e14828" xml:id="d1e141067">Johannes de
-                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141069">Tullione</placeName> filius <persName key="d1e14834" xml:id="d1e141072">Roberti</persName>
-                        </persName>. <lb n="15"/> Factum est hoc anno ab incarnatione Domini .M°.
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141069" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName> filius <persName key="d1e14834" xml:id="d1e141072">Roberti</persName>
+                        </persName>. <lb n="15" /> Factum est hoc anno ab incarnatione Domini .M°.
                         C°. LXXX° VI°.</p>
                 
             </body>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1199_d1e237001">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1199_d1e237001" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 182@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -40,11 +41,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e162161">O. dux <placeName key="stutzmann_himanis#325098" xml:id="d1e162163">Burgundie</placeName>
-                    </persName>, presentibus et futuris notum fieri volo quod cum <persName key="d1e27717" xml:id="d1e162166">Osmundus miles de <placeName key="stutzmann_himanis#324355" xml:id="d1e162168">Rubeo Monte</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e162161" corresp="Eudes III, duc de Bourgogne (1192-1218)">O. dux <placeName key="stutzmann_himanis#325098" xml:id="d1e162163" corresp="Bourgogne">Burgundie</placeName>
+                    </persName>, presentibus et futuris notum fieri volo quod cum <persName key="d1e27717" xml:id="d1e162166">Osmundus miles de <placeName key="stutzmann_himanis#324355" xml:id="d1e162168" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName>
                     </persName> dedisset in elemosinam piscaturam in aquis suis pasturas et
                     aasentias in omni terra sua in bosco et plano, in monte et valle ecclesie
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e162171">sancte Marie de
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e162171" corresp="abbaye Notre-Dame de Fontenay (1119 -)">sancte Marie de
                         Fonteneto</orgName>, <persName key="d1e27723" xml:id="d1e162174">Humbaudus
                         filius ejus</persName>, cum eamdem elemosinam diu reclamasset, tandem
                     prudentum virorum usus consilio supra dictam elemosinam et laudavit et donavit
@@ -56,7 +57,7 @@
                     focum et ad construendam bordam et rameriam. Si vero ipsi vel animalia eorum
                     aliquod dampnum intulerint ubi dampnum probamen fuerit reddentes capitale liberi
                     erunt et quiti. Et ut ratum permaneat sigilli mei auctoritate presentem paginam
-                    roboravi. Hujus doni et elemosine testes sunt <persName key="d1e27742" xml:id="d1e162187">Bernardus abbas</persName>, <persName key="d1e27748" xml:id="d1e162190">Johannes</persName> et <persName key="d1e27754" xml:id="d1e162193">Andreas</persName> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e162196">Fonteneto</orgName>, <persName key="d1e27760" xml:id="d1e162199">Josbertus de <placeName key="stutzmann_himanis#324953" xml:id="d1e162201">
+                    roboravi. Hujus doni et elemosine testes sunt <persName key="d1e27742" xml:id="d1e162187">Bernardus abbas</persName>, <persName key="d1e27748" xml:id="d1e162190">Johannes</persName> et <persName key="d1e27754" xml:id="d1e162193">Andreas</persName> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e162196" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, <persName key="d1e27760" xml:id="d1e162199">Josbertus de <placeName key="stutzmann_himanis#324953" xml:id="d1e162201" corresp="Mise">
                             <foreign>Mise</foreign>
                         </placeName>
                     </persName>, <persName key="d1e27766" xml:id="d1e162208">Garinus <addName>

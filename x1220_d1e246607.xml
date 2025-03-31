@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1220_d1e246607">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1220_d1e246607" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original @</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -18,7 +19,7 @@
 
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -34,22 +35,22 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324635" xml:id="d1e168778">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168780">Burgundiae</placeName>
+                    <persName key="stutzmann_himanis#324635" xml:id="d1e168778" corresp="Hugues IV, duc de Bourgogne (1218-1272)">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168780" corresp="Bourgogne">Burgundiae</placeName>
                     </persName>, ominibus praesentes litteras inspecturis salutem. Noveritis quod in
                     nostra praesentia constituta <persName key="d1e29999" xml:id="d1e168783">nobilis
-                        mulier, dilecta et fidelis nostra Blancha, domina <placeName key="stutzmann_himanis#324369" xml:id="d1e168785">Sonbernonis</placeName>
-                    </persName>, recognovit quod defunctus <persName key="d1e30005" xml:id="d1e168788">Herveus, quondam maritus suus, dominus <placeName key="stutzmann_himanis#324369" xml:id="d1e168790">Sombernonis</placeName>
+                        mulier, dilecta et fidelis nostra Blancha, domina <placeName key="stutzmann_himanis#324369" xml:id="d1e168785" corresp="Sombernon (Côte-d'Or, Talant)">Sonbernonis</placeName>
+                    </persName>, recognovit quod defunctus <persName key="d1e30005" xml:id="d1e168788">Herveus, quondam maritus suus, dominus <placeName key="stutzmann_himanis#324369" xml:id="d1e168790" corresp="Sombernon (Côte-d'Or, Talant)">Sombernonis</placeName>
                     </persName>, in extremis laborans, dedit et concessit in pura et perpetua
                     eleemosyna, pro remedio animae suae et antecessorum suorum, Deo et ecclesiae
-                    Beatae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168793">Fonteneto</orgName> et fratribus ibidem Deo servientibus, centum solidos
+                    Beatae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168793" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> et fratribus ibidem Deo servientibus, centum solidos
                     divionensium ; et praecepit quod assiderentur eisdem percipiendi singulis annis
                     in sua terra de suo capite. Ipsa vero <persName key="d1e30011" xml:id="d1e168796">Blancha</persName> supradicta, attendens devotionem
                     mariti sui defuncti et volens satisfacere animae ipsius et antecessorum suorum
-                    dictam eleemosynam laudavit et dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168799">Fonteneti</orgName> dictos centum solidos divionensium
+                    dictam eleemosynam laudavit et dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168799" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> dictos centum solidos divionensium
                     assedit percipiendos singulis annis in proventibus nundinarum Sancti Machuti de
-                        <placeName key="stutzmann_himanis#324369" xml:id="d1e168803">Sonbernone</placeName>.
-                    In cujus rei testimonium, ad ipsius <persName key="d1e30017" xml:id="d1e168806">Blanchae dominae <placeName key="stutzmann_himanis#324369" xml:id="d1e168808">Sombernonis</placeName>
-                    </persName> petitionem dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168811">Fonteneti</orgName> tradi fecimus litteras, sigilli
+                        <placeName key="stutzmann_himanis#324369" xml:id="d1e168803" corresp="Sombernon (Côte-d'Or, Talant)">Sonbernone</placeName>.
+                    In cujus rei testimonium, ad ipsius <persName key="d1e30017" xml:id="d1e168806">Blanchae dominae <placeName key="stutzmann_himanis#324369" xml:id="d1e168808" corresp="Sombernon (Côte-d'Or, Talant)">Sombernonis</placeName>
+                    </persName> petitionem dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168811" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> tradi fecimus litteras, sigilli
                     nostri munimine roboratas. Actum anno Domini <num>M. CC.</num> quadragesimo
                     secundo, mense Januario.</p>
             </body>

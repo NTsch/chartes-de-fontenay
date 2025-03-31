@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e240985">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e240985" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 238@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -45,19 +46,19 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e164936">Galterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e164938">Æduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e164936" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e164938" corresp="Autun (Saône-et-Loire, Autun)">Æduensis</placeName>
                         episcopus</persName>, notum facimus omnibus presentes litteras inspecturis
-                    quod <persName key="d1e28753" xml:id="d1e164942">Joannes de <placeName key="stutzmann_himanis#324452" xml:id="d1e164944">Fontanis</placeName>
+                    quod <persName key="d1e28753" xml:id="d1e164942">Joannes de <placeName key="stutzmann_himanis#324452" xml:id="d1e164944" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
                     </persName> et <persName key="d1e28759" xml:id="d1e164947">Andreas, frater
-                        ejus</persName>, concesserunt et donaverunt in elemosinam ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e164950">Fontenetensi</orgName> pro remedio
+                        ejus</persName>, concesserunt et donaverunt in elemosinam ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e164950" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensi</orgName> pro remedio
                     animæ <persName key="d1e28765" xml:id="d1e164953">matris suæ</persName> et
-                    antecessorum suorum decimam quam habebant in vineis de <placeName key="stutzmann_himanis#322865" xml:id="d1e164957">Flavigniaco</placeName> et de
-                        <placeName key="stutzmann_himanis#324424" xml:id="d1e164960">Alizia</placeName>, quæ
+                    antecessorum suorum decimam quam habebant in vineis de <placeName key="stutzmann_himanis#322865" xml:id="d1e164957" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flavigniaco</placeName> et de
+                        <placeName key="stutzmann_himanis#324424" xml:id="d1e164960" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alizia</placeName>, quæ
                     erat de capite <persName key="d1e28772" xml:id="d1e164963">dictæ matris
                         eorumdem</persName>. Facta est autem hæc donatio ab ipsis de assensu et
                     voluntate <persName key="d1e28778" xml:id="d1e164966">Huei patris
-                    sui</persName>, in <placeName key="stutzmann_himanis#324453" xml:id="d1e164969">capitulo
+                    sui</persName>, in <placeName key="stutzmann_himanis#324453" xml:id="d1e164969" corresp="Fontenay (Côte-d'Or, Montbard)">capitulo
                         dictæ ecclesiæ</placeName>, nobis præsentibus, et multis viris venerabilibus
                     abbatibus et aliis qui ad piæ recordationis <persName key="d1e28784" xml:id="d1e164972">Bernardi abbatis</persName> convenerant sepulturam. Nos
                     vero ad instantiam prædictorum fratrum et patris eorum præsenti cartulæ

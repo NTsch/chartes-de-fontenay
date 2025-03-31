@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234116">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e234116" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 154@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -15,7 +16,7 @@
 
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -30,37 +31,37 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e26798" xml:id="d1e160141">Stephanus prior de <placeName key="stutzmann_himanis#101871" xml:id="d1e160143">Vergeio</placeName> et de
-                            <placeName key="stutzmann_himanis#324442" xml:id="d1e160146">Duismo</placeName>
+                <p>Ego <persName key="d1e26798" xml:id="d1e160141">Stephanus prior de <placeName key="stutzmann_himanis#101871" xml:id="d1e160143" corresp="Vergy (Côte-d'Or, Gevrey-Chambertin,Longvic)">Vergeio</placeName> et de
+                            <placeName key="stutzmann_himanis#324442" xml:id="d1e160146" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
                     </persName> et ego <persName key="d1e26804" xml:id="d1e160149">Anselmus dominus
-                        de <placeName key="stutzmann_himanis#324442" xml:id="d1e160151">Duismo</placeName>
+                        de <placeName key="stutzmann_himanis#324442" xml:id="d1e160151" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
                     </persName>, notum facimus tam presentibus quam futuris quod querela que
-                    vertebatur inter p<supplied>ri</supplied>orem de <placeName key="stutzmann_himanis#324442" xml:id="d1e160157">Duismo</placeName> et fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e160160">Fonteneto</orgName> de tercia parte
-                    anneccie quam calumpniabatur in grangia de <placeName key="stutzmann_himanis#324449" xml:id="d1e160168">
+                    vertebatur inter p<supplied>ri</supplied>orem de <placeName key="stutzmann_himanis#324442" xml:id="d1e160157" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName> et fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e160160" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> de tercia parte
+                    anneccie quam calumpniabatur in grangia de <placeName key="stutzmann_himanis#324449" xml:id="d1e160168" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
-                    </placeName> taliter terminata est. Si quid prefatus prior /<gap/>
-                    <supplied>ann</supplied>ecciam de qua prefati sumus ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e160176">Fonteneto</orgName> quitavit.
+                    </placeName> taliter terminata est. Si quid prefatus prior /<gap />
+                    <supplied>ann</supplied>ecciam de qua prefati sumus ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e160176" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quitavit.
                         <supplied>Et i</supplied>nde habuit de beneficio ecclesie <num>c</num>
                     solidos. Si quis vero super <supplied>hoc</supplied> calumniam moverit,
                     calumpniam ipsam predictus prior et successores ejus
                         pri<supplied>oris</supplied>
-                    <gap/>re facient. Hujus pac<supplied>ti</supplied>
-                    <gap/>
+                    <gap />re facient. Hujus pac<supplied>ti</supplied>
+                    <gap />
                     <supplied>succes</supplied>sores ejus domini de Du<supplied>ismo</supplied>
-                    <gap/> / <gap/>lati restitutores inter<gap/> / sunt. <persName key="stutzmann_himanis#324623" xml:id="d1e160208">Odo archipresbiter de <placeName key="stutzmann_himanis#324370" xml:id="d1e160210">Tullionis</placeName>
+                    <gap /> / <gap />lati restitutores inter<gap /> / sunt. <persName key="stutzmann_himanis#324623" xml:id="d1e160208" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter de <placeName key="stutzmann_himanis#324370" xml:id="d1e160210" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>
-                    <gap/> / mo, <persName key="d1e26811" xml:id="d1e160214">Odobertus presbiter de
-                            <placeName key="stutzmann_himanis#324474" xml:id="d1e160216">
+                    <gap /> / mo, <persName key="d1e26811" xml:id="d1e160214">Odobertus presbiter de
+                            <placeName key="stutzmann_himanis#324474" xml:id="d1e160216" corresp="Magny-Lambert (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Manil</foreign>
                         </placeName>
-                    </persName>, <gap/>
+                    </persName>, <gap />
                     <persName key="d1e26817" xml:id="d1e160221">
                         <supplied>Mattheus de</supplied>
-                        <placeName key="stutzmann_himanis#324448" xml:id="d1e160224">
+                        <placeName key="stutzmann_himanis#324448" xml:id="d1e160224" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e26823" xml:id="d1e160229">Herveius de <placeName key="stutzmann_himanis#324452" xml:id="d1e160231">Fontanis</placeName>
-                    </persName>, <persName key="d1e26829" xml:id="d1e160234">Haymo de <placeName key="stutzmann_himanis#324437" xml:id="d1e160236">Cumineio</placeName>
+                    </persName>, <persName key="d1e26823" xml:id="d1e160229">Herveius de <placeName key="stutzmann_himanis#324452" xml:id="d1e160231" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
+                    </persName>, <persName key="d1e26829" xml:id="d1e160234">Haymo de <placeName key="stutzmann_himanis#324437" xml:id="d1e160236" corresp="Quemigny-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Cumineio</placeName>
                     </persName>. Actum est hoc anno ab incarnatione Domini <num>m° c° xc°
                     vi°</num>.</p>
             </body>

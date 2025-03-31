@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e196225">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1192_d1e196225" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 773</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -77,13 +78,13 @@
                     <date type="documentCreation" notBefore="1171" notAfter="1192">[1171-1192]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0009.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
@@ -91,25 +92,25 @@
                         <hi rend="background(yellow)">Acte mentionné : Fontaines-en-Duesmois -
                             Emorots. II</hi>
                     </p>
-                    <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e133060">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e133062">Burgundie</placeName>,
-                            Hugo</persName>, presentibus et futuris notum facio quod <persName key="d1e12362" xml:id="d1e133066">Pontius, dominus <placeName key="stutzmann_himanis#324442" xml:id="d1e133068">Duismi</placeName>
+                    <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e133060" corresp="Hugues III, duc de Bourgogne (1162-1192)">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e133062" corresp="Bourgogne">Burgundie</placeName>,
+                            Hugo</persName>, presentibus et futuris notum facio quod <persName key="d1e12362" xml:id="d1e133066">Pontius, dominus <placeName key="stutzmann_himanis#324442" xml:id="d1e133068" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismi</placeName>
                         </persName>, et uxor ejus, <persName key="d1e12368" xml:id="d1e133071">filia
-                                <persName key="d1e12374" xml:id="d1e133073">Willermi <lb n="2"/> de
-                                    <placeName key="stutzmann_himanis#324442" xml:id="d1e133077">Duismo</placeName>
+                                <persName key="d1e12374" xml:id="d1e133073">Willermi <lb n="2" /> de
+                                    <placeName key="stutzmann_himanis#324442" xml:id="d1e133077" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
                             </persName>
-                        </persName>, laudaverunt donum et elemosinam quam fecerunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133080">Fonteneti</orgName>
+                        </persName>, laudaverunt donum et elemosinam quam fecerunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133080" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         <persName key="d1e12380" xml:id="d1e133082">Savaricus</persName> et
                             <persName key="d1e12386" xml:id="d1e133085">Andreas</persName> et
                             <persName key="d1e12392" xml:id="d1e133089">Herveius</persName>, fratres
-                            <lb n="3"/> de <placeName key="stutzmann_himanis#324452" xml:id="d1e133094">Fontanis</placeName>, de casamento suo : omnes scilicet aasentias
-                        terrarum suarum de <placeName key="stutzmann_himanis#324452" xml:id="d1e133097">Fontanis</placeName> in bosco et in plano et in aquis <lb n="4"/> suis
+                            <lb n="3" /> de <placeName key="stutzmann_himanis#324452" xml:id="d1e133094" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>, de casamento suo : omnes scilicet aasentias
+                        terrarum suarum de <placeName key="stutzmann_himanis#324452" xml:id="d1e133097" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName> in bosco et in plano et in aquis <lb n="4" /> suis
                         et pasturas omnibus animalibus, pastionem porcis et carreriam trium tesiarum
-                        per medium pratorum ad riveriam. <lb n="5"/> Concesserunt et laudaverunt
+                        per medium pratorum ad riveriam. <lb n="5" /> Concesserunt et laudaverunt
                         divisionem quam fecerunt homines <app>
                             <lem wit="#A">monacorum</lem>
                             <rdg wit="#B">monachorum</rdg>
-                        </app> inter finagia de <placeName key="stutzmann_himanis#324452" xml:id="d1e133111">Fontanis</placeName> et de <placeName key="stutzmann_himanis#324375" xml:id="d1e133114">Ver<lb n="6" break="no"/>dennaco</placeName> et de
-                            <placeName key="stutzmann_himanis#324449" xml:id="d1e133119">
+                        </app> inter finagia de <placeName key="stutzmann_himanis#324452" xml:id="d1e133111" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName> et de <placeName key="stutzmann_himanis#324375" xml:id="d1e133114" corresp="Verdonnet (Côte-d'Or, Montbard)">Ver<lb n="6" break="no" />dennaco</placeName> et de
+                            <placeName key="stutzmann_himanis#324449" xml:id="d1e133119" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Estormer</foreign>
                         </placeName>. <app>
                             <lem wit="#A">
@@ -117,10 +118,10 @@
                             </lem>
                             <rdg wit="#B">grantaverunt</rdg>
                         </app> quoque quod usagia que homines sui in terris monachorum se habere
-                        dicebant <lb n="7"/> eos in pace guerpire facerent. Hec omnia laudavit
+                        dicebant <lb n="7" /> eos in pace guerpire facerent. Hec omnia laudavit
                             <persName key="d1e12399" xml:id="d1e133133">Pontius</persName> et uxor
-                        ejus et cetera omnia que continentur in carta de his ple<lb n="8" break="no"/>nius facta et <persName key="stutzmann_himanis#324645" xml:id="d1e133138">Eduensis
-                            episcopi</persName> sigillo signata. Unde testes sunt <persName key="d1e12405" xml:id="d1e133141">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e133143">
+                        ejus et cetera omnia que continentur in carta de his ple<lb n="8" break="no" />nius facta et <persName key="stutzmann_himanis#324645" xml:id="d1e133138" corresp="Étienne II, évêque d'Autun (1171-1189)">Eduensis
+                            episcopi</persName> sigillo signata. Unde testes sunt <persName key="d1e12405" xml:id="d1e133141">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e133143" corresp="Conforgien (Côte-d'Or, Arnay-le-Duc)">
                                 <foreign>
                                     <app>
                                         <lem wit="#A">Cofergen</lem>
@@ -128,15 +129,15 @@
                                     </app>
                                 </foreign>
                             </placeName>
-                        </persName> et <persName key="d1e12411" xml:id="d1e133151">Bernardus</persName> frater ejus, <persName key="d1e12417" xml:id="d1e133154">Girar<lb n="9" break="no"/>dus
+                        </persName> et <persName key="d1e12411" xml:id="d1e133151">Bernardus</persName> frater ejus, <persName key="d1e12417" xml:id="d1e133154">Girar<lb n="9" break="no" />dus
                                 <addName>Pilosus</addName>
                         </persName> et <persName key="d1e12423" xml:id="d1e133162">Wiardus</persName> filius ejus, <persName key="d1e12429" xml:id="d1e133165">
                             <app>
                                 <lem wit="#A">Wiardus</lem>
                                 <rdg wit="#B">Viardus</rdg>
-                            </app> de <placeName key="stutzmann_himanis#325029" xml:id="d1e133172">Seneveio</placeName>
+                            </app> de <placeName key="stutzmann_himanis#325029" xml:id="d1e133172" corresp="Seneveii">Seneveio</placeName>
                         </persName> et <persName key="d1e12436" xml:id="d1e133175">Johannes</persName> frater ejus. Ego quoque hoc testor et ne qua hinc
-                        in posterum <lb n="10"/> oriatur querela, presentem cartam sigilli mei
+                        in posterum <lb n="10" /> oriatur querela, presentem cartam sigilli mei
                         appensione confirmo.</p>
                 
             </body>

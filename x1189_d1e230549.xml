@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230549">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e230549" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 113@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,27 +38,27 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157580">Stephanus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157582">Eduensis</placeName>
-                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e25423" xml:id="d1e157586">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e157588">
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157580" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157582" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e25423" xml:id="d1e157586">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e157588" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grinun</foreign>
                         </placeName>
                     </persName> laudavit et concessit <sic>quicquit</sic> habuerunt antecessores sui
-                    in territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e157595">Noville
-                        Montis</placeName> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157598">Fonteneti</orgName>. Cum tamen hoc totum donasset <persName key="d1e25429" xml:id="d1e157602">Givardus frater ejus</persName> pro redemptione anime sue
+                    in territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e157595" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville
+                        Montis</placeName> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157598" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Cum tamen hoc totum donasset <persName key="d1e25429" xml:id="d1e157602">Givardus frater ejus</persName> pro redemptione anime sue
                     eidem ecclesie, nichilominus notum fieri volo quod predictus <persName key="d1e25435" xml:id="d1e157608">Oliverius</persName> laudavit fratribus
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157611">Fonteneti</orgName> omnia
-                    prata que habent pro censu annuo aut pro elemosina in territorio <placeName key="stutzmann_himanis#324408" xml:id="d1e157614">Bonseii</placeName> et <placeName key="stutzmann_himanis#325264" xml:id="d1e157619">Curcellarum</placeName>. Unde sunt
-                    testes <persName key="stutzmann_himanis#324623" xml:id="d1e157622">Odo <placeName key="stutzmann_himanis#324370" xml:id="d1e157624">Tullionis</placeName>
-                        archipresbiter</persName>, <persName key="d1e25442" xml:id="d1e157629">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157631">
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157611" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> omnia
+                    prata que habent pro censu annuo aut pro elemosina in territorio <placeName key="stutzmann_himanis#324408" xml:id="d1e157614" corresp="Benoisey (Côte-d'Or, Montbard)">Bonseii</placeName> et <placeName key="stutzmann_himanis#325264" xml:id="d1e157619" corresp="Curcellarum">Curcellarum</placeName>. Unde sunt
+                    testes <persName key="stutzmann_himanis#324623" xml:id="d1e157622" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo <placeName key="stutzmann_himanis#324370" xml:id="d1e157624" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                        archipresbiter</persName>, <persName key="d1e25442" xml:id="d1e157629">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157631" corresp="Conforgien (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Corfergel</foreign>
                         </placeName>
                     </persName>, <persName key="d1e25448" xml:id="d1e157635">Petrus
                             <addName>Huldrei</addName>
                     </persName>, <persName key="d1e25454" xml:id="d1e157640">Willermus filius
                         ejus</persName>, <persName key="d1e25460" xml:id="d1e157643">Willermus de
-                            <placeName key="stutzmann_himanis#324475" xml:id="d1e157645">Marmania</placeName>
-                    </persName>, <persName key="d1e25466" xml:id="d1e157648">Walterius de <placeName key="stutzmann_himanis#324434" xml:id="d1e157650">Correyo</placeName>
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e157645" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
+                    </persName>, <persName key="d1e25466" xml:id="d1e157648">Walterius de <placeName key="stutzmann_himanis#324434" xml:id="d1e157650" corresp="Charrey-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Correyo</placeName>
                     </persName>, <persName key="d1e25472" xml:id="d1e157653">Helyas
                         medicus</persName>.</p>
             </body>

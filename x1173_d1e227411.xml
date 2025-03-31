@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1173_d1e227411">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1173_d1e227411" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 72[bis]@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -47,14 +48,14 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155317">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155319">Lingonensis</placeName> episcopus</persName>, notum facio futuris et
+                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155317" corresp="Gauthier de Bourgogne, évêque de Langres (1163-1179)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155319" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, notum facio futuris et
                     presentibus quod dominus <persName key="d1e24183" xml:id="d1e155323">Rainerius
-                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e155325">Saneveto</placeName>
-                    </persName> in elemosina et sine occasione concessit sanctimonialibus <orgName key="stutzmann_himanis#281651" xml:id="d1e155328">sancte Marie Juliaci</orgName>
+                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e155325" corresp="Saneveto">Saneveto</placeName>
+                    </persName> in elemosina et sine occasione concessit sanctimonialibus <orgName key="stutzmann_himanis#281651" xml:id="d1e155328" corresp="prieuré Notre-Dame de Jully">sancte Marie Juliaci</orgName>
                     partem suam terre illius quam a <persName key="d1e24189" xml:id="d1e155331">Guiardo</persName> et <persName key="d1e24195" xml:id="d1e155334">Johanne
                         avunculis suis</persName> antequam fuisset miles habebant, et pasturam per
-                    totum finagium <placeName key="stutzmann_himanis#325007" xml:id="d1e155338">Sanaveti</placeName>, et aquam ad aquandum ad universa animalia
+                    totum finagium <placeName key="stutzmann_himanis#325007" xml:id="d1e155338" corresp="Sanaveti">Sanaveti</placeName>, et aquam ad aquandum ad universa animalia
                         <add>domus</add>, ea pactione quod dampna ubicumque facerent illa redderent
                     sine forisfacto et occasione donec predictis sanctimonialibus .XX<hi rend="superscript">ti</hi>. et II<hi rend="superscript">o</hi>. libras
                     divionensis monete redderet. Et laudavit quicquid avunculi sui eisdem dederant
@@ -62,13 +63,13 @@
                     <persName key="d1e24202" xml:id="d1e155352">
                         <foreign>Damnun</foreign> uxoris sue</persName>, <persName key="d1e24208" xml:id="d1e155358">Eluidis</persName> et <persName key="d1e24214" xml:id="d1e155361">Johannis</persName> de quorum casamento terra pendet.
                     Hujus rei testes sunt <persName key="d1e24220" xml:id="d1e155364">Renaudus
-                        decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e155366">Montis
+                        decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e155366" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                             Barri</placeName>
                     </persName>, <persName key="d1e24226" xml:id="d1e155369">Hubertus presbiter
-                            <placeName key="stutzmann_himanis#324350" xml:id="d1e155371">Raveriarum</placeName>
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e155371" corresp="Ravières (Yonne, Tonnerrois)">Raveriarum</placeName>
                     </persName>, <persName key="d1e24232" xml:id="d1e155374">Guillelmus de
-                            <placeName key="stutzmann_himanis#324485" xml:id="d1e155376">Monla</placeName>
-                    </persName>, <persName key="d1e24239" xml:id="d1e155379">Hugo <placeName key="stutzmann_himanis#324331" xml:id="d1e155381">Naellarum</placeName>
+                            <placeName key="stutzmann_himanis#324485" xml:id="d1e155376" corresp="Montlay-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Monla</placeName>
+                    </persName>, <persName key="d1e24239" xml:id="d1e155379">Hugo <placeName key="stutzmann_himanis#324331" xml:id="d1e155381" corresp="Nesle-et-Massoult (Côte-d'Or, Montbard)">Naellarum</placeName>
                     </persName>, <persName key="d1e24245" xml:id="d1e155385">Bernardus <addName>
                             <foreign>Narioz</foreign>
                         </addName>

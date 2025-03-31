@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1162_d1e223532">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1162_d1e223532" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 38@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,30 +44,30 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152536">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152538">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152536" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152538" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, tam futuris quam <app>
                         <lem>presentibus</lem>
                         <rdg wit="#a">pręsentibus</rdg>
                     </app> notum facio quod <persName key="d1e22802" xml:id="d1e152548">Hodierna
-                        uxor <persName key="d1e22808" xml:id="d1e152550">Humbaudi de <placeName key="stutzmann_himanis#324355" xml:id="d1e152552">Rubeo Monte</placeName>
+                        uxor <persName key="d1e22808" xml:id="d1e152550">Humbaudi de <placeName key="stutzmann_himanis#324355" xml:id="d1e152552" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName>
                         </persName>
                     </persName> dedit in <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#a">eleemosynam</rdg>
                     </app>
-                    <orgName key="stutzmann_himanis#282689" xml:id="d1e152560">
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e152560" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>Fontenetensium</lem>
                             <rdg wit="#B">Fonteneten.</rdg>
                             <rdg wit="#a">Fontenetensi</rdg>
                         </app>
-                    </orgName> ecclesie in manu <persName key="stutzmann_himanis#324660" xml:id="d1e152569">Arnaudi abbatis</persName> pro anima sua et mariti sui quicquid habebat in
-                    piscatura de <placeName key="stutzmann_himanis#325264" xml:id="d1e152573">Curcellis</placeName> que de capite suo erat, laudante <persName key="d1e22814" xml:id="d1e152576">
+                    </orgName> ecclesie in manu <persName key="stutzmann_himanis#324660" xml:id="d1e152569" corresp="Arnaud, abbé de Fontenay (1154-1163)">Arnaudi abbatis</persName> pro anima sua et mariti sui quicquid habebat in
+                    piscatura de <placeName key="stutzmann_himanis#325264" xml:id="d1e152573" corresp="Curcellarum">Curcellis</placeName> que de capite suo erat, laudante <persName key="d1e22814" xml:id="d1e152576">
                         <app>
                             <lem>Renardo</lem>
                             <rdg wit="#C">Bernardo</rdg>
-                        </app> domino <placeName key="stutzmann_himanis#324355" xml:id="d1e152583">Rubei
+                        </app> domino <placeName key="stutzmann_himanis#324355" xml:id="d1e152583" corresp="Rougemont (Côte-d'Or, Montbard)">Rubei
                             Montis</placeName>
                     </persName>, de cujus feodo erat. Quod quidem <persName key="d1e22820" xml:id="d1e152586">Osmundus filius <app>
                             <lem>predicte</lem>
@@ -77,32 +78,32 @@
                         <rdg wit="#a">eleemosynam</rdg>
                     </app> facere poterat mater ejus de terra que de capite suo erat et sine assensu
                     ipsius. Testes sunt <persName key="d1e22826" xml:id="d1e152601">Willermus de
-                            <placeName key="stutzmann_himanis#101083" xml:id="d1e152603">
+                            <placeName key="stutzmann_himanis#101083" xml:id="d1e152603" corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">
                             <foreign>Sauz</foreign>
                         </placeName>
                     </persName> et <persName key="d1e22833" xml:id="d1e152607">Hermengardis uxor
                         ejus</persName>, <persName key="d1e22839" xml:id="d1e152611">Saissa uxor
-                            <persName key="d1e22845" xml:id="d1e152613">Gisleberti de <placeName key="stutzmann_himanis#324460" xml:id="d1e152615">
+                            <persName key="d1e22845" xml:id="d1e152613">Gisleberti de <placeName key="stutzmann_himanis#324460" xml:id="d1e152615" corresp="Grésigny-Sainte-Reine (Côte-d'Or, Montbard)">
                                 <foreign>Grisini</foreign>
                             </placeName>
                         </persName>
                     </persName>
                     <app>
                         <lem>
-                            <witEnd wit="#D #a"/>
+                            <witEnd wit="#D #a" />
                             <witDetail wit="#D #a">"etc."</witDetail>
                         </lem>
                     </app>, <persName key="d1e22851" xml:id="d1e152624">Lambertus prepositus de
-                            <placeName key="stutzmann_himanis#324356" xml:id="d1e152626">Saigniaco</placeName>
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e152626" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
                     </persName>. <persName key="d1e22857" xml:id="d1e152629">Oliverus quoque de
-                            <placeName key="stutzmann_himanis#323218" xml:id="d1e152631">Frollesio</placeName>
+                            <placeName key="stutzmann_himanis#323218" xml:id="d1e152631" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
                     </persName> simile donum fecit de sua parte ejusdem piscature quando se reddidit
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e152634">Fonteneti</orgName>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e152634" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     ecclesie. Inde sunt testes <persName key="d1e22863" xml:id="d1e152637">Sibilla
                         uxor ejus</persName>, <persName key="d1e22870" xml:id="d1e152641">Wido
-                        filius ejus</persName>, <persName key="d1e22876" xml:id="d1e152644">Willermus de <orgName key="stutzmann_himanis#281544" xml:id="d1e152646">Scharleiis</orgName>
-                    </persName>, <persName key="d1e22882" xml:id="d1e152649">Hugo de <placeName key="stutzmann_himanis#325251" xml:id="d1e152651">Curte Rabodi</placeName>
-                    </persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e152654">Fonteneti</orgName>. Ut ergo integrum in eadem piscatura usuarium <orgName key="stutzmann_himanis#282689" xml:id="d1e152657">Fonteneti</orgName> ecclesia habeat
+                        filius ejus</persName>, <persName key="d1e22876" xml:id="d1e152644">Willermus de <orgName key="stutzmann_himanis#281544" xml:id="d1e152646" corresp="abbaye des Echarlis (1112 -)">Scharleiis</orgName>
+                    </persName>, <persName key="d1e22882" xml:id="d1e152649">Hugo de <placeName key="stutzmann_himanis#325251" xml:id="d1e152651" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
+                    </persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e152654" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Ut ergo integrum in eadem piscatura usuarium <orgName key="stutzmann_himanis#282689" xml:id="d1e152657" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ecclesia habeat
                     sigilli nostri impressione firmamus sub anathemate interdicentes ne quis futuris
                     temporibus de donis istis ecclesie inquietet.</p>
             </body>

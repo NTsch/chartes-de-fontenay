@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1200_d1e237354">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1200_d1e237354" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 187@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -38,41 +39,41 @@
         <text>
             <body>
                 <p>
-                    <supplied>Eg</supplied>o <persName key="stutzmann_himanis#324610" xml:id="d1e162421">Gauterius Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e162423">Eduensis</placeName> episcopus</persName>, notum facio presentibus et
+                    <supplied>Eg</supplied>o <persName key="stutzmann_himanis#324610" xml:id="d1e162421" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e162423" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio presentibus et
                     futuris quod <persName key="d1e27816" xml:id="d1e162427">Robertus
                             <addName>Uldreus</addName>
-                    </persName> dedit in perpetuam elemosinam Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162432">Fonteneti</orgName> quicquid habebat
-                    a semita de <placeName key="stutzmann_himanis#324446" xml:id="d1e162435">
+                    </persName> dedit in perpetuam elemosinam Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162432" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid habebat
+                    a semita de <placeName key="stutzmann_himanis#324446" xml:id="d1e162435" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Ampili</foreign>
                     </placeName> jussum versus usque ad <persName key="d1e27822" xml:id="d1e162439">Fontem Hugonis</persName> sicut <app>
                         <lem wit="#B-pc">mete dividunt</lem>
                         <rdg wit="#B-ac">dividunt mete</rdg>
-                    </app> a parte grangie de <placeName key="stutzmann_himanis#324449" xml:id="d1e162449">
+                    </app> a parte grangie de <placeName key="stutzmann_himanis#324449" xml:id="d1e162449" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
-                    </placeName>. Concessit etiam fratribus ejusdem ecclesie chasamentum <persName key="d1e27828" xml:id="d1e162453">Roberti majoris de <placeName key="stutzmann_himanis#324421" xml:id="d1e162455">
+                    </placeName>. Concessit etiam fratribus ejusdem ecclesie chasamentum <persName key="d1e27828" xml:id="d1e162453">Roberti majoris de <placeName key="stutzmann_himanis#324421" xml:id="d1e162455" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
                     </persName> et omnes querelas quas adversus eosdem fratres habebat bona fide
                     guerpivit. Fiduciavit itaque de omnibus his se guarantiam portaturum in omnibus
-                    locis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e162459">Fonteneti</orgName> et dedit responsores predictis fratribus <persName key="d1e27834" xml:id="d1e162462">Oliv<supplied>er</supplied>ium de
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e162467">Grinione</placeName>
+                    locis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e162459" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et dedit responsores predictis fratribus <persName key="d1e27834" xml:id="d1e162462">Oliv<supplied>er</supplied>ium de
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e162467" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName> et <persName key="d1e27840" xml:id="d1e162470">Pontium filium
                         ipsius</persName>. Hoc totum laudaverunt <persName key="d1e27847" xml:id="d1e162474">Hodierna uxor ipsius</persName> et <persName key="d1e27853" xml:id="d1e162477">Luca filia ejus</persName>, audientibus
-                    istis <persName key="d1e27859" xml:id="d1e162480">Hugone de <placeName key="stutzmann_himanis#325036" xml:id="d1e162482">Turre</placeName> monacho
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e162485">Fonteneti</orgName>
+                    istis <persName key="d1e27859" xml:id="d1e162480">Hugone de <placeName key="stutzmann_himanis#325036" xml:id="d1e162482" corresp="La Tour de Rougemont">Turre</placeName> monacho
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e162485" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     </persName>, <persName key="d1e27865" xml:id="d1e162488">Johanne tunc magistro
-                            <placeName key="stutzmann_himanis#324451" xml:id="d1e162490">Flaciaci</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e162493">
+                            <placeName key="stutzmann_himanis#324451" xml:id="d1e162490" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e162493" corresp="Eudes, archiprêtre de Touillon (1173-1200)">
                         <choice>
                             <sic>Odonone</sic>
                             <corr>Odone</corr>
-                        </choice> archipresbitero <placeName key="stutzmann_himanis#324370" xml:id="d1e162500">Tullionis</placeName>
+                        </choice> archipresbitero <placeName key="stutzmann_himanis#324370" xml:id="d1e162500" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e27871" xml:id="d1e162503">Roberto capellano de
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e162505">Grinione</placeName>
-                    </persName>, <persName key="d1e27877" xml:id="d1e162509">Pontio filio <persName key="d1e27884" xml:id="d1e162511">Oliverii de <placeName key="stutzmann_himanis#324459" xml:id="d1e162513">Grinione</placeName>
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e162505" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName>, <persName key="d1e27877" xml:id="d1e162509">Pontio filio <persName key="d1e27884" xml:id="d1e162511">Oliverii de <placeName key="stutzmann_himanis#324459" xml:id="d1e162513" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                         </persName>
-                    </persName>, <persName key="d1e27890" xml:id="d1e162516">Phylippo de <placeName key="stutzmann_himanis#325036" xml:id="d1e162518">Turre</placeName>
-                    </persName>, <persName key="d1e27896" xml:id="d1e162521">Renerio de <placeName key="stutzmann_himanis#324905" xml:id="d1e162523">
+                    </persName>, <persName key="d1e27890" xml:id="d1e162516">Phylippo de <placeName key="stutzmann_himanis#325036" xml:id="d1e162518" corresp="La Tour de Rougemont">Turre</placeName>
+                    </persName>, <persName key="d1e27896" xml:id="d1e162521">Renerio de <placeName key="stutzmann_himanis#324905" xml:id="d1e162523" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaace</foreign>
                         </placeName>
                     </persName> militibus. Quod totum ut ratum habeatur in posterum sigilli mei

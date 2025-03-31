@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e205457">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1205_d1e205457" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2273</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,43 +79,43 @@
                     <date type="documentCreation" when="1205-12-31">1205</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_320_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_320_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0009.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                                         <p>
-                        <persName key="stutzmann_himanis#324648" xml:id="d1e139170">Robertus, Dei gratia
-                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139172">Lingonensis</placeName> episcopus</persName>, universis presentem
-                        paginam in<lb n="2" break="no"/>specturis in perpetuum. Notum volumus fieri
+                        <persName key="stutzmann_himanis#324648" xml:id="d1e139170" corresp="Robert II de Châtillon, évêque de Langres (1203-1209)">Robertus, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139172" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, universis presentem
+                        paginam in<lb n="2" break="no" />specturis in perpetuum. Notum volumus fieri
                         quod <persName key="d1e14113" xml:id="d1e139178">Bartholomeus <addName>Ad
                                 Pollices</addName>
                         </persName>
-                        <lb n="3"/> in presentia nostra dedit in elemosinam Deo et ecclesie de
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139184">Fonteneto</orgName>
-                        quoddam pratum quod est <lb n="4"/> situm in territorio de <placeName key="stutzmann_himanis#325023" xml:id="d1e139190">
+                        <lb n="3" /> in presentia nostra dedit in elemosinam Deo et ecclesie de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139184" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
+                        quoddam pratum quod est <lb n="4" /> situm in territorio de <placeName key="stutzmann_himanis#325023" xml:id="d1e139190" corresp="Saneveto">
                             <foreign>Sanevoi</foreign>
-                        </placeName>. Laudavit idem <persName key="d1e14119" xml:id="d1e139194">Bartholomeus</persName> elemosinas quas <persName key="d1e14125" xml:id="d1e139197">Avalo, cog<lb n="5" break="no"/>natus
-                        ejus</persName>, et <persName key="d1e14131" xml:id="d1e139202">Gaufridus</persName>, miles, cognatus ejus, et <persName key="d1e14138" xml:id="d1e139205">Emelina</persName>, soror ejusdem <persName key="d1e14144" xml:id="d1e139208">Gaufridi</persName>, fece<lb n="6" break="no"/>rant eidem ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e139214">Fonteneto</orgName>, videlicet portionem pasturarum
-                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e139217">
+                        </placeName>. Laudavit idem <persName key="d1e14119" xml:id="d1e139194">Bartholomeus</persName> elemosinas quas <persName key="d1e14125" xml:id="d1e139197">Avalo, cog<lb n="5" break="no" />natus
+                        ejus</persName>, et <persName key="d1e14131" xml:id="d1e139202">Gaufridus</persName>, miles, cognatus ejus, et <persName key="d1e14138" xml:id="d1e139205">Emelina</persName>, soror ejusdem <persName key="d1e14144" xml:id="d1e139208">Gaufridi</persName>, fece<lb n="6" break="no" />rant eidem ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e139214" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, videlicet portionem pasturarum
+                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e139217" corresp="Saneveto">
                             <hi rend="italic" xml:space="preserve">Sanevoi </hi>
-                        </placeName> que eos <lb n="7"/> contingebant et erant de casamento ejusdem
+                        </placeName> que eos <lb n="7" /> contingebant et erant de casamento ejusdem
                             <persName key="d1e14150" xml:id="d1e139223">Bartholomei</persName>.
-                        Laudavit etiam idem <persName key="d1e14156" xml:id="d1e139226">Bar<lb n="8" break="no"/>tolomeus</persName> elemosinam quam <persName key="d1e14162" xml:id="d1e139232">Ytericus de <placeName key="stutzmann_himanis#324430" xml:id="d1e139234">
+                        Laudavit etiam idem <persName key="d1e14156" xml:id="d1e139226">Bar<lb n="8" break="no" />tolomeus</persName> elemosinam quam <persName key="d1e14162" xml:id="d1e139232">Ytericus de <placeName key="stutzmann_himanis#324430" xml:id="d1e139234" corresp="Champ-d'Oiseau (Côte-d'Or, Montbard)">
                                 <foreign>Chaudesaul</foreign>
                             </placeName>
-                        </persName> fecit sepedicte ecclesie fratribus apud <lb n="9"/>
-                        <placeName key="stutzmann_himanis#101449" xml:id="d1e139239">Tornodorum</placeName>
-                        que erat de casamento sepedicti <persName key="d1e14168" xml:id="d1e139242">Bartholomei</persName>. Ut igitur hoc totum ratum <lb n="10"/> habeatur
+                        </persName> fecit sepedicte ecclesie fratribus apud <lb n="9" />
+                        <placeName key="stutzmann_himanis#101449" xml:id="d1e139239" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornodorum</placeName>
+                        que erat de casamento sepedicti <persName key="d1e14168" xml:id="d1e139242">Bartholomei</persName>. Ut igitur hoc totum ratum <lb n="10" /> habeatur
                         in posterum, sigillum nostrum presenti pagine apponi precepimus. Anno Verbi
-                            <lb n="11"/> incarnati millesimo. <space/>ducentesimo.
-                        <space/>quinto.</p>
+                            <lb n="11" /> incarnati millesimo. <space />ducentesimo.
+                        <space />quinto.</p>
                 
             </body>
         </text>

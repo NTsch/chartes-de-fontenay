@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240358">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e240358" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 234@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,15 +33,15 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e164434">Aymo, archidiaconus
-                            <orgName key="stutzmann_himanis#284217" xml:id="d1e164436">Flaviniacensis</orgName>
+                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e164434" corresp="Aimon, archidiacre de Flavigny">Aymo, archidiaconus
+                            <orgName key="stutzmann_himanis#284217" xml:id="d1e164436" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensis</orgName>
                     </persName>, omnibus notum facio presentibus pariter et futuris quod filii
-                        <persName key="d1e28445" xml:id="d1e164439">Gaufridi de <placeName key="stutzmann_himanis#324439" xml:id="d1e164441">Darceio</placeName>
+                        <persName key="d1e28445" xml:id="d1e164439">Gaufridi de <placeName key="stutzmann_himanis#324439" xml:id="d1e164441" corresp="Darcey (Côte-d'Or, Montbard)">Darceio</placeName>
                     </persName>, <persName key="d1e28451" xml:id="d1e164444">Aubertus</persName>
                     scilicet, <persName key="d1e28457" xml:id="d1e164447">Milo</persName>, <persName key="d1e28463" xml:id="d1e164450">Hugo</persName>, <persName key="d1e28469" xml:id="d1e164454">Odo</persName> et <persName key="d1e28476" xml:id="d1e164457">Bernerius eorum nepos</persName> quitaverunt pro salute
-                    animarum suarum ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164460">Fonteneti</orgName> quicquid reclamabant in omnibus
-                    commodis in confinio <placeName key="stutzmann_himanis#324449" xml:id="d1e164463">Estormerii</placeName> et <placeName key="stutzmann_himanis#324335" xml:id="d1e164466">Noville Montis</placeName>, videlicet a <placeName key="stutzmann_himanis#325096" xml:id="d1e164469">chimino blanco</placeName> versus
-                        <placeName key="stutzmann_himanis#324449" xml:id="d1e164473">
+                    animarum suarum ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164460" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid reclamabant in omnibus
+                    commodis in confinio <placeName key="stutzmann_himanis#324449" xml:id="d1e164463" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">Estormerii</placeName> et <placeName key="stutzmann_himanis#324335" xml:id="d1e164466" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville Montis</placeName>, videlicet a <placeName key="stutzmann_himanis#325096" xml:id="d1e164469" corresp="chimino blanco">chimino blanco</placeName> versus
+                        <placeName key="stutzmann_himanis#324449" xml:id="d1e164473" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
                     </placeName>, ita sane quod nec ipsi nec heredes ipsorum ibi deinceps aliquid
                     usagium reclamabunt. Hoc totum laudaverunt <persName key="d1e28482" xml:id="d1e164477">filii prenominati <persName key="d1e28488" xml:id="d1e164479">Auberti</persName>, Gaufridus</persName> scilicet,
@@ -48,15 +49,15 @@
                         <persName key="d1e28513" xml:id="d1e164492">uxor Milonis</persName> et
                         <persName key="d1e28519" xml:id="d1e164496">uxor Odonis</persName> que uno
                     nomine, scilicet <persName key="d1e28525" xml:id="d1e164499">Adelina</persName>
-                    vocabantur. Hujus rei testes sunt <persName key="d1e28531" xml:id="d1e164502">Petrus de <placeName key="stutzmann_himanis#324439" xml:id="d1e164504">Darceio</placeName>
-                    </persName>, <persName key="d1e28537" xml:id="d1e164507">Willermus de <placeName key="stutzmann_himanis#324905" xml:id="d1e164509">
+                    vocabantur. Hujus rei testes sunt <persName key="d1e28531" xml:id="d1e164502">Petrus de <placeName key="stutzmann_himanis#324439" xml:id="d1e164504" corresp="Darcey (Côte-d'Or, Montbard)">Darceio</placeName>
+                    </persName>, <persName key="d1e28537" xml:id="d1e164507">Willermus de <placeName key="stutzmann_himanis#324905" xml:id="d1e164509" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaace</foreign>
                         </placeName>
                     </persName> sacerdotes, <persName key="d1e28543" xml:id="d1e164513">Augerus de
-                            <placeName key="stutzmann_himanis#324439" xml:id="d1e164515">
+                            <placeName key="stutzmann_himanis#324439" xml:id="d1e164515" corresp="Darcey (Côte-d'Or, Montbard)">
                             <foreign>Darce</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e28550" xml:id="d1e164519">Josbertus de <placeName key="stutzmann_himanis#322865" xml:id="d1e164521">Flaviniaco</placeName>
+                    </persName>, <persName key="d1e28550" xml:id="d1e164519">Josbertus de <placeName key="stutzmann_himanis#322865" xml:id="d1e164521" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaco</placeName>
                     </persName>. Quod totum ut ratum sit sigilli mei munimine presens scriptum
                     roboravi. Anno verbi incarnati <num>m° cc° viii°</num>.</p>
             </body>

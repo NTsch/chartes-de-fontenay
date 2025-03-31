@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1154_d1e222421">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1154_d1e222421" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 26@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,9 +44,9 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324675" xml:id="d1e151717">R., Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151719">Flaviniacensis</orgName>
-                        abbas</persName>, dilecto sibi in Christo <persName key="d1e22308" xml:id="d1e151723">abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e151725">Fonteneti</orgName> Willermo</persName> salutem et dilectionem.
-                    Adcensiam duorum pratorum circiter <num>viii</num>° carrarum quam <persName key="d1e22315" xml:id="d1e151732">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151734">Grinionis</placeName>
+                    <persName key="stutzmann_himanis#324675" xml:id="d1e151717" corresp="Renaud, abbé de Flavigny (1152-1160)">R., Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151719" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensis</orgName>
+                        abbas</persName>, dilecto sibi in Christo <persName key="d1e22308" xml:id="d1e151723">abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e151725" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> Willermo</persName> salutem et dilectionem.
+                    Adcensiam duorum pratorum circiter <num>viii</num>° carrarum quam <persName key="d1e22315" xml:id="d1e151732">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151734" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
                     </persName> ad tempus dumtaxat domui vestre fecit donec scilicet <num>vii</num>
                     libre proviniensis vel trecensis monete a nobis vobis persolvantur assensu
                     communis capituli nostri laudo et concedo. <num>xii</num> nummos annuatim in
@@ -54,10 +55,10 @@
                     <hi rend="superscript">ta</hi> et <num>v</num> solid<hi rend="background(cyan)">os</hi> argenti marca tunc vendebatur integro vobis restituatur. Porro in
                         elemosi<hi rend="background(red)">nam</hi> quicquid interim commodi inde
                     exierit vobis donamus. Huic rei interfuerunt et laudaverunt <persName key="d1e22321" xml:id="d1e151758">magister Petrus prior noster</persName>,
-                        <persName key="d1e22327" xml:id="d1e151762">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151764">Grinionis</placeName>
-                    </persName>, <persName key="d1e22333" xml:id="d1e151767">Hugo de <placeName key="stutzmann_himanis#82732" xml:id="d1e151769">Granceaco</placeName>
+                        <persName key="d1e22327" xml:id="d1e151762">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151764" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
+                    </persName>, <persName key="d1e22333" xml:id="d1e151767">Hugo de <placeName key="stutzmann_himanis#82732" xml:id="d1e151769" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Granceaco</placeName>
                     </persName>, <persName key="d1e22339" xml:id="d1e151772">Lambertus</persName>,
-                        <persName key="d1e22345" xml:id="d1e151775">Petrus de <placeName key="stutzmann_himanis#324999" xml:id="d1e151777">
+                        <persName key="d1e22345" xml:id="d1e151775">Petrus de <placeName key="stutzmann_himanis#324999" xml:id="d1e151777" corresp="Risnel">
                             <foreign>Risnel</foreign>
                         </placeName>
                     </persName>, <persName key="d1e22352" xml:id="d1e151781">Teobaudus
@@ -65,8 +66,8 @@
                             <foreign>Bufranz</foreign>
                         </addName>
                     </persName>, <persName key="d1e22364" xml:id="d1e151791">Laurentius</persName>,
-                        <persName key="d1e22370" xml:id="d1e151794">Haymo de <placeName key="stutzmann_himanis#324358" xml:id="d1e151796">Salmasia</placeName>
-                    </persName>, <persName key="d1e22376" xml:id="d1e151799">Johannes de <placeName key="stutzmann_himanis#324344" xml:id="d1e151801">Polleniaco</placeName>
+                        <persName key="d1e22370" xml:id="d1e151794">Haymo de <placeName key="stutzmann_himanis#324358" xml:id="d1e151796" corresp="Salmaise (Côte-d'Or, Montbard)">Salmasia</placeName>
+                    </persName>, <persName key="d1e22376" xml:id="d1e151799">Johannes de <placeName key="stutzmann_himanis#324344" xml:id="d1e151801" corresp="Pouillenay (Côte-d'Or, Montbard)">Polleniaco</placeName>
                     </persName>. Sane ne quis de nostris placito vel alia occasione vos inquietare
                     aut injuriari presumat interdicimus. Et ut firmius omnia vobis stent, sigilli
                     nostri impressione confirmamus et munimus. Actum est anno <hi rend="smallcaps">m° c° l° iiii°</hi> incarnationis.</p>

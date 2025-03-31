@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e243341">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1211_d1e243341" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 268@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,12 +44,12 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e29216" xml:id="d1e166539">Haymericus, decanus <placeName key="stutzmann_himanis#324483" xml:id="d1e166541">Molismensis</placeName>
+                <p>Ego <persName key="d1e29216" xml:id="d1e166539">Haymericus, decanus <placeName key="stutzmann_himanis#324483" xml:id="d1e166541" corresp="Molesme (Côte-d'Or, Châtillon-sur-Seine)">Molismensis</placeName>
                     </persName>, notum facio tam presentibus quam futuris quod <persName key="d1e29222" xml:id="d1e166544">Itericus <addName>
                             <foreign>Chaudoisel</foreign>
                         </addName>
-                    </persName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166550">Fonteneti</orgName> in puram et perpetuam elemosinam
-                    pacifice in perpetuum possidendam quicquid habebat apud <placeName key="stutzmann_himanis#324334" xml:id="d1e166553">
+                    </persName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166550" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in puram et perpetuam elemosinam
+                    pacifice in perpetuum possidendam quicquid habebat apud <placeName key="stutzmann_himanis#324334" xml:id="d1e166553" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">
                         <foreign>Nogent</foreign>
                     </placeName> et in finagio ejus. Hoc totum laudaverunt <persName key="d1e29228" xml:id="d1e166557">Oda uxor ejus</persName>, <persName key="d1e29234" xml:id="d1e166561">Pontius</persName> et <persName key="d1e29240" xml:id="d1e166564">
                         <foreign>Iteroz</foreign>

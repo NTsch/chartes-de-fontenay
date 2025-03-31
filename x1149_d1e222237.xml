@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1149_d1e222237">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1149_d1e222237" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 22@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -46,24 +47,24 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324676" xml:id="d1e151594">Agano Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151596">Flaviniacensis</orgName>
-                        abbas</persName>, consulentibus et laudantibus fratribus nostris <persName key="stutzmann_himanis#324521" xml:id="d1e151600">Galterio priore</persName>,
-                        <persName key="stutzmann_himanis#324630" xml:id="d1e151603">Guidone
-                        sacrista</persName>, <persName key="stutzmann_himanis#324641" xml:id="d1e151606">Lamberto capellano nostro</persName>, verpivi totam calumpniam quam
-                    adversus ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e151609">Fonteneti</orgName> de dono quod eidem ecclesie de terris versus <placeName key="stutzmann_himanis#324356" xml:id="d1e151613">Saigniacum</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324676" xml:id="d1e151594" corresp="Ainon, abbé de Flavigny (av. 1142-1149)">Agano Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151596" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensis</orgName>
+                        abbas</persName>, consulentibus et laudantibus fratribus nostris <persName key="stutzmann_himanis#324521" xml:id="d1e151600" corresp="Gautier, prieur de Flavigny (ca. 1142)">Galterio priore</persName>,
+                        <persName key="stutzmann_himanis#324630" xml:id="d1e151603" corresp="Gui de Grignon, sacristain de Flavigny (ca. 1142)">Guidone
+                        sacrista</persName>, <persName key="stutzmann_himanis#324641" xml:id="d1e151606" corresp="Lambert, chapelain de l'abbé de Flavigny (1142)">Lamberto capellano nostro</persName>, verpivi totam calumpniam quam
+                    adversus ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e151609" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de dono quod eidem ecclesie de terris versus <placeName key="stutzmann_himanis#324356" xml:id="d1e151613" corresp="Seigny (Côte-d'Or, Montbard)">Saigniacum</placeName>
                     <persName key="d1e22247" xml:id="d1e151615">Haymo filius <persName key="d1e22253" xml:id="d1e151617">Pontii <addName>Gygantis</addName>
                         </persName>
                     </persName> et <persName key="d1e22259" xml:id="d1e151622">Gaufridus frater
                         ejus</persName> et <persName key="d1e22265" xml:id="d1e151625">Helysabez
                         soror</persName> eorum fecerant habebamus et concessi donum sicut factum
-                    fuerat. Hoc actum est presente <persName key="d1e22271" xml:id="d1e151628">predicte ecclesie abbate Guillermo</persName>, testibus <persName key="d1e22278" xml:id="d1e151631">Godefrido milite de <placeName key="stutzmann_himanis#324356" xml:id="d1e151633">Saigniaco</placeName>
+                    fuerat. Hoc actum est presente <persName key="d1e22271" xml:id="d1e151628">predicte ecclesie abbate Guillermo</persName>, testibus <persName key="d1e22278" xml:id="d1e151631">Godefrido milite de <placeName key="stutzmann_himanis#324356" xml:id="d1e151633" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
                     </persName>, <persName key="d1e22284" xml:id="d1e151637">Bernardo
-                            <addName>Longo</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e151642">Lucennaco</placeName>
+                            <addName>Longo</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e151642" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
                     </persName>, <persName key="d1e22290" xml:id="d1e151645">Haymone
-                            <addName>Gormundo</addName> preposito <placeName key="stutzmann_himanis#324459" xml:id="d1e151650">Grinionis</placeName>
+                            <addName>Gormundo</addName> preposito <placeName key="stutzmann_himanis#324459" xml:id="d1e151650" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
                     </persName>, <persName key="d1e22296" xml:id="d1e151653">Richerio</persName> et
                         <persName key="d1e22302" xml:id="d1e151656">Beleth</persName> rusticis de
-                        <placeName key="stutzmann_himanis#324356" xml:id="d1e151659">
+                        <placeName key="stutzmann_himanis#324356" xml:id="d1e151659" corresp="Seigny (Côte-d'Or, Montbard)">
                         <foreign>Saigni</foreign>
                     </placeName>.</p>
             </body>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1182_d1e228335">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1182_d1e228335" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 85@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,8 +43,8 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324637" xml:id="d1e155964">Lucius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis <persName key="d1e24448" xml:id="d1e155967">Bernardo abbati monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e155969">Fontaneto</orgName>
+                    <persName key="stutzmann_himanis#324637" xml:id="d1e155964" corresp="Lucius III papa (1181-1185)">Lucius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis <persName key="d1e24448" xml:id="d1e155967">Bernardo abbati monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e155969" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>
                     </persName> ejusque fratribus tam presentibus quam futuris regularem vitam
                     professis, <app>
                         <lem wit="#a">in perpetuum</lem>
@@ -64,36 +65,36 @@
                         <persName key="d1e24461" xml:id="d1e155995">Alexandri</persName> Romanorum
                     pontificum sub beati Petri et nostra protectione suscipimus et presentis scripti
                     privilegio communimus. In primis siquidem statuentes ut ordo monasticus qui
-                    secundum Dei timorem et beati Benedicti regulam atque institutionem <orgName key="stutzmann_himanis#281483" xml:id="d1e155998">Cisterciensium fratrum</orgName> in
+                    secundum Dei timorem et beati Benedicti regulam atque institutionem <orgName key="stutzmann_himanis#281483" xml:id="d1e155998" corresp="ordre des cisterciens">Cisterciensium fratrum</orgName> in
                     vestro monasterio institutus esse dinoscitur perpetuis ibidem temporibus
                     inviolabiliter observetur. Preterea quascumque possessiones quaecumque bona idem
                     monasterium in presentiarum juste et canonice possidet aut in futurum
                     concessione pontificum, largitione regum vel principum, oblatione fidelium seu
                     aliis justis mudis prestante Domino poterit adipisci, firma vobis vestrisque
                     successoribus et illibata permaneant in quibus propriis duximus exprimenda
-                    vocabulis : <placeName key="stutzmann_himanis#325041" xml:id="d1e156001">vallem ipsam in
+                    vocabulis : <placeName key="stutzmann_himanis#325041" xml:id="d1e156001" corresp="Vallem ipsam in qua eadem abbatia sita est">vallem ipsam in
                         qua eadem abbatia sita est</placeName>, cum omnibus finibus suis ; grangiam
-                        <placeName key="stutzmann_himanis#325165" xml:id="d1e156004">Carmeti</placeName> cum
-                    omnibus appenditiis suis, dona <persName key="stutzmann_himanis#324643" xml:id="d1e156007">Stephani <placeName key="stutzmann_himanis#319548" xml:id="d1e156009">Eduensis</placeName> episcopi</persName><note>Vu la reprise textuelle
+                        <placeName key="stutzmann_himanis#325165" xml:id="d1e156004" corresp="Carmeti">Carmeti</placeName> cum
+                    omnibus appenditiis suis, dona <persName key="stutzmann_himanis#324643" xml:id="d1e156007" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephani <placeName key="stutzmann_himanis#319548" xml:id="d1e156009" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopi</persName><note>Vu la reprise textuelle
                         de la lettre pontificale de 1145, il s'agit d'Etienne I d'Autun</note> de
                     terris et asentiis suis, scilicet terras ad excolendum sine tertiis, pasturas
                     animalium, pastionem porcorum, nemora ad edificandum et ad omnem usum etiam ad
-                    ardendum in agricultura, grangiam de <placeName key="stutzmann_himanis#324449" xml:id="d1e156014">
+                    ardendum in agricultura, grangiam de <placeName key="stutzmann_himanis#324449" xml:id="d1e156014" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
-                    </placeName> et territorium <placeName key="stutzmann_himanis#324335" xml:id="d1e156018">Novillae Montis</placeName> cum omnibus decimis et appenditiis suis,
-                    grangiam de <placeName key="stutzmann_himanis#324341" xml:id="d1e156021">Planeto</placeName> cum omnibus appenditiis suis, grangiam <placeName key="stutzmann_himanis#324452" xml:id="d1e156024">Fontanarum</placeName> cum
-                    appenditiis suis, elemozinam quam vobis <persName key="d1e24467" xml:id="d1e156027">Rogerius de <placeName key="stutzmann_himanis#325251" xml:id="d1e156029">Curte Rabodi</placeName>
-                    </persName> donavit, scilicet quidquid habebat apud <placeName key="stutzmann_himanis#324466" xml:id="d1e156032">Lanias</placeName>, dona <persName key="d1e24473" xml:id="d1e156036">Rainardi domini <placeName key="stutzmann_himanis#324487" xml:id="d1e156038">Montis Barri</placeName>
-                    </persName> de asentiis suis et in pasturis suis, grangiam <placeName key="stutzmann_himanis#324990" xml:id="d1e156041">Puteoli</placeName> cum omnibus
-                    appenditiis suis, grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e156044">Flacciaci</placeName> cum omnibus appenditiis suis, dona et helemozinas
-                        <persName key="d1e24479" xml:id="d1e156047">Hugonis de <placeName key="stutzmann_himanis#325251" xml:id="d1e156049">Curte Rabodi</placeName>
-                    </persName> et filiorum ejus <persName key="d1e24485" xml:id="d1e156052">Willermi</persName>, <persName key="d1e24491" xml:id="d1e156055">Hugonis</persName> et <persName key="d1e24498" xml:id="d1e156059">Ricardi</persName>, dona et helemozinas <persName key="d1e24504" xml:id="d1e156062">Bartholomei de <placeName key="stutzmann_himanis#324455" xml:id="d1e156064">Fraxino</placeName>
+                    </placeName> et territorium <placeName key="stutzmann_himanis#324335" xml:id="d1e156018" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Novillae Montis</placeName> cum omnibus decimis et appenditiis suis,
+                    grangiam de <placeName key="stutzmann_himanis#324341" xml:id="d1e156021" corresp="Planay (Côte-d'Or, Montbard)">Planeto</placeName> cum omnibus appenditiis suis, grangiam <placeName key="stutzmann_himanis#324452" xml:id="d1e156024" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName> cum
+                    appenditiis suis, elemozinam quam vobis <persName key="d1e24467" xml:id="d1e156027">Rogerius de <placeName key="stutzmann_himanis#325251" xml:id="d1e156029" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
+                    </persName> donavit, scilicet quidquid habebat apud <placeName key="stutzmann_himanis#324466" xml:id="d1e156032" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lanias</placeName>, dona <persName key="d1e24473" xml:id="d1e156036">Rainardi domini <placeName key="stutzmann_himanis#324487" xml:id="d1e156038" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                    </persName> de asentiis suis et in pasturis suis, grangiam <placeName key="stutzmann_himanis#324990" xml:id="d1e156041" corresp="Puteoli">Puteoli</placeName> cum omnibus
+                    appenditiis suis, grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e156044" corresp="Flacey (Côte-d'Or, Montbard)">Flacciaci</placeName> cum omnibus appenditiis suis, dona et helemozinas
+                        <persName key="d1e24479" xml:id="d1e156047">Hugonis de <placeName key="stutzmann_himanis#325251" xml:id="d1e156049" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
+                    </persName> et filiorum ejus <persName key="d1e24485" xml:id="d1e156052">Willermi</persName>, <persName key="d1e24491" xml:id="d1e156055">Hugonis</persName> et <persName key="d1e24498" xml:id="d1e156059">Ricardi</persName>, dona et helemozinas <persName key="d1e24504" xml:id="d1e156062">Bartholomei de <placeName key="stutzmann_himanis#324455" xml:id="d1e156064" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
                     </persName> et <persName key="d1e24510" xml:id="d1e156067">Willermi filii
-                        ejus</persName>, grangiam de <placeName key="stutzmann_himanis#324489" xml:id="d1e156070">Morvilla</placeName> cum omnibus appenditiis suis, locum
-                        <placeName key="stutzmann_himanis#325010" xml:id="d1e156073">Sancti Aniani</placeName>
-                    cum omnibus appenditiis suis, grangiam <placeName key="stutzmann_himanis#324479" xml:id="d1e156076">Aringiarum</placeName> cum omnibus appenditiis suis,
-                    vineas vestras de <placeName key="stutzmann_himanis#96489" xml:id="d1e156080">Divione</placeName>, vineas de <placeName key="stutzmann_himanis#325060" xml:id="d1e156083">Villenis</placeName>, vineas de <placeName key="stutzmann_himanis#322865" xml:id="d1e156086">Flaviniaco</placeName>, emendi
-                    quoque et vendendi sine omni consuetudine vel exactione in villa <placeName key="stutzmann_himanis#322865" xml:id="d1e156089">Flaviniacensi</placeName> sicut
+                        ejus</persName>, grangiam de <placeName key="stutzmann_himanis#324489" xml:id="d1e156070" corresp="Morville (Côte-d'Or, Montbard)">Morvilla</placeName> cum omnibus appenditiis suis, locum
+                        <placeName key="stutzmann_himanis#325010" xml:id="d1e156073" corresp="Saint-Agnan (Nièvre, Montsauche)">Sancti Aniani</placeName>
+                    cum omnibus appenditiis suis, grangiam <placeName key="stutzmann_himanis#324479" xml:id="d1e156076" corresp="Éringes (Côte-d'Or, Montbard)">Aringiarum</placeName> cum omnibus appenditiis suis,
+                    vineas vestras de <placeName key="stutzmann_himanis#96489" xml:id="d1e156080" corresp="Dijon (Côte-d'Or, Dijon)">Divione</placeName>, vineas de <placeName key="stutzmann_himanis#325060" xml:id="d1e156083" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenis</placeName>, vineas de <placeName key="stutzmann_himanis#322865" xml:id="d1e156086" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaco</placeName>, emendi
+                    quoque et vendendi sine omni consuetudine vel exactione in villa <placeName key="stutzmann_himanis#322865" xml:id="d1e156089" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniacensi</placeName> sicut
                     rationabiliter est vobis concessum et hactenus noscitur observatum fuisse
                     facultatem liberam habeatis. Sane laborum vestrorum quos propriis manibus aut
                     sumptibus colitis sive de nutrimentis vestrorum animalium decimas a vobis nullus
@@ -106,11 +107,11 @@
                     aucthoritate apostolica prohibemus ut infra clausuram locorum sive grangiarum
                     vestrarum, nullus violentiam vel rapinam seu furtum facere vel hominem capere
                     audeat. Statuimus preterea ut in eodem loco abbas secundum consuetudinem
-                        <orgName key="stutzmann_himanis#281483" xml:id="d1e156092">Cisterciensis
-                        ordinis</orgName> fratrum per providentiam <orgName key="stutzmann_himanis#282533" xml:id="d1e156095">Clarevallensis</orgName> abbatis cum consensu et
+                        <orgName key="stutzmann_himanis#281483" xml:id="d1e156092" corresp="ordre des cisterciens">Cisterciensis
+                        ordinis</orgName> fratrum per providentiam <orgName key="stutzmann_himanis#282533" xml:id="d1e156095" corresp="abbaye Notre-Dame de Clairvaux (1115 -)">Clarevallensis</orgName> abbatis cum consensu et
                     electione fratrum monasterii vestri secundum beati Benedicti regulam
                     instituatur, qui proprio episcopo tanquam spiritali patri obediat, salva nimirum
-                        <orgName key="stutzmann_himanis#281483" xml:id="d1e156099">Cisterciensis
+                        <orgName key="stutzmann_himanis#281483" xml:id="d1e156099" corresp="ordre des cisterciens">Cisterciensis
                         ordinis</orgName> institutione ad haec. Ne ad perturbationem quietis vestrae
                     alicui ecclesiasticae secularive personae de vicinitate loci ulla prebeatur
                     occoasio, in terris vestris aut ita prope abbatiam vel grangias vestras quod
@@ -135,7 +136,7 @@
                 <p>
                     <witDetail wit="#B">Ajoute : "Sic signatum"</witDetail>
                     <supplied>
-                        <figure type="rota"/>
+                        <figure type="rota" />
                     </supplied> Sanctus Petrus, Sanctus Paulus, <persName key="d1e24516" xml:id="d1e156112">Lucius papa tercius</persName>.</p>
                 <p>
                     <witDetail wit="#B">Ajoute : "Et in legenda"</witDetail>Adjuva nos Deus
@@ -143,9 +144,9 @@
                 <p>
                     <app>
                         <lem>
-                            <witStart wit="#a"/>
+                            <witStart wit="#a" />
                         </lem>
-                    </app>Ego <persName key="stutzmann_himanis#324637" xml:id="d1e156126">Lucius catholicae
+                    </app>Ego <persName key="stutzmann_himanis#324637" xml:id="d1e156126" corresp="Lucius III papa (1181-1185)">Lucius catholicae
                         ecclesiae episcopus</persName>.</p>
                 <p>
                     <witDetail wit="#B">Souscriptions copiées sans retour à la ligne</witDetail>
@@ -173,7 +174,7 @@
                         aureum, diaconus cardinalis</persName>. </p>
                 <p>Ego <persName key="d1e24565" xml:id="d1e156181">Gratianus sanctorum Cosmae et
                         Damiani diaconus cardinalis</persName>.</p>
-                <p>Datum <placeName key="stutzmann_himanis#325046" xml:id="d1e156186">Velletry</placeName>,
+                <p>Datum <placeName key="stutzmann_himanis#325046" xml:id="d1e156186" corresp="Velletart">Velletry</placeName>,
                     per manum <persName key="d1e24572" xml:id="d1e156189">Hugonis sanctae Romanae
                         ecclesiae notarii</persName>, <app>
                         <lem>tertio</lem>

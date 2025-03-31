@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e204255">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e204255" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2197</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -82,35 +83,35 @@
                     <date type="documentCreation" when="1213-09-01">1213, 1er septembre</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_294_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_294_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_294_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_294_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                   <p>Ego <persName key="d1e13965" xml:id="d1e138394">Herveus, permissione Dei
-                                <placeName key="stutzmann_himanis#101630" xml:id="d1e138396">Trecensis</placeName> ecclesie minister humilis</persName>, omnibus
-                        notum facio tam presentibus quam futuris quod <lb n="2"/>
-                        <persName key="d1e13971" xml:id="d1e138401">Petrus dominus <placeName key="stutzmann_himanis#325008" xml:id="d1e138403">Sancti Fidoli</placeName>
+                                <placeName key="stutzmann_himanis#101630" xml:id="d1e138396" corresp="Troyes (Aube, Troyes)">Trecensis</placeName> ecclesie minister humilis</persName>, omnibus
+                        notum facio tam presentibus quam futuris quod <lb n="2" />
+                        <persName key="d1e13971" xml:id="d1e138401">Petrus dominus <placeName key="stutzmann_himanis#325008" xml:id="d1e138403" corresp="Sancti Fidoli">Sancti Fidoli</placeName>
                         </persName>, laude et assensu <persName key="d1e13977" xml:id="d1e138406">Sibille</persName> uxoris sue et filii sui <persName key="d1e13983" xml:id="d1e138409">Andree</persName>, dedit et concessit in perpetuam
-                            <lb n="3"/> elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e138415">Fonteneti</orgName>, pro anima
+                            <lb n="3" /> elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e138415" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, pro anima
                         filie sue <persName key="d1e13990" xml:id="d1e138418">Emeline</persName>
-                        necnon et pro salute sua et antecessorum suorum, <lb n="4"/> sexaginta tres
-                        solidos pruvinensium in proprio censu suo de <placeName key="stutzmann_himanis#325008" xml:id="d1e138423">Sancto Fidolo</placeName> in crastino Sancti Remigii
-                        annuatim capiendos. <lb n="5"/> Sciendum vero quod si jamdictus <persName key="d1e13996" xml:id="d1e138428">Petrus</persName> prenominatis
-                        fratribus ad voluntatem suam secundum intuitum bonorum virorum as<lb n="6" break="no"/>signare poterit quod valeat centum solidos divionensium in
-                        terra de <placeName key="stutzmann_himanis#324484" xml:id="d1e138434">
+                        necnon et pro salute sua et antecessorum suorum, <lb n="4" /> sexaginta tres
+                        solidos pruvinensium in proprio censu suo de <placeName key="stutzmann_himanis#325008" xml:id="d1e138423" corresp="Sancti Fidoli">Sancto Fidolo</placeName> in crastino Sancti Remigii
+                        annuatim capiendos. <lb n="5" /> Sciendum vero quod si jamdictus <persName key="d1e13996" xml:id="d1e138428">Petrus</persName> prenominatis
+                        fratribus ad voluntatem suam secundum intuitum bonorum virorum as<lb n="6" break="no" />signare poterit quod valeat centum solidos divionensium in
+                        terra de <placeName key="stutzmann_himanis#324484" xml:id="d1e138434" corresp="Montigny,Montfort (Côte-d'Or, Montbard)">
                             <foreign>Monfort</foreign>
                         </placeName>, dominus <persName key="d1e14002" xml:id="d1e138438">Petrus</persName> absolvetur a solutione <num>.LX.</num>
-                        <lb n="7"/> trium solidorum et carta ista ei restituetur. Ut igitur hoc
-                        ratum et firmum habeatur, ad instantiam utriusque partis <lb n="8"/> ego et
+                        <lb n="7" /> trium solidorum et carta ista ei restituetur. Ut igitur hoc
+                        ratum et firmum habeatur, ad instantiam utriusque partis <lb n="8" /> ego et
                         sepedictus Petrus presens scriptum sigillorum nostrorum munimine
-                        roboravimus. Actum anno Gratie <lb n="9"/> millesimo. ducentesimo.
-                        terciodecimo. kl. Septembris<figure rend="trait-horizontal"/>.</p>
+                        roboravimus. Actum anno Gratie <lb n="9" /> millesimo. ducentesimo.
+                        terciodecimo. kl. Septembris<figure rend="trait-horizontal" />.</p>
                 
             </body>
         </text>

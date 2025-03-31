@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e203979">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1186_d1e203979" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2127</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -80,43 +81,43 @@
                     <date type="documentCreation" when="1186-12-31">1186</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_282_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_282_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_282_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_282_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e138206">Stephanus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e138208">Eduensis</placeName> episcopus</persName>, notum facio presentibus
-                        et futuris quod <persName key="d1e13897" xml:id="d1e138212">Willelmus, <lb n="2"/> filius <persName key="d1e13903" xml:id="d1e138216">Roberti
-                                de <placeName key="stutzmann_himanis#325017" xml:id="d1e138218">Sancto
+                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e138206" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e138208" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio presentibus
+                        et futuris quod <persName key="d1e13897" xml:id="d1e138212">Willelmus, <lb n="2" /> filius <persName key="d1e13903" xml:id="d1e138216">Roberti
+                                de <placeName key="stutzmann_himanis#325017" xml:id="d1e138218" corresp="Sancto Marco">Sancto
                                     Marco</placeName>
                             </persName>
-                        </persName>, dedit in elemosinam Deo et fratribus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e138221">Fonteneti</orgName>
-                        <lb n="3"/> duos solidos censuales apud <placeName key="stutzmann_himanis#325018" xml:id="d1e138225">Sanctum Anianum</placeName> cum ei prius deberent
-                        predicti fratres <lb n="4"/> quattuor solidos annuatim. Concessit eis etiam
-                        ad pascenda pecora sua usum <lb n="5"/> pasturarum suarum per totm terram
-                        ipsius et in bosco et in plano. Hec <lb n="6"/> laudavit <persName key="d1e13909" xml:id="d1e138235">Petronilla</persName>, mater ejusdem
+                        </persName>, dedit in elemosinam Deo et fratribus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e138221" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        <lb n="3" /> duos solidos censuales apud <placeName key="stutzmann_himanis#325018" xml:id="d1e138225" corresp="Sanctum Anianum">Sanctum Anianum</placeName> cum ei prius deberent
+                        predicti fratres <lb n="4" /> quattuor solidos annuatim. Concessit eis etiam
+                        ad pascenda pecora sua usum <lb n="5" /> pasturarum suarum per totm terram
+                        ipsius et in bosco et in plano. Hec <lb n="6" /> laudavit <persName key="d1e13909" xml:id="d1e138235">Petronilla</persName>, mater ejusdem
                             <persName key="d1e13916" xml:id="d1e138238">Willelmi</persName>, filia
-                        quoque ejusdem <persName key="d1e13922" xml:id="d1e138241">Petronille</persName>, so<lb n="7" break="no"/>ror <persName key="d1e13928" xml:id="d1e138247">Willelmi</persName>, nomine <persName key="d1e13934" xml:id="d1e138250">Aalidis</persName>. Horum testes
-                        sunt : <persName key="stutzmann_himanis#324627" xml:id="d1e138253">Bernardus
-                            archipresbiter de <placeName key="stutzmann_himanis#324707" xml:id="d1e138255">Stabulis</placeName>
-                        </persName>, <lb n="8"/>
-                        <persName key="d1e13940" xml:id="d1e138259">Girardus presbiter de <placeName key="stutzmann_himanis#325176" xml:id="d1e138261">Carreis</placeName>
+                        quoque ejusdem <persName key="d1e13922" xml:id="d1e138241">Petronille</persName>, so<lb n="7" break="no" />ror <persName key="d1e13928" xml:id="d1e138247">Willelmi</persName>, nomine <persName key="d1e13934" xml:id="d1e138250">Aalidis</persName>. Horum testes
+                        sunt : <persName key="stutzmann_himanis#324627" xml:id="d1e138253" corresp="Bernardus archipresbiter Stabularum">Bernardus
+                            archipresbiter de <placeName key="stutzmann_himanis#324707" xml:id="d1e138255" corresp="Étaule (Yonne, Avallon)">Stabulis</placeName>
+                        </persName>, <lb n="8" />
+                        <persName key="d1e13940" xml:id="d1e138259">Girardus presbiter de <placeName key="stutzmann_himanis#325176" xml:id="d1e138261" corresp="Carreis">Carreis</placeName>
                         </persName>, <persName key="d1e30973" xml:id="d1e138264">Stephanus
                             capellanus ejusdem <persName key="d1e13946" xml:id="d1e138266">Girardi</persName>
-                        </persName>, <persName key="d1e13953" xml:id="d1e138270">Robertus <lb n="9"/> presbiter de <placeName key="stutzmann_himanis#324363" xml:id="d1e138274">Sancto Leodegario</placeName>
+                        </persName>, <persName key="d1e13953" xml:id="d1e138270">Robertus <lb n="9" /> presbiter de <placeName key="stutzmann_himanis#324363" xml:id="d1e138274" corresp="Saint-Léger-de-Fourches (Côte-d'Or, Semur-en-Auxois)">Sancto Leodegario</placeName>
                         </persName>, <persName key="d1e13959" xml:id="d1e138277">Rainaudus
-                            prepositus de <placeName key="stutzmann_himanis#325176" xml:id="d1e138279">Carreis</placeName>
-                        </persName>, qui inde ha<lb n="10" break="no"/>buit .V. solidos et plures
-                        alii. Hanc igitur <sic>elomosinam</sic> nos sigilli nostri <lb n="11"/>
-                        appensione confirmamus, sub anathemate prohibentes ne quis in posterum <lb n="12"/> predictos fratres super hoc molestare presumat. Actum est hoc
-                        anno <lb n="13"/> ab incarnatione Domini millesimo centesimo octogesimo
+                            prepositus de <placeName key="stutzmann_himanis#325176" xml:id="d1e138279" corresp="Carreis">Carreis</placeName>
+                        </persName>, qui inde ha<lb n="10" break="no" />buit .V. solidos et plures
+                        alii. Hanc igitur <sic>elomosinam</sic> nos sigilli nostri <lb n="11" />
+                        appensione confirmamus, sub anathemate prohibentes ne quis in posterum <lb n="12" /> predictos fratres super hoc molestare presumat. Actum est hoc
+                        anno <lb n="13" /> ab incarnatione Domini millesimo centesimo octogesimo
                         sexto.</p>
                 
             </body>

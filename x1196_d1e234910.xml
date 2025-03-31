@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234910">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e234910" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 162@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -53,9 +54,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e160686">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e160688">Burgundie</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e160686" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e160688" corresp="Bourgogne">Burgundie</placeName>
                     </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26989" xml:id="d1e160691">Matheus <app>
-                            <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160697">
+                            <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160697" corresp="Étais (Côte-d'Or, Montbard)">
                                     <foreign>Stet</foreign>
                                 </placeName>
                             </lem>
@@ -65,30 +66,30 @@
                     </persName> donavit in perpetuam <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#E">eleemozinam</rdg>
-                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160712">
+                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160712" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>Fonteneti</lem>
                             <rdg wit="#C">Fonteñ</rdg>
                             <rdg wit="#D">Fontenetensi</rdg>
                         </app>
                     </orgName> unum modium bladi frumenti et avene per medium ad mensuram de
-                        <placeName key="stutzmann_himanis#324426" xml:id="d1e160721">Castellione</placeName>
-                    singulis annis percipiendum in grangia sua de <placeName key="stutzmann_himanis#325060" xml:id="d1e160725">Villanis</placeName> pro anniversario suo faciendo. Hoc
+                        <placeName key="stutzmann_himanis#324426" xml:id="d1e160721" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
+                    singulis annis percipiendum in grangia sua de <placeName key="stutzmann_himanis#325060" xml:id="d1e160725" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villanis</placeName> pro anniversario suo faciendo. Hoc
                     laudavit <persName key="d1e26996" xml:id="d1e160728">Adelina, uxor
                         sua</persName>, et <persName key="d1e27002" xml:id="d1e160731">filia sua
                         Eglentina</persName>. Hujus rei testes sunt : <persName key="d1e27008" xml:id="d1e160734">
                         <app>
                             <lem>Willermus</lem>
                             <rdg wit="#C #D">Villermus</rdg>
-                        </app> prior</persName>, <persName key="d1e27014" xml:id="d1e160742">Renaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e160744">Curte <sic corresp="#B #C #D">Rabadi</sic>
+                        </app> prior</persName>, <persName key="d1e27014" xml:id="d1e160742">Renaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e160744" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte <sic corresp="#B #C #D">Rabadi</sic>
                         </placeName>
                     </persName> , <persName key="d1e27020" xml:id="d1e160749">
                         <app>
                             <lem>Willermus</lem>
                             <rdg wit="#C #D">Villermus</rdg>
-                        </app> cantor</persName>, <persName key="d1e27026" xml:id="d1e160758">Girardus major de <placeName key="stutzmann_himanis#324448" xml:id="d1e160760">
+                        </app> cantor</persName>, <persName key="d1e27026" xml:id="d1e160758">Girardus major de <placeName key="stutzmann_himanis#324448" xml:id="d1e160760" corresp="Étais (Côte-d'Or, Montbard)">
                             <app>
-                                <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160765">
+                                <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160765" corresp="Étais (Côte-d'Or, Montbard)">
                                         <foreign>Stet</foreign>
                                     </placeName>
                                 </lem>
@@ -111,8 +112,8 @@
                         <lem>
                             <num>c° xcvi°</num>
                         </lem>
-                        <rdg wit="#C">centesimo octogesimodecimo sexto <space/>
-                            <handShift/> XCVI</rdg>
+                        <rdg wit="#C">centesimo octogesimodecimo sexto <space />
+                            <handShift /> XCVI</rdg>
                         <rdg wit="#D #E">centesimo nonagesimo sexto</rdg>
                     </app>.</p>
             </body>

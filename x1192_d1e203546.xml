@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e203546">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1192_d1e203546" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2120</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,88 +79,88 @@
                     <date type="documentCreation" when="1192-12-31">1192</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_279_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_279_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_279_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_279_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e137892">Galterius, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e137894">Eduensis</placeName> episcopus</persName>, notum facio tam futuris
-                        quam <lb n="2"/> presentibus quod <persName key="d1e13755" xml:id="d1e137900">Robertus prepositus de <placeName key="stutzmann_himanis#325003" xml:id="d1e137902">Rocha</placeName>
-                        </persName> et tres filii ejus, <persName key="d1e13761" xml:id="d1e137905">Petrus</persName>, <lb n="3"/>
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e137892" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e137894" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio tam futuris
+                        quam <lb n="2" /> presentibus quod <persName key="d1e13755" xml:id="d1e137900">Robertus prepositus de <placeName key="stutzmann_himanis#325003" xml:id="d1e137902" corresp="Roca">Rocha</placeName>
+                        </persName> et tres filii ejus, <persName key="d1e13761" xml:id="d1e137905">Petrus</persName>, <lb n="3" />
                         <persName key="d1e13768" xml:id="d1e137909">Raimbertus</persName> et
                             <persName key="d1e13774" xml:id="d1e137913">Robelinus</persName>,
-                        testificati sunt in presentia nostra apud <placeName key="stutzmann_himanis#324368" xml:id="d1e137916">Semurum</placeName>
-                        <lb n="4"/> elemosinam quam domina <persName key="d1e13780" xml:id="d1e137920">Tebergia de <placeName key="stutzmann_himanis#324472" xml:id="d1e137922">
+                        testificati sunt in presentia nostra apud <placeName key="stutzmann_himanis#324368" xml:id="d1e137916" corresp="Semur-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Semurum</placeName>
+                        <lb n="4" /> elemosinam quam domina <persName key="d1e13780" xml:id="d1e137920">Tebergia de <placeName key="stutzmann_himanis#324472" xml:id="d1e137922" corresp="Magny-la-Ville (Côte-d'Or, Semur-en-Auxois)">
                                 <foreign>Maigne</foreign>
                             </placeName>
-                        </persName> dedit ęcclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137926">Fonteneti</orgName>, videlicet <lb n="5"/> duos solidos et tres minas
-                        avene et totam terram quam ipsa habebat incon<lb n="6" break="no"/>finio de
-                            <placeName key="stutzmann_himanis#325003" xml:id="d1e137934">Rocha</placeName> et
-                        de <placeName key="stutzmann_himanis#324354" xml:id="d1e137937">
+                        </persName> dedit ęcclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137926" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, videlicet <lb n="5" /> duos solidos et tres minas
+                        avene et totam terram quam ipsa habebat incon<lb n="6" break="no" />finio de
+                            <placeName key="stutzmann_himanis#325003" xml:id="d1e137934" corresp="Roca">Rocha</placeName> et
+                        de <placeName key="stutzmann_himanis#324354" xml:id="d1e137937" corresp="Romanet (Côte-d'Or, Semur-en-Auxois)">
                             <foreign>Romannai</foreign>
-                        </placeName>, sicut ipsi cum <persName key="d1e13786" xml:id="d1e137941">Petro de <placeName key="stutzmann_himanis#324370" xml:id="d1e137943">
+                        </placeName>, sicut ipsi cum <persName key="d1e13786" xml:id="d1e137941">Petro de <placeName key="stutzmann_himanis#324370" xml:id="d1e137943" corresp="Touillon (Côte-d'Or, Montbard)">
                                 <foreign>Toillon</foreign>
                             </placeName>
-                        </persName> eam perambu<lb n="7" break="no"/>laverunt cum fratre <persName key="d1e13792" xml:id="d1e137949">Duranno de <placeName key="stutzmann_himanis#325010" xml:id="d1e137951">Sancto Aniano</placeName>
-                        </persName>. De predictis autem duobus solidis <lb n="8"/> accipientur :
-                        duodecim denarii de molendino novo ; de <persName key="d1e13798" xml:id="d1e137957">Petro de <placeName key="stutzmann_himanis#324950" xml:id="d1e137959">
+                        </persName> eam perambu<lb n="7" break="no" />laverunt cum fratre <persName key="d1e13792" xml:id="d1e137949">Duranno de <placeName key="stutzmann_himanis#325010" xml:id="d1e137951" corresp="Saint-Agnan (Nièvre, Montsauche)">Sancto Aniano</placeName>
+                        </persName>. De predictis autem duobus solidis <lb n="8" /> accipientur :
+                        duodecim denarii de molendino novo ; de <persName key="d1e13798" xml:id="d1e137957">Petro de <placeName key="stutzmann_himanis#324950" xml:id="d1e137959" corresp="Meri">
                                 <foreign>Meri</foreign>
                             </placeName>
-                        </persName> .V. denarii, <lb n="9"/> de <persName key="d1e13805" xml:id="d1e137965">Petro de <placeName key="stutzmann_himanis#324486" xml:id="d1e137967">
+                        </persName> .V. denarii, <lb n="9" /> de <persName key="d1e13805" xml:id="d1e137965">Petro de <placeName key="stutzmann_himanis#324486" xml:id="d1e137967" corresp="Montmilien (Côte-d'Or, Semur-en-Auxois)">
                                 <foreign>Monmillan</foreign>
                             </placeName>
-                        </persName> II. d. ; a <placeName key="stutzmann_himanis#324354" xml:id="d1e137971">
+                        </persName> II. d. ; a <placeName key="stutzmann_himanis#324354" xml:id="d1e137971" corresp="Romanet (Côte-d'Or, Semur-en-Auxois)">
                             <foreign>Romennai</foreign>
-                        </placeName> .V. d. de <persName key="d1e13811" xml:id="d1e137975">Bartholomeo vacherio</persName>, <lb n="10"/> .IIII. d. de <persName key="d1e13817" xml:id="d1e137981">Stephano molendinario</persName>, .I.
+                        </placeName> .V. d. de <persName key="d1e13811" xml:id="d1e137975">Bartholomeo vacherio</persName>, <lb n="10" /> .IIII. d. de <persName key="d1e13817" xml:id="d1e137981">Stephano molendinario</persName>, .I.
                         d. de <persName key="d1e13823" xml:id="d1e137984">Gisleberto
-                            furnerio</persName>, .I. d. de <persName key="d1e13829" xml:id="d1e137987">Bruno <lb n="11"/> de <placeName key="stutzmann_himanis#324931" xml:id="d1e137991">Laval</placeName>
-                        </persName>, II. d. De avena autem, ipse <persName key="d1e13835" xml:id="d1e137994">Brunus de <placeName key="stutzmann_himanis#324931" xml:id="d1e137996">Laval</placeName>
+                            furnerio</persName>, .I. d. de <persName key="d1e13829" xml:id="d1e137987">Bruno <lb n="11" /> de <placeName key="stutzmann_himanis#324931" xml:id="d1e137991" corresp="Laval">Laval</placeName>
+                        </persName>, II. d. De avena autem, ipse <persName key="d1e13835" xml:id="d1e137994">Brunus de <placeName key="stutzmann_himanis#324931" xml:id="d1e137996" corresp="Laval">Laval</placeName>
                         </persName> reddet tres <term>
                             <foreign>bichez</foreign>
-                        </term>, et uxor <lb n="12"/>
-                        <persName key="d1e13842" xml:id="d1e138005">Lamberti de <placeName key="stutzmann_himanis#324927" xml:id="d1e138007">Laje</placeName>
+                        </term>, et uxor <lb n="12" />
+                        <persName key="d1e13842" xml:id="d1e138005">Lamberti de <placeName key="stutzmann_himanis#324927" xml:id="d1e138007" corresp="Laje">Laje</placeName>
                         </persName> III. <term>
                             <foreign>bichez</foreign>
-                        </term>. Postea vero tam ipse prepositus quam uxor ejus et omnes filii <lb n="13"/> ejus guerpivit querelam quam habebat in forestagio suo et
-                        prepositura sua, in omnibus <lb n="14"/> tenementis eorum in quibus jus
-                        aliquod vel querimoniam aliquam habebat Deo et ęcclesie <lb n="15"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e138019">Fonteneti</orgName> et
-                        pasturas de <placeName key="stutzmann_himanis#324436" xml:id="d1e138023">Crespi</placeName> et <placeName key="stutzmann_himanis#324958" xml:id="d1e138026">Monte <foreign>Escot</foreign>
-                        </placeName> libere concessit. Insuper et omnem que<lb n="16" break="no"/>relam de qualicumque re tam in bosco quam in plano, in pasturis et
-                        pastionibus om<lb n="17" break="no"/>nium animalium omni tempore liberam
-                            <sic>dereliquid</sic>. Hec autem omnia firmiter te<lb n="18" break="no"/>nenda et omnia tenementa eorum fideliter demonstranda tam ipse quam filii
-                        ejus jure <lb n="19"/> jurando compromiserunt secundum tenorem carte domini
+                        </term>. Postea vero tam ipse prepositus quam uxor ejus et omnes filii <lb n="13" /> ejus guerpivit querelam quam habebat in forestagio suo et
+                        prepositura sua, in omnibus <lb n="14" /> tenementis eorum in quibus jus
+                        aliquod vel querimoniam aliquam habebat Deo et ęcclesie <lb n="15" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e138019" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et
+                        pasturas de <placeName key="stutzmann_himanis#324436" xml:id="d1e138023" corresp="Crépy (Côte-d'Or, Semur-en-Auxois)">Crespi</placeName> et <placeName key="stutzmann_himanis#324958" xml:id="d1e138026" corresp="Monte Escot">Monte <foreign>Escot</foreign>
+                        </placeName> libere concessit. Insuper et omnem que<lb n="16" break="no" />relam de qualicumque re tam in bosco quam in plano, in pasturis et
+                        pastionibus om<lb n="17" break="no" />nium animalium omni tempore liberam
+                            <sic>dereliquid</sic>. Hec autem omnia firmiter te<lb n="18" break="no" />nenda et omnia tenementa eorum fideliter demonstranda tam ipse quam filii
+                        ejus jure <lb n="19" /> jurando compromiserunt secundum tenorem carte domini
                             <persName key="d1e13848" xml:id="d1e138043">Osberti</persName> et
-                            <persName key="d1e13854" xml:id="d1e138046">Artaudi de <placeName key="stutzmann_himanis#325003" xml:id="d1e138048">Rocha</placeName>
-                        </persName>. <lb n="20"/> Si vero aliquis huic donationi vellet obviare,
+                            <persName key="d1e13854" xml:id="d1e138046">Artaudi de <placeName key="stutzmann_himanis#325003" xml:id="d1e138048" corresp="Roca">Rocha</placeName>
+                        </persName>. <lb n="20" /> Si vero aliquis huic donationi vellet obviare,
                         ipse <persName key="d1e13860" xml:id="d1e138053">Robertus</persName> et tres
-                        predicti filii ejus <lb n="21"/> pro posse sui et testificarentur et
-                        probarent in omni curia prout ratio judicaret sic eam <lb n="22"/> ęcclesie
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e138061">Fonteneti</orgName>
-                        fuisse donatam. Hujus autem rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e138064">Odo, archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e138066">Tullionis</placeName>
-                        </persName>, <lb n="23"/>
-                        <persName key="d1e13866" xml:id="d1e138070">Vido capellanus de <placeName key="stutzmann_himanis#324447" xml:id="d1e138072">Espeisse</placeName>
+                        predicti filii ejus <lb n="21" /> pro posse sui et testificarentur et
+                        probarent in omni curia prout ratio judicaret sic eam <lb n="22" /> ęcclesie
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e138061" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        fuisse donatam. Hujus autem rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e138064" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo, archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e138066" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                        </persName>, <lb n="23" />
+                        <persName key="d1e13866" xml:id="d1e138070">Vido capellanus de <placeName key="stutzmann_himanis#324447" xml:id="d1e138072" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">Espeisse</placeName>
                         </persName>, <persName key="d1e13872" xml:id="d1e138075">magister Arembertus
-                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e138077">Rubeo
+                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e138077" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo
                                 Monte</placeName>
-                        </persName>, <persName key="d1e13879" xml:id="d1e138081">Gifardus de <lb n="24"/>
-                            <placeName key="stutzmann_himanis#325003" xml:id="d1e138084">Rocha</placeName>
+                        </persName>, <persName key="d1e13879" xml:id="d1e138081">Gifardus de <lb n="24" />
+                            <placeName key="stutzmann_himanis#325003" xml:id="d1e138084" corresp="Roca">Rocha</placeName>
                         </persName>, <persName key="d1e13885" xml:id="d1e138087">Theobaldus
-                                p<supplied>re</supplied>positus <placeName key="stutzmann_himanis#324487" xml:id="d1e138092">Montis Barri</placeName>
+                                p<supplied>re</supplied>positus <placeName key="stutzmann_himanis#324487" xml:id="d1e138092" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
                         </persName>, <persName key="d1e13891" xml:id="d1e138095">Johannes prepositus
-                            de <placeName key="stutzmann_himanis#324447" xml:id="d1e138097">
+                            de <placeName key="stutzmann_himanis#324447" xml:id="d1e138097" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">
                                 <foreign>Espeisse</foreign>
                             </placeName>
-                        </persName>. Ut autem hoc ratum <lb n="25"/> et inconvulsum habeatur
-                        presentem cartam nostri sigilli munimine fecimus insigniri. <lb n="26"/>
-                        Actum anno incarnati Verbi millesimo centesimo nonagesimo secundo <figure rend="trait" type="trait"/>.</p>
+                        </persName>. Ut autem hoc ratum <lb n="25" /> et inconvulsum habeatur
+                        presentem cartam nostri sigilli munimine fecimus insigniri. <lb n="26" />
+                        Actum anno incarnati Verbi millesimo centesimo nonagesimo secundo <figure rend="trait" type="trait" />.</p>
                 
             </body>
         </text>

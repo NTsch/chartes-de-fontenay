@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e238178">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1201_d1e238178" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 195@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -45,20 +46,20 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162992">Galterius, Dei gratia,
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e162994">æduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162992" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia,
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e162994" corresp="Autun (Saône-et-Loire, Autun)">æduensis</placeName>
                         episcopus</persName>, notum facio præsentes inspecturis me in perpetuam
-                    elemosinam Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163001">Fonteneti</orgName> concessisse quidquid <orgName key="stutzmann_himanis#282689" xml:id="d1e163004">Fontenetenses</orgName> in omnibus locis tam vineis quam
+                    elemosinam Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163001" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> concessisse quidquid <orgName key="stutzmann_himanis#282689" xml:id="d1e163004" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> in omnibus locis tam vineis quam
                     terris mihi de decimis annuatim reddere consueverant. Hujus rei testes sunt
                         <persName key="d1e28106" xml:id="d1e163007">Joannes capellanus supredicti
                         episcopi</persName>, <persName key="d1e28112" xml:id="d1e163014">Petrus
-                        capellanus de <placeName key="stutzmann_himanis#324424" xml:id="d1e163016">Alizia</placeName>
+                        capellanus de <placeName key="stutzmann_himanis#324424" xml:id="d1e163016" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alizia</placeName>
                     </persName>, <persName key="d1e28118" xml:id="d1e163020">Martinus</persName>,
                         <persName key="d1e28124" xml:id="d1e163023">Aimon</persName> monachi
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163029">Fontenetenses</orgName> et
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163029" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> et
                         <persName key="d1e28130" xml:id="d1e163032">Drogo conversus</persName>,
                         <persName key="d1e28136" xml:id="d1e163035">Henricus præpositus de
-                            <placeName key="stutzmann_himanis#324424" xml:id="d1e163037">Alizia</placeName>
+                            <placeName key="stutzmann_himanis#324424" xml:id="d1e163037" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alizia</placeName>
                     </persName>. Datum est hoc anno incarnationis dominicæ millesimo ducentesimo
                     primo.</p>
             </body>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e192545">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e192545" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 443</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -87,44 +88,44 @@
                     <date type="documentCreation" when="1210-12-31">1210</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0009.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_62_0010.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0009.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0010.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 <p>Ego <persName key="d1e11668" xml:id="d1e130590">Haymo</persName>,
-                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e130593">Flaviniacensis</orgName>, notum facio omnibus presentes <lb n="2"/>
-                        inspecturis quod <persName key="d1e11674" xml:id="d1e130598">Robertus</persName> major de <placeName key="stutzmann_himanis#324421" xml:id="d1e130601">Buxeio</placeName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130605">Fonte<lb n="3" break="no"/>neti</orgName> pro remedio anime sue et antecessorum suorum in
-                        perpetuam elemosinam omnia <lb n="4"/> que habebat in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130612">Ampilleio</placeName> et tres
-                        denarios censuales in fossato <lb n="5"/> de <placeName key="stutzmann_himanis#324994" xml:id="d1e130617">Ranis</placeName>. Hanc elemosinam laudavit uxor sua
-                        Bonamia, de cujus capi<lb n="6" break="no"/>te erat et filii eorum <persName key="d1e11680" xml:id="d1e130623">Milo</persName>, <persName key="d1e11686" xml:id="d1e130626">Andreas</persName> et <persName key="d1e11693" xml:id="d1e130629">
+                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e130593" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensis</orgName>, notum facio omnibus presentes <lb n="2" />
+                        inspecturis quod <persName key="d1e11674" xml:id="d1e130598">Robertus</persName> major de <placeName key="stutzmann_himanis#324421" xml:id="d1e130601" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxeio</placeName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130605" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonte<lb n="3" break="no" />neti</orgName> pro remedio anime sue et antecessorum suorum in
+                        perpetuam elemosinam omnia <lb n="4" /> que habebat in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130612" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampilleio</placeName> et tres
+                        denarios censuales in fossato <lb n="5" /> de <placeName key="stutzmann_himanis#324994" xml:id="d1e130617" corresp="Ranis">Ranis</placeName>. Hanc elemosinam laudavit uxor sua
+                        Bonamia, de cujus capi<lb n="6" break="no" />te erat et filii eorum <persName key="d1e11680" xml:id="d1e130623">Milo</persName>, <persName key="d1e11686" xml:id="d1e130626">Andreas</persName> et <persName key="d1e11693" xml:id="d1e130629">
                             <app>
                                 <lem wit="#A">Radulfus</lem>
                                 <rdg wit="#B">Radulphus</rdg>
                             </app>
-                        </persName>. Laudavit autem hoc <lb n="7"/> totum <persName key="d1e11699" xml:id="d1e130638">Robertus</persName>, miles, cognomento <persName key="d1e11705" xml:id="d1e130641">
+                        </persName>. Laudavit autem hoc <lb n="7" /> totum <persName key="d1e11699" xml:id="d1e130638">Robertus</persName>, miles, cognomento <persName key="d1e11705" xml:id="d1e130641">
                             <app>
                                 <lem wit="#A">Saccus</lem>
                                 <rdg wit="#B">Sacus</rdg>
                             </app>
-                        </persName>, de cujus feodo erat. Dedit etiam <lb n="8"/> supradictus
+                        </persName>, de cujus feodo erat. Dedit etiam <lb n="8" /> supradictus
                             <persName key="d1e11711" xml:id="d1e130651">Robertus</persName> predicte
-                        ecclesie unum denarium censualem in prato <placeName key="stutzmann_himanis#324996" xml:id="d1e130654">
+                        ecclesie unum denarium censualem in prato <placeName key="stutzmann_himanis#324996" xml:id="d1e130654" corresp="Rigo, Rigos">
                             <app>
                                 <lem wit="#A">Rigo</lem>
                                 <rdg wit="#B">Rigos</rdg>
                             </app>
-                        </placeName> et <lb n="9"/> obolum unum in prato <placeName key="stutzmann_himanis#324979" xml:id="d1e130663">
+                        </placeName> et <lb n="9" /> obolum unum in prato <placeName key="stutzmann_himanis#324979" xml:id="d1e130663" corresp="Poet">
                             <foreign>Poet</foreign>
                         </placeName>. Et ut hoc ratum sit, ad peticionem ipsius <persName key="d1e11717" xml:id="d1e130667">Roberti</persName>
-                        <lb n="10"/> presenti scripto sigillum meum apposui. <app>
+                        <lb n="10" /> presenti scripto sigillum meum apposui. <app>
                             <lem wit="#A">Actum est hoc</lem>
-                            <rdg wit="#B" type="omission"/>
+                            <rdg wit="#B" type="omission" />
                         </app> anno gratie <num>m° cc° x°</num>.</p>
                 
             </body>

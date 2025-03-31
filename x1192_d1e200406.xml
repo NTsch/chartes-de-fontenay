@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e200406">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1192_d1e200406" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1819</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -83,72 +84,72 @@
                     <date type="documentCreation" when="1192-12-31">1192</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="d1e12947" xml:id="d1e135737">Willelmus de <placeName key="stutzmann_himanis#324406" xml:id="d1e135739">Berna</placeName>, dominus
-                            de <placeName key="stutzmann_himanis#324973" xml:id="d1e135742">Paceio</placeName>
+                                        <p>Ego <persName key="d1e12947" xml:id="d1e135737">Willelmus de <placeName key="stutzmann_himanis#324406" xml:id="d1e135739" corresp="Beaune (Côte-d'Or)">Berna</placeName>, dominus
+                            de <placeName key="stutzmann_himanis#324973" xml:id="d1e135742" corresp="Paceio">Paceio</placeName>
                         </persName>, per manum <persName key="d1e12954" xml:id="d1e135745">comitisse
-                            Matildis</persName> quondam uxo<lb n="2" break="no"/>ris <persName key="d1e12960" xml:id="d1e135750">Vidonis, comitis <placeName key="stutzmann_himanis#99026" xml:id="d1e135752">Nivernensis</placeName>
-                        </persName>, dedi et concessi fratribus ęcclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e135755">Fonteneti</orgName> terram quam
-                        juxta <lb n="3"/> domum suam de <placeName key="stutzmann_himanis#101036" xml:id="d1e135761">Sansueriis</placeName> absque assensu meo
-                        exartaverant et tenebant et quicquid habe<lb n="4" break="no"/>bant apud
-                            <placeName key="stutzmann_himanis#101036" xml:id="d1e135766">Sansuerias</placeName> et in finagio de <placeName key="stutzmann_himanis#324466" xml:id="d1e135769">Lania</placeName> ex dono <persName key="d1e12966" xml:id="d1e135772">Willelmi comitis <placeName key="stutzmann_himanis#99026" xml:id="d1e135774">Nivernensis</placeName>
-                        </persName> qui po<lb n="5" break="no"/>stea fuit conversus <orgName key="stutzmann_himanis#281491" xml:id="d1e135780">Cartusiensis</orgName> qui sicut
-                        in scriptis <orgName key="stutzmann_himanis#282689" xml:id="d1e135783">Fontene(tensium)</orgName> continetur laudante <lb n="6"/>
+                            Matildis</persName> quondam uxo<lb n="2" break="no" />ris <persName key="d1e12960" xml:id="d1e135750">Vidonis, comitis <placeName key="stutzmann_himanis#99026" xml:id="d1e135752" corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName>
+                        </persName>, dedi et concessi fratribus ęcclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e135755" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> terram quam
+                        juxta <lb n="3" /> domum suam de <placeName key="stutzmann_himanis#101036" xml:id="d1e135761" corresp="Sancerre (Cher, Bourges, Sancerre)">Sansueriis</placeName> absque assensu meo
+                        exartaverant et tenebant et quicquid habe<lb n="4" break="no" />bant apud
+                            <placeName key="stutzmann_himanis#101036" xml:id="d1e135766" corresp="Sancerre (Cher, Bourges, Sancerre)">Sansuerias</placeName> et in finagio de <placeName key="stutzmann_himanis#324466" xml:id="d1e135769" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName> ex dono <persName key="d1e12966" xml:id="d1e135772">Willelmi comitis <placeName key="stutzmann_himanis#99026" xml:id="d1e135774" corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName>
+                        </persName> qui po<lb n="5" break="no" />stea fuit conversus <orgName key="stutzmann_himanis#281491" xml:id="d1e135780" corresp="ordre des chartreux">Cartusiensis</orgName> qui sicut
+                        in scriptis <orgName key="stutzmann_himanis#282689" xml:id="d1e135783" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontene(tensium)</orgName> continetur laudante <lb n="6" />
                         <persName key="d1e12972" xml:id="d1e135787">Willelmo filio suo</persName>
-                        donavit in elemosinam abbatie <orgName key="stutzmann_himanis#282689" xml:id="d1e135790">Fonteneti</orgName> apud <placeName key="stutzmann_himanis#101036" xml:id="d1e135794">Sansuerias</placeName> locum
-                            habi<lb n="7" break="no"/>tationis cujusdam hominis Dei nomine <persName key="d1e12978" xml:id="d1e135799">Galterii</persName> qui ibidem
-                        religiose habitabat et pra<lb n="8" break="no"/>ta que idem <persName key="d1e12984" xml:id="d1e135804">Galterius</persName> tenebat et
-                        insuper de proximo <term>mareschio</term> ad excolendum in prata ad opus <lb n="9"/> grangie <placeName key="stutzmann_himanis#324452" xml:id="d1e135813">Fontanarum</placeName> quantum necesse esset et omnes aasencias suas in
-                        terris de <placeName key="stutzmann_himanis#324466" xml:id="d1e135816">Lania</placeName> et pastu<lb n="10" break="no"/>ras omnibus animalibus
+                        donavit in elemosinam abbatie <orgName key="stutzmann_himanis#282689" xml:id="d1e135790" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> apud <placeName key="stutzmann_himanis#101036" xml:id="d1e135794" corresp="Sancerre (Cher, Bourges, Sancerre)">Sansuerias</placeName> locum
+                            habi<lb n="7" break="no" />tationis cujusdam hominis Dei nomine <persName key="d1e12978" xml:id="d1e135799">Galterii</persName> qui ibidem
+                        religiose habitabat et pra<lb n="8" break="no" />ta que idem <persName key="d1e12984" xml:id="d1e135804">Galterius</persName> tenebat et
+                        insuper de proximo <term>mareschio</term> ad excolendum in prata ad opus <lb n="9" /> grangie <placeName key="stutzmann_himanis#324452" xml:id="d1e135813" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName> quantum necesse esset et omnes aasencias suas in
+                        terris de <placeName key="stutzmann_himanis#324466" xml:id="d1e135816" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName> et pastu<lb n="10" break="no" />ras omnibus animalibus
                         suis in bosco et in plano. Hoc donum prefatus <persName key="d1e12991" xml:id="d1e135821">comes Willelmus</persName>
-                        <lb n="11"/> fecit in camera sua apud <placeName key="stutzmann_himanis#101449" xml:id="d1e135826">Tornodorum</placeName> anno ab incarnatione Domini
+                        <lb n="11" /> fecit in camera sua apud <placeName key="stutzmann_himanis#101449" xml:id="d1e135826" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornodorum</placeName> anno ab incarnatione Domini
                         millesimo .<num>c<hi rend="superscript">o</hi>. xxx<hi rend="superscript">o</hi>. iiii<hi rend="superscript">o</hi>.</num>
-                        <lb n="12"/> Hoc postea laudavit prefatus <persName key="d1e12997" xml:id="d1e135842">Vido comes <placeName key="stutzmann_himanis#99026" xml:id="d1e135844">Nivernensis</placeName>
-                        </persName> et inde cartam sigillo suo <lb n="13"/> munitam predictis
+                        <lb n="12" /> Hoc postea laudavit prefatus <persName key="d1e12997" xml:id="d1e135842">Vido comes <placeName key="stutzmann_himanis#99026" xml:id="d1e135844" corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName>
+                        </persName> et inde cartam sigillo suo <lb n="13" /> munitam predictis
                         fratribus fecit. Et ego similiter ejus exemplum secutus, predictis fratribus
-                            <lb n="14"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135850">Fonteneti</orgName> prece
+                            <lb n="14" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135850" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> prece
                             <persName key="d1e13003" xml:id="d1e135854">comitisse
-                            Matildis</persName> et per manum ejus laudavi et confirmavi omnia que<lb n="15" break="no"/>cumque in finagio de <placeName key="stutzmann_himanis#324466" xml:id="d1e135859">Lania</placeName> usque ad hanc diem acquisierant et
-                        ante habuerant et te<lb n="16" break="no"/>nuerant et omnes res omnes res
-                        eorum in toto posse meo in tuitione et defensione mea recepi et de <lb n="17"/> his adversus omnes homines garentiam me portaturum promisi. Pro
-                        his etiam ha<lb n="18" break="no"/>bui de beneficio ęcclesie decem libras et
-                        pro duobus bubus .lx<hi rend="superscript">a</hi>. solidos. Ut autem hoc <lb n="19"/> ratum et inconvulsum habeatur inconvulsum habeatur inposterum
-                        cartam hanc fieri precepi et appensio<lb n="20" break="no"/>ne sigilli
+                            Matildis</persName> et per manum ejus laudavi et confirmavi omnia que<lb n="15" break="no" />cumque in finagio de <placeName key="stutzmann_himanis#324466" xml:id="d1e135859" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName> usque ad hanc diem acquisierant et
+                        ante habuerant et te<lb n="16" break="no" />nuerant et omnes res omnes res
+                        eorum in toto posse meo in tuitione et defensione mea recepi et de <lb n="17" /> his adversus omnes homines garentiam me portaturum promisi. Pro
+                        his etiam ha<lb n="18" break="no" />bui de beneficio ęcclesie decem libras et
+                        pro duobus bubus .lx<hi rend="superscript">a</hi>. solidos. Ut autem hoc <lb n="19" /> ratum et inconvulsum habeatur inconvulsum habeatur inposterum
+                        cartam hanc fieri precepi et appensio<lb n="20" break="no" />ne sigilli
                             <persName key="d1e13009" xml:id="d1e135876">Galterii fratris mei comitis
-                            de <placeName key="stutzmann_himanis#325054" xml:id="d1e135878">Brena</placeName>
-                        </persName> munire feci. Unde sunt testes <lb n="21"/>
+                            de <placeName key="stutzmann_himanis#325054" xml:id="d1e135878" corresp="Brena">Brena</placeName>
+                        </persName> munire feci. Unde sunt testes <lb n="21" />
                         <persName key="d1e13015" xml:id="d1e135882">Matildis quondam comitissa
-                                <placeName key="stutzmann_himanis#99026" xml:id="d1e135884">Nivernensis</placeName>
-                        </persName>, per cujus manum factum est, <persName key="d1e13021" xml:id="d1e135888">Willelmus prior <lb n="22"/>
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e135891">Fonteneti</orgName>
+                                <placeName key="stutzmann_himanis#99026" xml:id="d1e135884" corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName>
+                        </persName>, per cujus manum factum est, <persName key="d1e13021" xml:id="d1e135888">Willelmus prior <lb n="22" />
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e135891" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName>, <persName key="d1e13028" xml:id="d1e135894">Philippus de
-                                <placeName key="stutzmann_himanis#325251" xml:id="d1e135896">Corte
+                                <placeName key="stutzmann_himanis#325251" xml:id="d1e135896" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Corte
                                 Raboti</placeName>
                         </persName> et <persName key="d1e13034" xml:id="d1e135899">Hugo de
-                                <placeName key="stutzmann_himanis#324349" xml:id="d1e135901">Quinceio</placeName>
+                                <placeName key="stutzmann_himanis#324349" xml:id="d1e135901" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinceio</placeName>
                         </persName>, monachi, <persName key="d1e13040" xml:id="d1e135904">Petrus
-                                prepo<lb n="23" break="no"/>situs de <placeName key="stutzmann_himanis#324973" xml:id="d1e135908">Paceio</placeName>
+                                prepo<lb n="23" break="no" />situs de <placeName key="stutzmann_himanis#324973" xml:id="d1e135908" corresp="Paceio">Paceio</placeName>
                         </persName>, <persName key="d1e13046" xml:id="d1e135911">Hugo major de
-                                <placeName key="stutzmann_himanis#324466" xml:id="d1e135913">Lania</placeName>
+                                <placeName key="stutzmann_himanis#324466" xml:id="d1e135913" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>
                         </persName>, <persName key="d1e13052" xml:id="d1e135916">Columbus filius
                                 <persName key="d1e13058" xml:id="d1e135918">Marini</persName>
                         </persName>, <persName key="d1e13065" xml:id="d1e135922">Petrus
-                                    <addName>Ali<lb n="24" break="no"/>reius</addName>
+                                    <addName>Ali<lb n="24" break="no" />reius</addName>
                         </persName> et <persName key="d1e13071" xml:id="d1e135929">Garinus</persName> nepos ejus et <persName key="d1e13077" xml:id="d1e135932">Willelmus <addName>
                                 <foreign>Chainart</foreign>
                             </addName>
-                        </persName>. Actum anno ab in<lb n="25" break="no"/>carnatione Domini
+                        </persName>. Actum anno ab in<lb n="25" break="no" />carnatione Domini
                         millessimo centesimo nonagesimo secundo.</p>
                 
             </body>

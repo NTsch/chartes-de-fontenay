@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1154_d1e222627">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1154_d1e222627" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 27@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,8 +42,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e22382" xml:id="d1e151855">Henricus <placeName key="stutzmann_himanis#101630" xml:id="d1e151857">Trecensium</placeName> comes
-                        palatinus</persName>, servis Dei in <orgName key="stutzmann_himanis#282533" xml:id="d1e151861">Clara Valle</orgName> et in abbatiis pertinentibus ad eam
+                <p>Ego <persName key="d1e22382" xml:id="d1e151855">Henricus <placeName key="stutzmann_himanis#101630" xml:id="d1e151857" corresp="Troyes (Aube, Troyes)">Trecensium</placeName> comes
+                        palatinus</persName>, servis Dei in <orgName key="stutzmann_himanis#282533" xml:id="d1e151861" corresp="abbaye Notre-Dame de Clairvaux (1115 -)">Clara Valle</orgName> et in abbatiis pertinentibus ad eam
                     degentibus pro anima mea et patris mei clementer indulgeo ut in tota terra mea
                     fratres eorum nullum omnino theloneum, nullum pedagium, nullam consuetudinem
                     exolvant ad nundinas meas, libere sine aliqua exactione emant et vendant, quae
@@ -54,17 +55,17 @@
                     impressione insigniri et authoritate precepi. Decerno etiam et indissolubili
                     concessione confirmo ut haec pia donatio mea, nullo in posterum tempore a
                     successoribus et heredibus meis, nec a quoquam hominum occasione qualibet
-                    infringatur. Hujus rei testes sunt <persName key="d1e22389" xml:id="d1e151864">Hilduinus de <placeName key="stutzmann_himanis#325047" xml:id="d1e151866">Vendopera</placeName>
-                    </persName>, <persName key="d1e22395" xml:id="d1e151869">Walterius de <placeName key="stutzmann_himanis#324410" xml:id="d1e151871">
+                    infringatur. Hujus rei testes sunt <persName key="d1e22389" xml:id="d1e151864">Hilduinus de <placeName key="stutzmann_himanis#325047" xml:id="d1e151866" corresp="Vendopera">Vendopera</placeName>
+                    </persName>, <persName key="d1e22395" xml:id="d1e151869">Walterius de <placeName key="stutzmann_himanis#324410" xml:id="d1e151871" corresp="Bernon (Aube, Chaource)">
                             <foreign>Bernum</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e22401" xml:id="d1e151875">Drogo de <placeName key="stutzmann_himanis#324989" xml:id="d1e151877">Pruvinio</placeName>
+                    </persName>, <persName key="d1e22401" xml:id="d1e151875">Drogo de <placeName key="stutzmann_himanis#324989" xml:id="d1e151877" corresp="Pruvinio">Pruvinio</placeName>
                     </persName>. Actum anno ab incarnatione Domini millesimo centesimo quinquagesimo
                     quarto, regnante <persName key="d1e22407" xml:id="d1e151881">Ludovico
-                        Juniore</persName>, Francorum rege christianissimo, <persName key="stutzmann_himanis#324555" xml:id="d1e151884">Godefrido <placeName key="stutzmann_himanis#317574" xml:id="d1e151886">Lingonensi</placeName>
-                        episcopo</persName>. Tradita <placeName key="stutzmann_himanis#324403" xml:id="d1e151890">Bar<hi rend="background(red)">ro</hi>
+                        Juniore</persName>, Francorum rege christianissimo, <persName key="stutzmann_himanis#324555" xml:id="d1e151884" corresp="Geoffroy de La Roche-Vanneau, abbé de Fontenay (1119-1126), évêque de Langres (1138-1163)">Godefrido <placeName key="stutzmann_himanis#317574" xml:id="d1e151886" corresp="Langres (Haute-Marne, Langres)">Lingonensi</placeName>
+                        episcopo</persName>. Tradita <placeName key="stutzmann_himanis#324403" xml:id="d1e151890" corresp="Bar-sur-Seine (Aube, Bar-sur-Seine)">Bar<hi rend="background(red)">ro</hi>
                     </placeName> per manum <persName key="d1e22413" xml:id="d1e151895">Willelmi
-                        notarii</persName>. <hi rend="background(green)">Ego <persName key="d1e22419" xml:id="d1e151900">Johannes quondam <placeName key="stutzmann_himanis#98064" xml:id="d1e151902">Lugdunensis</placeName>
+                        notarii</persName>. <hi rend="background(green)">Ego <persName key="d1e22419" xml:id="d1e151900">Johannes quondam <placeName key="stutzmann_himanis#98064" xml:id="d1e151902" corresp="Lyon (Rhône)">Lugdunensis</placeName>
                             archiepiscopus</persName>, audita et perlecta in eadem verba coram me
                         originali carta in signum testimonii sigillum meum apposui.</hi>
                 </p>

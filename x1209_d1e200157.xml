@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e200157">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e200157" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1816</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -74,7 +75,7 @@
             <profileDesc>
                 <creation>
                     <date type="documentCreation" when="1209-06-21">1209, 21 juin</date>
-                    <placeName key="stutzmann_himanis#324453" xml:id="d1e135555">Fontenay</placeName>
+                    <placeName key="stutzmann_himanis#324453" xml:id="d1e135555" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenay</placeName>
                 </creation>
                 <abstract>
                     <p>Texte identique à 15 h 190 /10.
@@ -83,30 +84,30 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0024.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_190_0025.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0024.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0025.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e135572">Gauterius, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135574">Eduensis</placeName> episcopus</persName>, notum facimus
-                        presentibus et futuris quod <persName key="d1e12935" xml:id="d1e135578">Matheus, miles de <placeName key="stutzmann_himanis#324466" xml:id="d1e135580">Laniis</placeName>
-                        </persName>, in presentia nostra <lb n="2"/> constitutus, profecturus
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e135572" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135574" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facimus
+                        presentibus et futuris quod <persName key="d1e12935" xml:id="d1e135578">Matheus, miles de <placeName key="stutzmann_himanis#324466" xml:id="d1e135580" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Laniis</placeName>
+                        </persName>, in presentia nostra <lb n="2" /> constitutus, profecturus
                         peregre contra provinciales hereticos, recognovit quod fratres ecclesie
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e135585">Fonteneti</orgName>
-                        habent a domino <persName key="d1e12941" xml:id="d1e135588">Rogerio <lb n="3"/> de <placeName key="stutzmann_himanis#325251" xml:id="d1e135592">Curte
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e135585" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        habent a domino <persName key="d1e12941" xml:id="d1e135588">Rogerio <lb n="3" /> de <placeName key="stutzmann_himanis#325251" xml:id="d1e135592" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
                                 Rabodi</placeName>
-                        </persName> terciam partem in omnibus nemoribus de <placeName key="stutzmann_himanis#324466" xml:id="d1e135596">Laniis</placeName> et de foresta
-                        et pasnagio et apibus et tractum in tercio anno <lb n="4"/> et quod nullus
+                        </persName> terciam partem in omnibus nemoribus de <placeName key="stutzmann_himanis#324466" xml:id="d1e135596" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Laniis</placeName> et de foresta
+                        et pasnagio et apibus et tractum in tercio anno <lb n="4" /> et quod nullus
                         participum dominorum potest aliquem conducere in predictis nemoribus preter
-                        suos proprios homines qui sunt <term>estagii</term> in vil<lb n="5" break="no"/>la de <placeName key="stutzmann_himanis#324466" xml:id="d1e135606">Laniis</placeName>. Recognovit nichilominus idem miles quod dicti
+                        suos proprios homines qui sunt <term>estagii</term> in vil<lb n="5" break="no" />la de <placeName key="stutzmann_himanis#324466" xml:id="d1e135606" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Laniis</placeName>. Recognovit nichilominus idem miles quod dicti
                         fratres <del rend="expunct">
                             <surplus>fratres</surplus>
                         </del>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135613">Fonten<hi rend="background(yellow)">(eti)</hi>
-                        </orgName> habent suam justiciam sicut sui <lb n="6"/> comparticipes in
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135613" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten<hi rend="background(yellow)">(eti)</hi>
+                        </orgName> habent suam justiciam sicut sui <lb n="6" /> comparticipes in
                         omnibus supradictis. In cujus rei confirmationem ad utriusque partis
-                        instantiam presenti carte sigilli nostri apposuimus fir<lb n="7" break="no"/>mamentum. Datum <placeName key="stutzmann_himanis#324453" xml:id="d1e135622">Fonten<hi rend="background(yellow)">(eto)</hi>
+                        instantiam presenti carte sigilli nostri apposuimus fir<lb n="7" break="no" />mamentum. Datum <placeName key="stutzmann_himanis#324453" xml:id="d1e135622" corresp="Fontenay (Côte-d'Or, Montbard)">Fonten<hi rend="background(yellow)">(eto)</hi>
                         </placeName> in camera nostra, anno Verbi incarnati millesimo <num>cc</num>
                         <hi rend="superscript">o</hi>. nono, xi. kl. julii.</p>
                 

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e209270">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e209270" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 3154</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -61,17 +62,17 @@
                         </witness>
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
            
             </fileDesc>
-            <xi:include href="taxonomy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+            <include href="taxonomy.xml" />
             <profileDesc>
                 <creation>
                     <date type="documentCreation" notBefore="1178" notAfter="1213-12-31">[avant 1214 ?]<note>Servius est attesté comme
-                            moine à Quincy en 1178 (<ptr target="http://www.cn-telma.fr/chartae-galliae/charte202298/"/>) et
-                            comme prieur en 1180 (CEMA 7395, <ptr target="http://www.cn-telma.fr/chartae-galliae/charte262147/"/>). Un Milon est attesté comme abbé de Quincy
+                            moine à Quincy en 1178 (<ptr target="http://www.cn-telma.fr/chartae-galliae/charte202298/" />) et
+                            comme prieur en 1180 (CEMA 7395, <ptr target="http://www.cn-telma.fr/chartae-galliae/charte262147/" />). Un Milon est attesté comme abbé de Quincy
                             en 1186 (cf. CEMA 14176 et CEMA 89190), en 1191 (cf. CEMA 79233), 1192 (cf. CEMA 88920) ; il n'y a pas de nécessité de l'identifier comme celui qui est dit "ancien abbé de Bourras". 
                             Néanmoins la liste d'abbés de Bouras publiée dans J.-M. Canivez, 'BOURAS', in Dictionnaire
                                 d'histoire et de géographie ecclésiastiques. Paris: Letouzey et Ané,
@@ -88,50 +89,50 @@
                     </date>
                 </creation>
                 <textClass>
-                    <catRef corresp="#actes_juridiques" target="#compromis"/>
-                    <catRef corresp="#nature_document" target="#charte"/>
-                    <catRef corresp="auteur" target="#abbe #abbe_pontigny"/>
+                    <catRef corresp="#actes_juridiques" target="#compromis" />
+                    <catRef corresp="#nature_document" target="#charte" />
+                    <catRef corresp="auteur" target="#abbe #abbe_pontigny" />
                     
                 </textClass>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_243_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_243_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_243_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_243_0009.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 <p>
-                    <persName key="d1e15087" xml:id="d1e141748">Dominus abbas <orgName key="stutzmann_himanis#283933" xml:id="d1e141750">Pontiniacensis</orgName>
-                    </persName> testatur quod firma pax facta est inter dissidentes domos <orgName key="stutzmann_himanis#282689" xml:id="d1e141753">Fonteneti</orgName> et <orgName key="stutzmann_himanis#280812" xml:id="d1e141756">Quinciaci</orgName> assensu
-                    utriusque partis, abbatis scilicet<lb/>
-                    <orgName key="stutzmann_himanis#282689" xml:id="d1e141760">Fonteneti</orgName> et suorum
-                    qui presentes erant, abbatis quoque <orgName key="stutzmann_himanis#280812" xml:id="d1e141763">Quinciaci</orgName> et suorum qui fuerunt presentes, tali
-                    conditione quod fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e141767">Fonteneti</orgName> in pasturis haberent totum nemus <lb/>sine parte
-                    alterius, et fratres <orgName key="stutzmann_himanis#280812" xml:id="d1e141772">Quinciaci</orgName> totum planum sine parte alterius. <persName key="d1e15093" xml:id="d1e141775">Milo, qui fuit abbas de <orgName key="stutzmann_himanis#282300" xml:id="d1e141777">Burra</orgName>
-                    </persName>, hoc idem dixit et super hoc addidit quod pasture de <lb/>
-                    <placeName key="stutzmann_himanis#324924" xml:id="d1e141781">
+                    <persName key="d1e15087" xml:id="d1e141748">Dominus abbas <orgName key="stutzmann_himanis#283933" xml:id="d1e141750" corresp="abbaye Notre-Dame et Saint-Edme de Pontigny (1114 -)">Pontiniacensis</orgName>
+                    </persName> testatur quod firma pax facta est inter dissidentes domos <orgName key="stutzmann_himanis#282689" xml:id="d1e141753" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et <orgName key="stutzmann_himanis#280812" xml:id="d1e141756" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName> assensu
+                    utriusque partis, abbatis scilicet<lb />
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e141760" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et suorum
+                    qui presentes erant, abbatis quoque <orgName key="stutzmann_himanis#280812" xml:id="d1e141763" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName> et suorum qui fuerunt presentes, tali
+                    conditione quod fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e141767" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in pasturis haberent totum nemus <lb />sine parte
+                    alterius, et fratres <orgName key="stutzmann_himanis#280812" xml:id="d1e141772" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName> totum planum sine parte alterius. <persName key="d1e15093" xml:id="d1e141775">Milo, qui fuit abbas de <orgName key="stutzmann_himanis#282300" xml:id="d1e141777" corresp="abbaye Notre-Dame de Bouras ou Bonras (1119 -)">Burra</orgName>
+                    </persName>, hoc idem dixit et super hoc addidit quod pasture de <lb />
+                    <placeName key="stutzmann_himanis#324924" xml:id="d1e141781" corresp="Juvance">
                         <foreign>Juvenci</foreign>
-                    </placeName> deberent esse in communi. <persName key="d1e15100" xml:id="d1e141786">Servius, qui tunc fuit prior <orgName key="stutzmann_himanis#280812" xml:id="d1e141788">Quinciaci</orgName>
+                    </placeName> deberent esse in communi. <persName key="d1e15100" xml:id="d1e141786">Servius, qui tunc fuit prior <orgName key="stutzmann_himanis#280812" xml:id="d1e141788" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName>
                     </persName>, dixit idem et addidit quod <persName key="d1e15106" xml:id="d1e141791">Milo monachus</persName>, qui est unus testium, fuit
-                    judex pro uno <lb/>abbate qui interesse non potuit assensu utriusque partis.
-                        <persName key="d1e15112" xml:id="d1e141796">Hugo de <placeName key="stutzmann_himanis#324970" xml:id="d1e141798">Nehele</placeName>, monachus
-                            <orgName key="stutzmann_himanis#280812" xml:id="d1e141801">Quinciaci</orgName>
-                    </persName>, totum hoc dixit. <persName key="d1e15118" xml:id="d1e141804">Nobertus conversus</persName> dixit hoc<lb/>idem. <persName key="d1e15124" xml:id="d1e141810">Henscherus conversus</persName> dixit hoc idem. Isti sunt
-                    testes ex parte abbatis <orgName key="stutzmann_himanis#280812" xml:id="d1e141813">Quinciaci</orgName>. <figure type="pied-de-mouche"/>
+                    judex pro uno <lb />abbate qui interesse non potuit assensu utriusque partis.
+                        <persName key="d1e15112" xml:id="d1e141796">Hugo de <placeName key="stutzmann_himanis#324970" xml:id="d1e141798" corresp="Nehele">Nehele</placeName>, monachus
+                            <orgName key="stutzmann_himanis#280812" xml:id="d1e141801" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName>
+                    </persName>, totum hoc dixit. <persName key="d1e15118" xml:id="d1e141804">Nobertus conversus</persName> dixit hoc<lb />idem. <persName key="d1e15124" xml:id="d1e141810">Henscherus conversus</persName> dixit hoc idem. Isti sunt
+                    testes ex parte abbatis <orgName key="stutzmann_himanis#280812" xml:id="d1e141813" corresp="abbaye de Quincy (1133 -)">Quinciaci</orgName>. <figure type="pied-de-mouche" />
                     <persName key="d1e15130" xml:id="d1e141817">Abbas de Busseria</persName>, ex
-                    parte abbatis <orgName key="stutzmann_himanis#282689" xml:id="d1e141820">Fonteneti</orgName>, testa<lb break="no"/>tur quod pax, que sero prelocuta
+                    parte abbatis <orgName key="stutzmann_himanis#282689" xml:id="d1e141820" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, testa<lb break="no" />tur quod pax, que sero prelocuta
                     dicitur, omnino infecta fuit in crastino et dimissa, assensu utriusque partis et
-                    presentibus duobus judicibus, <lb/>
-                    <persName key="d1e15137" xml:id="d1e141827">abbate scilicet <orgName key="stutzmann_himanis#283933" xml:id="d1e141829">Poten.</orgName>
-                    </persName> et <persName key="d1e15143" xml:id="d1e141832">abbate de <orgName key="stutzmann_himanis#282300" xml:id="d1e141834">Burra</orgName>
+                    presentibus duobus judicibus, <lb />
+                    <persName key="d1e15137" xml:id="d1e141827">abbate scilicet <orgName key="stutzmann_himanis#283933" xml:id="d1e141829" corresp="abbaye Notre-Dame et Saint-Edme de Pontigny (1114 -)">Poten.</orgName>
+                    </persName> et <persName key="d1e15143" xml:id="d1e141832">abbate de <orgName key="stutzmann_himanis#282300" xml:id="d1e141834" corresp="abbaye Notre-Dame de Bouras ou Bonras (1119 -)">Burra</orgName>
                     </persName>. <persName key="d1e15149" xml:id="d1e141837">Bernardus
                         monachus</persName> hoc idem dixit. <persName key="d1e15155" xml:id="d1e141840">Martinus conversus</persName> dixit idem. <persName key="d1e15161" xml:id="d1e141843">Ogerus conversus</persName> dixit idem.
                         <persName key="d1e15167" xml:id="d1e141847">Petrus conversus</persName>
-                    <lb/>dixit idem, excepto quod non cognovit judices, et ideo nescivit si
+                    <lb />dixit idem, excepto quod non cognovit judices, et ideo nescivit si
                     presentes essent.</p>
             </body>
         </text>

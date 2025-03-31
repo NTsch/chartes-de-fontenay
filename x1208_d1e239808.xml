@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e239808">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e239808" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 230@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,18 +38,18 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e164034">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e164037">Fontaneto</orgName>, Cisterciensis
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e164034" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e164037" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>, Cisterciensis
                     ordinis, salutem et apostolicam benedictionem. Solet annuere sedes apostolica
                     piis votis et honestis petentium precibus favorem benevolum impertiri.
                     Eapropter, dilecti in Domino filii, vestris justis postulationibus gratum
-                    impertientes assensum, eleemozinam quam <persName key="d1e28414" xml:id="d1e164040">A., miles</persName>, in bosco de <placeName key="stutzmann_himanis#325220" xml:id="d1e164043">Cauteriis</placeName>, vobis
+                    impertientes assensum, eleemozinam quam <persName key="d1e28414" xml:id="d1e164040">A., miles</persName>, in bosco de <placeName key="stutzmann_himanis#325220" xml:id="d1e164043" corresp="Cauteriis">Cauteriis</placeName>, vobis
                     concessit sicut eam juste ac pacifice possidetis, vobis et per vos monasterio
                     vestro aucthoritate apostolica confirmamus et presentis scripti patrocinio
                     communimus. Nulli ergo omnino hominum liceat hanc paginam nostrae confirmationis
                     infringere vel ei ausu temerario contra ire. Si quis autem hoc attemptare
                     presumpserit indignationem omnipotentis Dei et beatorum Petri et Pauli
-                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e164046">Laterani</placeName>, quarto idus martii, pontificatus
+                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e164046" corresp="Laterani">Laterani</placeName>, quarto idus martii, pontificatus
                     nostri anno undecimo.</p>
             </body>
         </text>

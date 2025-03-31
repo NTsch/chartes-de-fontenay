@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1191_d1e189697">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1191_d1e189697" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 198</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,38 +79,38 @@
                     <date type="documentCreation" when="1191-12-31">1191</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_110_0016.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_110_0017.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_110_0016.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_110_0017.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e128624">Odo, filius ducis
-                                <placeName key="stutzmann_himanis#325098" xml:id="d1e128626">Burgundie</placeName>
-                        </persName>, presentibus et futuris notum facio quod dominus <persName key="d1e11079" xml:id="d1e128629">Otho de <placeName key="stutzmann_himanis#101083" xml:id="d1e128631">Salio</placeName>
-                        </persName> dedit in elemosinam et in perpetuum concessit Deo et <lb n="2"/>
-                        monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e128636">Fonteneti</orgName> domum suam de <placeName key="stutzmann_himanis#96489" xml:id="d1e128639">Divionne</placeName> que de casamento meo est et
-                        redditus ad ipsam domum pertinentes et terram <lb n="3"/> vacuam que de domo
-                        est et est juxta domum infra muros <placeName key="stutzmann_himanis#96489" xml:id="d1e128645">Divionis</placeName>. Hanc elemosinam laudaverunt
-                            <persName key="d1e11085" xml:id="d1e128648">Guido, filius domini <lb n="4"/> Othonis</persName>, et <persName key="d1e11091" xml:id="d1e128653">Willermus, similiter filius ejus</persName>, ad cujus
-                        partem divisam hoc pertinebat. Laudaverunt etiam hoc <persName key="d1e11098" xml:id="d1e128656">domina Villerma, uxor domini <lb n="5"/> Othonis</persName>, et <persName key="d1e11104" xml:id="d1e128661">Elisabel, uxor domini <persName key="d1e11110" xml:id="d1e128663">Guidonis</persName>
+                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e128624" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, filius ducis
+                                <placeName key="stutzmann_himanis#325098" xml:id="d1e128626" corresp="Bourgogne">Burgundie</placeName>
+                        </persName>, presentibus et futuris notum facio quod dominus <persName key="d1e11079" xml:id="d1e128629">Otho de <placeName key="stutzmann_himanis#101083" xml:id="d1e128631" corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">Salio</placeName>
+                        </persName> dedit in elemosinam et in perpetuum concessit Deo et <lb n="2" />
+                        monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e128636" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> domum suam de <placeName key="stutzmann_himanis#96489" xml:id="d1e128639" corresp="Dijon (Côte-d'Or, Dijon)">Divionne</placeName> que de casamento meo est et
+                        redditus ad ipsam domum pertinentes et terram <lb n="3" /> vacuam que de domo
+                        est et est juxta domum infra muros <placeName key="stutzmann_himanis#96489" xml:id="d1e128645" corresp="Dijon (Côte-d'Or, Dijon)">Divionis</placeName>. Hanc elemosinam laudaverunt
+                            <persName key="d1e11085" xml:id="d1e128648">Guido, filius domini <lb n="4" /> Othonis</persName>, et <persName key="d1e11091" xml:id="d1e128653">Willermus, similiter filius ejus</persName>, ad cujus
+                        partem divisam hoc pertinebat. Laudaverunt etiam hoc <persName key="d1e11098" xml:id="d1e128656">domina Villerma, uxor domini <lb n="5" /> Othonis</persName>, et <persName key="d1e11104" xml:id="d1e128661">Elisabel, uxor domini <persName key="d1e11110" xml:id="d1e128663">Guidonis</persName>
                         </persName>. Hanc etiam donationem ego ipse laudavi et sigilli mei
-                        impressione <lb n="6"/> confirmavi. Hujus rei testes sunt <persName key="d1e11116" xml:id="d1e128669">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e128671">Fonteneti</orgName>
-                        </persName>, <persName key="d1e11122" xml:id="d1e128674">Philipus</persName>, <persName key="d1e11128" xml:id="d1e128677">Bernardus</persName>, <persName key="d1e11135" xml:id="d1e128680">Humbertus monachi</persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e128683">Odo archipresbiter <lb n="7"/>
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e128686">Tullionis</placeName>
+                        impressione <lb n="6" /> confirmavi. Hujus rei testes sunt <persName key="d1e11116" xml:id="d1e128669">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e128671" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        </persName>, <persName key="d1e11122" xml:id="d1e128674">Philipus</persName>, <persName key="d1e11128" xml:id="d1e128677">Bernardus</persName>, <persName key="d1e11135" xml:id="d1e128680">Humbertus monachi</persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e128683" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <lb n="7" />
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e128686" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, <persName key="d1e11141" xml:id="d1e128690">dominus Hyulo de
-                                <placeName key="stutzmann_himanis#101083" xml:id="d1e128692">Salio</placeName>
+                                <placeName key="stutzmann_himanis#101083" xml:id="d1e128692" corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">Salio</placeName>
                         </persName> et <persName key="d1e11147" xml:id="d1e128695">Girardus filius
                             ejus</persName>, <persName key="d1e11153" xml:id="d1e128698">Aymo de
-                                <placeName key="stutzmann_himanis#324336" xml:id="d1e128700">Orgeolo</placeName>
+                                <placeName key="stutzmann_himanis#324336" xml:id="d1e128700" corresp="Orgeux (Côte-d'Or, Fontaine-lès-Dijon)">Orgeolo</placeName>
                         </persName>, milites, <persName key="d1e11159" xml:id="d1e128703">Boynus
-                            prepositus <placeName key="stutzmann_himanis#324426" xml:id="d1e128705">Castellionis</placeName>
-                        </persName>. Actum est hoc <lb n="8"/> anno ab incarnatione Domini <num>m°
+                            prepositus <placeName key="stutzmann_himanis#324426" xml:id="d1e128705" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellionis</placeName>
+                        </persName>. Actum est hoc <lb n="8" /> anno ab incarnatione Domini <num>m°
                             c° lxxxx° primo</num>.</p>
                 
             </body>

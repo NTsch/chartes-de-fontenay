@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1182_d1e228739">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1182_d1e228739" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 86@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,25 +33,25 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e156264">Stephanus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e156266">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e156264" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e156266" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, scire volo presentes et futuros que facta sit pax
-                    inter <orgName key="stutzmann_himanis#282689" xml:id="d1e156270">Fontenetenses</orgName>
+                    inter <orgName key="stutzmann_himanis#282689" xml:id="d1e156270" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
                     et <persName key="d1e24584" xml:id="d1e156273">Henricum</persName> atque
                         <persName key="d1e24590" xml:id="d1e156276">Johannem</persName> fratres
-                    cujusdam defuncti in grangia de <placeName key="stutzmann_himanis#324449" xml:id="d1e156279">
+                    cujusdam defuncti in grangia de <placeName key="stutzmann_himanis#324449" xml:id="d1e156279" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
-                    </placeName>. <orgName key="stutzmann_himanis#282689" xml:id="d1e156284">Fontenetenses</orgName> pro pace habenda dederunt predictis fratribus <hi rend="smallcaps">l</hi> solidos. Ipsi vero <hi rend="background(green)">jurejurando firmaverunt</hi> quod nunquam dampnum seu gravamen ecclesie
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e156293">Fonteneti</orgName>
+                    </placeName>. <orgName key="stutzmann_himanis#282689" xml:id="d1e156284" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> pro pace habenda dederunt predictis fratribus <hi rend="smallcaps">l</hi> solidos. Ipsi vero <hi rend="background(green)">jurejurando firmaverunt</hi> quod nunquam dampnum seu gravamen ecclesie
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e156293" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     inferrent neque ab aliis inferri consentirent et si ab alio machinari malum
-                    aliquod prefate ecclesie scire possent si illud disturbare non valerent <orgName key="stutzmann_himanis#282689" xml:id="d1e156296">Fontenetensibus</orgName> nutiarent.
+                    aliquod prefate ecclesie scire possent si illud disturbare non valerent <orgName key="stutzmann_himanis#282689" xml:id="d1e156296" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> nutiarent.
                         <hi rend="background(green)">Hec ita se jurasse coram me recognoverunt</hi>
                     et quod predicte ecclesie semper amici existerent. Unde mecum testes sunt
-                        <persName key="d1e24596" xml:id="d1e156303">Bernardus <orgName key="stutzmann_himanis#282689" xml:id="d1e156305">Fonteneti</orgName>
+                        <persName key="d1e24596" xml:id="d1e156303">Bernardus <orgName key="stutzmann_himanis#282689" xml:id="d1e156305" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         abbas</persName>, <persName key="d1e24602" xml:id="d1e156309">Phylippus</persName> et <persName key="d1e24609" xml:id="d1e156312">Hugo
-                        Fonteneti monachi</persName>, <persName key="d1e24615" xml:id="d1e156315">Hermuinus capellanus <placeName key="stutzmann_himanis#324439" xml:id="d1e156317">Darcei</placeName>
+                        Fonteneti monachi</persName>, <persName key="d1e24615" xml:id="d1e156315">Hermuinus capellanus <placeName key="stutzmann_himanis#324439" xml:id="d1e156317" corresp="Darcey (Côte-d'Or, Montbard)">Darcei</placeName>
                     </persName>, <persName key="d1e24621" xml:id="d1e156320">Garnerius presbiter
-                            <placeName key="stutzmann_himanis#324450" xml:id="d1e156322">Fani</placeName>
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e156322" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fani</placeName>
                     </persName>, <persName key="d1e24627" xml:id="d1e156325">Johannes filius
                             <persName key="d1e24633" xml:id="d1e156327">Gaufridi</persName>
                     </persName>.</p>

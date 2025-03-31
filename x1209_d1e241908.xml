@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241908">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e241908" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 250@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,15 +37,15 @@
             <body>
                 <p>
                     <persName key="d1e29000" xml:id="d1e165553">Rainaudus, Dei gratia primae
-                            <placeName key="stutzmann_himanis#98064" xml:id="d1e165555">Lugdunensis</placeName> ecclesiae minister humilis</persName>, omnibus
-                    in perpetuum. Universitati vestrae presentium authoritate volumus innotesc<hi rend="background(cyan)">ari</hi> quod <persName key="stutzmann_himanis#324624" xml:id="d1e165562">Odo illustris dux <placeName key="stutzmann_himanis#325098" xml:id="d1e165564">Burgundiae</placeName>
-                    </persName> elemozinam inferius annotatam sanctae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165567">Fontaneti, ordinis <orgName key="stutzmann_himanis#281483" xml:id="d1e165569">Cisterciensis</orgName>
+                            <placeName key="stutzmann_himanis#98064" xml:id="d1e165555" corresp="Lyon (Rhône)">Lugdunensis</placeName> ecclesiae minister humilis</persName>, omnibus
+                    in perpetuum. Universitati vestrae presentium authoritate volumus innotesc<hi rend="background(cyan)">ari</hi> quod <persName key="stutzmann_himanis#324624" xml:id="d1e165562" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo illustris dux <placeName key="stutzmann_himanis#325098" xml:id="d1e165564" corresp="Bourgogne">Burgundiae</placeName>
+                    </persName> elemozinam inferius annotatam sanctae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165567" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneti, ordinis <orgName key="stutzmann_himanis#281483" xml:id="d1e165569" corresp="ordre des cisterciens">Cisterciensis</orgName>
                     </orgName>, pro sua et antecessorum suorum animarum salute sub verbis
                     subsequentibus dedit atque concessit. Nos igitur ad humilem ejusdem ducis
                     petitionem Deoque et hominibus plurimum gratam devotum habentes respectum,
-                    presentem cartam praedictae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165572">Fontaneti</orgName> in testimonium super hoc indulsimus
+                    presentem cartam praedictae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165572" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneti</orgName> in testimonium super hoc indulsimus
                     sigilli nostri munimine roboratam, donum ipsum sepedictae domui aucthoritate qua
-                    fungimur confirmantes. Actum anno dominicae incarnationis apud <placeName key="stutzmann_himanis#98064" xml:id="d1e165575">Lugdunum</placeName> millesimo
+                    fungimur confirmantes. Actum anno dominicae incarnationis apud <placeName key="stutzmann_himanis#98064" xml:id="d1e165575" corresp="Lyon (Rhône)">Lugdunum</placeName> millesimo
                     ducentesimo nono.</p>
             </body>
         </text>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1169_d1e246894">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1169_d1e246894" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 56@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -40,48 +41,48 @@
                     </date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e168996">Henricus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168998">Augustudunensis</placeName> episcopus</persName> tam futuris quam
-                    presentibus notum facio quod <persName key="d1e30079" xml:id="d1e169002">Richardus de <placeName key="stutzmann_himanis#325251" xml:id="d1e169004">Curte
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e168996" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168998" corresp="Autun (Saône-et-Loire, Autun)">Augustudunensis</placeName> episcopus</persName> tam futuris quam
+                    presentibus notum facio quod <persName key="d1e30079" xml:id="d1e169002">Richardus de <placeName key="stutzmann_himanis#325251" xml:id="d1e169004" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
                             Rabodi</placeName>
-                    </persName> gravi apud <placeName key="stutzmann_himanis#324453" xml:id="d1e169007">Fontenetense monasterium</placeName> infirmitate detentus mortemque sibi
+                    </persName> gravi apud <placeName key="stutzmann_himanis#324453" xml:id="d1e169007" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetense monasterium</placeName> infirmitate detentus mortemque sibi
                     suspicans imminere, divine tamdem visitationis inspiratione compunctus quod
                     ejusdem loci fratres diu multumque sine causa vexasset, satisfacere statuens
                     dedit eis pro anima sua et antecessorum suorum quicquid ipsius erat in loco qui
-                        <placeName key="stutzmann_himanis#325253" xml:id="d1e169010">
+                        <placeName key="stutzmann_himanis#325253" xml:id="d1e169010" corresp="Correson">
                         <foreign>Curtresum</foreign>
                     </placeName> dicitur juxta quod subscripti declarant termini. A rupe videlicet
-                    que ad <placeName key="stutzmann_himanis#325218" xml:id="d1e169014">ulmum <persName key="d1e30085" xml:id="d1e169016">Sebaldi</persName>
-                    </placeName> incipit usque ad <placeName key="stutzmann_himanis#325073" xml:id="d1e169020">boscum <placeName key="stutzmann_himanis#324443" xml:id="d1e169022">Eperi</placeName>
-                    </placeName> et <placeName key="stutzmann_himanis#325189" xml:id="d1e169025">rivum
-                            <placeName key="stutzmann_himanis#325299" xml:id="d1e169027">Jalegni</placeName>
-                    </placeName>. Itemque a rivo sicut ipse fluit usque ad <placeName key="stutzmann_himanis#325230" xml:id="d1e169030">viam publicam</placeName>, a via
-                    autem sicut ipsa ducit usque in fines <placeName key="stutzmann_himanis#324475" xml:id="d1e169033">Marmanie</placeName>. Porro ab ipsis finibus per rupem
-                    quamdam nativam que est in <placeName key="stutzmann_himanis#325104" xml:id="d1e169036">cumba, cui nomen Villamontosi</placeName>, usque ad prefatam <placeName key="stutzmann_himanis#325218" xml:id="d1e169039">ulmum Sebaldi</placeName>. Dedit
-                    preterea quicquid illi erat alodii in villa seu finibus <placeName key="stutzmann_himanis#324455" xml:id="d1e169043">Fraxini</placeName>, chasamentum
-                    quoque cum a dominis tamen adquirere potuerint. Dedit etiam de <placeName key="stutzmann_himanis#325062" xml:id="d1e169046">adjacente abbatie
+                    que ad <placeName key="stutzmann_himanis#325218" xml:id="d1e169014" corresp="ulmum Sebaldi">ulmum <persName key="d1e30085" xml:id="d1e169016">Sebaldi</persName>
+                    </placeName> incipit usque ad <placeName key="stutzmann_himanis#325073" xml:id="d1e169020" corresp="boscum Eperi">boscum <placeName key="stutzmann_himanis#324443" xml:id="d1e169022" corresp="Épiry (Nièvre, Corbigny)">Eperi</placeName>
+                    </placeName> et <placeName key="stutzmann_himanis#325189" xml:id="d1e169025" corresp="rivo de Jalen">rivum
+                            <placeName key="stutzmann_himanis#325299" xml:id="d1e169027" corresp="Jalegni">Jalegni</placeName>
+                    </placeName>. Itemque a rivo sicut ipse fluit usque ad <placeName key="stutzmann_himanis#325230" xml:id="d1e169030" corresp="via Publica">viam publicam</placeName>, a via
+                    autem sicut ipsa ducit usque in fines <placeName key="stutzmann_himanis#324475" xml:id="d1e169033" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanie</placeName>. Porro ab ipsis finibus per rupem
+                    quamdam nativam que est in <placeName key="stutzmann_himanis#325104" xml:id="d1e169036" corresp="cumba que habet nomen Villa Montesia">cumba, cui nomen Villamontosi</placeName>, usque ad prefatam <placeName key="stutzmann_himanis#325218" xml:id="d1e169039" corresp="ulmum Sebaldi">ulmum Sebaldi</placeName>. Dedit
+                    preterea quicquid illi erat alodii in villa seu finibus <placeName key="stutzmann_himanis#324455" xml:id="d1e169043" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxini</placeName>, chasamentum
+                    quoque cum a dominis tamen adquirere potuerint. Dedit etiam de <placeName key="stutzmann_himanis#325062" xml:id="d1e169046" corresp="adjacente abbatie foresta">adjacente abbatie
                         foresta</placeName> ligna ad calefaciendum perpetuo furnum necessaria. Huic
-                    donationi ejus testes affuerunt qui subnotati sunt <persName key="d1e30091" xml:id="d1e169049">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e169051">Montis Barri</placeName> dominus</persName>,
-                        <persName key="d1e30097" xml:id="d1e169055">Vido de <placeName key="stutzmann_himanis#324374" xml:id="d1e169057">
+                    donationi ejus testes affuerunt qui subnotati sunt <persName key="d1e30091" xml:id="d1e169049">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e169051" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName> dominus</persName>,
+                        <persName key="d1e30097" xml:id="d1e169055">Vido de <placeName key="stutzmann_himanis#324374" xml:id="d1e169057" corresp="Venarey-les-Laumes,Venarey (Côte-d'Or, Montbard)">
                             <foreign>Venerri</foreign>
                         </placeName>
                     </persName>, <persName key="d1e30104" xml:id="d1e169061">Rogerius patruus
                         ejus</persName>, <persName key="d1e30110" xml:id="d1e169064">Viardus
                             <persName key="d1e30116" xml:id="d1e169066">Oliverii filius</persName>
-                    </persName>, <persName key="d1e30122" xml:id="d1e169070">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e169072">
+                    </persName>, <persName key="d1e30122" xml:id="d1e169070">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e169072" corresp="Courtangy (Côte-d'Or, Montbard)">
                             <foreign>Curtengi</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e30128" xml:id="d1e169076">Hugo de <placeName key="stutzmann_himanis#324341" xml:id="d1e169078">Plaaneto</placeName>
+                    </persName>, <persName key="d1e30128" xml:id="d1e169076">Hugo de <placeName key="stutzmann_himanis#324341" xml:id="d1e169078" corresp="Planay (Côte-d'Or, Montbard)">Plaaneto</placeName>
                     </persName>, <persName key="d1e30134" xml:id="d1e169081">Bernardus <addName>
                             <foreign>Nariouz</foreign>
                         </addName>
-                    </persName>, <persName key="d1e30141" xml:id="d1e169087">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e169089">
+                    </persName>, <persName key="d1e30141" xml:id="d1e169087">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e169089" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grinum</foreign>
                         </placeName>
                     </persName>, <persName key="d1e30147" xml:id="d1e169093">Bernardus <addName>

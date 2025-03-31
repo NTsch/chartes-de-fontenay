@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245431">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e245431" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 290@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,8 +44,8 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167999">Galterus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168001">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167999" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168001" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis presentes litteras inspecturis notum facimus
                     quod cum causa verteretur inter <app>
                         <lem>eclesiam</lem>
@@ -52,7 +53,7 @@
                     </app> beatæ <app>
                         <lem>Mariæ</lem>
                         <rdg wit="#B">Marie</rdg>
-                    </app> de <orgName key="stutzmann_himanis#282689" xml:id="d1e168017">
+                    </app> de <orgName key="stutzmann_himanis#282689" xml:id="d1e168017" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>Fonteneto</lem>
                             <rdg wit="#B">Fonteñ.</rdg>
@@ -60,31 +61,31 @@
                     </orgName>
                     <app>
                         <rdg>
-                            <witEnd wit="#B"/>
+                            <witEnd wit="#B" />
                             <witDetail wit="#B">
                                 <hi rend="italic" xml:space="preserve">complété par la mention </hi>Cetera
                                 ut supra, exceptis testibus his : Leonardo de Marmania, Roberto de
                                 Curcellis, Renerio de Fraxino capellanis</witDetail>
                         </rdg>
                     </app>et <persName key="d1e29697" xml:id="d1e168031">Lambertum capellanum de
-                            <placeName key="stutzmann_himanis#324450" xml:id="d1e168033">Fano</placeName>
-                    </persName> super tertia parte decimæ de <placeName key="stutzmann_himanis#324450" xml:id="d1e168037">Fano</placeName> quam dicta ecclesia in eleemosinam
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e168033" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName>
+                    </persName> super tertia parte decimæ de <placeName key="stutzmann_himanis#324450" xml:id="d1e168037" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName> quam dicta ecclesia in eleemosinam
                     possidebat a <persName key="d1e29703" xml:id="d1e168040">Comitissa, filia
-                            <persName key="d1e29709" xml:id="d1e168042">Odonis militis de <placeName key="stutzmann_himanis#324475" xml:id="d1e168044">Marmagnia</placeName>
+                            <persName key="d1e29709" xml:id="d1e168042">Odonis militis de <placeName key="stutzmann_himanis#324475" xml:id="d1e168044" corresp="Marmagne (Côte-d'Or, Montbard)">Marmagnia</placeName>
                         </persName>
                     </persName>, et ab <persName key="d1e29715" xml:id="d1e168047">Odone marito
-                        suo</persName>, facta inquisitione per venerabiles viros <persName key="d1e29721" xml:id="d1e168050">Leonardum de <placeName key="stutzmann_himanis#324475" xml:id="d1e168052">Marmania</placeName>
-                    </persName>, <persName key="d1e29727" xml:id="d1e168055">Robertum de <placeName key="stutzmann_himanis#325264" xml:id="d1e168057">Curcellis</placeName>
+                        suo</persName>, facta inquisitione per venerabiles viros <persName key="d1e29721" xml:id="d1e168050">Leonardum de <placeName key="stutzmann_himanis#324475" xml:id="d1e168052" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
+                    </persName>, <persName key="d1e29727" xml:id="d1e168055">Robertum de <placeName key="stutzmann_himanis#325264" xml:id="d1e168057" corresp="Curcellarum">Curcellis</placeName>
                     </persName> et <persName key="d1e29734" xml:id="d1e168060">
                         <choice>
                             <sic corresp="#B">Remium</sic>
                             <corr>Renerium</corr>
                         </choice>de Fraxino</persName>, capellanos, receptisque ab utraque parte
                     probationibus, nobis de veritate indubitanter <sic corresp="#D">constit</sic>
-                    quod præfate ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e168072">Fonteneti</orgName> tertiam partem debebat habere de omnibus decimis de
-                        <placeName key="stutzmann_himanis#324450" xml:id="d1e168075">Fano</placeName>, tam
+                    quod præfate ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e168072" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> tertiam partem debebat habere de omnibus decimis de
+                        <placeName key="stutzmann_himanis#324450" xml:id="d1e168075" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName>, tam
                     magnis quam minutis, et in annatiis, et tractum totius decimæ et grangiatum.
-                    Capellanus vero dictæ eclesiæ <placeName key="stutzmann_himanis#324450" xml:id="d1e168078">Fani</placeName> debet habere de communi totius decimæ unuam minam frumenti
+                    Capellanus vero dictæ eclesiæ <placeName key="stutzmann_himanis#324450" xml:id="d1e168078" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fani</placeName> debet habere de communi totius decimæ unuam minam frumenti
                     in vigilia sancti ipsius villæ ad procurationem clericorum qui veniunt ad
                     festum. Et ut hoc ratum et firmum habeatur in posterum, ad preces utriusque
                     partis præsens scriptum sigillo nostro fecimus roborari. Actum anno Domini

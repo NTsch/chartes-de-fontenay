@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e244590">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e244590" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 282@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,30 +42,30 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego, <persName key="stutzmann_himanis#324624" xml:id="d1e167386">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e167388">Burgundie</placeName>
+                <p>Ego, <persName key="stutzmann_himanis#324624" xml:id="d1e167386" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e167388" corresp="Bourgogne">Burgundie</placeName>
                     </persName>, notum facio universis presentes litteras inspecturis quod cum inter
-                    abbatem et monachos <orgName key="stutzmann_himanis#282689" xml:id="d1e167391">Fonteneti</orgName> ex una parte et nobilem virum <persName key="d1e29438" xml:id="d1e167394">Andream dominum <placeName key="stutzmann_himanis#324447" xml:id="d1e167396">Espissie</placeName>
+                    abbatem et monachos <orgName key="stutzmann_himanis#282689" xml:id="d1e167391" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ex una parte et nobilem virum <persName key="d1e29438" xml:id="d1e167394">Andream dominum <placeName key="stutzmann_himanis#324447" xml:id="d1e167396" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">Espissie</placeName>
                     </persName> ex altera controversia verteretur super hominibus, possessionibus et
-                    terris apud <placeName key="stutzmann_himanis#324475" xml:id="d1e167399">Marmaniam</placeName> existentibus que nobilis mulier <persName key="d1e29444" xml:id="d1e167402">Hyla de <placeName key="stutzmann_himanis#324962" xml:id="d1e167404">Monte sancti Johannis</placeName>
+                    terris apud <placeName key="stutzmann_himanis#324475" xml:id="d1e167399" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> existentibus que nobilis mulier <persName key="d1e29444" xml:id="d1e167402">Hyla de <placeName key="stutzmann_himanis#324962" xml:id="d1e167404" corresp="Monte Sancti Johannis">Monte sancti Johannis</placeName>
                     </persName> et <persName key="d1e29450" xml:id="d1e167408">Johannes, filius
-                        ejusdem</persName>, in perpetuam helemosinam domui <orgName key="stutzmann_himanis#282689" xml:id="d1e167411">Fonteneti</orgName> dederant et
+                        ejusdem</persName>, in perpetuam helemosinam domui <orgName key="stutzmann_himanis#282689" xml:id="d1e167411" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> dederant et
                     concesserant que etiam a bone memorie <persName key="d1e29456" xml:id="d1e167414">Bernardo, patre eidem Andree</persName>, abbas et monachi
                     dicebant occupata fuisse et preterea super trecentis marcis argenti quas
                     predicti abbas et monachi sibi a prefato <persName key="d1e29462" xml:id="d1e167417">Bernardo sepedicti Andree patre</persName> legatas fuisse
-                    asserebant. Tandem me presente et viris venerabilibus <persName key="stutzmann_himanis#324610" xml:id="d1e167420">G. <placeName key="stutzmann_himanis#319548" xml:id="d1e167422">Eduensi</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324620" xml:id="d1e167425">W. <placeName key="stutzmann_himanis#317574" xml:id="d1e167427">Lingonensi</placeName>
-                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e167431">W. <placeName key="stutzmann_himanis#324435" xml:id="d1e167433">Autissiodorensi</placeName>
+                    asserebant. Tandem me presente et viris venerabilibus <persName key="stutzmann_himanis#324610" xml:id="d1e167420" corresp="Gautier II, évêque d'Autun 1189 -1223)">G. <placeName key="stutzmann_himanis#319548" xml:id="d1e167422" corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324620" xml:id="d1e167425" corresp="Guillaume II de Joinville, évêque de Langres (1210-1219), archevêque de Reims (1219-1226)">W. <placeName key="stutzmann_himanis#317574" xml:id="d1e167427" corresp="Langres (Haute-Marne, Langres)">Lingonensi</placeName>
+                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e167431" corresp="Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de Paris (1220-1223)">W. <placeName key="stutzmann_himanis#324435" xml:id="d1e167433" corresp="Auxerre (Yonne, Auxerre)">Autissiodorensi</placeName>
                         episcopis</persName> et <persName key="d1e29468" xml:id="d1e167437">Guido de
-                            <placeName key="stutzmann_himanis#324440" xml:id="d1e167439">Donipetra</placeName>
+                            <placeName key="stutzmann_himanis#324440" xml:id="d1e167439" corresp="Dampierre-en-Montagne (Côte-d'Or, Semur-en-Auxois)">Donipetra</placeName>
                     </persName> et multis aliis in hanc compositionis formam venerunt quod de
                     trecentis marcis superius nominatis abbas et monachi nominati medietatem
-                    habeant, reliquam vero medietatem <persName key="d1e29475" xml:id="d1e167442">Andreas supradictus</persName>. De rebus vero apud <placeName key="stutzmann_himanis#324475" xml:id="d1e167445">Marmaniam</placeName> existentibus
-                    de quibus erat controversia, ita fuit statutum quod <persName key="d1e29481" xml:id="d1e167448">Guido, frater Andree, canonicus <placeName key="stutzmann_himanis#317574" xml:id="d1e167450">Lingonensis</placeName>
+                    habeant, reliquam vero medietatem <persName key="d1e29475" xml:id="d1e167442">Andreas supradictus</persName>. De rebus vero apud <placeName key="stutzmann_himanis#324475" xml:id="d1e167445" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> existentibus
+                    de quibus erat controversia, ita fuit statutum quod <persName key="d1e29481" xml:id="d1e167448">Guido, frater Andree, canonicus <placeName key="stutzmann_himanis#317574" xml:id="d1e167450" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
                     </persName>, res illas tenebit quamdiu vixerit et post mortem ipsius Guidonis ad
-                    ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e167453">Fonteneti</orgName>
+                    ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e167453" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     libere et absque omni contradictione revertentur. Tenebit autem res illas
                         <persName key="d1e29487" xml:id="d1e167457">Guido</persName> prefatus nomine
-                    ecclesie ab ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e167460">Fonteneti</orgName>. Actum anno dominice incarnationis millesimo
+                    ecclesie ab ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e167460" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Actum anno dominice incarnationis millesimo
                         <num>cc</num>° <num>xiii°</num> mense octobri.</p>
             </body>
         </text>

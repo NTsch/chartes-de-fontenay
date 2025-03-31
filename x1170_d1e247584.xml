@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1170_d1e247584">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1170_d1e247584" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 60@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,25 +38,25 @@
                     </date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e169543">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e169545">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e169543" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e169545" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, presentibus et futuris notifico quod <persName key="d1e30504" xml:id="d1e169549">
                         <app>
                             <lem>Symeon</lem>
                             <rdg wit="#D">Simon</rdg>
-                        </app> de <placeName key="stutzmann_himanis#324438" xml:id="d1e169556">
+                        </app> de <placeName key="stutzmann_himanis#324438" xml:id="d1e169556" corresp="Courtangy (Côte-d'Or, Montbard)">
                             <foreign>Curtenge</foreign>
                         </placeName>
                     </persName>, cujus erat tercia pars decime finagii <app>
                         <lem>Saigniaci</lem>
                         <rdg wit="#D">Sanhiaci</rdg>
-                    </app> concessit fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e169566">Fonteneti</orgName> ut de omni terra quam <app>
+                    </app> concessit fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e169566" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ut de omni terra quam <app>
                         <lem>adquirere</lem>
                         <rdg wit="#D">acquirere</rdg>
                     </app> possent in eodem finagio nullam ei penitus decimam darent, sed eam libere
@@ -64,13 +65,13 @@
                         <rdg wit="#D">costuma</rdg>
                     </app> excolerent. Hoc laudavit <persName key="d1e30511" xml:id="d1e169582">Falkembella conjunx ejus</persName>. Sed quia <persName key="d1e30517" xml:id="d1e169585">filii ejus Hugo</persName> et <persName key="d1e30523" xml:id="d1e169588">Andreas</persName> nundum tante erant etatis ut id
                     laudare possent, postea monente patre sponteque sua venientes ante presentiam
-                    meam laudaverunt supradictum donum et concesserunt tercias de <placeName key="stutzmann_himanis#324911" xml:id="d1e169591">campo Magni <placeName key="stutzmann_himanis#324911" xml:id="d1e169593">
+                    meam laudaverunt supradictum donum et concesserunt tercias de <placeName key="stutzmann_himanis#324911" xml:id="d1e169591" corresp="Grand-Jailly (Côte-d'Or, Montbard)">campo Magni <placeName key="stutzmann_himanis#324911" xml:id="d1e169593" corresp="Grand-Jailly (Côte-d'Or, Montbard)">
                             <app>
                                 <lem>Jailliaci</lem>
                                 <rdg wit="#D">Jalliaci</rdg>
                             </app>
                         </placeName>
-                    </placeName>. Laudaverunt etiam donum vinearum de <placeName key="stutzmann_himanis#325060" xml:id="d1e169600">Villenis</placeName> quod eidem
+                    </placeName>. Laudaverunt etiam donum vinearum de <placeName key="stutzmann_himanis#325060" xml:id="d1e169600" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenis</placeName> quod eidem
                     ecclesie fecerat <persName key="d1e30529" xml:id="d1e169604">
                         <app>
                             <lem>Symon</lem>
@@ -81,16 +82,16 @@
                         </lem>
                         <rdg wit="#D">sedecim</rdg>
                     </app> nummis et obolo.</p>
-                <p>Hujus rei testes sunt tres archipresbiteri, <persName key="stutzmann_himanis#324629" xml:id="d1e169621">Galterus <placeName key="stutzmann_himanis#319548" xml:id="d1e169623">Eduensis</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324625" xml:id="d1e169626">Hugo <placeName key="stutzmann_himanis#324344" xml:id="d1e169628">
+                <p>Hujus rei testes sunt tres archipresbiteri, <persName key="stutzmann_himanis#324629" xml:id="d1e169621" corresp="Galterius archipresbiter Eduensis">Galterus <placeName key="stutzmann_himanis#319548" xml:id="d1e169623" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324625" xml:id="d1e169626" corresp="Hugo archipresbiter Pulleniaci">Hugo <placeName key="stutzmann_himanis#324344" xml:id="d1e169628" corresp="Pouillenay (Côte-d'Or, Montbard)">
                             <app>
                                 <lem>Pulleniaci</lem>
                                 <rdg wit="#D">Pullennacy</rdg>
                             </app>
                         </placeName>
-                    </persName>, <persName key="stutzmann_himanis#324622" xml:id="d1e169635">Jordanus
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e169637">Tullionis</placeName>
-                    </persName>, <persName key="d1e30535" xml:id="d1e169640">Rainaldus <placeName key="stutzmann_himanis#324487" xml:id="d1e169642">Montis Barri</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324622" xml:id="d1e169635" corresp="Jordan, archiprêtre de Touillon (v.1155-v.1170)">Jordanus
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e169637" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                    </persName>, <persName key="d1e30535" xml:id="d1e169640">Rainaldus <placeName key="stutzmann_himanis#324487" xml:id="d1e169642" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
                         decanus</persName> et <persName key="d1e30541" xml:id="d1e169646">
                         <app>
                             <lem>Odo</lem>

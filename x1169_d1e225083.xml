@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1169_d1e225083">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1169_d1e225083" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 53@@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -112,8 +113,8 @@
         <text>
             <body>
                 <p>
-                    <persName key="d1e23369" xml:id="d1e153628">Guichardus, Dei gratia <placeName key="stutzmann_himanis#98064" xml:id="d1e153630">Lugdunensis</placeName>
-                        archiepiscopus, apostolicae sedis legatus</persName>, <persName key="stutzmann_himanis#324588" xml:id="d1e153634">Henricus, eadem gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e153636">Eduensis</placeName>
+                    <persName key="d1e23369" xml:id="d1e153628">Guichardus, Dei gratia <placeName key="stutzmann_himanis#98064" xml:id="d1e153630" corresp="Lyon (Rhône)">Lugdunensis</placeName>
+                        archiepiscopus, apostolicae sedis legatus</persName>, <persName key="stutzmann_himanis#324588" xml:id="d1e153634" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, eadem gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e153636" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, omnibus tam futuris quam presentibus in perpetuum.
                     Paci et <app>
                         <lem>tranquillitati</lem>
@@ -125,9 +126,9 @@
                     <app>
                         <lem>conventiones</lem>
                         <rdg wit="#C">conventione</rdg>
-                    </app> quae inter ecclesiam <orgName key="stutzmann_himanis#284103" xml:id="d1e153657">Sancti Martini Eduensis</orgName> et ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e153661">Fonteneti</orgName> per manum
-                    nostram et <persName key="stutzmann_himanis#324577" xml:id="d1e153664">Hugonis ducis
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e153666">
+                    </app> quae inter ecclesiam <orgName key="stutzmann_himanis#284103" xml:id="d1e153657" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancti Martini Eduensis</orgName> et ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e153661" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> per manum
+                    nostram et <persName key="stutzmann_himanis#324577" xml:id="d1e153664" corresp="Hugues III, duc de Bourgogne (1162-1192)">Hugonis ducis
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e153666" corresp="Bourgogne">
                             <app>
                                 <lem>Burgundiae</lem>
                                 <rdg wit="#C ">Burgondiae</rdg>
@@ -144,17 +145,17 @@
                         <app>
                             <lem>Willermus</lem>
                             <rdg wit="#C">Villermus</rdg>
-                        </app> abbas <orgName key="stutzmann_himanis#284103" xml:id="d1e153692">Sancti Martini <app>
+                        </app> abbas <orgName key="stutzmann_himanis#284103" xml:id="d1e153692" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancti Martini <app>
                                 <lem>Eduensis</lem>
                                 <rdg wit="#C #D">Æduensis</rdg>
                             </app>
                         </orgName>
                     </persName> et totus ejusdem loci conventus dederunt et concesserunt ecclesiae
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e153700">Fonteneti</orgName>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e153700" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     quidquid <app>
                         <lem>habebant</lem>
                         <rdg wit="#C">abebant</rdg>
-                    </app> in villa quae dicitur <placeName key="stutzmann_himanis#324449" xml:id="d1e153710">
+                    </app> in villa quae dicitur <placeName key="stutzmann_himanis#324449" xml:id="d1e153710" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>
                             <app>
                                 <lem>Estormer</lem>
@@ -171,13 +172,13 @@
                         <lem>habebant</lem>
                         <rdg wit="#C">abebant</rdg>
                     </app> ab <geogName xml:id="d1e153736">aqua Braana</geogName> usque ad flumen
-                        <geogName xml:id="d1e153740">Sequanam</geogName>. Fratres autem <orgName key="stutzmann_himanis#282689" xml:id="d1e153743">Fonteneti</orgName>, propter haec,
-                    ecclesiae <orgName key="stutzmann_himanis#284103" xml:id="d1e153746">Sancti
+                        <geogName xml:id="d1e153740">Sequanam</geogName>. Fratres autem <orgName key="stutzmann_himanis#282689" xml:id="d1e153743" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, propter haec,
+                    ecclesiae <orgName key="stutzmann_himanis#284103" xml:id="d1e153746" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancti
                         Martini</orgName> in <app>
                         <lem>cellario</lem>
                         <rdg wit="#C">cellerario</rdg>
                     </app> suo singulis annis persolvent a mense augusti usque ad festum Omnium
-                    sanctorum quatuor modios frumenti et dimidium ad mensuram fori <placeName key="stutzmann_himanis#319548" xml:id="d1e153755">
+                    sanctorum quatuor modios frumenti et dimidium ad mensuram fori <placeName key="stutzmann_himanis#319548" xml:id="d1e153755" corresp="Autun (Saône-et-Loire, Autun)">
                         <app>
                             <lem>Eduae</lem>
                             <rdg wit="#C #D">Aeduae</rdg>
@@ -185,17 +186,17 @@
                     </placeName> bona fide. De habitatoribus villae dictum est <app>
                         <lem>quod</lem>
                         <rdg wit="#C">quoad</rdg>
-                    </app> quandiu manere voluerint in terris <orgName key="stutzmann_himanis#282689" xml:id="d1e153769">Fonteneti</orgName> aut <app>
+                    </app> quandiu manere voluerint in terris <orgName key="stutzmann_himanis#282689" xml:id="d1e153769" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> aut <app>
                         <lem wit="#B">
                             <del>in</del>
                         </lem>
                         <rdg wit="#D">in</rdg>
-                    </app> territorio <placeName key="stutzmann_himanis#324370" xml:id="d1e153779">
+                    </app> territorio <placeName key="stutzmann_himanis#324370" xml:id="d1e153779" corresp="Touillon (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Tullionis</lem>
                             <rdg wit="#C">Tillionis</rdg>
                         </app>
-                    </placeName> absque ulla calumnia <orgName key="stutzmann_himanis#284103" xml:id="d1e153786">
+                    </placeName> absque ulla calumnia <orgName key="stutzmann_himanis#284103" xml:id="d1e153786" corresp="abbaye Saint-Martin d'Autun (599 -)">
                         <app>
                             <lem>monachorum</lem>
                             <rdg wit="#C">monacorum</rdg>
@@ -206,11 +207,11 @@
                         </app>
                     </orgName> libere et in pace permaneant. Dictum <app>
                         <lem>est</lem>
-                        <rdg wit="#C" type="omission"/>
+                        <rdg wit="#C" type="omission" />
                     </app> etiam quod si alterutra pars a <app>
                         <lem>conventione</lem>
                         <rdg wit="#C">conultione</rdg>
-                    </app> resilierit nos et memoratus <persName key="stutzmann_himanis#324577" xml:id="d1e153810">Burgundiae dux</persName>
+                    </app> resilierit nos et memoratus <persName key="stutzmann_himanis#324577" xml:id="d1e153810" corresp="Hugues III, duc de Bourgogne (1162-1192)">Burgundiae dux</persName>
                     <app>
                         <lem>alteri</lem>
                         <rdg wit="#C">alibi</rdg>
@@ -230,7 +231,7 @@
                         <lem>presumpserit</lem>
                         <rdg wit="#D">perseveraverit</rdg>
                     </app>, aliena a corpore et sanguine Christi excommunicationis vinculo
-                    subjaceat. Actum est apud <placeName key="stutzmann_himanis#319548" xml:id="d1e153841">
+                    subjaceat. Actum est apud <placeName key="stutzmann_himanis#319548" xml:id="d1e153841" corresp="Autun (Saône-et-Loire, Autun)">
                         <app>
                             <lem>Eduam</lem>
                             <rdg wit="#C #D">Æduam</rdg>
@@ -240,18 +241,18 @@
                         </app> Sancti Martini</placeName>
                     <app>
                         <lem>anno ab incarnatione Domini</lem>
-                        <rdg wit="#C #D" type="omission"/>
+                        <rdg wit="#C #D" type="omission" />
                     </app> millesimo centesimo sexagesimo <app>
                         <lem>nono</lem>
                         <rdg wit="#C">tertio</rdg>
                     </app>. <app>
                         <lem>Ego</lem>
                         <rdg wit="#D">Hugo</rdg>
-                    </app>, <persName key="stutzmann_himanis#324577" xml:id="d1e153872">dux Burgundiae,
+                    </app>, <persName key="stutzmann_himanis#324577" xml:id="d1e153872" corresp="Hugues III, duc de Bourgogne (1162-1192)">dux Burgundiae,
                         Hugo</persName> has conventiones laudavi et etiam <app>
                         <lem>quicquid</lem>
                         <rdg wit="#C #D">quidquid</rdg>
-                    </app> juris habebam in villa de <placeName key="stutzmann_himanis#324449" xml:id="d1e153881">
+                    </app> juris habebam in villa de <placeName key="stutzmann_himanis#324449" xml:id="d1e153881" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>
                             <app>
                                 <lem>Estormer</lem>
@@ -266,11 +267,11 @@
                         <rdg wit="#C">erit</rdg>
                     </app> apud <app>
                         <lem>
-                            <placeName key="stutzmann_himanis#324335" xml:id="d1e153904">Novillae
+                            <placeName key="stutzmann_himanis#324335" xml:id="d1e153904" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Novillae
                                 Montem</placeName>
                         </lem>
                         <rdg wit="#C">Noville nuper</rdg>
-                    </app> ante donaveram ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e153909">Fonteneti</orgName> in <app>
+                    </app> ante donaveram ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e153909" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in <app>
                         <lem>helemosinam</lem>
                         <rdg wit="#C #D">elemosinam</rdg>
                     </app> et tunc laudavi et ad munimentum gestorum, sigillum meum <app>

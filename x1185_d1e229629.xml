@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1185_d1e229629">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1185_d1e229629" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 92@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,12 +42,12 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324637" xml:id="d1e156912">Lucius, episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e156915">Fonteneti</orgName> salutem et
+                    <persName key="stutzmann_himanis#324637" xml:id="d1e156912" corresp="Lucius III papa (1181-1185)">Lucius, episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e156915" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> salutem et
                     apostolicam benedictionem. Justis petentium desideriis dignum est nos facilem
                     prebere consensum et vota quae a rationis tramite non discordant, effectu
                     prosequente complere. Eapropter, dilecti in Domino filii, vestris justis
-                    postulationibus grato concurrentes assensu, ea quae vobis in villa <placeName key="stutzmann_himanis#324933" xml:id="d1e156918">Ledoni</placeName> de elemozina
+                    postulationibus grato concurrentes assensu, ea quae vobis in villa <placeName key="stutzmann_himanis#324933" xml:id="d1e156918" corresp="Ledoni">Ledoni</placeName> de elemozina
                         <persName key="d1e24972" xml:id="d1e156921">comitis</persName> et <persName key="d1e24979" xml:id="d1e156924">Johannis <addName>
                             <foreign>Moret</foreign>
                         </addName>
@@ -57,7 +58,7 @@
                             <corr>H.</corr>
                         </choice>
                         <addName>Saraceni</addName>
-                    </persName> et nepotum ipsius et elemozinam <persName key="d1e24991" xml:id="d1e156940">Petri <placeName key="stutzmann_himanis#324933" xml:id="d1e156942">Ledonis</placeName>
+                    </persName> et nepotum ipsius et elemozinam <persName key="d1e24991" xml:id="d1e156940">Petri <placeName key="stutzmann_himanis#324933" xml:id="d1e156942" corresp="Ledoni">Ledonis</placeName>
                     </persName> et <persName key="d1e24997" xml:id="d1e156945">Aimonis nepotis
                             <persName key="d1e25003" xml:id="d1e156947">Johannis <addName>
                                 <foreign>Moret</foreign>
@@ -69,7 +70,7 @@
                     Statuentes ut nulli omnino hominum liceat hanc paginam nostrae confirmationis
                     infringere, vel ei ausu temerario contra ire. Si quis autem hoc attemptare
                     presumpserit indignationem omnipotentis Dei et beatorum Petri et Pauli
-                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#325048" xml:id="d1e156956">Verone</placeName>, <app>
+                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#325048" xml:id="d1e156956" corresp="Verone">Verone</placeName>, <app>
                         <lem>quarto</lem>
                         <rdg wit="#a">IV</rdg>
                     </app> calendas octobris.</p>

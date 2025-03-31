@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1194_d1e231880">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1194_d1e231880" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 137@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -39,17 +40,17 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e158576">O., archipresbiter de
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e158578">Tullione</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e158576" corresp="Eudes, archiprêtre de Touillon (1173-1200)">O., archipresbiter de
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e158578" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
                     </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e25972" xml:id="d1e158581">Willermus <addName>
                             <foreign>Bechecho</foreign>
                         </addName>
                     </persName>, laudante <persName key="d1e25978" xml:id="d1e158587">conjuge
-                        sua</persName> et fratribus suis <persName key="d1e25984" xml:id="d1e158590">Gileberto</persName> et <persName key="d1e25990" xml:id="d1e158597">Hugone</persName>, concessit in elemosinam perpetuam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158601">Fonteneti</orgName>
-                    <placeName key="stutzmann_himanis#325088" xml:id="d1e158603">campum qui vocatur de Curta
-                        Roia</placeName>, <placeName key="stutzmann_himanis#325089" xml:id="d1e158606">campum
+                        sua</persName> et fratribus suis <persName key="d1e25984" xml:id="d1e158590">Gileberto</persName> et <persName key="d1e25990" xml:id="d1e158597">Hugone</persName>, concessit in elemosinam perpetuam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158601" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    <placeName key="stutzmann_himanis#325088" xml:id="d1e158603" corresp="campum qui vocatur de Curta Roia">campum qui vocatur de Curta
+                        Roia</placeName>, <placeName key="stutzmann_himanis#325089" xml:id="d1e158606" corresp="campum quoque qui vocatur de Longa Roia">campum
                         quoque qui vocatur de Longa Roia</placeName>, et cum eo pratum quoddam quod
-                    est apud <placeName key="stutzmann_himanis#324334" xml:id="d1e158609">
+                    est apud <placeName key="stutzmann_himanis#324334" xml:id="d1e158609" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">
                         <foreign>Nojent</foreign>
                     </placeName>. Invadiavit eidem ecclesie pro <num>xv</num> libras proviniensis
                     monete et habebit inde singulis annis cenusaliter <num>ii</num>
@@ -58,10 +59,10 @@
                     mortem suam et habuit inde <num>xl</num>
                     <hi rend="superscript">a</hi> solidos et uxor ejus que hoc totum laudavit
                         <num>x</num> solidos. <persName key="d1e25997" xml:id="d1e158630">Gislebertus</persName> quoque laudante <persName key="d1e26003" xml:id="d1e158633">conjuge sua</persName> et fratribus suis <persName key="d1e26009" xml:id="d1e158636">Willermo</persName> et <persName key="d1e26015" xml:id="d1e158640">Hugone</persName> donavit jamdicte
-                    ecclesie in perpetuum quicquid possidebat a <orgName key="stutzmann_himanis#324501" xml:id="d1e158643">domo leprosorum de <placeName key="stutzmann_himanis#324334" xml:id="d1e158645">
+                    ecclesie in perpetuum quicquid possidebat a <orgName key="stutzmann_himanis#324501" xml:id="d1e158643" corresp="La Maladière de Nogent">domo leprosorum de <placeName key="stutzmann_himanis#324334" xml:id="d1e158645" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">
                             <foreign>Nojent</foreign>
                         </placeName>
-                    </orgName> usque <placeName key="stutzmann_himanis#324475" xml:id="d1e158649">Marmaniam</placeName> ad censum <num>ii</num>
+                    </orgName> usque <placeName key="stutzmann_himanis#324475" xml:id="d1e158649" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> ad censum <num>ii</num>
                     <hi rend="superscript">os</hi> solidos qui reddendi sunt in marcio. <persName key="d1e26021" xml:id="d1e158657">Hugo etiam <addName>
                             <foreign>Bechecho</foreign>
                         </addName>
@@ -70,17 +71,17 @@
                     sepedicte pro animam <persName key="d1e26034" xml:id="d1e158667">Bernardi
                         fratris sui</persName>
                     <num>v</num>
-                    <hi rend="superscript">e</hi> jugera terre apud <placeName key="stutzmann_himanis#324475" xml:id="d1e158674">Marmaniam</placeName> usque ad <placeName key="stutzmann_himanis#324334" xml:id="d1e158677">
+                    <hi rend="superscript">e</hi> jugera terre apud <placeName key="stutzmann_himanis#324475" xml:id="d1e158674" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> usque ad <placeName key="stutzmann_himanis#324334" xml:id="d1e158677" corresp="Nogent-lès-Montbard (Côte-d'Or, Montbard)">
                         <foreign>Nojent</foreign>
-                    </placeName> et pratum quoddam juxta <placeName key="stutzmann_himanis#325151" xml:id="d1e158681">molendinum de <foreign>Curtre</foreign>
+                    </placeName> et pratum quoddam juxta <placeName key="stutzmann_himanis#325151" xml:id="d1e158681" corresp="molendinum de Curtre">molendinum de <foreign>Curtre</foreign>
                     </placeName> pro <num>xii</num> libris proviniensis monete tali conventione quod
                     vadia ista redimere non poterit nisi in marcio et si terra sumbrata fuerit nisi
                     post secundum bladum redimi non poterit. Hec omnia tam dona quam vadia laudavit
-                        <persName key="d1e26040" xml:id="d1e158694">Renardus de <placeName key="stutzmann_himanis#325264" xml:id="d1e158696">Curcellis</placeName>
+                        <persName key="d1e26040" xml:id="d1e158694">Renardus de <placeName key="stutzmann_himanis#325264" xml:id="d1e158696" corresp="Curcellarum">Curcellis</placeName>
                     </persName> cum <persName key="d1e26046" xml:id="d1e158699">conjuge
                         sua</persName> et <persName key="d1e26052" xml:id="d1e158702">liberis
                         suis</persName> quia ad ejus chasamentum pertinebant et habuit propter hoc
-                        <num>vi</num> libras de beneficio ecclesie. Hujus rei testes sunt <persName key="d1e26058" xml:id="d1e158709">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158711">Grinione</placeName>
+                        <num>vi</num> libras de beneficio ecclesie. Hujus rei testes sunt <persName key="d1e26058" xml:id="d1e158709">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158711" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>, <persName key="d1e26064" xml:id="d1e158714">Humbertus</persName>,
                         <persName key="d1e26071" xml:id="d1e158717">Gaudricus</persName>. Quod totum
                     ut ratum habeatur in posterum sigilli nostri impressionem in testimonium

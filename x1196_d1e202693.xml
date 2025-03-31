@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e202693">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e202693" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2048</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -69,14 +70,14 @@
                     </listWit>
                     <listBibl>
                         <bibl>ADCO 15 H 257, pièce 14, fol. 5<hi rend="superscript">v </hi>: « La
-                            mesme année <lb n="1196"/> Gaultier evesque d’Autun fait mention d’une
+                            mesme année <lb n="1196" /> Gaultier evesque d’Autun fait mention d’une
                             mesme donation faite par Haymo de Orgeyo [...]</bibl>
                         <bibl>ADCO 15 H 1, fol. 152<hi rend="superscript">r</hi> (Poiseul.
                             VV)</bibl>
                         <bibl>ADCO 15 H 2, fol. 96<hi rend="superscript">r</hi> (Poiseul. VV)</bibl>
                         <bibl>ADCO 15 H 4, p. 281 (XV. 5. 2) : « scellé d’un sceau de cire jaune à
                             queue de parchemin pendant »</bibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -90,42 +91,42 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_257_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_257_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_257_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_257_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                     <p>
-                        <persName key="stutzmann_himanis#324610" xml:id="d1e137327">.G., Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e137329">Eduensis</placeName>
+                        <persName key="stutzmann_himanis#324610" xml:id="d1e137327" corresp="Gautier II, évêque d'Autun 1189 -1223)">.G., Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e137329" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                             episcopus</persName>, fidelibus universis presentibus pariter et futuris
-                        in perpetuum. Universitati vestre notum fieri vo<lb n="2" break="no"/>lumus
-                        quod <persName key="d1e13601" xml:id="d1e137335">Haimo de <placeName key="stutzmann_himanis#324972" xml:id="d1e137337">Orgeio</placeName>
+                        in perpetuum. Universitati vestre notum fieri vo<lb n="2" break="no" />lumus
+                        quod <persName key="d1e13601" xml:id="d1e137335">Haimo de <placeName key="stutzmann_himanis#324972" xml:id="d1e137337" corresp="Orgeio">Orgeio</placeName>
                         </persName>, pro anima sua et pro animabus patris et matris sue, quitavit
-                        ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137340">Fonteneti</orgName> in perpe<lb n="3" break="no"/>tuum usuaria et
-                        aasentias quas ipse et homines sui de <placeName key="stutzmann_himanis#324384" xml:id="d1e137345">Estalenta</placeName> clamabant in nemoribus
-                            <placeName key="stutzmann_himanis#324990" xml:id="d1e137349">Puteoli</placeName>,
-                        ita <lb n="4"/> quod nec ipse, nec homines sui, nec animalia eorum maxime
-                        porci, metas lapideas quas comes <persName key="d1e13607" xml:id="d1e137354">Reimundus</persName> constitu<lb n="5" break="no"/>it inter homines
-                        suos de <placeName key="stutzmann_himanis#324384" xml:id="d1e137359">Estalenta</placeName> et fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e137362">Fontenetenses</orgName> ullatenus transgrederentur in
-                        perpetuum. Conces<lb n="6" break="no"/>sit etiam eidem ecclesie perpetuo
-                        aasentiam aque mortue ad adaquanda animalia sua quocies opus fuerit. Hoc <lb n="7"/> totum laudavit uxor sua <persName key="d1e13613" xml:id="d1e137370">
+                        ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137340" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpe<lb n="3" break="no" />tuum usuaria et
+                        aasentias quas ipse et homines sui de <placeName key="stutzmann_himanis#324384" xml:id="d1e137345" corresp="Étalante,Étalente (Côte-d'Or, Châtillon-sur-Seine)">Estalenta</placeName> clamabant in nemoribus
+                            <placeName key="stutzmann_himanis#324990" xml:id="d1e137349" corresp="Puteoli">Puteoli</placeName>,
+                        ita <lb n="4" /> quod nec ipse, nec homines sui, nec animalia eorum maxime
+                        porci, metas lapideas quas comes <persName key="d1e13607" xml:id="d1e137354">Reimundus</persName> constitu<lb n="5" break="no" />it inter homines
+                        suos de <placeName key="stutzmann_himanis#324384" xml:id="d1e137359" corresp="Étalante,Étalente (Côte-d'Or, Châtillon-sur-Seine)">Estalenta</placeName> et fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e137362" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> ullatenus transgrederentur in
+                        perpetuum. Conces<lb n="6" break="no" />sit etiam eidem ecclesie perpetuo
+                        aasentiam aque mortue ad adaquanda animalia sua quocies opus fuerit. Hoc <lb n="7" /> totum laudavit uxor sua <persName key="d1e13613" xml:id="d1e137370">
                             <foreign>Damerum</foreign>
-                        </persName> et habuit inde .XX. solidos, et <persName key="d1e13620" xml:id="d1e137374">Willelmus</persName> frater ejus, et habuit inde <lb n="8"/> X. solidos, et <persName key="d1e13626" xml:id="d1e137379">Rainaudus ministerialis de <placeName key="stutzmann_himanis#324384" xml:id="d1e137381">Estalenta</placeName>
-                        </persName> et habuit inde .X. solidos. Hujus rei testes sunt <persName key="d1e13632" xml:id="d1e137385">Hubertus <lb n="9"/> abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e137389">Fonten<hi rend="background(yellow)">(eti)</hi>
+                        </persName> et habuit inde .XX. solidos, et <persName key="d1e13620" xml:id="d1e137374">Willelmus</persName> frater ejus, et habuit inde <lb n="8" /> X. solidos, et <persName key="d1e13626" xml:id="d1e137379">Rainaudus ministerialis de <placeName key="stutzmann_himanis#324384" xml:id="d1e137381" corresp="Étalante,Étalente (Côte-d'Or, Châtillon-sur-Seine)">Estalenta</placeName>
+                        </persName> et habuit inde .X. solidos. Hujus rei testes sunt <persName key="d1e13632" xml:id="d1e137385">Hubertus <lb n="9" /> abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e137389" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten<hi rend="background(yellow)">(eti)</hi>
                             </orgName>
                         </persName>, <persName key="d1e13638" xml:id="d1e137394">Bernardus de
-                                <placeName key="stutzmann_himanis#324459" xml:id="d1e137396">Grinione</placeName>
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e137396" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                         </persName>, <persName key="d1e13644" xml:id="d1e137399">Umbertus de
-                                <placeName key="stutzmann_himanis#324962" xml:id="d1e137401">Monte Sancti
+                                <placeName key="stutzmann_himanis#324962" xml:id="d1e137401" corresp="Monte Sancti Johannis">Monte Sancti
                                 Johannis</placeName>
-                        </persName>, <persName key="d1e13650" xml:id="d1e137404">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e137406">Quinciaco</placeName>
-                        </persName>, <persName key="d1e13657" xml:id="d1e137409">Andreas <lb n="10"/> de <placeName key="stutzmann_himanis#324421" xml:id="d1e137413">Buxi</placeName>
-                        </persName>, monachi, <persName key="d1e13663" xml:id="d1e137416">Ogerius</persName> et <persName key="d1e13669" xml:id="d1e137420">Odo</persName> conversi, <persName key="stutzmann_himanis#324623" xml:id="d1e137423">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e137425">Tullionis</placeName>
+                        </persName>, <persName key="d1e13650" xml:id="d1e137404">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e137406" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinciaco</placeName>
+                        </persName>, <persName key="d1e13657" xml:id="d1e137409">Andreas <lb n="10" /> de <placeName key="stutzmann_himanis#324421" xml:id="d1e137413" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxi</placeName>
+                        </persName>, monachi, <persName key="d1e13663" xml:id="d1e137416">Ogerius</persName> et <persName key="d1e13669" xml:id="d1e137420">Odo</persName> conversi, <persName key="stutzmann_himanis#324623" xml:id="d1e137423" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e137425" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, <persName key="d1e13675" xml:id="d1e137428">
-                            <sic>Hereveius</sic> de <placeName key="stutzmann_himanis#324452" xml:id="d1e137432">Fontanis</placeName>
-                        </persName>. Quod totum <lb n="11"/> ut ratum habeatur in posterum, sigilli
-                        nostri impressione confirmavimus, anno ab incarnatione Domini <lb n="12"/>
+                            <sic>Hereveius</sic> de <placeName key="stutzmann_himanis#324452" xml:id="d1e137432" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
+                        </persName>. Quod totum <lb n="11" /> ut ratum habeatur in posterum, sigilli
+                        nostri impressione confirmavimus, anno ab incarnatione Domini <lb n="12" />
                         M°. C°. XCVI°.</p>
                 
             </body>

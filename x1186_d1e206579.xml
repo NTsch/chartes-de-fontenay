@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e206579">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1186_d1e206579" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2465</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -90,77 +91,77 @@
                     <date type="documentCreation" when="1186-12-31">1186</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_337_0006.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_337_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_337_0006.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_337_0007.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e139943">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e139945">Burgundie</placeName>
-                        </persName>, scripto presenti notifico presentibus et futuris quod <persName key="d1e14372" xml:id="d1e139948">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e139950">
+                                        <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e139943" corresp="Hugues III, duc de Bourgogne (1162-1192)">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e139945" corresp="Bourgogne">Burgundie</placeName>
+                        </persName>, scripto presenti notifico presentibus et futuris quod <persName key="d1e14372" xml:id="d1e139948">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e139950" corresp="Étais (Côte-d'Or, Montbard)">
                                 <foreign>Estez</foreign>
                             </placeName>
                         </persName>
-                        <lb n="2"/> dedit et concessit ecclesie Fonteneti in elemosinam terram super
-                        abbatiam que dicitur <placeName key="stutzmann_himanis#325280" xml:id="d1e139955">Foresta</placeName>, in qua <persName key="d1e14378" xml:id="d1e139958">Matheus</persName> habe<lb n="3" break="no"/>bat duas partes et monachi
-                        terciam, et terram de <placeName key="stutzmann_himanis#324924" xml:id="d1e139964">
+                        <lb n="2" /> dedit et concessit ecclesie Fonteneti in elemosinam terram super
+                        abbatiam que dicitur <placeName key="stutzmann_himanis#325280" xml:id="d1e139955" corresp="Foresta">Foresta</placeName>, in qua <persName key="d1e14378" xml:id="d1e139958">Matheus</persName> habe<lb n="3" break="no" />bat duas partes et monachi
+                        terciam, et terram de <placeName key="stutzmann_himanis#324924" xml:id="d1e139964" corresp="Juvance">
                             <foreign>Juvence</foreign>
-                        </placeName>, que dicitur <placeName key="stutzmann_himanis#325281" xml:id="d1e139968">Foresta sancti Petri</placeName>. Pro his duabus duo solidi cen<lb n="4" break="no"/>suales in marcio reddendi sunt majori de <placeName key="stutzmann_himanis#324448" xml:id="d1e139973">
+                        </placeName>, que dicitur <placeName key="stutzmann_himanis#325281" xml:id="d1e139968" corresp="Foresta sancti Petri">Foresta sancti Petri</placeName>. Pro his duabus duo solidi cen<lb n="4" break="no" />suales in marcio reddendi sunt majori de <placeName key="stutzmann_himanis#324448" xml:id="d1e139973" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>. Dedit etiam hisdem fratribus quantum sui juris erat ad omnia
-                            <lb n="5"/> animalia sua usagium in pasturis et pastionem porcis in
-                        finagiis duarum villarum, scilicet de <placeName key="stutzmann_himanis#324348" xml:id="d1e139979">Puteis</placeName>
+                            <lb n="5" /> animalia sua usagium in pasturis et pastionem porcis in
+                        finagiis duarum villarum, scilicet de <placeName key="stutzmann_himanis#324348" xml:id="d1e139979" corresp="Puits (Côte-d'Or, Châtillon-sur-Seine)">Puteis</placeName>
                         <surplus>
-                            <del rend="barré">et de <lb n="6"/>Puteis</del>
-                        </surplus> et de <placeName key="stutzmann_himanis#324448" xml:id="d1e139988">
+                            <del rend="barré">et de <lb n="6" />Puteis</del>
+                        </surplus> et de <placeName key="stutzmann_himanis#324448" xml:id="d1e139988" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>, quas pasturas et pastiones de <persName key="d1e14384" xml:id="d1e139992">Rogerio, patre <persName key="d1e14390" xml:id="d1e139994">Mathei</persName>
-                        </persName>, habebant in vagio pro quingentis solidis et <lb n="7"/>
+                        </persName>, habebant in vagio pro quingentis solidis et <lb n="7" />
                         graantavit <persName key="d1e14397" xml:id="d1e139999">Matheus</persName>
                         quod de his omnibus legitimam garentiam pro posse suo portabit sicut debebit
-                        et tali quidem conditione <lb n="8"/> utentur <orgName key="stutzmann_himanis#282689" xml:id="d1e140005">Fontenetenses</orgName> predictis pasturis et
+                        et tali quidem conditione <lb n="8" /> utentur <orgName key="stutzmann_himanis#282689" xml:id="d1e140005" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> predictis pasturis et
                         pastionibus omni tempore quod si animalia eorum aliquod damnum in pratis vel
-                            bla<lb n="9" break="no"/>dis fecerint, damnum solummodo restituent sine
-                        alia emendatione. Si usque ad festum Omnium sanctorum in pratis <lb n="10"/>
+                            bla<lb n="9" break="no" />dis fecerint, damnum solummodo restituent sine
+                        alia emendatione. Si usque ad festum Omnium sanctorum in pratis <lb n="10" />
                         fena remanserint et animalia monachorum ibi damnum fecerint, damnum
-                        solummodo sine alia lege restituetur. Si post <lb n="11"/> festum Omnium
-                        sanctorum de fenis damnum factum fuerit, nichil inde <orgName key="stutzmann_himanis#282689" xml:id="d1e140014">Fontenetenses</orgName> reddent.
-                        Et sciendum quod Fontene<lb n="12" break="no"/>tenses nulla animalia nisi
-                        sua in easdem pasturas et pastiones adducent, nec <persName key="d1e14403" xml:id="d1e140020">Matheus </persName>eas alicui vendere po<lb n="13" break="no"/>terit nec ullius religionis homines nullo modo superinducet.
-                        Pro his omnibus dederunt <orgName key="stutzmann_himanis#282689" xml:id="d1e140025">Fontenetenses</orgName>
-                        <persName key="d1e14409" xml:id="d1e140027">Matheo</persName> et uxori <lb n="14"/> ejus <persName key="d1e14415" xml:id="d1e140032">Adeline</persName> que hec omnia laudavit quinquaginta libras
-                        proveniensis monete et concesserunt eis ut pro utroque in <lb n="15"/> obitu
-                        suo tantum facerent quantum pro uno monacho. Hinc testes sunt : <persName key="d1e14421" xml:id="d1e140038">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e140040">Fonteneti</orgName>
+                        solummodo sine alia lege restituetur. Si post <lb n="11" /> festum Omnium
+                        sanctorum de fenis damnum factum fuerit, nichil inde <orgName key="stutzmann_himanis#282689" xml:id="d1e140014" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> reddent.
+                        Et sciendum quod Fontene<lb n="12" break="no" />tenses nulla animalia nisi
+                        sua in easdem pasturas et pastiones adducent, nec <persName key="d1e14403" xml:id="d1e140020">Matheus </persName>eas alicui vendere po<lb n="13" break="no" />terit nec ullius religionis homines nullo modo superinducet.
+                        Pro his omnibus dederunt <orgName key="stutzmann_himanis#282689" xml:id="d1e140025" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
+                        <persName key="d1e14409" xml:id="d1e140027">Matheo</persName> et uxori <lb n="14" /> ejus <persName key="d1e14415" xml:id="d1e140032">Adeline</persName> que hec omnia laudavit quinquaginta libras
+                        proveniensis monete et concesserunt eis ut pro utroque in <lb n="15" /> obitu
+                        suo tantum facerent quantum pro uno monacho. Hinc testes sunt : <persName key="d1e14421" xml:id="d1e140038">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e140040" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName>, <persName key="d1e14427" xml:id="d1e140043">Willelmus
-                            prior</persName>, <lb n="16"/>
-                        <persName key="d1e14434" xml:id="d1e140047">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140049">Curte Rabodi</placeName>
+                            prior</persName>, <lb n="16" />
+                        <persName key="d1e14434" xml:id="d1e140047">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140049" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
                         </persName>, <persName key="d1e14440" xml:id="d1e140052">Bernardus de
-                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140054">Grinione</placeName>
-                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140058">Odo
-                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e140060">Tullionis</placeName>
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140054" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140058" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e140060" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, <persName key="d1e14446" xml:id="d1e140063">Andreas de
-                                <placeName key="stutzmann_himanis#324438" xml:id="d1e140065">
+                                <placeName key="stutzmann_himanis#324438" xml:id="d1e140065" corresp="Courtangy (Côte-d'Or, Montbard)">
                                 <foreign>Cortenge</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e14452" xml:id="d1e140069">Robertus <lb n="17"/> major <placeName key="stutzmann_himanis#324370" xml:id="d1e140073">Tullionis</placeName> et camerarius ducis</persName>. De laude
+                        </persName>, <persName key="d1e14452" xml:id="d1e140069">Robertus <lb n="17" /> major <placeName key="stutzmann_himanis#324370" xml:id="d1e140073" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> et camerarius ducis</persName>. De laude
                         predicte <persName key="d1e14458" xml:id="d1e140077">Adeline</persName>
-                        uxoris ejus testes sunt : <persName key="d1e14464" xml:id="d1e140080">Rainaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140082">Curte
-                                    <lb n="18"/> Rabodi</placeName>
+                        uxoris ejus testes sunt : <persName key="d1e14464" xml:id="d1e140080">Rainaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140082" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte
+                                    <lb n="18" /> Rabodi</placeName>
                         </persName>, <persName key="d1e14471" xml:id="d1e140087">Bernardus de
-                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140089">Grinione</placeName>
-                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140093">Odo
-                            archipresbiter</persName>, <persName key="d1e14477" xml:id="d1e140096">Hugo de <placeName key="stutzmann_himanis#324998" xml:id="d1e140098">
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140089" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140093" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                            archipresbiter</persName>, <persName key="d1e14477" xml:id="d1e140096">Hugo de <placeName key="stutzmann_himanis#324998" xml:id="d1e140098" corresp="Baisse">
                                 <foreign>Baisse</foreign>
                             </placeName>
                         </persName>, <persName key="d1e14483" xml:id="d1e140102">Robertus major
-                                <placeName key="stutzmann_himanis#324370" xml:id="d1e140104">Tullionis</placeName>
-                        </persName>. <lb n="19"/> Actum est hoc anno ab incarnatione Domini .M°. C°.
-                        <space/>LXXX. <space/>VI°.</p>
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e140104" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                        </persName>. <lb n="19" /> Actum est hoc anno ab incarnatione Domini .M°. C°.
+                        <space />LXXX. <space />VI°.</p>
                 
             </body>
         </text>

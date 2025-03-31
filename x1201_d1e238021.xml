@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e238021">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1201_d1e238021" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 193@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -33,26 +34,26 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324626" xml:id="d1e162887">Robertus archipresbiter
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e162889">Tullionis</placeName>
-                    </persName>, presentibus et futuris notum facio quod <persName key="d1e28062" xml:id="d1e162892">Garnerius de <placeName key="stutzmann_himanis#324415" xml:id="d1e162894">Blaseio</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324626" xml:id="d1e162887" corresp="Robertus archipresbiter Tullionis">Robertus archipresbiter
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e162889" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                    </persName>, presentibus et futuris notum facio quod <persName key="d1e28062" xml:id="d1e162892">Garnerius de <placeName key="stutzmann_himanis#324415" xml:id="d1e162894" corresp="Blaisy (Côte-d'Or, Montbard)">Blaseio</placeName>
                     </persName> et <persName key="d1e28069" xml:id="d1e162897">Agnes uxor
                         ejus</persName> proficiscentes ad <persName key="d1e28075" xml:id="d1e162900">Sanctum Jacobum</persName> dederunt in elemosinam
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162903">Fonteneti</orgName>
-                    <num>xix</num> denarios et obolum in perpetuum in finagio de <placeName key="stutzmann_himanis#324966" xml:id="d1e162909">
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162903" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    <num>xix</num> denarios et obolum in perpetuum in finagio de <placeName key="stutzmann_himanis#324966" xml:id="d1e162909" corresp="Muneis">
                         <foreign>Muneix</foreign>
                     </placeName>. Verum si contigerit eam in isto viagio mori, ipsa donavit et
-                    concessit eidem ecclesie sua prata de <placeName key="stutzmann_himanis#324966" xml:id="d1e162913">
+                    concessit eidem ecclesie sua prata de <placeName key="stutzmann_himanis#324966" xml:id="d1e162913" corresp="Muneis">
                         <foreign>Muneis</foreign>
                     </placeName> et pasturas suas. Si vero predicta <persName key="d1e28081" xml:id="d1e162917">Agnes</persName> redierit de predicto viagio pasturas
                     redimet cum ipsa voluerit de <num>c</num> solidos divionensium et prata sua
-                    habebit in reditu quita. Testes sunt <persName key="d1e28087" xml:id="d1e162923">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e162925">Grinione</placeName>
+                    habebit in reditu quita. Testes sunt <persName key="d1e28087" xml:id="d1e162923">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e162925" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName> et <persName key="d1e28093" xml:id="d1e162928">Robertus <addName>
                             <foreign>li Sas</foreign>
                         </addName>
                     </persName> et <persName key="d1e28099" xml:id="d1e162935">Bartholomeus de
-                            <placeName key="stutzmann_himanis#324415" xml:id="d1e162937">Blaseio</placeName>
-                    </persName> milites. Actum est hoc apud <placeName key="stutzmann_himanis#324459" xml:id="d1e162940">Grinionem</placeName>, anno incarnationis Ihesus Christi
+                            <placeName key="stutzmann_himanis#324415" xml:id="d1e162937" corresp="Blaisy (Côte-d'Or, Montbard)">Blaseio</placeName>
+                    </persName> milites. Actum est hoc apud <placeName key="stutzmann_himanis#324459" xml:id="d1e162940" corresp="Grignon (Côte-d'Or, Montbard)">Grinionem</placeName>, anno incarnationis Ihesus Christi
                         <num>m° cc° i°</num>.</p>
             </body>
         </text>

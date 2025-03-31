@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e243525">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e243525" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 272@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -39,29 +40,29 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e166652">
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e166652" corresp="Eudes III, duc de Bourgogne (1192-1218)">
                         <app>
                             <lem>O.</lem>
                             <rdg wit="#C">Odo</rdg>
-                        </app>, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e166659">Burgundie</placeName>
-                    </persName>, omnibus notum facio tam presentibus quam futuris quod <persName key="d1e29259" xml:id="d1e166662">Henricus Arbelestarius de <placeName key="stutzmann_himanis#324487" xml:id="d1e166664">Monte Barri</placeName>
+                        </app>, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e166659" corresp="Bourgogne">Burgundie</placeName>
+                    </persName>, omnibus notum facio tam presentibus quam futuris quod <persName key="d1e29259" xml:id="d1e166662">Henricus Arbelestarius de <placeName key="stutzmann_himanis#324487" xml:id="d1e166664" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barri</placeName>
                     </persName> et <persName key="d1e29265" xml:id="d1e166667">uxor ejus</persName>
                     guerpiverunt in manibus nostris et penitus <app>
                         <lem>quitaverunt</lem>
                         <rdg wit="#C">quittaverunt</rdg>
-                    </app> querelam quam habebant adversus fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e166676">Fonteneti</orgName> super quodam fossato quod fecerant
-                    dicti fratres ad utilitatem <placeName key="stutzmann_himanis#325146" xml:id="d1e166680">
+                    </app> querelam quam habebant adversus fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e166676" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> super quodam fossato quod fecerant
+                    dicti fratres ad utilitatem <placeName key="stutzmann_himanis#325146" xml:id="d1e166680" corresp="molendini molendini sui quod est subtus abbatiam">
                         <app>
                             <lem>molendini</lem>
                             <rdg wit="#C">molendini sui</rdg>
                         </app> quod est subtus abbatiam</placeName>. Concesserunt etiam
                     supranominati, <persName key="d1e29271" xml:id="d1e166688">Henricus</persName>
                     scilicet et <persName key="d1e29277" xml:id="d1e166691">Maria uxor
-                        sua</persName>, prelibatis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166694">Fonteneti</orgName>
+                        sua</persName>, prelibatis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166694" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     <app>
                         <lem>quicquid</lem>
                         <rdg wit="#C">quidquid</rdg>
-                    </app> juris a prefato <placeName key="stutzmann_himanis#325147" xml:id="d1e166702">molendino</placeName> versus <placeName key="stutzmann_himanis#324453" xml:id="d1e166706">abbatiam</placeName> habebant tam in <app>
+                    </app> juris a prefato <placeName key="stutzmann_himanis#325147" xml:id="d1e166702" corresp="molendino">molendino</placeName> versus <placeName key="stutzmann_himanis#324453" xml:id="d1e166706" corresp="Fontenay (Côte-d'Or, Montbard)">abbatiam</placeName> habebant tam in <app>
                         <lem>terris</lem>
                         <rdg wit="#C">pratis</rdg>
                     </app> quam in <app>

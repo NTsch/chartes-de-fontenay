@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1206_d1e239127">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1206_d1e239127" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 221@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -40,17 +41,17 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e163647">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e163649">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e163647" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e163649" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis notum facimus presentibus pariter et futuris
                     quod <persName key="d1e28321" xml:id="d1e163653">domina <app>
                             <lem>Hyla</lem>
                             <rdg wit="#C">Yla</rdg>
-                        </app>de <placeName key="stutzmann_himanis#324962" xml:id="d1e163661">Monte Sancti <app>
+                        </app>de <placeName key="stutzmann_himanis#324962" xml:id="d1e163661" corresp="Monte Sancti Johannis">Monte Sancti <app>
                                 <lem>Johannis</lem>
                                 <rdg wit="#C">Joannis</rdg>
                             </app>
-                        </placeName>, filia domini <persName key="d1e28328" xml:id="d1e163669">Guidonis de <placeName key="stutzmann_himanis#325055" xml:id="d1e163671">
+                        </placeName>, filia domini <persName key="d1e28328" xml:id="d1e163669">Guidonis de <placeName key="stutzmann_himanis#325055" xml:id="d1e163671" corresp="Vilers, Villers">
                                 <foreign>
                                     <app>
                                         <lem>Vilers</lem>
@@ -69,16 +70,16 @@
                         </app> filius</persName>, dederunt et concesserunt in perpetuam <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#C">eleemosinam</rdg>
-                    </app> Deo et fratribus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e163699">sancte Marie Fonteneti</orgName>
+                    </app> Deo et fratribus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e163699" corresp="abbaye Notre-Dame de Fontenay (1119 -)">sancte Marie Fonteneti</orgName>
                     <app>
                         <lem>quicquid</lem>
                         <rdg wit="#C">quidquid</rdg>
-                    </app> habebant in duabus villis de <placeName key="stutzmann_himanis#324475" xml:id="d1e163708">
+                    </app> habebant in duabus villis de <placeName key="stutzmann_himanis#324475" xml:id="d1e163708" corresp="Marmagne (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Marmania</lem>
                             <rdg wit="#C">Marmaignia</rdg>
                         </app>
-                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e163715">
+                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e163715" corresp="Corbeton (Côte-d'Or, Montbard)">
                         <foreign>
                             <app>
                                 <lem>Corbetum</lem>
@@ -91,40 +92,40 @@
                     </app> quam <persName key="d1e28340" xml:id="d1e163729">Gauterius frater
                         predicte <persName key="d1e28346" xml:id="d1e163731">Hyle</persName>
                     </persName> miserat <persName key="d1e28352" xml:id="d1e163734">Odoni militi de
-                            <placeName key="stutzmann_himanis#324919" xml:id="d1e163736">Esporuo</placeName>
+                            <placeName key="stutzmann_himanis#324919" xml:id="d1e163736" corresp="Éporve (Côte-d'Or, Châtillon-sur-Seine)">Esporuo</placeName>
                     </persName> in vadimonium, terras videlicet vineas et prata, capita etiam
-                    hominum apud <placeName key="stutzmann_himanis#324475" xml:id="d1e163743">Marmaniam</placeName> cum tenementis suis et omnia alia ad <app>
+                    hominum apud <placeName key="stutzmann_himanis#324475" xml:id="d1e163743" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName> cum tenementis suis et omnia alia ad <app>
                         <lem>eamdem</lem>
                         <rdg wit="#C">eandem</rdg>
                     </app> gageriam pertinentia in duabus predictis villis. Hec omnia sicut dictum
-                    est dederunt et concesserunt Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163753">Fonteneti</orgName> prelibata <persName key="d1e28358" xml:id="d1e163756">Hyla</persName> et <persName key="d1e28365" xml:id="d1e163759">
+                    est dederunt et concesserunt Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163753" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> prelibata <persName key="d1e28358" xml:id="d1e163756">Hyla</persName> et <persName key="d1e28365" xml:id="d1e163759">
                         <app>
                             <lem>Johannes</lem>
                             <rdg wit="#C">Joannes</rdg>
                         </app> filius ejus</persName> pro salute animarum suarum, <app>
                         <lem>nichil</lem>
                         <rdg wit="#C">nihil</rdg>
-                    </app> omnino in supradictis villis, de <placeName key="stutzmann_himanis#324475" xml:id="d1e163773">
+                    </app> omnino in supradictis villis, de <placeName key="stutzmann_himanis#324475" xml:id="d1e163773" corresp="Marmagne (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Marmania</lem>
                             <rdg wit="#C">Marmegnia</rdg>
                         </app>
-                    </placeName> scilicet et de <placeName key="stutzmann_himanis#324916" xml:id="d1e163781">
+                    </placeName> scilicet et de <placeName key="stutzmann_himanis#324916" xml:id="d1e163781" corresp="Corbeton (Côte-d'Or, Montbard)">
                         <foreign>
                             <app>
                                 <lem>Curbetum</lem>
                                 <rdg wit="#C">Corbetton</rdg>
                             </app>
                         </foreign>
-                    </placeName> sibi retinentes. Hujus donationis testes sunt nobiscum <persName key="stutzmann_himanis#324653" xml:id="d1e163789">Haymo archidiaconus <placeName key="stutzmann_himanis#322865" xml:id="d1e163791">Flaviniacensis</placeName>
+                    </placeName> sibi retinentes. Hujus donationis testes sunt nobiscum <persName key="stutzmann_himanis#324653" xml:id="d1e163789" corresp="Aimon, archidiacre de Flavigny">Haymo archidiaconus <placeName key="stutzmann_himanis#322865" xml:id="d1e163791" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniacensis</placeName>
                     </persName>, <persName key="d1e28371" xml:id="d1e163794">Leonardus presbiter de
-                            <placeName key="stutzmann_himanis#324475" xml:id="d1e163796">
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e163796" corresp="Marmagne (Côte-d'Or, Montbard)">
                             <app>
                                 <lem>Marmania</lem>
                                 <rdg wit="#C">Marmenia</rdg>
                             </app>
                         </placeName>
-                    </persName>, <persName key="d1e28377" xml:id="d1e163803">Renerius de <placeName key="stutzmann_himanis#324430" xml:id="d1e163805">
+                    </persName>, <persName key="d1e28377" xml:id="d1e163803">Renerius de <placeName key="stutzmann_himanis#324430" xml:id="d1e163805" corresp="Champ-d'Oiseau (Côte-d'Or, Montbard)">
                             <foreign>
                                 <app>
                                     <lem>Chaudesaul</lem>
@@ -132,7 +133,7 @@
                                 </app>
                             </foreign>
                         </placeName>
-                    </persName>, <persName key="d1e28383" xml:id="d1e163813">Hugo de <placeName key="stutzmann_himanis#325289" xml:id="d1e163815">Furno</placeName>
+                    </persName>, <persName key="d1e28383" xml:id="d1e163813">Hugo de <placeName key="stutzmann_himanis#325289" xml:id="d1e163815" corresp="Furno">Furno</placeName>
                     </persName> milites, <persName key="d1e28389" xml:id="d1e163818">
                         <app>
                             <lem>Helyas</lem>
@@ -141,7 +142,7 @@
                         <app>
                             <lem>Teobaudus</lem>
                             <rdg wit="#C">Theobaudus</rdg>
-                        </app> quondam prepositus de <placeName key="stutzmann_himanis#324487" xml:id="d1e163834">Monte Barro</placeName>
+                        </app> quondam prepositus de <placeName key="stutzmann_himanis#324487" xml:id="d1e163834" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
                     </persName>. Et ne quis dictam elemosinam perturbare possit, sigillum nostrum
                     presenti pagine apponi precepimus. Anno verbi incarnati <app>
                         <lem>

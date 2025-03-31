@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e198258">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1211_d1e198258" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1097</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -81,32 +82,32 @@
                     <date type="documentCreation" when="1211-12-31">1211</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0006.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0006.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0007.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                                         <p>
-                        <persName key="d1e12738" xml:id="d1e134397">M., <orgName key="stutzmann_himanis#284077" xml:id="d1e134399">Sancti Juliani
+                        <persName key="d1e12738" xml:id="d1e134397">M., <orgName key="stutzmann_himanis#284077" xml:id="d1e134399" corresp="abbaye Saint-Julien d'Auxerre (635 -)">Sancti Juliani
                                 Altissiodorensis</orgName> abbatissa</persName>, omnibus presentes
-                        litteras inspecturis salutem. Universitati vestre notum <lb n="2"/> fieri
+                        litteras inspecturis salutem. Universitati vestre notum <lb n="2" /> fieri
                         volumus quod dominus <persName key="d1e12744" xml:id="d1e134405">Amauricus,
-                            canonicus de <orgName key="stutzmann_himanis#284077" xml:id="d1e134407">Sancto
-                                Juliano</orgName>, presbiter de <orgName key="stutzmann_himanis#284103" xml:id="d1e134410">Sancto Martino</orgName>
-                        </persName>, in presentia nostra <lb n="3"/> et conventus nostri
+                            canonicus de <orgName key="stutzmann_himanis#284077" xml:id="d1e134407" corresp="abbaye Saint-Julien d'Auxerre (635 -)">Sancto
+                                Juliano</orgName>, presbiter de <orgName key="stutzmann_himanis#284103" xml:id="d1e134410" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancto Martino</orgName>
+                        </persName>, in presentia nostra <lb n="3" /> et conventus nostri
                         constitutus, in ipso capitulo nostro, pro remedio anime sue, in perpetuam
-                        elemosinam vineam <lb n="4"/> suam de <placeName key="stutzmann_himanis#324898" xml:id="d1e134417">
+                        elemosinam vineam <lb n="4" /> suam de <placeName key="stutzmann_himanis#324898" xml:id="d1e134417" corresp="Meurgers (Les) (Côte-d'Or, Is-sur-Tille)">
                             <foreign>Murgers</foreign>
-                        </placeName> ecclesie et conventui de <placeName key="stutzmann_himanis#324453" xml:id="d1e134422">
+                        </placeName> ecclesie et conventui de <placeName key="stutzmann_himanis#324453" xml:id="d1e134422" corresp="Fontenay (Côte-d'Or, Montbard)">
                             <foreign>Fontenai</foreign>
-                        </placeName> concessit et donavit. In cujus rei memoriam presen<lb n="5" break="no"/>tes litteras sigillo nostro munitas predicte ecclesie et
-                        conventui prefato tradere curavimus. Actum ab in<lb n="6" break="no"/>carnatione Domini anno .M°. CC°. XI°. <figure rend="trait"/>
+                        </placeName> concessit et donavit. In cujus rei memoriam presen<lb n="5" break="no" />tes litteras sigillo nostro munitas predicte ecclesie et
+                        conventui prefato tradere curavimus. Actum ab in<lb n="6" break="no" />carnatione Domini anno .M°. CC°. XI°. <figure rend="trait" />
                     </p>
                 
             </body>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e239900">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e239900" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 231@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -33,17 +34,17 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e164091">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e164094">Fonteneto</orgName>, Cisterciensis
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e164091" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e164094" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, Cisterciensis
                     ordinis, salutem et apostolicam benedictionem. Solet annuere sedes apostolica
                     piis votis et honestis petentium precibus, favorem benevolum impertiri. Ea
                     propter, dilecti in Domino filii, vestris justis postulationibus grato
                     concurrentes assensu, elemozinam ab <persName key="d1e28420" xml:id="d1e164097">Artaudo de <foreign>Castellaud</foreign>
                     </persName>, vobis concessam quidquid videlicet habebat a villa quae dicitur
-                        <placeName key="stutzmann_himanis#325231" xml:id="d1e164106">
+                        <placeName key="stutzmann_himanis#325231" xml:id="d1e164106" corresp="Champele">
                         <foreign>Champele</foreign>
-                    </placeName> usque in <placeName key="stutzmann_himanis#324382" xml:id="d1e164110">aquam
-                        quae dicitur Cusa</placeName> et ex altera parte usque in <placeName key="stutzmann_himanis#325067" xml:id="d1e164113">aquam quae dicitur Cora</placeName>,
+                    </placeName> usque in <placeName key="stutzmann_himanis#324382" xml:id="d1e164110" corresp="Cozanne (La) (Côte-d'Or, Saône-et-Loire)">aquam
+                        quae dicitur Cusa</placeName> et ex altera parte usque in <placeName key="stutzmann_himanis#325067" xml:id="d1e164113" corresp="aquam quae dicitur Cora">aquam quae dicitur Cora</placeName>,
                     et terras quas bonae memoriae <persName key="d1e28426" xml:id="d1e164117">comes
                         Altissiodorensis</persName> vobis intuitu pietatis concessit, sicut ea omnia
                     juste et pacifice possidetis, vobis et monasterio vestro aucthoritate apostolica
@@ -51,7 +52,7 @@
                     liceat paginam hanc nostrae confirmationis infringere vel ei ausu temerario
                     contra ire. Si quis autem hoc attemptare presumpserit indignationem omnipotentis
                     Dei et beatorum Petri et Pauli apostolorum ejus se noverit incursurum. Datum
-                        <placeName key="stutzmann_himanis#324930" xml:id="d1e164120">Laterani</placeName>,
+                        <placeName key="stutzmann_himanis#324930" xml:id="d1e164120" corresp="Laterani">Laterani</placeName>,
                     secundo idus martii, pontificatus nostri anno undecimo.</p>
             </body>
         </text>

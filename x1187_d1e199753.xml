@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e199753">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1187_d1e199753" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1719</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -84,31 +85,31 @@
                     <date type="documentCreation" when="1187-12-31">1187</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_185_0003.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_185_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_185_0003.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_185_0004.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e135320">Stephanus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135322">Eduensis</placeName> episcopus</persName>, notum facio presentibus
-                        et futuris quod <lb n="2"/>
-                        <persName key="d1e12867" xml:id="d1e135327">Guido de <placeName key="stutzmann_himanis#324454" xml:id="d1e135329">Fontetis</placeName>
+                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e135320" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e135322" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio presentibus
+                        et futuris quod <lb n="2" />
+                        <persName key="d1e12867" xml:id="d1e135327">Guido de <placeName key="stutzmann_himanis#324454" xml:id="d1e135329" corresp="Fontette (Côte-d'Or, Semur-en-Auxois)">Fontetis</placeName>
                         </persName>, filius <persName key="d1e12873" xml:id="d1e135332"> Hugonis de
-                                <placeName key="stutzmann_himanis#324454" xml:id="d1e135334">
+                                <placeName key="stutzmann_himanis#324454" xml:id="d1e135334" corresp="Fontette (Côte-d'Or, Semur-en-Auxois)">
                                 <app>
                                     <lem wit="#A">Fontetis</lem>
                                     <rdg wit="#B">Fonteitis</rdg>
                                 </app>
                             </placeName>
-                        </persName>, laudavit et conces<lb n="3" break="no"/>sit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e135343">Fonteneti</orgName> et fratribus
-                        ejusdem loci quicquid habebant ipsi fratres a <lb n="4"/>
-                        <persName key="d1e12880" xml:id="d1e135348">Jordano majore de <placeName key="stutzmann_himanis#324463" xml:id="d1e135350">
+                        </persName>, laudavit et conces<lb n="3" break="no" />sit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e135343" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et fratribus
+                        ejusdem loci quicquid habebant ipsi fratres a <lb n="4" />
+                        <persName key="d1e12880" xml:id="d1e135348">Jordano majore de <placeName key="stutzmann_himanis#324463" xml:id="d1e135350" corresp="Jours-lès-Baigneux (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Jors</foreign>
                             </placeName>
                         </persName> et a <persName key="d1e12886" xml:id="d1e135354">Gundeberto</persName> et <persName key="d1e12892" xml:id="d1e135357">
@@ -116,16 +117,16 @@
                                 <lem wit="#A">Umberto</lem>
                                 <rdg wit="#B">Humberto</rdg>
                             </app>
-                        </persName> fratre ejus et pratum <lb n="5"/> et salictum cum terra quam
+                        </persName> fratre ejus et pratum <lb n="5" /> et salictum cum terra quam
                             <persName key="d1e12898" xml:id="d1e135366">Bernardus
                                 <addName>Poardus</addName>
-                        </persName> tenebat juxta aquam <placeName key="stutzmann_himanis#324340" xml:id="d1e135372">Arrane</placeName>
-                        <lb n="6"/> et quicquid <app>
+                        </persName> tenebat juxta aquam <placeName key="stutzmann_himanis#324340" xml:id="d1e135372" corresp="Laigne supérieure (La)">Arrane</placeName>
+                        <lb n="6" /> et quicquid <app>
                             <lem wit="#A">juris</lem>
-                            <rdg type="omission" wit="#B"/>
-                        </app> habebat a <placeName key="stutzmann_himanis#324946" xml:id="d1e135381">Marzella</placeName> usque ad <placeName key="stutzmann_himanis#325279" xml:id="d1e135384">Fontem <foreign>Goum</foreign>
-                        </placeName> versus <lb n="7"/>
-                        <placeName key="stutzmann_himanis#324449" xml:id="d1e135390">
+                            <rdg type="omission" wit="#B" />
+                        </app> habebat a <placeName key="stutzmann_himanis#324946" xml:id="d1e135381" corresp="Marzella">Marzella</placeName> usque ad <placeName key="stutzmann_himanis#325279" xml:id="d1e135384" corresp="Fontem Goum">Fontem <foreign>Goum</foreign>
+                        </placeName> versus <lb n="7" />
+                        <placeName key="stutzmann_himanis#324449" xml:id="d1e135390" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                             <app>
                                 <lem wit="#A #B-post-corr">
                                     <foreign>Estormer</foreign> grangiam</lem>
@@ -133,17 +134,17 @@
                                 </rdg>
                             </app>
                         </placeName>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135401">Fonteneti</orgName>. Hinc
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e135401" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Hinc
                         testes sunt <app>
-                            <lem wit="#A" type="vacat"/>
+                            <lem wit="#A" type="vacat" />
                             <rdg wit="#B" type="addition">
                                 <surplus>hinc</surplus>
                             </rdg>
                         </app>
-                        <persName key="stutzmann_himanis#324628" xml:id="d1e135409">Tecelinus archipresbiter
-                                <placeName key="stutzmann_himanis#323218" xml:id="d1e135411">
+                        <persName key="stutzmann_himanis#324628" xml:id="d1e135409" corresp="Tecelinus archipresbiter Frollesii">Tecelinus archipresbiter
+                                <placeName key="stutzmann_himanis#323218" xml:id="d1e135411" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">
                                 <app>
-                                    <lem wit="#A">Frolle<lb n="8" break="no"/>sii</lem>
+                                    <lem wit="#A">Frolle<lb n="8" break="no" />sii</lem>
                                     <rdg wit="#B">Frolesii</rdg>
                                 </app>
                             </placeName>
@@ -151,14 +152,14 @@
                             <app>
                                 <lem wit="#A">Radulfus</lem>
                                 <rdg wit="#B">Radulphus</rdg>
-                            </app> presbiter de <placeName key="stutzmann_himanis#324463" xml:id="d1e135427">
+                            </app> presbiter de <placeName key="stutzmann_himanis#324463" xml:id="d1e135427" corresp="Jours-lès-Baigneux (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Jors</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12910" xml:id="d1e135431">Christianus filius
-                            majoris de <placeName key="stutzmann_himanis#324449" xml:id="d1e135433">
+                            majoris de <placeName key="stutzmann_himanis#324449" xml:id="d1e135433" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e12917" xml:id="d1e135437">Albericus <lb n="9"/> de <placeName key="stutzmann_himanis#324449" xml:id="d1e135441">
+                        </persName>, <persName key="d1e12917" xml:id="d1e135437">Albericus <lb n="9" /> de <placeName key="stutzmann_himanis#324449" xml:id="d1e135441" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12923" xml:id="d1e135446">
@@ -166,8 +167,8 @@
                                 <lem wit="#A">Philippus</lem>
                                 <rdg wit="#B">Phylippus</rdg>
                             </app>
-                        </persName> et <persName key="d1e12929" xml:id="d1e135453">Bernardus</persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e135456">Fonteneti</orgName>. Actum <app>
-                            <lem wit="#A">est <lb n="10"/> hoc</lem>
+                        </persName> et <persName key="d1e12929" xml:id="d1e135453">Bernardus</persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e135456" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Actum <app>
+                            <lem wit="#A">est <lb n="10" /> hoc</lem>
                             <rdg type="omission" wit="#B">
                                 <note>l’espace en fin de ligne et fin de page est insuffisant pour
                                     l’acte.</note>

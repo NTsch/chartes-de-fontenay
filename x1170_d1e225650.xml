@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1170_d1e225650">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1170_d1e225650" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 57@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,16 +37,16 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e153972">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e153974">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e153972" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e153974" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, tam futuris quam presentibus notum facio quod
                         <persName key="d1e23381" xml:id="d1e153978">Petrus
                             <addName>Huldrei</addName>
                     </persName> et <persName key="d1e23388" xml:id="d1e153983">Haymo sororius
-                        ejus</persName> accensierunt monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e153986">Fonteneti</orgName> nemus quod habebant contiguum finibus
-                        <placeName key="stutzmann_himanis#325060" xml:id="d1e153989">Villenarum</placeName> et
-                        <placeName key="stutzmann_himanis#324433" xml:id="d1e153993">Columberii</placeName> et
-                        <placeName key="stutzmann_himanis#324993" xml:id="d1e153996">
+                        ejus</persName> accensierunt monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e153986" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> nemus quod habebant contiguum finibus
+                        <placeName key="stutzmann_himanis#325060" xml:id="d1e153989" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenarum</placeName> et
+                        <placeName key="stutzmann_himanis#324433" xml:id="d1e153993" corresp="Coulmier-le-Sec (Côte-d'Or, Châtillon-sur-Seine)">Columberii</placeName> et
+                        <placeName key="stutzmann_himanis#324993" xml:id="d1e153996" corresp="Puteorum">
                         <sic corresp="#B">Puteorum</sic>
                     </placeName> ad censum <num>iiii</num>
                     <hi rend="superscript">or</hi> solidorum proviniensis monete reddendorum in
@@ -53,17 +54,17 @@
                     <hi rend="smallcaps" xml:space="preserve">viii </hi>libras. Hoc autem laudavit
                         <persName key="d1e23394" xml:id="d1e154008">uxor ipsius <persName key="d1e23400" xml:id="d1e154010">Petri</persName>
                     </persName> et <persName key="d1e23406" xml:id="d1e154014">Willermus filius
-                        ejus</persName>. Hujus rei testes sunt <persName key="d1e23412" xml:id="d1e154017">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e154019">Montis Barri</placeName>
-                    </persName>, <persName key="d1e23418" xml:id="d1e154022">Robertus de <placeName key="stutzmann_himanis#324359" xml:id="d1e154024">Sancta Columba</placeName>
-                    </persName>, <persName key="d1e23425" xml:id="d1e154027">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e154029">
+                        ejus</persName>. Hujus rei testes sunt <persName key="d1e23412" xml:id="d1e154017">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e154019" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                    </persName>, <persName key="d1e23418" xml:id="d1e154022">Robertus de <placeName key="stutzmann_himanis#324359" xml:id="d1e154024" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
+                    </persName>, <persName key="d1e23425" xml:id="d1e154027">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e154029" corresp="Courtangy (Côte-d'Or, Montbard)">
                             <foreign>Curtenge</foreign>
                         </placeName>
                     </persName>, <persName key="d1e23431" xml:id="d1e154033">Haymo
                             <addName>Gormundi</addName>
-                    </persName>, <persName key="d1e23437" xml:id="d1e154038">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e154040">Grinione</placeName>
+                    </persName>, <persName key="d1e23437" xml:id="d1e154038">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e154040" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>, <persName key="d1e23443" xml:id="d1e154044">Garnerius
                         presbiter</persName> et <persName key="d1e23449" xml:id="d1e154047">Vaslinus
-                        major <placeName key="stutzmann_himanis#324450" xml:id="d1e154049">Fanii</placeName>
+                        major <placeName key="stutzmann_himanis#324450" xml:id="d1e154049" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName>
                     </persName>.</p>
             </body>
         </text>

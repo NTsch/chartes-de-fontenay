@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e194753">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1205_d1e194753" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 510 + Access n° 512</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -138,47 +139,47 @@
                     <placeName>Régennes</placeName>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0004.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0005.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0004.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0005.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0009.jpg" scale="20" />
         </facsimile>
         <text>
             <body><p>
-                        <persName key="stutzmann_himanis#324640" xml:id="d1e132113">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e132115">Autissiodorensis</orgName>
+                        <persName key="stutzmann_himanis#324640" xml:id="d1e132113" corresp="Hugues de Noyers, évêque d'Auxerre (1183-1206)">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e132115" corresp="Auxerre (diocèse) ( - 1790)">Autissiodorensis</orgName>
                             episcopus</persName>, omnibus presentes litteras inspecturis in Domino
-                        salutem. Noverit universitas <lb n="2"/> vestra quod, cum defunctus
+                        salutem. Noverit universitas <lb n="2" /> vestra quod, cum defunctus
                             <persName key="d1e11979" xml:id="d1e132121">Stephanus
                                 <addName>Mercator</addName>
-                        </persName> dedisset uni altari in <orgName key="stutzmann_himanis#284025" xml:id="d1e132126">ecclesia nostra cathedrali beati Stephani</orgName>
-                        pro remedio ani<lb n="3" break="no"/>me sue quamdam terram aput <placeName key="stutzmann_himanis#97612" xml:id="d1e132131">
+                        </persName> dedisset uni altari in <orgName key="stutzmann_himanis#284025" xml:id="d1e132126" corresp="abbaye Saint-Etienne de Dijon (580 -)">ecclesia nostra cathedrali beati Stephani</orgName>
+                        pro remedio ani<lb n="3" break="no" />me sue quamdam terram aput <placeName key="stutzmann_himanis#97612" xml:id="d1e132131" corresp="Augy (Yonne, Auxerre)">
                             <app>
                                 <lem wit="#A">Augiacum</lem>
                                 <rdg wit="#α">Augeiacum</rdg>
                             </app>
-                        </placeName> in <placeName key="stutzmann_himanis#325095" xml:id="d1e132139">censu
-                                <persName key="d1e11985" xml:id="d1e132141">Hoberti de <placeName key="stutzmann_himanis#324978" xml:id="d1e132143">Petra
+                        </placeName> in <placeName key="stutzmann_himanis#325095" xml:id="d1e132139" corresp="censu Hoberti de Petra Pertusi">censu
+                                <persName key="d1e11985" xml:id="d1e132141">Hoberti de <placeName key="stutzmann_himanis#324978" xml:id="d1e132143" corresp="Petra Pertusi">Petra
                                     Pertusi</placeName>
                             </persName>
-                        </placeName> et nos pro utilitate nominati defuncti <lb n="4"/> qui eam
+                        </placeName> et nos pro utilitate nominati defuncti <lb n="4" /> qui eam
                         dederat et omnium defunctorum fidelium convertissemus illam terram ad
-                        servitium altaris Sancte Tri<lb n="5" break="no"/>nitatis, terra illa valuit
+                        servitium altaris Sancte Tri<lb n="5" break="no" />nitatis, terra illa valuit
                         per aliquot annos canonicis illius altaris quadraginta solidos redditivos
-                        annuatim per <lb n="6"/> manum dilecti filii <persName key="d1e11992" xml:id="d1e132155">Arnulphi abbatis <orgName key="stutzmann_himanis#284221" xml:id="d1e132157">Sancti Petri Autissiodori</orgName>
-                        </persName>, cui data fuerat ad colendum. Tandem nos de<lb n="7" break="no"/>siderantes proficere menbris sancte matris Ecclesie, dedimus <orgName key="d6e19500" xml:id="d1e132163">sancte Trinitati</orgName> et
-                        servitoribus suis centum solidos redditus in <lb n="8"/> nostro adquisitu
+                        annuatim per <lb n="6" /> manum dilecti filii <persName key="d1e11992" xml:id="d1e132155">Arnulphi abbatis <orgName key="stutzmann_himanis#284221" xml:id="d1e132157" corresp="abbaye Saint-Pierre d'Auxerre (596 -)">Sancti Petri Autissiodori</orgName>
+                        </persName>, cui data fuerat ad colendum. Tandem nos de<lb n="7" break="no" />siderantes proficere menbris sancte matris Ecclesie, dedimus <orgName key="d6e19500" xml:id="d1e132163">sancte Trinitati</orgName> et
+                        servitoribus suis centum solidos redditus in <lb n="8" /> nostro adquisitu
                         eis annuatim persolvendos et ipsis canonicis <orgName key="d6e19500" xml:id="d1e132168">sancte Trinitatis</orgName> consentientibus et
-                        volentibus terram <lb n="9"/> illam ita in melius commutatam pro salute
+                        volentibus terram <lb n="9" /> illam ita in melius commutatam pro salute
                         anime nostre et pro anniversario nostro et nostrorum predecessorum faciendo,
-                            <lb n="10"/> donavimus domino <persName key="d1e11998" xml:id="d1e132175">Bernardo abbati</persName> et fratribus Deo
-                        servientibus in monasterio Cisterciensis ordinis de <orgName key="stutzmann_himanis#282689" xml:id="d1e132179">Fonteneto</orgName> in
-                            perpetu<lb n="11" break="no"/>um possidendam. Quod ne possit a posteris
-                        infirmari, dictis fratribus et monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e132184">Fonteneti</orgName> litteras inde fecimus <lb n="12"/> sigillo nostro confirmatas. Datum <app>
+                            <lb n="10" /> donavimus domino <persName key="d1e11998" xml:id="d1e132175">Bernardo abbati</persName> et fratribus Deo
+                        servientibus in monasterio Cisterciensis ordinis de <orgName key="stutzmann_himanis#282689" xml:id="d1e132179" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> in
+                            perpetu<lb n="11" break="no" />um possidendam. Quod ne possit a posteris
+                        infirmari, dictis fratribus et monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e132184" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> litteras inde fecimus <lb n="12" /> sigillo nostro confirmatas. Datum <app>
                             <lem wit="#A">apud</lem>
                             <rdg wit="#α">aput</rdg>
                         </app> Regium Annem, anno Domini <num>m° cc°</num> quinto, mense

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e238851">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1205_d1e238851" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original *219 bis@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -21,8 +22,8 @@
                         <bibl>ADCO 15 H 4, p. 320 (XV. 12. 9) : « […] en date de 1205 […] titre
                             latin en parchemin, par lequel il conste de la donnation faite […] par
                                 <persName key="d1e28303" xml:id="d1e163438">Jacques de
-                                Bigorne</persName> d’une partie du <placeName key="stutzmann_himanis#325071" xml:id="d1e163441">bois de Chaume</placeName> au finage de
-                                <placeName key="stutzmann_himanis#324343" xml:id="d1e163444">Poiseul</placeName>, avec droit d’usage du finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163447">Eschallot</placeName>, etc.
+                                Bigorne</persName> d’une partie du <placeName key="stutzmann_himanis#325071" xml:id="d1e163441" corresp="bois de Chaume">bois de Chaume</placeName> au finage de
+                                <placeName key="stutzmann_himanis#324343" xml:id="d1e163444" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Poiseul</placeName>, avec droit d’usage du finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163447" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschallot</placeName>, etc.
                             et scellé d’un sceau qui y étoit autrefois ». La description de l’item
                             suivant dans l’inventaire précise « un autre petit titre »</bibl>
                     </listBibl>
@@ -39,7 +40,7 @@
         </teiHeader>
         <text>
             <body>
-                <p/>
+                <p />
             </body>
         </text>
     </TEI>

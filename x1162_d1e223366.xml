@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1162_d1e223366">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1162_d1e223366" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 37@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,27 +36,27 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324555" xml:id="d1e152394">Godefridus, Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e152396">Lingonensis</placeName> episcopus</persName>, <persName key="stutzmann_himanis#324660" xml:id="d1e152400">Arnaudo venerabili <orgName key="stutzmann_himanis#282689" xml:id="d1e152402">Fontenetensium</orgName>
+                    <persName key="stutzmann_himanis#324555" xml:id="d1e152394" corresp="Geoffroy de La Roche-Vanneau, abbé de Fontenay (1119-1126), évêque de Langres (1138-1163)">Godefridus, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e152396" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, <persName key="stutzmann_himanis#324660" xml:id="d1e152400" corresp="Arnaud, abbé de Fontenay (1154-1163)">Arnaudo venerabili <orgName key="stutzmann_himanis#282689" xml:id="d1e152402" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensium</orgName>
                         abbati</persName> salutem. Petitio vestra quia rationabilis est <sic corresp="#B">grantanter</sic> a nobis effectui data est. Ut ergo postulastis
-                    decimam vinearum vestrarum quas apud <placeName key="stutzmann_himanis#325059" xml:id="d1e152409">Villanias</placeName> habetis sive habebitis damus vobis
-                    ex hoc et deinceps. Quicquid de eadem decima <persName key="d1e22740" xml:id="d1e152412">Rainaldus <placeName key="stutzmann_himanis#324487" xml:id="d1e152414">Montis Barri</placeName> decanus</persName>
-                    calumpniabatur, seu presbiter ecclesiam de <placeName key="stutzmann_himanis#325059" xml:id="d1e152418">Villaniis</placeName> tenens, jure perpetuo concedimus
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152422">Fonteneti</orgName>
+                    decimam vinearum vestrarum quas apud <placeName key="stutzmann_himanis#325059" xml:id="d1e152409" corresp="Villanias">Villanias</placeName> habetis sive habebitis damus vobis
+                    ex hoc et deinceps. Quicquid de eadem decima <persName key="d1e22740" xml:id="d1e152412">Rainaldus <placeName key="stutzmann_himanis#324487" xml:id="d1e152414" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName> decanus</persName>
+                    calumpniabatur, seu presbiter ecclesiam de <placeName key="stutzmann_himanis#325059" xml:id="d1e152418" corresp="Villanias">Villaniis</placeName> tenens, jure perpetuo concedimus
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152422" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     cum laude <persName key="d1e22746" xml:id="d1e152425">Girardi earumdem partium
                         archidiaconi</persName> et cum laude prefati <persName key="d1e22752" xml:id="d1e152428">Rainaldi</persName> cujus <term>decanie</term> predicta
                     subjacet parrochia. Hoc autem donum presenti carta firmamus quam etiam sigilli
                     nostri appensione munimus ut quicumque vobis amodo de eadem decima injuriam seu
                     dampnum aliquid fecerit donec vobis satisfaciat excommunicamus. De hoc testes
-                    sumus, ego ipse <persName key="d1e22759" xml:id="d1e152434">Godefridus</persName> et duo prenominati <persName key="d1e22765" xml:id="d1e152437">Girardus archidiaconus</persName> et <persName key="d1e22771" xml:id="d1e152441">Rainaldus decanus</persName>, <persName key="d1e22777" xml:id="d1e152444">Christianus monachus de <orgName key="stutzmann_himanis#284255" xml:id="d1e152446">Alba Ripa</orgName>
+                    sumus, ego ipse <persName key="d1e22759" xml:id="d1e152434">Godefridus</persName> et duo prenominati <persName key="d1e22765" xml:id="d1e152437">Girardus archidiaconus</persName> et <persName key="d1e22771" xml:id="d1e152441">Rainaldus decanus</persName>, <persName key="d1e22777" xml:id="d1e152444">Christianus monachus de <orgName key="stutzmann_himanis#284255" xml:id="d1e152446" corresp="abbaye d'Auberive (1135 -)">Alba Ripa</orgName>
                     </persName>, <persName key="d1e22783" xml:id="d1e152449">
-                        <hi rend="background(green)">Acelinus monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e152452">Fonteneto</orgName>
+                        <hi rend="background(green)">Acelinus monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e152452" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
                         </hi>
-                    </persName>, <persName key="d1e22789" xml:id="d1e152455">Petrus abbas <orgName key="stutzmann_himanis#283938" xml:id="d1e152457">monasterii sancti
+                    </persName>, <persName key="d1e22789" xml:id="d1e152455">Petrus abbas <orgName key="stutzmann_himanis#283938" xml:id="d1e152457" corresp="abbaye Saint-Jean de Réôme ou Moutier-Saint-Jean (440 -)">monasterii sancti
                             Johannis</orgName>
-                    </persName>, <persName key="stutzmann_himanis#324566" xml:id="d1e152460">Galterius
+                    </persName>, <persName key="stutzmann_himanis#324566" xml:id="d1e152460" corresp="Gauthier de Bourgogne, évêque de Langres (1163-1179)">Galterius
                         canonicus frater <persName key="himanis_324670" xml:id="d1e152462">ducis</persName>
-                    </persName>, <persName key="d1e22796" xml:id="d1e152465">Hugo de <placeName key="stutzmann_himanis#325002" xml:id="d1e152467">Riveriis</placeName>
+                    </persName>, <persName key="d1e22796" xml:id="d1e152465">Hugo de <placeName key="stutzmann_himanis#325002" xml:id="d1e152467" corresp="Riveriis">Riveriis</placeName>
                         archidiaconus</persName>.</p>
             </body>
         </text>

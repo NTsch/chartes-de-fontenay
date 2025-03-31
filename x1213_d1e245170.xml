@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245170">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e245170" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 289@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -48,13 +49,13 @@
                         <rdg wit="#C">Ego</rdg>
                     </app>
                     <witDetail wit="#B">Initiale rubriquée non exécutée</witDetail>
-                    <persName key="stutzmann_himanis#324610" xml:id="d1e167843">Galterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167845">Eduensis</placeName>
+                    <persName key="stutzmann_himanis#324610" xml:id="d1e167843" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167845" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis presentes litteras inspecturis notum facimus
                     quod <persName key="d1e29672" xml:id="d1e167849">Johannes filius <persName key="d1e29678" xml:id="d1e167851">domine <app>
                                 <lem>Yle</lem>
                                 <rdg wit="#C">Yllæ</rdg>
-                            </app> de <placeName key="stutzmann_himanis#324962" xml:id="d1e167859">Monte
+                            </app> de <placeName key="stutzmann_himanis#324962" xml:id="d1e167859" corresp="Monte Sancti Johannis">Monte
                                 Sancti <app>
                                     <lem>Johannis</lem>
                                     <rdg wit="#C">Joannis</rdg>
@@ -64,24 +65,24 @@
                     </persName> in presentia nostra constitutus <persName key="d1e29684" xml:id="d1e167867">guerpivit</persName> et bona fide <app>
                         <lem>quitavit</lem>
                         <rdg wit="#C">quittavit</rdg>
-                    </app> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e167876">Fonteneti</orgName>, pro remedio anime sue et suorum, <app>
+                    </app> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e167876" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, pro remedio anime sue et suorum, <app>
                         <lem>omnes</lem>
                         <rdg wit="#C">omnium</rdg>
                     </app> querelas et <app>
                         <lem>calumpnias</lem>
                         <rdg wit="#C">calumnias</rdg>
-                    </app> quas habebat adversus dictam ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e167892">Fonteneti</orgName> de terris que fuerant <persName key="d1e29690" xml:id="d1e167895">Guiardi cognomento <addName>
+                    </app> quas habebat adversus dictam ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e167892" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de terris que fuerant <persName key="d1e29690" xml:id="d1e167895">Guiardi cognomento <addName>
                             <app>
                                 <lem>Goliardi</lem>
                                 <rdg wit="#C">Goliard</rdg>
                             </app>
                         </addName>
-                    </persName> et apud villam de <placeName key="stutzmann_himanis#324475" xml:id="d1e167904">
+                    </persName> et apud villam de <placeName key="stutzmann_himanis#324475" xml:id="d1e167904" corresp="Marmagne (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Marmania</lem>
                             <rdg wit="#C">Marmegnia</rdg>
                         </app>
-                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e167911">
+                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e167911" corresp="Corbeton (Côte-d'Or, Montbard)">
                         <foreign>
                             <app>
                                 <lem>Corbetun</lem>
@@ -90,7 +91,7 @@
                         </foreign>
                     </placeName> et in <app>
                         <lem>
-                            <witEnd wit="#B"/>
+                            <witEnd wit="#B" />
                             <witDetail wit="#B">et in fi-||</witDetail>
                         </lem>
                     </app>finagio earumdem villarum. In testimonium autem hujus rei, presentem

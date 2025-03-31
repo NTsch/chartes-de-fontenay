@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1215_d1e246472">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1215_d1e246472" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original @</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -18,7 +19,7 @@
 
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -33,16 +34,16 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e168683">Galterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168685">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e168683" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168685" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis praesentem paginam inspecturis notum facimus
-                    quod <persName key="d1e29925" xml:id="d1e168689">Galterius, miles de <placeName key="stutzmann_himanis#324487" xml:id="d1e168691">Monte Barri</placeName>
-                    </persName>, dedit Deo et ecclesiae Sanctae Mariae <orgName key="stutzmann_himanis#282689" xml:id="d1e168694">Fonteneti</orgName>, pro remedio animae suae et
+                    quod <persName key="d1e29925" xml:id="d1e168689">Galterius, miles de <placeName key="stutzmann_himanis#324487" xml:id="d1e168691" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barri</placeName>
+                    </persName>, dedit Deo et ecclesiae Sanctae Mariae <orgName key="stutzmann_himanis#282689" xml:id="d1e168694" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, pro remedio animae suae et
                     antecessorum suorum in perpetuam donationem, omnia quaecumque juris habebat in
-                        <placeName key="stutzmann_himanis#325125" xml:id="d1e168697">foresta quae est super
+                        <placeName key="stutzmann_himanis#325125" xml:id="d1e168697" corresp="foresta quae est super eamdem abbatiam">foresta quae est super
                         eamdem abbatiam</placeName> et quicquid juris habebat in territorio ejusdem
-                    forestae usque ad <placeName key="stutzmann_himanis#325136" xml:id="d1e168700">magnum
-                        chiminum quod ducit <placeName key="stutzmann_himanis#325019" xml:id="d1e168702">Sanctum Jacobum</placeName>
+                    forestae usque ad <placeName key="stutzmann_himanis#325136" xml:id="d1e168700" corresp="magnum chiminum quod ducit Sanctum Jacobum">magnum
+                        chiminum quod ducit <placeName key="stutzmann_himanis#325019" xml:id="d1e168702" corresp="Sanctum Jacobum">Sanctum Jacobum</placeName>
                     </placeName>. Recognovit etiam idem <persName key="d1e29931" xml:id="d1e168706">Galterius</persName> quod nullus hominum suorum, neque aliorum aliquis,
                     usuarium debet habere in memorata superius foresta. Hanc autem eleemosynam
                     laudavit et approbavit bona fide <persName key="d1e29937" xml:id="d1e168709">uxor ipsius <persName key="d1e29943" xml:id="d1e168711">Galterii</persName>

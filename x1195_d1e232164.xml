@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232164">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1195_d1e232164" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 140@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,21 +33,21 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego frater <persName key="d1e26077" xml:id="d1e158766">H., dictus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158768">Fonteneti</orgName>
-                    </persName>, notum facio omnibus tam presentibus quam futuris quod <persName key="d1e26083" xml:id="d1e158771">Odo, major de <placeName key="stutzmann_himanis#324455" xml:id="d1e158773">Fraxino</placeName>
+                <p>Ego frater <persName key="d1e26077" xml:id="d1e158766">H., dictus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158768" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    </persName>, notum facio omnibus tam presentibus quam futuris quod <persName key="d1e26083" xml:id="d1e158771">Odo, major de <placeName key="stutzmann_himanis#324455" xml:id="d1e158773" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxino</placeName>
                     </persName>, et filii ejus <persName key="d1e26089" xml:id="d1e158776">Girardus</persName>, <persName key="d1e26095" xml:id="d1e158779">Paganus</persName>, <persName key="d1e26101" xml:id="d1e158782">Robertus</persName>, anno ab incarnatione Domini <num>.m°. c°. xc°.
-                        v°.</num>, <num>ix</num> kl. Maii, quittaverunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158792">Fonteneti</orgName> omnes querelas
+                        v°.</num>, <num>ix</num> kl. Maii, quittaverunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158792" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> omnes querelas
                     quas tunc adversus eam habebant et concesserunt ei in pace perpetua possidere
                     quicquid in terris et in pratis et in vineis et in bosco et in plano ea die
-                    possidebat. Hujus rei testes sunt nobiscum <persName key="d1e26108" xml:id="d1e158795">Villelmus prior</persName>, <persName key="d1e26114" xml:id="d1e158798">Philippus</persName>, <persName key="d1e26120" xml:id="d1e158801">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158803">Grinione</placeName>
+                    possidebat. Hujus rei testes sunt nobiscum <persName key="d1e26108" xml:id="d1e158795">Villelmus prior</persName>, <persName key="d1e26114" xml:id="d1e158798">Philippus</persName>, <persName key="d1e26120" xml:id="d1e158801">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e158803" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>, <persName key="d1e26126" xml:id="d1e158807">Humbertus</persName>,
                     monachi ; <persName key="d1e26132" xml:id="d1e158810">Huldulo magister
-                            <placeName key="stutzmann_himanis#324489" xml:id="d1e158812">Morville</placeName>
+                            <placeName key="stutzmann_himanis#324489" xml:id="d1e158812" corresp="Morville (Côte-d'Or, Montbard)">Morville</placeName>
                     </persName>, <persName key="d1e26138" xml:id="d1e158815">Petrus
                         hospitalis</persName>, <persName key="d1e26145" xml:id="d1e158818">David</persName> conversi, <persName key="d1e26151" xml:id="d1e158821">Teobaudus <addName>
                             <foreign>Truchez</foreign>
                         </addName>
-                    </persName>, <persName key="d1e26157" xml:id="d1e158827">Tecelinus <placeName key="stutzmann_himanis#325267" xml:id="d1e158829">
+                    </persName>, <persName key="d1e26157" xml:id="d1e158827">Tecelinus <placeName key="stutzmann_himanis#325267" xml:id="d1e158829" corresp="Des Loies">
                             <foreign>Des Loies</foreign>
                         </placeName>
                     </persName>, <persName key="d1e26163" xml:id="d1e158834">Germanus frater

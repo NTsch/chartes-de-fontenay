@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e197018">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e197018" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 778 + Access n° 779</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -150,21 +151,21 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0016.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0017.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0018.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0019.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0016.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0017.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0018.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0019.jpg" scale="20" />
         </facsimile>
         <text>
             <body><p>Noverint omnes presentes <app>
-                            <lem wit="#A1 #A2" type="vacat"/>
+                            <lem wit="#A1 #A2" type="vacat" />
                             <rdg wit="#B">pariter</rdg>
                         </app> et futuri quod <persName key="d1e12540" xml:id="d1e133659">
                             <app>
                                 <lem wit="#A1 #A2">Radulfus</lem>
                                 <rdg wit="#B">Radulphus</rdg>
                             </app>
-                        </persName>, <persName key="d1e12547" xml:id="d1e133666">Laurentius</persName> et <persName key="d1e12553" xml:id="d1e133669">Robertus, fratres de <placeName key="stutzmann_himanis#324470" xml:id="d1e133671">
+                        </persName>, <persName key="d1e12547" xml:id="d1e133666">Laurentius</persName> et <persName key="d1e12553" xml:id="d1e133669">Robertus, fratres de <placeName key="stutzmann_himanis#324470" xml:id="d1e133671" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">
                                 <app>
                                     <lem wit="#A1 #A2">Luceniaco</lem>
                                     <rdg wit="#B">
@@ -172,35 +173,35 @@
                                     </rdg>
                                 </app>
                             </placeName>
-                        </persName> quitaverunt domui <orgName key="stutzmann_himanis#282689" xml:id="d1e133679">Fonteneti</orgName> usuarium et omnes calumpnias quas
-                        antea habebant in finagio de <placeName key="stutzmann_himanis#324488" xml:id="d1e133683">
+                        </persName> quitaverunt domui <orgName key="stutzmann_himanis#282689" xml:id="d1e133679" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> usuarium et omnes calumpnias quas
+                        antea habebant in finagio de <placeName key="stutzmann_himanis#324488" xml:id="d1e133683" corresp="Émorots (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>
                                 <app>
                                     <lem wit="#A1 #A2">Moraus</lem>
                                     <rdg wit="#B">Moraux</rdg>
                                 </app>
                             </foreign>
-                        </placeName> de terris <placeName key="stutzmann_himanis#325011" xml:id="d1e133691">Sancti Martini</placeName>. Promiserunt etiam quod si aliquis
-                        calumpniare vellet in ipso finagio fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e133694">Fontenetenses</orgName>
+                        </placeName> de terris <placeName key="stutzmann_himanis#325011" xml:id="d1e133691" corresp="Sancti Martini">Sancti Martini</placeName>. Promiserunt etiam quod si aliquis
+                        calumpniare vellet in ipso finagio fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e133694" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
                         <app>
                             <lem wit="#A1 #A2">garantirent</lem>
                             <rdg wit="#B">guarantirent</rdg>
                         </app> eos ac defenderent. Et propter hanc quitationem, Fontenetenses
                         promiserunt eis in domum suam locum suum <app>
                             <lem wit="#A1 #A2">et societatem</lem>
-                            <rdg wit="#B" type="omission"/>
+                            <rdg wit="#B" type="omission" />
                         </app> cum de seculo venire voluerint et in seculo quamdiu erunt tam eos
-                        quam res eorum pro posse suo custodirent. Testes sunt hujus rei <persName key="d1e12559" xml:id="d1e133707">Hugo cellerarius</persName>, <persName key="d1e12565" xml:id="d1e133711">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e133713">
+                        quam res eorum pro posse suo custodirent. Testes sunt hujus rei <persName key="d1e12559" xml:id="d1e133707">Hugo cellerarius</persName>, <persName key="d1e12565" xml:id="d1e133711">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e133713" corresp="Grignon (Côte-d'Or, Montbard)">
                                 <foreign>Grinun</foreign>
                             </placeName>
-                        </persName>, monachi de Fonteneto, frater <persName key="d1e12571" xml:id="d1e133717">Bernardus magister <placeName key="stutzmann_himanis#324489" xml:id="d1e133719">Morville</placeName>
+                        </persName>, monachi de Fonteneto, frater <persName key="d1e12571" xml:id="d1e133717">Bernardus magister <placeName key="stutzmann_himanis#324489" xml:id="d1e133719" corresp="Morville (Côte-d'Or, Montbard)">Morville</placeName>
                         </persName>, <persName key="d1e12577" xml:id="d1e133722">Robertus major de
-                                <placeName key="stutzmann_himanis#324421" xml:id="d1e133724">Buxeio</placeName>
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e133724" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buxeio</placeName>
                         </persName>, <persName key="d1e12584" xml:id="d1e133727">Renaudus de
-                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133729">
+                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133729" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
-                        </persName>. Et ut hoc totum firmum permaneat et ratum, ego <persName key="d1e12590" xml:id="d1e133733">Willermus, abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e133735">Fonteneti</orgName>
+                        </persName>. Et ut hoc totum firmum permaneat et ratum, ego <persName key="d1e12590" xml:id="d1e133733">Willermus, abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e133735" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName>, presens scriptum sigillo <app>
                             <lem wit="#A1 #A2">meo</lem>
                             <rdg wit="#B">nostro</rdg>

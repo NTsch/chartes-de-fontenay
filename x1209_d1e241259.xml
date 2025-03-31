@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241259">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e241259" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 245@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -34,36 +35,36 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e165114">Gauterius Dei gratia
-                        episcopus <placeName key="stutzmann_himanis#319548" xml:id="d1e165116">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e165114" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius Dei gratia
+                        episcopus <placeName key="stutzmann_himanis#319548" xml:id="d1e165116" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                     </persName>, notum facimus presentibus pariter et futuris quod <persName key="d1e28821" xml:id="d1e165119">Robertus <addName>
                             <foreign>Odrez</foreign>
                         </addName> miles</persName> et <persName key="d1e28827" xml:id="d1e165126">Hodierna uxor</persName> sua de cujus capite erat dedit in perpetuam
-                    elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165129">Fonteneti</orgName>
+                    elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165129" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     <num>xvii</num> denarios censuales quos idem fratres debebant eis de quadam
                     teneura que est apud
-                    <hi rend="italic" xml:space="preserve"><placeName key="stutzmann_himanis#324449" xml:id="d1e165135">Estormer</placeName> </hi>et
-                    alios <num>xviii</num> denarios censuales apud <placeName key="stutzmann_himanis#324450" xml:id="d1e165143">Fanium</placeName> et <num>iiii</num>
-                    <hi rend="superscript">or</hi> denarios apud <placeName key="stutzmann_himanis#324379" xml:id="d1e165151">
+                    <hi rend="italic" xml:space="preserve"><placeName key="stutzmann_himanis#324449" xml:id="d1e165135" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">Estormer</placeName> </hi>et
+                    alios <num>xviii</num> denarios censuales apud <placeName key="stutzmann_himanis#324450" xml:id="d1e165143" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanium</placeName> et <num>iiii</num>
+                    <hi rend="superscript">or</hi> denarios apud <placeName key="stutzmann_himanis#324379" xml:id="d1e165151" corresp="Viserny (Côte-d'Or, Montbard)">
                         <foreign>Visarne</foreign>
                     </placeName> quos illi debebant eis qui dicuntur <persName key="d1e28833" xml:id="d1e165155">
                         <foreign>Boschet</foreign>
                     </persName>. Preterea quitaverunt eis quicquid habebant infra metas de
-                        <placeName key="stutzmann_himanis#324463" xml:id="d1e165160">
+                        <placeName key="stutzmann_himanis#324463" xml:id="d1e165160" corresp="Jours-lès-Baigneux (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Jorz</foreign>
                     </placeName> et omnes alias querelas quas adversus eosdem fratres habebant bona
                     fide quitaverunt. <persName key="d1e28839" xml:id="d1e165164">Humbertus etiam de
-                            <placeName key="stutzmann_himanis#324463" xml:id="d1e165166">
+                            <placeName key="stutzmann_himanis#324463" xml:id="d1e165166" corresp="Jours-lès-Baigneux (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Jorz</foreign>
                         </placeName>, serviens eorum</persName>, quitavit predicte ecclesie quicquid
-                    calumpniabatur in decima <placeName key="stutzmann_himanis#324446" xml:id="d1e165171">Ampilleii</placeName>. Hec omnia laudaverunt dictus miles et uxor ejus et
+                    calumpniabatur in decima <placeName key="stutzmann_himanis#324446" xml:id="d1e165171" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampilleii</placeName>. Hec omnia laudaverunt dictus miles et uxor ejus et
                     concesserunt sepedictis fratribus elemosinam quam <persName key="d1e28846" xml:id="d1e165174">Robertus major</persName> fecerat eis de decima
-                        <placeName key="stutzmann_himanis#324446" xml:id="d1e165177">Ampilleii</placeName>
+                        <placeName key="stutzmann_himanis#324446" xml:id="d1e165177" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampilleii</placeName>
                     quam de casamento suo erat. Hec omnia laudavit <persName key="d1e28852" xml:id="d1e165180">filius eorum Guillermus</persName>. Et ut hoc ratum et
                     firmum permaneat presentem paginam sigilli nostri impressione fecimus roborari.
-                    Actum est hoc et laudatum <persName key="stutzmann_himanis#324653" xml:id="d1e165184">Haymone archidiacono <placeName key="stutzmann_himanis#322865" xml:id="d1e165186">Flaviniaci</placeName>
+                    Actum est hoc et laudatum <persName key="stutzmann_himanis#324653" xml:id="d1e165184" corresp="Aimon, archidiacre de Flavigny">Haymone archidiacono <placeName key="stutzmann_himanis#322865" xml:id="d1e165186" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaci</placeName>
                     </persName> et <persName key="d1e28858" xml:id="d1e165189">Willermo de
-                            <placeName key="stutzmann_himanis#324905" xml:id="d1e165191">
+                            <placeName key="stutzmann_himanis#324905" xml:id="d1e165191" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaaci</foreign>
                         </placeName>
                     </persName> clericis nostris presentibus. Anno verbi incarnati <num>m° cc°

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245657">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e245657" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 291@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,21 +38,21 @@
         </teiHeader>
         <text>
             <body>
-                <p>Omnibus ad quos presens scriptum pervenerit <persName key="d1e29740" xml:id="d1e168161">frater A. <orgName key="stutzmann_himanis#282500" xml:id="d1e168163">Cistercii</orgName>
+                <p>Omnibus ad quos presens scriptum pervenerit <persName key="d1e29740" xml:id="d1e168161">frater A. <orgName key="stutzmann_himanis#282500" xml:id="d1e168163" corresp="abbaye Notre-Dame de Cîteaux">Cistercii</orgName>
                     </persName>
                     <note> Arnaud Amaury, abbé de Cîteaux de 1201 à 1211/1212, ou Arnaud II, abbé de
                         1212 à 1217.</note>, et <persName key="d1e29746" xml:id="d1e168168">S.
-                            <orgName key="stutzmann_himanis#284222" xml:id="d1e168170">Firmitatis</orgName>
+                            <orgName key="stutzmann_himanis#284222" xml:id="d1e168170" corresp="abbaye de la Ferté-sur-Grosne (1113 -)">Firmitatis</orgName>
                     </persName>
-                    <note> Simon, abbé de La Ferté-sur-Grosne, de 1208 à 1229.</note> et <persName key="d1e29752" xml:id="d1e168175">I., <orgName key="stutzmann_himanis#283933" xml:id="d1e168177">
+                    <note> Simon, abbé de La Ferté-sur-Grosne, de 1208 à 1229.</note> et <persName key="d1e29752" xml:id="d1e168175">I., <orgName key="stutzmann_himanis#283933" xml:id="d1e168177" corresp="abbaye Notre-Dame et Saint-Edme de Pontigny (1114 -)">
                             <sic>Pontiaci</sic>
                         </orgName>
                     </persName>
-                    <note> Jean II, abbé de Pontigny, d’environ 1202 à 1214.</note>, et <persName key="d1e29758" xml:id="d1e168183">G. <orgName key="stutzmann_himanis#282533" xml:id="d1e168185">Clarevallis</orgName>
+                    <note> Jean II, abbé de Pontigny, d’environ 1202 à 1214.</note>, et <persName key="d1e29758" xml:id="d1e168183">G. <orgName key="stutzmann_himanis#282533" xml:id="d1e168185" corresp="abbaye Notre-Dame de Clairvaux (1115 -)">Clarevallis</orgName>
                     </persName>
                     <note> Guy, abbé de Clairvaux de 1193 à 1213.</note> dicti abbates salutem. Cum
-                    fratres nostri de <orgName key="stutzmann_himanis#282689" xml:id="d1e168191">Fonteneto</orgName> sepius ledantur et offendantur ex nimia vicinitate
-                    ville que dicitur <placeName key="stutzmann_himanis#324475" xml:id="d1e168194">Marmania</placeName> et habitatorum ejus, nos paci eorum providere volentes
+                    fratres nostri de <orgName key="stutzmann_himanis#282689" xml:id="d1e168191" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> sepius ledantur et offendantur ex nimia vicinitate
+                    ville que dicitur <placeName key="stutzmann_himanis#324475" xml:id="d1e168194" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName> et habitatorum ejus, nos paci eorum providere volentes
                     concessimus ut liceat eis possidere quicquid in villa vel de ville pertinentiis
                     ejusdem adquisierunt vel adquirere poterunt.</p>
             </body>

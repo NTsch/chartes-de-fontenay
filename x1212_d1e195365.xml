@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e195365">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e195365" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 532</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,51 +79,51 @@
                     <date type="documentCreation" when="1212-08-31">1212, août</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_67_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_67_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_67_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_67_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                     <p>Nos, capitulum Eduense, notum facimus universis presentes litteras
                         inspecturis quod cum <persName key="d1e12010" xml:id="d1e132440">Petrus de
-                                <placeName key="stutzmann_himanis#324348" xml:id="d1e132442">Puteo</placeName>
-                        </persName> tantorum esset oppressus pondere debitorum <lb n="2"/> quod
+                                <placeName key="stutzmann_himanis#324348" xml:id="d1e132442" corresp="Puits (Côte-d'Or, Châtillon-sur-Seine)">Puteo</placeName>
+                        </persName> tantorum esset oppressus pondere debitorum <lb n="2" /> quod
                         necessitate coactus cum non haberet ad solvenda dicta debita que sufficerent
-                        facultates, quin potius omnes ipsius possessiones pro <lb n="3"/> solvendis
+                        facultates, quin potius omnes ipsius possessiones pro <lb n="3" /> solvendis
                         debitis vendere oporteret, unde non modicum pateretur dedecus et jacturam,
                         tandem ipse ad <persName key="d1e12016" xml:id="d1e132449">Guillermum filium
                             suum</persName>
-                        <lb n="4"/> accessit et ejus auxilium implorans humiliter ipsum cum multa
-                        rogavit instancia quod in suo negocio consilium apponeret, suam <lb n="5"/>
+                        <lb n="4" /> accessit et ejus auxilium implorans humiliter ipsum cum multa
+                        rogavit instancia quod in suo negocio consilium apponeret, suam <lb n="5" />
                         in hac parte relevans egestatem, ipse vero <persName key="d1e12022" xml:id="d1e132456">Guillermus</persName>, paterne motus pietatis
-                        intuitu, numeratis patris ejus universis debitis et <lb n="6"/> pensatis de
+                        intuitu, numeratis patris ejus universis debitis et <lb n="6" /> pensatis de
                         octoginta libris divionensium sicut pro confessione dicti <persName key="d1e12029" xml:id="d1e132461">Petri</persName> nobis constitit,
                         ejusdem <persName key="d1e12035" xml:id="d1e132464">Petri</persName>
-                        creditoribus plenius satisfecit. <lb n="7"/> Pro quibus idem <persName key="d1e12041" xml:id="d1e132469">Guillermus</persName> de assensu et
+                        creditoribus plenius satisfecit. <lb n="7" /> Pro quibus idem <persName key="d1e12041" xml:id="d1e132469">Guillermus</persName> de assensu et
                         voluntate dicti <persName key="d1e12047" xml:id="d1e132473">Petri</persName>
                         et <persName key="d1e12053" xml:id="d1e132476">Henrici</persName> filii sui
-                        et aliorum puerorum suorum, omnia bona ipsorum ubicumque sint, tam <lb n="8"/> et domibus quam terris, pratis et molendinis et aliis rebus tam mobilibus
-                        quam inmobilibus habet penitus obligata. Memoratus siquidem <persName key="d1e12059" xml:id="d1e132481">Petrus</persName>, <lb n="9"/> laude
+                        et aliorum puerorum suorum, omnia bona ipsorum ubicumque sint, tam <lb n="8" /> et domibus quam terris, pratis et molendinis et aliis rebus tam mobilibus
+                        quam inmobilibus habet penitus obligata. Memoratus siquidem <persName key="d1e12059" xml:id="d1e132481">Petrus</persName>, <lb n="9" /> laude
                         et assensu prefati <persName key="d1e12066" xml:id="d1e132486">Henrici</persName> et aliorum puerorum suorum, <persName key="d1e12072" xml:id="d1e132490">Laurentii</persName> videlicet et <persName key="d1e12078" xml:id="d1e132493">Dolcerone</persName>, in presentia
-                        nostra, universa prata sua de <lb n="10"/>
-                        <placeName key="stutzmann_himanis#324947" xml:id="d1e132497">
+                        nostra, universa prata sua de <lb n="10" />
+                        <placeName key="stutzmann_himanis#324947" xml:id="d1e132497" corresp="Masmoiel">
                             <foreign>Masmoiel</foreign>
                         </placeName> prefato <persName key="d1e12084" xml:id="d1e132501">Guillermo</persName> ultra porcionem suam quam habere debet tanquam
-                        filius de bonis patris sui dedit et concessit in perpe<lb n="11" break="no"/>tuum ex eis se devestiens et dictum <persName key="d1e12090" xml:id="d1e132507">Guilermum</persName> investiens coram nobis
-                        precipiens et concedens dicto <persName key="d1e12096" xml:id="d1e132510">Guillermo</persName> quod dicta pra<lb n="12" break="no"/>ta vendat vel
+                        filius de bonis patris sui dedit et concessit in perpe<lb n="11" break="no" />tuum ex eis se devestiens et dictum <persName key="d1e12090" xml:id="d1e132507">Guilermum</persName> investiens coram nobis
+                        precipiens et concedens dicto <persName key="d1e12096" xml:id="d1e132510">Guillermo</persName> quod dicta pra<lb n="12" break="no" />ta vendat vel
                         donet vel alienet vel obliget cuicumque et quandocumque voluerit, data fide
-                        quod in aliquo quod idem <persName key="d1e12103" xml:id="d1e132515">Guillermus</persName> ex <lb n="13"/> eis facere voluerit, nullatenus
+                        quod in aliquo quod idem <persName key="d1e12103" xml:id="d1e132515">Guillermus</persName> ex <lb n="13" /> eis facere voluerit, nullatenus
                         se opponet. Sepefactus vero <persName key="d1e12109" xml:id="d1e132520">Guillermus</persName> quamdiu voluerit medietatem feni patri suo
-                        permisit habendam <lb n="14"/> ad usus proprios quam idem <persName key="d1e12115" xml:id="d1e132526">Petrus</persName>, jurejurando
+                        permisit habendam <lb n="14" /> ad usus proprios quam idem <persName key="d1e12115" xml:id="d1e132526">Petrus</persName>, jurejurando
                         interposito, non potest dare vel vendere aut alienare seu etiam alicui
-                        obligare. <lb n="15"/> Ad majorem autem hujus rei noticiam, ad preces et
+                        obligare. <lb n="15" /> Ad majorem autem hujus rei noticiam, ad preces et
                         instanciam tam dicti <persName key="d1e12121" xml:id="d1e132531">Petri</persName> quam puerorum suorum presenti cartule sigilli nostri
-                            <lb n="16"/> apposuimus firmamentum. Actum est hoc anno gratie <num>m°
+                            <lb n="16" /> apposuimus firmamentum. Actum est hoc anno gratie <num>m°
                             cc°</num> duo decimo mense augusto.</p>
                 
             </body>

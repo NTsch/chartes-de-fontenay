@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e242225">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e242225" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 255@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -40,14 +41,14 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e165753">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e165756">Fonteneto</orgName>, Cisterciensis
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e165753" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e165756" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, Cisterciensis
                     ordinis, salutem et apostolicam benedictionem. Solet annuere sedes apostolica
                     piis votis et honestis petentium precibus favorem benevol<hi rend="background(cyan)">um</hi> impertiri. Ea propter dilecti in Domino
                     filii vestris justis postulationibus grato concurrentes assensu possessiones
-                    quas nobilis vir <persName key="stutzmann_himanis#324624" xml:id="d1e165762">Odo dux
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e165764">Burgundiae</placeName>
-                    </persName> ac quidam alii <placeName key="stutzmann_himanis#319548" xml:id="d1e165767">Eduensis diocesis</placeName> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e165770">Bernam</placeName> et <placeName key="stutzmann_himanis#324345" xml:id="d1e165774">
+                    quas nobilis vir <persName key="stutzmann_himanis#324624" xml:id="d1e165762" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo dux
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e165764" corresp="Bourgogne">Burgundiae</placeName>
+                    </persName> ac quidam alii <placeName key="stutzmann_himanis#319548" xml:id="d1e165767" corresp="Autun (Saône-et-Loire, Autun)">Eduensis diocesis</placeName> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e165770" corresp="Beaune (Côte-d'Or)">Bernam</placeName> et <placeName key="stutzmann_himanis#324345" xml:id="d1e165774" corresp="Pommard (Côte-d'Or, Ladoix-Serrigny)">
                         <foreign>Pomart</foreign>
                     </placeName> et locis aliis adjacentibus pietatis vobis intuitu concessisse
                     noscuntur sicut eas juste ac pacifice possidetis, vobis et per vos domui vestrae
@@ -55,7 +56,7 @@
                     Nulli ergo omnino hominum liceat hanc paginam nostrae confirmationis infringere
                     vel ei ausu temerario contra ire. Si quis autem hoc attemptare presumpserit
                     indignationem omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se
-                    noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e165778">Laterani</placeName>, quarto idus decembris pontificatus nostri anno tercio
+                    noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e165778" corresp="Laterani">Laterani</placeName>, quarto idus decembris pontificatus nostri anno tercio
                     decimo.</p>
             </body>
         </text>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e197452">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e197452" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 919</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -87,46 +88,46 @@
                     <date type="documentCreation" when="1189-12-31">1189</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_156_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_156_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_156_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_156_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Notum sit omnibus tam futuris quam presentibus quod <persName key="d1e12596" xml:id="d1e133847">Andreas, dominus <placeName key="stutzmann_himanis#325028" xml:id="d1e133849">Salveseii</placeName>
-                        </persName>, cum esset <placeName key="stutzmann_himanis#317554" xml:id="d1e133852">Jero<lb n="2" break="no"/>solimam</placeName> profecturus, coram
-                        suis hominibus et multis aliis assistentibus laudavit et concessit <lb n="3"/> omnia dona et <choice>
+                                        <p>Notum sit omnibus tam futuris quam presentibus quod <persName key="d1e12596" xml:id="d1e133847">Andreas, dominus <placeName key="stutzmann_himanis#325028" xml:id="d1e133849" corresp="Savoisy">Salveseii</placeName>
+                        </persName>, cum esset <placeName key="stutzmann_himanis#317554" xml:id="d1e133852" corresp="Jérusalem">Jero<lb n="2" break="no" />solimam</placeName> profecturus, coram
+                        suis hominibus et multis aliis assistentibus laudavit et concessit <lb n="3" /> omnia dona et <choice>
                             <sic>elemonas</sic>
                             <corr>elemosinas</corr>
-                        </choice> quas ejus antecessores ecclesie fecerant de <orgName key="stutzmann_himanis#282689" xml:id="d1e133865">Fonteneto</orgName>. Ibidem
-                        etiam recog<lb n="4" break="no"/>novit coram assistentibus quod neque ipse
-                        nec homines sui neque etiam alii per ipsos intra metas gran<lb n="5" break="no"/>gie que <placeName key="stutzmann_himanis#324452" xml:id="d1e133873">Fontanas</placeName> dicitur ullum omnino usagium vel aasentiam, nisi
-                        ex consensu et <lb n="6"/> voluntate <orgName key="stutzmann_himanis#282689" xml:id="d1e133878">Fontenetensium</orgName> haberent. Hec omnia laudavit
-                        et concessit <persName key="d1e12602" xml:id="d1e133881">Mabilia, <lb n="7"/> uxor ejusdem Andree</persName>, cum filia sua <persName key="d1e12608" xml:id="d1e133887">Petronilla</persName>. Sunt autem
-                        testes horum : <persName key="d1e12614" xml:id="d1e133890">Willermus, <lb n="8"/> prior de Fonteneto</persName>, frater <persName key="d1e12621" xml:id="d1e133895">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e133897">Grinione</placeName>, tunc
-                            cellerarius</persName> ; <persName key="d1e12627" xml:id="d1e133901">Hugo de <placeName key="stutzmann_himanis#324331" xml:id="d1e133903">Nigellis</placeName>, monachus <lb n="9"/> de <orgName key="stutzmann_himanis#280812" xml:id="d1e133908">Quinceio</orgName>
+                        </choice> quas ejus antecessores ecclesie fecerant de <orgName key="stutzmann_himanis#282689" xml:id="d1e133865" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>. Ibidem
+                        etiam recog<lb n="4" break="no" />novit coram assistentibus quod neque ipse
+                        nec homines sui neque etiam alii per ipsos intra metas gran<lb n="5" break="no" />gie que <placeName key="stutzmann_himanis#324452" xml:id="d1e133873" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanas</placeName> dicitur ullum omnino usagium vel aasentiam, nisi
+                        ex consensu et <lb n="6" /> voluntate <orgName key="stutzmann_himanis#282689" xml:id="d1e133878" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensium</orgName> haberent. Hec omnia laudavit
+                        et concessit <persName key="d1e12602" xml:id="d1e133881">Mabilia, <lb n="7" /> uxor ejusdem Andree</persName>, cum filia sua <persName key="d1e12608" xml:id="d1e133887">Petronilla</persName>. Sunt autem
+                        testes horum : <persName key="d1e12614" xml:id="d1e133890">Willermus, <lb n="8" /> prior de Fonteneto</persName>, frater <persName key="d1e12621" xml:id="d1e133895">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e133897" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>, tunc
+                            cellerarius</persName> ; <persName key="d1e12627" xml:id="d1e133901">Hugo de <placeName key="stutzmann_himanis#324331" xml:id="d1e133903" corresp="Nesle-et-Massoult (Côte-d'Or, Montbard)">Nigellis</placeName>, monachus <lb n="9" /> de <orgName key="stutzmann_himanis#280812" xml:id="d1e133908" corresp="abbaye de Quincy (1133 -)">Quinceio</orgName>
                         </persName> ; <persName key="d1e12633" xml:id="d1e133911">Stephanus,
-                            archidiaconus de <placeName key="stutzmann_himanis#324935" xml:id="d1e133913">Lisinis</placeName>
-                        </persName> ; <persName key="stutzmann_himanis#324623" xml:id="d1e133916">Odo,
-                            archipresbiter de <placeName key="stutzmann_himanis#324370" xml:id="d1e133918">Tullione</placeName>
-                        </persName> ; <persName key="d1e12639" xml:id="d1e133922">Willelmus, <lb n="10"/> capellanus de <placeName key="stutzmann_himanis#325028" xml:id="d1e133926">Salveseio</placeName>
+                            archidiaconus de <placeName key="stutzmann_himanis#324935" xml:id="d1e133913" corresp="Lisiniarum">Lisinis</placeName>
+                        </persName> ; <persName key="stutzmann_himanis#324623" xml:id="d1e133916" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo,
+                            archipresbiter de <placeName key="stutzmann_himanis#324370" xml:id="d1e133918" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
+                        </persName> ; <persName key="d1e12639" xml:id="d1e133922">Willelmus, <lb n="10" /> capellanus de <placeName key="stutzmann_himanis#325028" xml:id="d1e133926" corresp="Savoisy">Salveseio</placeName>
                         </persName> ; <persName key="d1e12645" xml:id="d1e133929">Andreas de
-                                <placeName key="stutzmann_himanis#324452" xml:id="d1e133931">Fontanis</placeName>
+                                <placeName key="stutzmann_himanis#324452" xml:id="d1e133931" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
                         </persName> ; <persName key="d1e12651" xml:id="d1e133934">Johannes de
-                                <placeName key="stutzmann_himanis#325029" xml:id="d1e133936">Seneveio</placeName>
-                        </persName> ; <persName key="d1e12658" xml:id="d1e133939">Lambertus <lb n="11"/>
+                                <placeName key="stutzmann_himanis#325029" xml:id="d1e133936" corresp="Seneveii">Seneveio</placeName>
+                        </persName> ; <persName key="d1e12658" xml:id="d1e133939">Lambertus <lb n="11" />
                             <addName>cementarius</addName>
                         </persName> et <persName key="d1e12664" xml:id="d1e133945">Adam de
-                                <placeName key="stutzmann_himanis#325028" xml:id="d1e133947">Salvesio</placeName>
-                        </persName>, servientes ejusdem Andree. Ut autem hoc <lb n="12"/> in
-                        posterum inviolabile perseveret et ratum, ego, <persName key="stutzmann_himanis#324599" xml:id="d1e133953">Manasses, Dei gratia Lingonensis
-                            episcopus</persName>, <lb n="13"/> presens scriptum sigilli appensione
-                        munivi. Actum anno incarnationis <lb n="14"/> Domini millesimo centesimo
+                                <placeName key="stutzmann_himanis#325028" xml:id="d1e133947" corresp="Savoisy">Salvesio</placeName>
+                        </persName>, servientes ejusdem Andree. Ut autem hoc <lb n="12" /> in
+                        posterum inviolabile perseveret et ratum, ego, <persName key="stutzmann_himanis#324599" xml:id="d1e133953" corresp="Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)">Manasses, Dei gratia Lingonensis
+                            episcopus</persName>, <lb n="13" /> presens scriptum sigilli appensione
+                        munivi. Actum anno incarnationis <lb n="14" /> Domini millesimo centesimo
                         octogesimo nono.</p>
                 
             </body>

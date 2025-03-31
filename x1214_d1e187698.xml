@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1214_d1e187698"><teiHeader>
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1214_d1e187698" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1677 </title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -46,13 +47,13 @@
                                             <term type="script">écriture diplomatique</term>
                                         </p>
                                     </handDesc>
-                                    <additions/>
+                                    <additions />
                                 </physDesc>
                             </msDesc>
                         </witness>
                     </listWit>
                     <listBibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -61,16 +62,16 @@
                     <date type="documentCreation" when="1214-03-29">1214, mars [n. st.]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
-        </teiHeader><facsimile xml:id="facs_pb_Fontenay_104_1"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_181_0008/full/600,/0/default.jpg"/></surface></facsimile><facsimile xml:id="facs_pb_Fontenay_104_2"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_181_0008/full/600,/0/default.jpg"/></surface></facsimile><text>
+        </teiHeader><facsimile xml:id="facs_pb_Fontenay_104_1"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_181_0008/full/600,/0/default.jpg" /></surface></facsimile><facsimile xml:id="facs_pb_Fontenay_104_2"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_181_0008/full/600,/0/default.jpg" /></surface></facsimile><text>
             <body>
                 <p>
-                    <pb xml:id="pb_Fontenay_104" n="1" facs="#facs_pb_Fontenay_104_1"/>
-                    <lb n="1"/>
+                    <pb xml:id="pb_Fontenay_104" n="1" facs="#facs_pb_Fontenay_104_1" />
+                    <lb n="1" />
                     <w xml:id="w_Fontenay_19690">EGo</w>
-                    <persName key="stutzmann_himanis#324610" xml:id="d1e127283">
+                    <persName key="stutzmann_himanis#324610" xml:id="d1e127283" corresp="Gautier II, évêque d'Autun 1189 -1223)">
                         <w xml:id="w_Fontenay_19691">Galterus</w>
                         <pc xml:id="pc_Fontenay_2817">,</pc>
                         <w xml:id="w_Fontenay_19692">
@@ -78,7 +79,7 @@
                         <w xml:id="w_Fontenay_19693">
                             <choice><expan ana="ori:align-no">gratia</expan><abbr>grã</abbr></choice>
                         </w>
-                        <placeName key="stutzmann_himanis#319548" xml:id="d1e127301">
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e127301" corresp="Autun (Saône-et-Loire, Autun)">
                             <w xml:id="w_Fontenay_19694">Edue<choice><expan ana="ori:align-no">nsis</expan><abbr>ñ</abbr></choice>
                             </w>
                         </placeName>
@@ -99,7 +100,7 @@
                     </w>
                     <w xml:id="w_Fontenay_19703">in<g rend="s_long">s</g>pecturis</w>
                     <w xml:id="w_Fontenay_19704">notum</w>
-                    <lb n="2"/>
+                    <lb n="2" />
                     <w xml:id="w_Fontenay_19705">facimus</w>
                     <w xml:id="w_Fontenay_19706">
                         <choice><expan ana="ori:align-no">quod</expan><abbr>q<g rend="δ">d</g>̃</abbr></choice>
@@ -110,7 +111,7 @@
                         <w xml:id="w_Fontenay_19708">miles</w>
                         <w xml:id="w_Fontenay_19709">
                             <g rend="δ">d</g>e</w>
-                        <placeName key="stutzmann_himanis#325298" xml:id="d1e127392">
+                        <placeName key="stutzmann_himanis#325298" xml:id="d1e127392" corresp="Jaigne">
                             <w xml:id="w_Fontenay_19710">Jaigneio</w>
                         </placeName>
                     </persName>
@@ -133,7 +134,7 @@
                     <w xml:id="w_Fontenay_19721">anime</w>
                     <w xml:id="w_Fontenay_19722">
                         <g rend="s_long">s</g>ue</w>
-                    <lb n="3"/>
+                    <lb n="3" />
                     <w xml:id="w_Fontenay_19723">et</w>
                     <w xml:id="w_Fontenay_19724">antece<g rend="s_long">s</g>
                         <g rend="s_long">s</g>orum</w>
@@ -149,7 +150,7 @@
                     </w>
                     <w xml:id="w_Fontenay_19731">fratri<choice><expan ana="ori:align-no">bus</expan><abbr>b;</abbr></choice>
                     </w>
-                    <orgName key="stutzmann_himanis#282689" xml:id="d1e127496">
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e127496" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <w xml:id="w_Fontenay_19732">fonteneti</w>
                     </orgName>
                     <w xml:id="w_Fontenay_19733">aa<g rend="s_long">s</g>entiam</w>
@@ -157,13 +158,13 @@
                     <w xml:id="w_Fontenay_19735">pa<g rend="s_long">s</g>turis</w>
                     <w xml:id="w_Fontenay_19736">
                         <g rend="δ">d</g>e</w>
-                    <placeName key="stutzmann_himanis#325298" xml:id="d1e127516">
+                    <placeName key="stutzmann_himanis#325298" xml:id="d1e127516" corresp="Jaigne">
                         <w xml:id="w_Fontenay_19737">Jaigneio</w>
                     </placeName>
                     <w xml:id="w_Fontenay_19738">
                         <choice><expan ana="ori:align-no">qua</expan><abbr>qͣ</abbr></choice>nt<choice><expan ana="ori:align-no">um</expan><abbr>ũ</abbr></choice>
                     </w>
-                    <lb n="4"/>
+                    <lb n="4" />
                     <w xml:id="w_Fontenay_19739">a<g rend="δ">d</g>
                     </w>
                     <w xml:id="w_Fontenay_19740">jus</w>
@@ -189,17 +190,17 @@
                     <w xml:id="w_Fontenay_19754">finagio</w>
                     <w xml:id="w_Fontenay_19755">
                         <g rend="δ">d</g>e</w>
-                    <placeName key="stutzmann_himanis#324422" xml:id="d1e127593">
+                    <placeName key="stutzmann_himanis#324422" xml:id="d1e127593" corresp="Chaume-lès-Baigneux (Côte-d'Or, Montband)">
                         <w xml:id="w_Fontenay_19756">
                             <seg type="wp" xml:id="wp_Fontenay_19756_1">chal</seg>
-                            <lb break="no"/>
+                            <lb break="no" />
                             <seg type="wp" xml:id="wp_Fontenay_19756_2">mis</seg>
                         </w>
                     </placeName>
                     <w xml:id="w_Fontenay_19757">et</w>
                     <w xml:id="w_Fontenay_19758">
                         <g rend="δ">d</g>e</w>
-                    <placeName key="stutzmann_himanis#324449" xml:id="d1e127606">
+                    <placeName key="stutzmann_himanis#324449" xml:id="d1e127606" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>
                             <w xml:id="w_Fontenay_19759">E<g rend="s_long">s</g>tormer</w>
                         </foreign>
@@ -207,7 +208,7 @@
                     <w xml:id="w_Fontenay_19760">adver<g rend="s_long">s</g>us</w>
                     <w xml:id="w_Fontenay_19761">jamdictam</w>
                     <w xml:id="w_Fontenay_19762">Ecc<choice><expan ana="ori:align-no">les</expan><abbr>ł</abbr></choice>iam</w>
-                    <orgName key="stutzmann_himanis#282689" xml:id="d1e127628">
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e127628" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <w xml:id="w_Fontenay_19763">Fonteneti</w>
                     </orgName>
                     <pc xml:id="pc_Fontenay_2823">.</pc>
@@ -225,7 +226,7 @@
                             <choice><expan ana="ori:align-no">nomin</expan><abbr>noĩ</abbr></choice>e</w>
                         <w xml:id="w_Fontenay_19772">Wibors</w>
                     </persName>
-                    <lb n="6"/>
+                    <lb n="6" />
                     <w xml:id="w_Fontenay_19773">c<choice><expan ana="ori:align-no">um</expan><abbr>ũ</abbr></choice>
                     </w>
                     <w xml:id="w_Fontenay_19774">li<choice><expan ana="ori:align-no">ber</expan><abbr>b̃</abbr></choice>is</w>
@@ -272,7 +273,7 @@
                     <w xml:id="w_Fontenay_19786">et</w>
                     <w xml:id="w_Fontenay_19787">habuerunt</w>
                     <w xml:id="w_Fontenay_19788">pro</w>
-                    <lb n="7"/>
+                    <lb n="7" />
                     <w xml:id="w_Fontenay_19789">laude</w>
                     <w xml:id="w_Fontenay_19790">
                         <g rend="δ">d</g>e</w>
@@ -306,7 +307,7 @@
                     </w>
                     <w xml:id="w_Fontenay_19807">
                         <seg type="wp" xml:id="wp_Fontenay_19807_1">peti</seg>
-                        <lb break="no"/>
+                        <lb break="no" />
                         <seg type="wp" xml:id="wp_Fontenay_19807_2">tionem</seg>
                     </w>
                     <w xml:id="w_Fontenay_19808">
@@ -329,7 +330,7 @@
                     <w xml:id="w_Fontenay_19818">hoc</w>
                     <w xml:id="w_Fontenay_19819">a<hi rend="capitale">n</hi>no</w>
                     <w xml:id="w_Fontenay_19820">ab</w>
-                    <lb n="9"/>
+                    <lb n="9" />
                     <w xml:id="w_Fontenay_19821">incarnatione</w>
                     <w xml:id="w_Fontenay_19822">
                         <g rend="δ">d</g>omini</w>

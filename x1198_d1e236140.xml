@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e236140">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1198_d1e236140" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 174@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -31,41 +32,41 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161529">Gauterius Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161531">Eduensis</placeName>
-                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27378" xml:id="d1e161535">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e161537">Chaaceio</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161529" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161531" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27378" xml:id="d1e161535">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e161537" corresp="Chacey (Côte-d'Or, Montbard)">Chaaceio</placeName>
                     </persName> et <persName key="d1e27384" xml:id="d1e161540">Milo frater
-                        ejus</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161543">Fonteneti</orgName> in perpetuam elemosinam quicquid
-                    juris habebant a <placeName key="stutzmann_himanis#325226" xml:id="d1e161546">via
-                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161548">Siagniaci</placeName>
-                        que apellatur Vaudina</placeName> que ducit in montem versus <placeName key="stutzmann_himanis#324455" xml:id="d1e161553">Fraxinum</placeName> usque ad
-                        <placeName key="stutzmann_himanis#324451" xml:id="d1e161556">Flaciacum</placeName> et
-                        <num>v</num> solidos census quos <orgName key="stutzmann_himanis#282689" xml:id="d1e161562">Fontenetenses</orgName> debebant predictis militibus de
-                    terris <placeName key="stutzmann_himanis#324451" xml:id="d1e161565">Flaciaci</placeName>.
+                        ejus</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161543" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpetuam elemosinam quicquid
+                    juris habebant a <placeName key="stutzmann_himanis#325226" xml:id="d1e161546" corresp="via Saigniaci que appellatur Waudina">via
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161548" corresp="Seigny (Côte-d'Or, Montbard)">Siagniaci</placeName>
+                        que apellatur Vaudina</placeName> que ducit in montem versus <placeName key="stutzmann_himanis#324455" xml:id="d1e161553" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxinum</placeName> usque ad
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e161556" corresp="Flacey (Côte-d'Or, Montbard)">Flaciacum</placeName> et
+                        <num>v</num> solidos census quos <orgName key="stutzmann_himanis#282689" xml:id="d1e161562" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> debebant predictis militibus de
+                    terris <placeName key="stutzmann_himanis#324451" xml:id="d1e161565" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>.
                     De hac autem elemosina predicti milites debitam garantiam portare promiserunt,
                     datis fidejussoribus ex parte <persName key="d1e27390" xml:id="d1e161568">Pontii</persName>
-                    <persName key="d1e27396" xml:id="d1e161571">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161573">Grinione</placeName>
+                    <persName key="d1e27396" xml:id="d1e161571">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161573" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>, <persName key="d1e27403" xml:id="d1e161576">Teobaudo preposito
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161578">Montis
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161578" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                             Barri</placeName>
-                    </persName>, ex parte vero <persName key="d1e27409" xml:id="d1e161581">Milonis</persName> predicto <persName key="d1e27415" xml:id="d1e161584">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161586">Grinione</placeName>
+                    </persName>, ex parte vero <persName key="d1e27409" xml:id="d1e161581">Milonis</persName> predicto <persName key="d1e27415" xml:id="d1e161584">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161586" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName> et <persName key="d1e27421" xml:id="d1e161589">Josberto de
-                            <placeName key="stutzmann_himanis#98140" xml:id="d1e161591">
+                            <placeName key="stutzmann_himanis#98140" xml:id="d1e161591" corresp="Maisey-le-Duc, seigneurie">
                             <foreign>Maise</foreign>
                         </placeName>
                     </persName> militibus. Hoc totum laudaverunt <persName key="d1e27427" xml:id="d1e161595">Renerius</persName> et <persName key="d1e27433" xml:id="d1e161599">Renaudus filii prenominati <persName key="d1e27440" xml:id="d1e161601">Pontii</persName>
-                    </persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e161604">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e161606">Tullionis</placeName>
+                    </persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e161604" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e161606" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <hi rend="background(green)">
-                        <persName key="d1e27446" xml:id="d1e161610">Johannes de <placeName key="stutzmann_himanis#324487" xml:id="d1e161612">Monte Barro</placeName>
-                        </persName>, <persName key="d1e27452" xml:id="d1e161615">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161617">Turre</placeName>
+                        <persName key="d1e27446" xml:id="d1e161610">Johannes de <placeName key="stutzmann_himanis#324487" xml:id="d1e161612" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
+                        </persName>, <persName key="d1e27452" xml:id="d1e161615">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161617" corresp="La Tour de Rougemont">Turre</placeName>
                         </persName>
-                    </hi> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161620">Fonteneti</orgName>, <persName key="d1e27458" xml:id="d1e161623">Willermus
-                        capelanus de <placeName key="stutzmann_himanis#325028" xml:id="d1e161629">Salvesiaco</placeName>
+                    </hi> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161620" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, <persName key="d1e27458" xml:id="d1e161623">Willermus
+                        capelanus de <placeName key="stutzmann_himanis#325028" xml:id="d1e161629" corresp="Savoisy">Salvesiaco</placeName>
                     </persName>, <persName key="d1e27464" xml:id="d1e161632">dominus Bernardus de
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161634">Monte
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161634" corresp="Montbard (Côte-d'Or, Montbard)">Monte
                             Barro</placeName>
                     </persName> et <persName key="d1e27470" xml:id="d1e161638">Renerius de
-                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161640">Saigniaco</placeName>
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161640" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
                     </persName> milites. Quod totum ut ratum sit imperpetuum sigilli mei impressione
                     roboravi. Anno incarnationis dominice <num>m° c°</num> nonagesimo
                         <num>viii°</num>.</p>

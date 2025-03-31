@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e242351">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e242351" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 257@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -29,24 +30,24 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324620" xml:id="d1e165819">Willermus, Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e165821">Lingonensis</placeName> episcopus</persName>, notum facio presentibus
+                <p>Ego <persName key="stutzmann_himanis#324620" xml:id="d1e165819" corresp="Guillaume II de Joinville, évêque de Langres (1210-1219), archevêque de Reims (1219-1226)">Willermus, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e165821" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, notum facio presentibus
                     et futuris quod <persName key="d1e29055" xml:id="d1e165825">Andreas dominus
-                            <placeName key="stutzmann_himanis#324355" xml:id="d1e165827">Rubei
+                            <placeName key="stutzmann_himanis#324355" xml:id="d1e165827" corresp="Rougemont (Côte-d'Or, Montbard)">Rubei
                             Montis</placeName>
                     </persName> in procinctu super provinciales hereticos constitutus dedit et in
-                    perpetuam elemosinam concessit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e165830">Fonteneti</orgName> pro remedio anime et antecessorum
+                    perpetuam elemosinam concessit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e165830" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio anime et antecessorum
                     suorum per totam terram suam usum et aasentias in bosco et in plano et in aquis
                     piscaturas et pasturas et in nemoribus pastiones et foagium et rameam et
                     quicquid pastoribus et pecoribus in eisdem locis necesse fuerint, excepto quod
                     si eorum animalia in pratis vel bladis dampnum fecerint sine alia emenda
                     capitale totum restituent. Laudavit etiam idem <persName key="d1e29061" xml:id="d1e165833">A.</persName> omnes elemosinas a predecessoribus suis
-                    eidem ecclesie factas et elemosinam quam <persName key="d1e29068" xml:id="d1e165836">Hugo <placeName key="stutzmann_himanis#325251" xml:id="d1e165838">
+                    eidem ecclesie factas et elemosinam quam <persName key="d1e29068" xml:id="d1e165836">Hugo <placeName key="stutzmann_himanis#325251" xml:id="d1e165838" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Curebois</foreign>
                         </placeName>
-                    </persName> de quadam domo que est apud <placeName key="stutzmann_himanis#324355" xml:id="d1e165843">Rubeum Montem</placeName> eidem ecclesie fecit et plateam
-                    que est juxta eamdem domum quam <persName key="d1e29074" xml:id="d1e165846">Guido de <placeName key="stutzmann_himanis#324932" xml:id="d1e165848">Anceio</placeName>
-                    </persName> predicte ecclesie dedit. Item donavit predicte ecclesie <persName key="d1e29080" xml:id="d1e165851">Guidonem de <placeName key="stutzmann_himanis#325038" xml:id="d1e165853">
+                    </persName> de quadam domo que est apud <placeName key="stutzmann_himanis#324355" xml:id="d1e165843" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeum Montem</placeName> eidem ecclesie fecit et plateam
+                    que est juxta eamdem domum quam <persName key="d1e29074" xml:id="d1e165846">Guido de <placeName key="stutzmann_himanis#324932" xml:id="d1e165848" corresp="Anceio">Anceio</placeName>
+                    </persName> predicte ecclesie dedit. Item donavit predicte ecclesie <persName key="d1e29080" xml:id="d1e165851">Guidonem de <placeName key="stutzmann_himanis#325038" xml:id="d1e165853" corresp="Valchat">
                             <foreign>Valchat</foreign>
                         </placeName>
                     </persName> cum heredibus et omnibus tenamentis suis et promist eumdem garantire

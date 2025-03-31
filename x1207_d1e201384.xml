@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1207_d1e201384">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1207_d1e201384" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1865</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -80,44 +81,44 @@
                     <date type="documentCreation" when="1207-12-31">1207</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="d1e13176" xml:id="d1e136410">Guido, <orgName key="stutzmann_himanis#284141" xml:id="d1e136412">Sancti Michaelis</orgName>
+                                        <p>Ego <persName key="d1e13176" xml:id="d1e136410">Guido, <orgName key="stutzmann_himanis#284141" xml:id="d1e136412" corresp="abbaye Saint-Michel de Tonnerre (800 -)">Sancti Michaelis</orgName>
                             divina miseratione dictus abbas</persName>, omnibus notum facio
-                        presentibus pariter et futuris quod <lb n="2"/>
+                        presentibus pariter et futuris quod <lb n="2" />
                         <persName key="d1e13182" xml:id="d1e136417">
                             <foreign>Aalaiz</foreign>
-                        </persName>, uxor defuncti <persName key="d1e13188" xml:id="d1e136421">Gauterii de <placeName key="stutzmann_himanis#324903" xml:id="d1e136423">
+                        </persName>, uxor defuncti <persName key="d1e13188" xml:id="d1e136421">Gauterii de <placeName key="stutzmann_himanis#324903" xml:id="d1e136423" corresp="Porroy (Le) (Côte-d'Or, Semur-en-Auxois)">
                                 <foreign>Porray</foreign>
                             </placeName>
                         </persName>, in presentia nostra dedit in perpetuam elemosinam ecclesie
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e136427">Fonteneti</orgName>
-                        <lb n="3"/> ad usum omnium animalium et peccorum suorum quicquid habebat in
-                        pasturis <placeName key="stutzmann_himanis#324466" xml:id="d1e136432">Lanie</placeName> et <placeName key="stutzmann_himanis#325303" xml:id="d1e136435">Jarceii</placeName> et <placeName key="stutzmann_himanis#324937" xml:id="d1e136438">Longi Boschi</placeName>, viam etiam <lb n="4"/>
-                        carralem a <placeName key="stutzmann_himanis#101036" xml:id="d1e136443">Sansueriis</placeName> usque ad <placeName key="stutzmann_himanis#324452" xml:id="d1e136446">Fontanas</placeName>, et omnes <choice>
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e136427" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        <lb n="3" /> ad usum omnium animalium et peccorum suorum quicquid habebat in
+                        pasturis <placeName key="stutzmann_himanis#324466" xml:id="d1e136432" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lanie</placeName> et <placeName key="stutzmann_himanis#325303" xml:id="d1e136435" corresp="Jarce">Jarceii</placeName> et <placeName key="stutzmann_himanis#324937" xml:id="d1e136438" corresp="Longi Boschi">Longi Boschi</placeName>, viam etiam <lb n="4" />
+                        carralem a <placeName key="stutzmann_himanis#101036" xml:id="d1e136443" corresp="Sancerre (Cher, Bourges, Sancerre)">Sansueriis</placeName> usque ad <placeName key="stutzmann_himanis#324452" xml:id="d1e136446" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanas</placeName>, et omnes <choice>
                             <sic>queleras</sic>
                             <corr>querelas</corr>
-                        </choice> quas adversus eandem domum habebat, bona fide <lb n="5"/>
+                        </choice> quas adversus eandem domum habebat, bona fide <lb n="5" />
                         guerpivit et inde garantiam portabit, laudavit etiam elemosinam quam
-                            <persName key="d1e13194" xml:id="d1e136458">Pontius <placeName key="stutzmann_himanis#324449" xml:id="d1e136460">
+                            <persName key="d1e13194" xml:id="d1e136458">Pontius <placeName key="stutzmann_himanis#324449" xml:id="d1e136460" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>d’Estorni</foreign>
                             </placeName>
-                        </persName> pater suus predicte ecclesie <lb n="6"/> fecerat in eisdem
-                        pasturis et finagiis, et inde habuit de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136466">Fonteneti</orgName> .XI. libras
-                        provinensium. Similiter <lb n="7"/> hoc laudavit <persName key="d1e13200" xml:id="d1e136472">Renaudus</persName> filius ejus et <persName key="d1e13206" xml:id="d1e136475">Adelina</persName> filia ejus. Sed et
+                        </persName> pater suus predicte ecclesie <lb n="6" /> fecerat in eisdem
+                        pasturis et finagiis, et inde habuit de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136466" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> .XI. libras
+                        provinensium. Similiter <lb n="7" /> hoc laudavit <persName key="d1e13200" xml:id="d1e136472">Renaudus</persName> filius ejus et <persName key="d1e13206" xml:id="d1e136475">Adelina</persName> filia ejus. Sed et
                             <persName key="d1e13213" xml:id="d1e136478">Pontius</persName> predictus
-                        pater ejus, de cujus feodo erat, similiter <lb n="8"/> hoc laudavit et inde
+                        pater ejus, de cujus feodo erat, similiter <lb n="8" /> hoc laudavit et inde
                         centum solidos habuit. Et ut hoc ratum permaneat presens sciptum sigilli mei
-                            <lb n="9"/> impressione roboravi. Actum anno incarnati Verbi millesimo
+                            <lb n="9" /> impressione roboravi. Actum anno incarnati Verbi millesimo
                             .CC<hi rend="superscript">mo</hi>. VII.</p>
                 
             </body>

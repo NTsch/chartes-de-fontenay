@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e242018">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e242018" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 251@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -27,25 +28,25 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165614">Haymo, archidiaconus
-                            <placeName key="stutzmann_himanis#322865" xml:id="d1e165616">Flaviacensis</placeName>
-                    </persName>, notum facio presentibus et futuris quod <persName key="d1e29006" xml:id="d1e165619">Robertus prepositus <placeName key="stutzmann_himanis#324459" xml:id="d1e165621">Grinionis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165614" corresp="Aimon, archidiacre de Flavigny">Haymo, archidiaconus
+                            <placeName key="stutzmann_himanis#322865" xml:id="d1e165616" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviacensis</placeName>
+                    </persName>, notum facio presentibus et futuris quod <persName key="d1e29006" xml:id="d1e165619">Robertus prepositus <placeName key="stutzmann_himanis#324459" xml:id="d1e165621" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
                     </persName>, laude et assensu <persName key="d1e29012" xml:id="d1e165624">uxoris
                         sue Marie</persName> et filiarum suarum <persName key="d1e29018" xml:id="d1e165627">
                         <foreign>Alaysim</foreign>
                     </persName> et <persName key="d1e29024" xml:id="d1e165631">Marie</persName>,
-                    dedit et concessit in perpetuam elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165635">Fonteneti</orgName> quicquid habebat
-                    in vineis que parciebantur cum <persName key="d1e29031" xml:id="d1e165638">magistro Odone, fratre suo</persName>, de <placeName key="stutzmann_himanis#324487" xml:id="d1e165641">
+                    dedit et concessit in perpetuam elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165635" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid habebat
+                    in vineis que parciebantur cum <persName key="d1e29031" xml:id="d1e165638">magistro Odone, fratre suo</persName>, de <placeName key="stutzmann_himanis#324487" xml:id="d1e165641" corresp="Montbard (Côte-d'Or, Montbard)">
                         <foreign>Monbar</foreign>
-                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e165645">
+                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e165645" corresp="Corbeton (Côte-d'Or, Montbard)">
                         <foreign>Corbetum</foreign>
-                    </placeName>. Cujus r<hi rend="background(red)">e</hi>i testes sunt <persName key="d1e29037" xml:id="d1e165652">Odo monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e165654">Fonteneto</orgName>
+                    </placeName>. Cujus r<hi rend="background(red)">e</hi>i testes sunt <persName key="d1e29037" xml:id="d1e165652">Odo monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e165654" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
                     </persName>, <persName key="d1e29043" xml:id="d1e165658">Willermus capellanus de
-                            <placeName key="stutzmann_himanis#324905" xml:id="d1e165660">
+                            <placeName key="stutzmann_himanis#324905" xml:id="d1e165660" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaace</foreign>
                         </placeName>
                     </persName>, <persName key="d1e29049" xml:id="d1e165664">Petrus castellanus de
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e165666">Grinione</placeName>
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e165666" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName>. Et ut ratum permaneat presens scriptum sigillo meo roboravi. Actum
                     est hoc anno incarnati verbi <num>m° cc° ix°</num>.</p>
             </body>

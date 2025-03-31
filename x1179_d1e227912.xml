@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1179_d1e227912">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1179_d1e227912" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 80@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -34,56 +35,56 @@
         <text>
             <body>
                 <p>E<supplied>go </supplied>
-                    <persName key="stutzmann_himanis#324645" xml:id="d1e155674">
-                        <supplied>Ste</supplied>phanus, Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e155678">Eduensis</placeName> episcopus</persName>, et ego
-                        <persName key="stutzmann_himanis#324566" xml:id="d1e155682">Gauterus, eadem Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155684">Lingonensis</placeName> episcopus</persName>, notum fieri volumus
-                    presentibus et futuris quod <persName key="d1e24331" xml:id="d1e155688">Teobaudus de <placeName key="stutzmann_himanis#324403" xml:id="d1e155690">Barro</placeName>
-                    </persName> laudavit et concessit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155693">Fonteneti</orgName> elemosinam quam eidem ecclesie
+                    <persName key="stutzmann_himanis#324645" xml:id="d1e155674" corresp="Étienne II, évêque d'Autun (1171-1189)">
+                        <supplied>Ste</supplied>phanus, Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e155678" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, et ego
+                        <persName key="stutzmann_himanis#324566" xml:id="d1e155682" corresp="Gauthier de Bourgogne, évêque de Langres (1163-1179)">Gauterus, eadem Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155684" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, notum fieri volumus
+                    presentibus et futuris quod <persName key="d1e24331" xml:id="d1e155688">Teobaudus de <placeName key="stutzmann_himanis#324403" xml:id="d1e155690" corresp="Bar-sur-Seine (Aube, Bar-sur-Seine)">Barro</placeName>
+                    </persName> laudavit et concessit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155693" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> elemosinam quam eidem ecclesie
                     fecerat <persName key="d1e24337" xml:id="d1e155696">Johannes dominus de
                             <placeName key="stutzmann_himanis#325025" xml:id="d1e155698">Sarmasia</placeName>
                     </persName> cujus filiam in matrimonio idem <persName key="d1e24343" xml:id="d1e155702">Teobaudus</persName> habebat. Ipse namque <persName key="d1e24350" xml:id="d1e155705">Johannes</persName> dedit in elemosinam
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155708">Fonteneti</orgName>
-                    quicquid juris habebat in decima de <placeName key="stutzmann_himanis#324449" xml:id="d1e155711">
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155708" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    quicquid juris habebat in decima de <placeName key="stutzmann_himanis#324449" xml:id="d1e155711" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
-                    </placeName>. Concessit etiam <orgName key="stutzmann_himanis#282689" xml:id="d1e155715">Fontenetensibus</orgName> ut quocumque modo possent ipsam decimam
+                    </placeName>. Concessit etiam <orgName key="stutzmann_himanis#282689" xml:id="d1e155715" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> ut quocumque modo possent ipsam decimam
                     adquirerent ab hominibus suis qui eam ab illo tenere dicebantur in chasamento.
                     Hanc elemosinam et hanc concessionem <persName key="d1e24356" xml:id="d1e155718">domini Jo<supplied>hannis</supplied>
                     </persName>
                     <persName key="d1e24362" xml:id="d1e155723">dominus Teobaudus</persName>
-                    laudavit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155726">Fonteneti</orgName> sicut dictum est. <supplied>Co</supplied>ncessit
-                    similiter <orgName key="stutzmann_himanis#282689" xml:id="d1e155732">Fontenetensibus</orgName> ut quocumque modo po<supplied>ss</supplied>ent
-                    casamentum suum de <placeName key="stutzmann_himanis#324449" xml:id="d1e155738">
+                    laudavit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e155726" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> sicut dictum est. <supplied>Co</supplied>ncessit
+                    similiter <orgName key="stutzmann_himanis#282689" xml:id="d1e155732" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> ut quocumque modo po<supplied>ss</supplied>ent
+                    casamentum suum de <placeName key="stutzmann_himanis#324449" xml:id="d1e155738" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormer</foreign>
                     </placeName> adquirerent. Hujus rei testes sunt Odo
                         archi<supplied>presbiter</supplied>
-                    <gap/>
-                    <persName key="d1e24368" xml:id="d1e155746">Robertus de <placeName key="stutzmann_himanis#324352" xml:id="d1e155748">
+                    <gap />
+                    <persName key="d1e24368" xml:id="d1e155746">Robertus de <placeName key="stutzmann_himanis#324352" xml:id="d1e155748" corresp="Recey-sur-Ource (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Rice</foreign>
                         </placeName>
                     </persName>, <persName key="d1e24374" xml:id="d1e155752">Si[…] nepotes
                         ipsius</persName>, <persName key="d1e24380" xml:id="d1e155755">Wil[…]</persName>
-                    <gap/> et eamdem elemosinam sin<gap/> di <persName key="d1e24387" xml:id="d1e155762">Margarita</persName>. Unde sunt testes <gap/>
+                    <gap /> et eamdem elemosinam sin<gap /> di <persName key="d1e24387" xml:id="d1e155762">Margarita</persName>. Unde sunt testes <gap />
                     <persName key="d1e24393" xml:id="d1e155766">
-                        <gap/>
+                        <gap />
                         <addName>
                             <foreign>Brachegenolle</foreign>
                         </addName>
-                    </persName>, <persName key="d1e24399" xml:id="d1e155772">Hugo <placeName key="stutzmann_himanis#325251" xml:id="d1e155774">
+                    </persName>, <persName key="d1e24399" xml:id="d1e155772">Hugo <placeName key="stutzmann_himanis#325251" xml:id="d1e155774" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Curebois</foreign>
                         </placeName>
                     </persName>
-                    <gap/> et <persName key="d1e24405" xml:id="d1e155779">Robertus cognatus
+                    <gap /> et <persName key="d1e24405" xml:id="d1e155779">Robertus cognatus
                         ejus</persName>, <persName key="d1e24411" xml:id="d1e155782">Silvester
-                        prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e155784">
+                        prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e155784" corresp="Cruse">
                             <foreign>Cruse</foreign>
                         </placeName>
                     </persName> et <persName key="d1e24417" xml:id="d1e155789">Milo sororius
                         ejus</persName>. Et nos hec omnia sigillorum nostrorum impressione munientes
                     episcopali auctoritate prohibemus ne quisquam de hiis ulterius ecclesiam
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e155792">Fonteneti</orgName> gravare
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e155792" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> gravare
                     presumat. Qui autem hiis contraire presumpser<supplied>it</supplied> anathema
-                    sit donec resipiscat. Anno Domini <num>m° c° lxx<gap/>°</num>. </p>
+                    sit donec resipiscat. Anno Domini <num>m° c° lxx<gap />°</num>. </p>
             </body>
         </text>
     </TEI>

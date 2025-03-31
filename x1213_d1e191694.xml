@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e191694">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e191694" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 267</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -90,32 +91,32 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_120_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_120_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>  <p>Ego <persName key="d1e11551" xml:id="d1e130023">Martinus, archidiaconus
-                                <placeName key="stutzmann_himanis#322865" xml:id="d1e130025">Flaviniaci</placeName>
-                        </persName>, notum facio omnibus presentes litteras inspecturis <lb n="2"/>
+                                <placeName key="stutzmann_himanis#322865" xml:id="d1e130025" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaci</placeName>
+                        </persName>, notum facio omnibus presentes litteras inspecturis <lb n="2" />
                         quod cum <persName key="d1e11557" xml:id="d1e130030">Renerius, miles de
-                                <placeName key="stutzmann_himanis#324439" xml:id="d1e130032">Darceio</placeName>
-                        </persName>, coram me traheret in causam fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e130035">Fontenetenses</orgName>
-                        <lb n="3"/> super campo qui dicitur <q>
-                            <placeName key="stutzmann_himanis#325112" xml:id="d1e130040">de Fossa</placeName>
-                        </q> et quibusdam aliis possessionibus, idem Fontenetenses res<lb n="4" break="no"/>ponderunt se per triginta annos et amplius res petitas
-                        legitime possedisse et honus <lb n="5"/> hujusmodi probationis sibi
-                        assumpserunt. Die autem ad hoc assignata exhibuerunt <lb n="6"/>
-                        instrumentum <persName key="stutzmann_himanis#324645" xml:id="d1e130050">venerabilis
-                            patris Stephani <placeName key="stutzmann_himanis#319548" xml:id="d1e130052">Eduensis</placeName> episcopi</persName> per quod evidenter patuit
-                        ipsos <lb n="7"/> res deductas in judicium datas in elemosinam de laude et
-                        assensu dicti militis <lb n="8"/> per triginta et novem annos possedisse.
-                        Tandem auditis ab utraque parte propositis, ser<lb n="9" break="no"/>vato
+                                <placeName key="stutzmann_himanis#324439" xml:id="d1e130032" corresp="Darcey (Côte-d'Or, Montbard)">Darceio</placeName>
+                        </persName>, coram me traheret in causam fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e130035" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
+                        <lb n="3" /> super campo qui dicitur <q>
+                            <placeName key="stutzmann_himanis#325112" xml:id="d1e130040" corresp="de Fossa">de Fossa</placeName>
+                        </q> et quibusdam aliis possessionibus, idem Fontenetenses res<lb n="4" break="no" />ponderunt se per triginta annos et amplius res petitas
+                        legitime possedisse et honus <lb n="5" /> hujusmodi probationis sibi
+                        assumpserunt. Die autem ad hoc assignata exhibuerunt <lb n="6" />
+                        instrumentum <persName key="stutzmann_himanis#324645" xml:id="d1e130050" corresp="Étienne II, évêque d'Autun (1171-1189)">venerabilis
+                            patris Stephani <placeName key="stutzmann_himanis#319548" xml:id="d1e130052" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopi</persName> per quod evidenter patuit
+                        ipsos <lb n="7" /> res deductas in judicium datas in elemosinam de laude et
+                        assensu dicti militis <lb n="8" /> per triginta et novem annos possedisse.
+                        Tandem auditis ab utraque parte propositis, ser<lb n="9" break="no" />vato
                         juris ordine de prudentium virorum consilio, dictos fratres ab impe<subst>
                             <del>d</del>
                             <add>ti</add>
-                        </subst>tione <lb n="10"/> dicti militis per diffinitivam sententiam absolvi
-                        eidem super premissis perpetuum silen<lb n="11" break="no"/>tium imponendo.
-                        In cujus rei testimonium presenti scripto sigilli mei apposui fir<lb n="12" break="no"/>mamentum. Actum anno gratie milesimo ducentesimo
+                        </subst>tione <lb n="10" /> dicti militis per diffinitivam sententiam absolvi
+                        eidem super premissis perpetuum silen<lb n="11" break="no" />tium imponendo.
+                        In cujus rei testimonium presenti scripto sigilli mei apposui fir<lb n="12" break="no" />mamentum. Actum anno gratie milesimo ducentesimo
                         terciodecimo.</p>
                 
             </body>

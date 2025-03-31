@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e244787">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e244787" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 283@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,13 +36,13 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167528">Galterus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167530">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167528" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167530" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis præsentem paginam inspecturis notum facimus
                     quod <persName key="d1e29493" xml:id="d1e167534">Galterus</persName> et
-                        <persName key="d1e29499" xml:id="d1e167537">Simon, milites de <placeName key="stutzmann_himanis#324487" xml:id="d1e167539">Monte Barro</placeName>
-                    </persName>, vendiderunt fratribus ecclesiæ sanctæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167542">Fonteneti</orgName> libere et
-                    absolute partem suam decimarum de <placeName key="stutzmann_himanis#324356" xml:id="d1e167545">
+                        <persName key="d1e29499" xml:id="d1e167537">Simon, milites de <placeName key="stutzmann_himanis#324487" xml:id="d1e167539" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
+                    </persName>, vendiderunt fratribus ecclesiæ sanctæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167542" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> libere et
+                    absolute partem suam decimarum de <placeName key="stutzmann_himanis#324356" xml:id="d1e167545" corresp="Seigny (Côte-d'Or, Montbard)">
                         <foreign>Saigne</foreign>
                     </placeName>, tam bladi quam vini, pro quinquaginta libris proviniensis monetæ.
                     Quam venditionem laudavit <persName key="d1e29505" xml:id="d1e167550">uxor dicti
@@ -54,7 +55,7 @@
                         <persName key="d1e29579" xml:id="d1e167589">Galteri</persName> scilicet et
                         <persName key="d1e29586" xml:id="d1e167592">Simonis</persName>, præsentem
                     paginam sigillo nostro fecimus roborari. Actum anno ab incarnatione Domini
-                    millesimo ducentesimo terciodecimo, mense decembri, apud <placeName key="stutzmann_himanis#324453" xml:id="d1e167596">Fontenetum</placeName>.</p>
+                    millesimo ducentesimo terciodecimo, mense decembri, apud <placeName key="stutzmann_himanis#324453" xml:id="d1e167596" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName>.</p>
             </body>
         </text>
     </TEI>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1164_d1e224289">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1164_d1e224289" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 46@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,11 +37,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>Domino ac patri spirituali <persName key="stutzmann_himanis#324588" xml:id="d1e153056">H.
-                        Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e153058">Eduensi</placeName> episcopo</persName>, <persName key="d1e23141" xml:id="d1e153062">B. eadem gratia cenobii <orgName key="stutzmann_himanis#284103" xml:id="d1e153064">Sancti Martini Eduensis</orgName> abbas</persName>
+                <p>Domino ac patri spirituali <persName key="stutzmann_himanis#324588" xml:id="d1e153056" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">H.
+                        Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e153058" corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName> episcopo</persName>, <persName key="d1e23141" xml:id="d1e153062">B. eadem gratia cenobii <orgName key="stutzmann_himanis#284103" xml:id="d1e153064" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancti Martini Eduensis</orgName> abbas</persName>
                     conventusque sibi commissus cum debita subjectione salutem. Discretioni vestre,
-                    pater reverende, notificamus territorium de <placeName key="stutzmann_himanis#325285" xml:id="d1e153068">Fragniaco</placeName> viris <orgName key="stutzmann_himanis#284103" xml:id="d1e153071">beati Martini</orgName> esse et quod in eo monachi
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e153074">Fonteneti</orgName> habere
+                    pater reverende, notificamus territorium de <placeName key="stutzmann_himanis#325285" xml:id="d1e153068" corresp="Fragniaco">Fragniaco</placeName> viris <orgName key="stutzmann_himanis#284103" xml:id="d1e153071" corresp="abbaye Saint-Martin d'Autun (599 -)">beati Martini</orgName> esse et quod in eo monachi
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e153074" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> habere
                     videntur de nobis tenent. In curia etiam vestra ad diem et locum oportunum
                     contra <persName key="d1e1990" xml:id="d1e153078">Obertum de <placeName key="stutzmann_himanis#325034" xml:id="d1e153080">Tilio</placeName>
                     </persName> vel alium quemlibet calumpniatorem garentiam eis portabimus. Nos

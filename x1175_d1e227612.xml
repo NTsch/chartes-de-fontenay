@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1175_d1e227612">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1175_d1e227612" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 72[bis]@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -45,15 +46,15 @@
         </teiHeader>
         <text>
             <body>
-                <p>Noverint tam presentes quam futuri quod sanctimoniales de <orgName key="stutzmann_himanis#281651" xml:id="d1e155456">Juliaco</orgName> terram aratoriam
-                    et pratum quoddam et pasturam per totum finagium a <persName key="d1e24251" xml:id="d1e155459">Wiardo de <placeName key="stutzmann_himanis#325023" xml:id="d1e155461">Saneveto</placeName>
+                <p>Noverint tam presentes quam futuri quod sanctimoniales de <orgName key="stutzmann_himanis#281651" xml:id="d1e155456" corresp="prieuré Notre-Dame de Jully">Juliaco</orgName> terram aratoriam
+                    et pratum quoddam et pasturam per totum finagium a <persName key="d1e24251" xml:id="d1e155459">Wiardo de <placeName key="stutzmann_himanis#325023" xml:id="d1e155461" corresp="Saneveto">Saneveto</placeName>
                     </persName> et <persName key="d1e24257" xml:id="d1e155464">Johanne <hi rend="background(red)">fratre</hi> ejus</persName> in vadimonium pro
                         LX<hi rend="superscript">ta</hi> et XI libris et X s. fortioris monete
                     susceperint. Sciendum preterea quod idem <persName key="d1e24263" xml:id="d1e155473">.W.</persName> redditus omnes a predicto vadimonio
                     procedentes prefatis sanctimonialibus ne <add corresp="#B">ab</add> aliquo inde
                     injuriam paterentur pro remedio anime sue, laude et assensu <persName key="d1e24269" xml:id="d1e155480">Helvidis</persName> uxoris sue et filiorum
                     suorum et etiam <persName key="d1e24276" xml:id="d1e155483">Dodonis de
-                            <placeName key="stutzmann_himanis#325276" xml:id="d1e155485">Floniaco</placeName>
+                            <placeName key="stutzmann_himanis#325276" xml:id="d1e155485" corresp="Floniaco">Floniaco</placeName>
                     </persName> de cujus casamento pendebat, habendos concessit, eo videlicet pacto
                     quod prenominatus <persName key="d1e24282" xml:id="d1e155492">.W.</persName> vel
                     heres ejus in supradictam terram nichil clamaret, donec universum debitum
@@ -63,12 +64,12 @@
                         <corr>Nivernensis</corr>
                     </choice> comes, ut ratum et inconcussum in perpetuum haberetur, quod ante me et
                     per manum meam factum et concessum est, inpressione sigilli mei roborare
-                    decrevi. Hujus rei testes sunt : <persName key="d1e24288" xml:id="d1e155501">Garnerius de <placeName key="stutzmann_himanis#325035" xml:id="d1e155503">Triangulo</placeName>
-                    </persName>, <persName key="d1e24294" xml:id="d1e155507">Teobaudus de <placeName key="stutzmann_himanis#324403" xml:id="d1e155509">Barro</placeName>
+                    decrevi. Hujus rei testes sunt : <persName key="d1e24288" xml:id="d1e155501">Garnerius de <placeName key="stutzmann_himanis#325035" xml:id="d1e155503" corresp="Triangulo">Triangulo</placeName>
+                    </persName>, <persName key="d1e24294" xml:id="d1e155507">Teobaudus de <placeName key="stutzmann_himanis#324403" xml:id="d1e155509" corresp="Bar-sur-Seine (Aube, Bar-sur-Seine)">Barro</placeName>
                     </persName>, <persName key="d1e24300" xml:id="d1e155512">Claranballus de
-                            <placeName key="stutzmann_himanis#325143" xml:id="d1e155514">Capis</placeName>
-                    </persName>, <persName key="d1e24306" xml:id="d1e155517">Hugo de <placeName key="stutzmann_himanis#324468" xml:id="d1e155519">Argenteolo</placeName>
-                    </persName>, <persName key="d1e24313" xml:id="d1e155522">Furnerius de <placeName key="stutzmann_himanis#324441" xml:id="d1e155524">Droia</placeName>
+                            <placeName key="stutzmann_himanis#325143" xml:id="d1e155514" corresp="Capis">Capis</placeName>
+                    </persName>, <persName key="d1e24306" xml:id="d1e155517">Hugo de <placeName key="stutzmann_himanis#324468" xml:id="d1e155519" corresp="Argenteuil-sur-Armançon (Yonne, Tonnerrois)">Argenteolo</placeName>
+                    </persName>, <persName key="d1e24313" xml:id="d1e155522">Furnerius de <placeName key="stutzmann_himanis#324441" xml:id="d1e155524" corresp="Drée (Côte-d'Or, Talant)">Droia</placeName>
                     </persName>.</p>
             </body>
         </text>

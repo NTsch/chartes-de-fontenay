@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1147_d1e215004">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1147_d1e215004" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 17@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -45,30 +46,30 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324654" xml:id="d1e145757">Humbertus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145759">Eduensis</placeName>
-                        episcopus</persName>, dilecto sibi in Christo fratri <persName key="d1e17202" xml:id="d1e145763">Willermo abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e145765">Fonteneti</orgName>
+                    <persName key="stutzmann_himanis#324654" xml:id="d1e145757" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145759" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, dilecto sibi in Christo fratri <persName key="d1e17202" xml:id="d1e145763">Willermo abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e145765" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     </persName> ejusque successoribus regulariter substituendis in perpetuum.
                     Desiderium quod ad religionis propositum <supplied>dinosci</supplied>tur
                     inminere auctore Deo celi effectu prosequendum est. Quocirca dilecte in Domino
                     frater tuis tuorumque fratrum postulationibus annuentes ad amplificationem
-                    abbatie cui Deo dispensante presides ecclesiam <placeName key="stutzmann_himanis#325264" xml:id="d1e145771">Curcellarum</placeName> eidem abbatie possidendam
+                    abbatie cui Deo dispensante presides ecclesiam <placeName key="stutzmann_himanis#325264" xml:id="d1e145771" corresp="Curcellarum">Curcellarum</placeName> eidem abbatie possidendam
                     donamus. Non solum autem verum etiam cuicumque de congregationalibus ecclesiis
                     nostri episcopatus predicta abbatia prenominatam ecclesiam contradere voluerit
-                    hoc idem donum facimus. Actum est hoc <placeName key="stutzmann_himanis#319548" xml:id="d1e145774">Edue</placeName> in presentia canonicorum assistentibus
+                    hoc idem donum facimus. Actum est hoc <placeName key="stutzmann_himanis#319548" xml:id="d1e145774" corresp="Autun (Saône-et-Loire, Autun)">Edue</placeName> in presentia canonicorum assistentibus
                     et laudantibus personis <persName key="d1e17209" xml:id="d1e145777">Willermo
                         decano</persName>, <persName key="d1e17215" xml:id="d1e145781">Girardo
                         preposito</persName>, <persName key="d1e17221" xml:id="d1e145784">Walterio
                         cantore</persName>, <persName key="d1e17227" xml:id="d1e145787">Gaufrido</persName>, <persName key="d1e17233" xml:id="d1e145790">Seguino</persName>, <persName key="d1e17239" xml:id="d1e145793">Humberto
                         archidiaconibus</persName>. Nam dominus <persName key="d1e17246" xml:id="d1e145796">Henricus archidiaconus</persName> in cujus archidiaconatu
-                    jamdicta ecclesia <placeName key="stutzmann_himanis#325264" xml:id="d1e145800">Curcellarum</placeName> sita est hoc postea laudavit apud <placeName key="stutzmann_himanis#324366" xml:id="d1e145803">Sedelocum</placeName> in presentia
-                    nostri et <persName key="stutzmann_himanis#324672" xml:id="d1e145806">Oberti prioris
-                            <orgName key="stutzmann_himanis#281890" xml:id="d1e145808">Sancti
+                    jamdicta ecclesia <placeName key="stutzmann_himanis#325264" xml:id="d1e145800" corresp="Curcellarum">Curcellarum</placeName> sita est hoc postea laudavit apud <placeName key="stutzmann_himanis#324366" xml:id="d1e145803" corresp="Saulieu (Côte-d'Or, Semur-en-Auxois)">Sedelocum</placeName> in presentia
+                    nostri et <persName key="stutzmann_himanis#324672" xml:id="d1e145806" corresp="Obert, prieur de Saint-Symphorien (av.1139-av.1151)">Oberti prioris
+                            <orgName key="stutzmann_himanis#281890" xml:id="d1e145808" corresp="prieuré Saint-Symphorien d'Autun (1001 -)">Sancti
                             Symphoriani</orgName>
-                    </persName> et <persName key="d1e17252" xml:id="d1e145811">Johannis <orgName key="stutzmann_himanis#324497" xml:id="d1e145813">Sancte Margarite</orgName>
+                    </persName> et <persName key="d1e17252" xml:id="d1e145811">Johannis <orgName key="stutzmann_himanis#324497" xml:id="d1e145813" corresp="abbaye Sainte-Marguerite">Sancte Margarite</orgName>
                         regularis canonici</persName> anno ab incarnatione domini <hi rend="smallcaps">m° c° xl° vii°</hi>, regnante <persName key="d1e17258" xml:id="d1e145820">Ludovico rege</persName>, <persName key="d1e17264" xml:id="d1e145824">Odone duce Burgundie</persName>. Actum est hoc totum et
-                    ego <persName key="stutzmann_himanis#324654" xml:id="d1e145827">Humbertus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145829">Eduensis</placeName>
+                    ego <persName key="stutzmann_himanis#324654" xml:id="d1e145827" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145829" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName> ad perpetuandam hujus rei memoriam sigilum nostre
                     auctoritatis appono.</p>
             </body>

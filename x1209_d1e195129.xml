@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e195129">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e195129" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 511</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,37 +79,37 @@
                     <date type="documentCreation" when="1209-01">1209, janvier [n. st.]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0006.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0006.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0007.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 <p>
-                        <persName key="stutzmann_himanis#324642" xml:id="d1e132300">Willermus, Dei gratia
-                                <orgName key="stutzmann_himanis#290942" xml:id="d1e132302">Autisiodorensis</orgName> episcopus</persName>, omnibus tam
+                        <persName key="stutzmann_himanis#324642" xml:id="d1e132300" corresp="Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de Paris (1220-1223)">Willermus, Dei gratia
+                                <orgName key="stutzmann_himanis#290942" xml:id="d1e132302" corresp="Auxerre (diocèse) ( - 1790)">Autisiodorensis</orgName> episcopus</persName>, omnibus tam
                         presentibus quam futuris presentes literas inspecturis in Domino salutem.
-                            <lb n="2"/> Universitatem vestram scire volumus quod cum inter
-                        venerabiles viros abbatem et monachos de <orgName key="stutzmann_himanis#282689" xml:id="d1e132308">Fonteneto</orgName>, Cisterciensis ordinis, <lb n="3"/> ex una parte et dilectos filios canonicos capelle nostre <orgName key="stutzmann_himanis#290942" xml:id="d1e132313">Autisiodorensis</orgName> super
-                        quadam terra que est apud <placeName key="stutzmann_himanis#97612" xml:id="d1e132316">Augiacum</placeName> que fuit <lb n="4"/>
+                            <lb n="2" /> Universitatem vestram scire volumus quod cum inter
+                        venerabiles viros abbatem et monachos de <orgName key="stutzmann_himanis#282689" xml:id="d1e132308" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, Cisterciensis ordinis, <lb n="3" /> ex una parte et dilectos filios canonicos capelle nostre <orgName key="stutzmann_himanis#290942" xml:id="d1e132313" corresp="Auxerre (diocèse) ( - 1790)">Autisiodorensis</orgName> super
+                        quadam terra que est apud <placeName key="stutzmann_himanis#97612" xml:id="d1e132316" corresp="Augy (Yonne, Auxerre)">Augiacum</placeName> que fuit <lb n="4" />
                         <persName key="d1e12004" xml:id="d1e132321">Stephani
                                 <addName>Mercatoris</addName>
                         </persName> controversia verteretur, tamdem communi assensu partes se nostre
-                        penitus et precise exposuerunt voluntati, <lb n="5"/> quicquid per nos super
+                        penitus et precise exposuerunt voluntati, <lb n="5" /> quicquid per nos super
                         premisso negocio ordinatum fuisset sive magnum sive modicum ratum
-                            <sic>habituri</sic>. Memoratus <lb n="6"/> igitur abbas et monachi pro
+                            <sic>habituri</sic>. Memoratus <lb n="6" /> igitur abbas et monachi pro
                         bono pacis ad dictum nostrum pensata utriusque partis utilitate prefatis
-                        capelle nostre <lb n="7"/> canonicis <hi rend="smallcaps">xl</hi> libras
+                        capelle nostre <lb n="7" /> canonicis <hi rend="smallcaps">xl</hi> libras
                         pruvin[ensium] ad redditus eme<supplied>n</supplied>dos dederunt et canonici
-                        terram super qua controversia vertebatur omnino et in perpetu<lb n="8" break="no"/>um quitaverunt, promittentes quod nunquam deinceps super
-                        predicta terra eos molestarent nec permitterent, quantum in eis est, <lb n="9"/> molestari. Nos autem bona fide dictos monachos quantum ad nos
-                        pertinet juvaremus et non permitteremus eos <lb n="10"/> indebite molestari.
+                        terram super qua controversia vertebatur omnino et in perpetu<lb n="8" break="no" />um quitaverunt, promittentes quod nunquam deinceps super
+                        predicta terra eos molestarent nec permitterent, quantum in eis est, <lb n="9" /> molestari. Nos autem bona fide dictos monachos quantum ad nos
+                        pertinet juvaremus et non permitteremus eos <lb n="10" /> indebite molestari.
                         Et ne posteris veniat in dubium, presentem cartulam sigillo nostro fecimus
-                        roborari. <lb n="11"/> Actum anno verbi incarnati millesimo ducentesimo
+                        roborari. <lb n="11" /> Actum anno verbi incarnati millesimo ducentesimo
                             <num>viii</num>°, mense januario.</p>
                 
             </body>

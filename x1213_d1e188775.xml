@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e188775">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e188775" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 113</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -93,35 +94,35 @@
                     
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_100_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_100_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_100_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_100_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                     <p>
-                        <persName key="stutzmann_himanis#324610" xml:id="d1e128066">Gauterius, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128068">Eduensis</placeName> episcopus</persName>, omnibus tam presenbus
-                        quam futuris ad quos <lb n="2"/> littere presentes pervenerint in perpetuum.
-                        Ordinationes et institutiones ante<lb n="3" break="no"/>cessorum nostrorum
-                        tanto ferventius observare tenemur, quanto attentius desi<lb n="4" break="no"/>deramus que a nobis ordinata sunt a successoribus nostris
-                        manere inconcus<lb n="5" break="no"/>sa. Quapropter universitati vestre per
-                        presentes litteras notificamus quod nos donati<lb n="6" break="no"/>onem
-                        illam quam bone memorie <persName key="stutzmann_himanis#324654" xml:id="d1e128083">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e128085">Eduensis</placeName> episcopus</persName>, antecessor noster, cum
-                            con<lb n="7" break="no"/>sensu capituli sui de <app>
+                        <persName key="stutzmann_himanis#324610" xml:id="d1e128066" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128068" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, omnibus tam presenbus
+                        quam futuris ad quos <lb n="2" /> littere presentes pervenerint in perpetuum.
+                        Ordinationes et institutiones ante<lb n="3" break="no" />cessorum nostrorum
+                        tanto ferventius observare tenemur, quanto attentius desi<lb n="4" break="no" />deramus que a nobis ordinata sunt a successoribus nostris
+                        manere inconcus<lb n="5" break="no" />sa. Quapropter universitati vestre per
+                        presentes litteras notificamus quod nos donati<lb n="6" break="no" />onem
+                        illam quam bone memorie <persName key="stutzmann_himanis#324654" xml:id="d1e128083" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e128085" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, antecessor noster, cum
+                            con<lb n="7" break="no" />sensu capituli sui de <app>
                             <lem wit="#A">ecclesia</lem>
-                            <rdg type="omission" wit="#B" cause="lacuna"/>
-                        </app> de <placeName key="stutzmann_himanis#325264" xml:id="d1e128096">Curcellis</placeName> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e128099">Fonteneti</orgName> fecit, sicut <lb n="8"/> in
+                            <rdg type="omission" wit="#B" cause="lacuna" />
+                        </app> de <placeName key="stutzmann_himanis#325264" xml:id="d1e128096" corresp="Curcellarum">Curcellis</placeName> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e128099" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> fecit, sicut <lb n="8" /> in
                         illius <app>
                             <lem wit="#A">autentico</lem>
                             <rdg wit="#B">auten||</rdg>
-                        </app> continetur, ratam habemus et firmam. Et ut donatio illa <lb n="9"/>
-                        perpetuam habeat firmitatem, presentem cartam sigilli nostri auctoritate <lb n="10"/> confirmamus.</p>
+                        </app> continetur, ratam habemus et firmam. Et ut donatio illa <lb n="9" />
+                        perpetuam habeat firmitatem, presentem cartam sigilli nostri auctoritate <lb n="10" /> confirmamus.</p>
                 
             </body>
         </text>

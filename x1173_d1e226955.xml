@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1173_d1e226955">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1173_d1e226955" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 69@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -49,9 +50,9 @@
             <body>
                 <p>
                     <persName key="d1e24041" xml:id="d1e154979">Alexander episcopus</persName>,
-                    servus servorum Dei, dilectis filiis abbati et fratribus <orgName key="stutzmann_himanis#284217" xml:id="d1e154982">Flaviniacensibus</orgName> et
+                    servus servorum Dei, dilectis filiis abbati et fratribus <orgName key="stutzmann_himanis#284217" xml:id="d1e154982" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensibus</orgName> et
                     burgensibus ejusdem loci salutem et apostolicam benedictionem. Ex parte
-                    dilectorum filiorum nostrorum abbatis et fratrum <orgName key="stutzmann_himanis#282689" xml:id="d1e154985">
+                    dilectorum filiorum nostrorum abbatis et fratrum <orgName key="stutzmann_himanis#282689" xml:id="d1e154985" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>
                                 <sic corresp="#B">Fontanentensium</sic>
@@ -82,12 +83,12 @@
                     restituatis et quiete ac pacifice dimittatis, de dampnis vero et injuriis
                     illatis congrue satisfaciatis aut super his omnibus in presentia venerabilium
                     fratrum nostrorum <persName key="d1e24054" xml:id="d1e154996">
-                        <placeName key="stutzmann_himanis#325020" xml:id="d1e154997">Bellicensis</placeName>
+                        <placeName key="stutzmann_himanis#325020" xml:id="d1e154997" corresp="Bellicensis">Bellicensis</placeName>
                     </persName> et <persName key="d1e24060" xml:id="d1e155000">
-                        <placeName key="stutzmann_himanis#324948" xml:id="d1e155001">Maurianensis</placeName>
+                        <placeName key="stutzmann_himanis#324948" xml:id="d1e155001" corresp="Maurianensis">Maurianensis</placeName>
                     </persName> episcoporum plenam justitiam appellatione remota exhibeatis. Nos
                     enim eis dedimus in mandatis, ut vos ad alterum horum efficiendum aucthoritate
-                    nostra moneant et districte compellant. Datum <placeName key="stutzmann_himanis#324921" xml:id="d1e155005">Anagniae</placeName>, decimo <app>
+                    nostra moneant et districte compellant. Datum <placeName key="stutzmann_himanis#324921" xml:id="d1e155005" corresp="Anagni">Anagniae</placeName>, decimo <app>
                         <lem>quinto</lem>
                         <rdg wit="#a">XV°</rdg>
                     </app> calendas julii.</p>

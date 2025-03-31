@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232779">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1195_d1e232779" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 143@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,9 +37,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e26330" xml:id="d1e159181">Matildis, comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e159183">Grinionis</placeName>
+                <p>Ego <persName key="d1e26330" xml:id="d1e159181">Matildis, comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e159183" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
                     </persName>, notum facio presentibus pariter et futuris quod <persName key="d1e26336" xml:id="d1e159186">Villermus <addName>Huldrea</addName>
-                    </persName> cum laboraret in extremis donavit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159191">Fonteneti</orgName> in perpetuam
+                    </persName> cum laboraret in extremis donavit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159191" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpetuam
                     elemosinam <num>iiii</num>
                     <hi rend="superscript">or</hi> solidos qui sibi ab eadem ecclesia censualiter
                     debebantur et <num>iiii</num>
@@ -46,16 +47,16 @@
                         <num>iiii</num>
                     <hi rend="superscript">or</hi>
                     <persName key="d1e26342" xml:id="d1e159209">Robertus frater ejusdem <persName key="d1e26348" xml:id="d1e159211">Willermi</persName>
-                    </persName> quittavit jamdicte ecclesie terram quandam apud <placeName key="stutzmann_himanis#324451" xml:id="d1e159214">Flaciacum</placeName> que jam
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e159217">Fontenetensibus</orgName>
+                    </persName> quittavit jamdicte ecclesie terram quandam apud <placeName key="stutzmann_himanis#324451" xml:id="d1e159214" corresp="Flacey (Côte-d'Or, Montbard)">Flaciacum</placeName> que jam
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e159217" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName>
                     pro <num>lx</num> solidis invadiata fuerat. Hoc totum laudavit <persName key="d1e26354" xml:id="d1e159224">Helysabeth uxor predicti
                         Willermi</persName> et <persName key="d1e26360" xml:id="d1e159227">Hodierna
-                        uxor Roberti</persName>. Hujus rei testes sunt <persName key="d1e26367" xml:id="d1e159230">abbas Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159232">Grinione</placeName>
-                    </persName>, <persName key="d1e26373" xml:id="d1e159235">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159237">Quinciaco</placeName>
-                    </persName>, <persName key="d1e26379" xml:id="d1e159240">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e159242">Grinione</placeName>
-                    </persName> monachi, <persName key="stutzmann_himanis#324623" xml:id="d1e159245">Odo
-                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159247">Tullionis</placeName>
-                    </persName>, <persName key="d1e26385" xml:id="d1e159251">Renerius de <placeName key="stutzmann_himanis#324356" xml:id="d1e159253">Saigniaco</placeName>
+                        uxor Roberti</persName>. Hujus rei testes sunt <persName key="d1e26367" xml:id="d1e159230">abbas Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159232" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName>, <persName key="d1e26373" xml:id="d1e159235">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159237" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinciaco</placeName>
+                    </persName>, <persName key="d1e26379" xml:id="d1e159240">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e159242" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName> monachi, <persName key="stutzmann_himanis#324623" xml:id="d1e159245" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159247" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                    </persName>, <persName key="d1e26385" xml:id="d1e159251">Renerius de <placeName key="stutzmann_himanis#324356" xml:id="d1e159253" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
                     </persName> et <persName key="d1e26391" xml:id="d1e159256">
                         <hi rend="background(cyan)">P.</hi> frater ejus</persName>. Quod totum ut
                     ratum habeatur imperpetuum sigilli mei impressione confirmavi, anno ab

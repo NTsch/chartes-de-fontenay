@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234318">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e234318" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 155@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -44,17 +45,17 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e160298">Galterius, Dei gratia
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e160298" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
                         Eduensis episcopus</persName>, notum facio tam presentibus quam futuris quod
                     querela que vertebatur inter fratres de <app>
                         <lem>Fontaneto</lem>
                         <rdg wit="#C">Fonteneto</rdg>
                     </app> et dominum <persName key="d1e26835" xml:id="d1e160307">Anselmum de
-                            <placeName key="stutzmann_himanis#324442" xml:id="d1e160309">Duismo</placeName>
+                            <placeName key="stutzmann_himanis#324442" xml:id="d1e160309" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
                     </persName> de terragio <app>
                         <lem>Desmainan</lem>
                         <rdg wit="#C">Desmananz</rdg>
-                    </app> et de finagio de <placeName key="stutzmann_himanis#324939" xml:id="d1e160318">
+                    </app> et de finagio de <placeName key="stutzmann_himanis#324939" xml:id="d1e160318" corresp="Luurce, Leurce">
                         <foreign>
                             <app>
                                 <lem>Luurce</lem>
@@ -67,35 +68,35 @@
                         <rdg wit="#C">quod</rdg>
                     </app> pertinebat ad homin<app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>es<app>
                         <lem>
-                            <lacunaEnd wit="#B"/>
+                            <lacunaEnd wit="#B" />
                         </lem>
-                    </app> de <placeName key="stutzmann_himanis#324901" xml:id="d1e160340">
+                    </app> de <placeName key="stutzmann_himanis#324901" xml:id="d1e160340" corresp="Solir (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Solir</foreign>
                     </placeName> taliter terminata est. Si quidem dominus <persName key="d1e26841" xml:id="d1e160344">Anselmus</persName> hoc totum dedit et concessit
-                    predictis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e160347">Fonteneto</orgName> in <app>
+                    predictis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e160347" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> in <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#C">helemosinam</rdg>
                     </app>, <persName key="d1e26848" xml:id="d1e160357">Margarita uxore
                         ejus</persName> et filiis ejus <persName key="d1e26854" xml:id="d1e160360">Guillermo</persName> et <persName key="d1e26860" xml:id="d1e160363">Anselmo</persName> et filiabus <persName key="d1e26866" xml:id="d1e160366">Helya</persName>, <persName key="d1e26872" xml:id="d1e160369">Jacob<app>
                             <lem>
-                                <lacunaStart wit="#B"/>
+                                <lacunaStart wit="#B" />
                             </lem>
                         </app>
                         <supplied resp="#C">a</supplied>
                     </persName> et <persName key="d1e26878" xml:id="d1e160377">Helysabeth</persName>
                     laudantibus, et inde habuit de <app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>bene<app>
                         <lem>
-                            <lacunaEnd wit="#B"/>
+                            <lacunaEnd wit="#B" />
                         </lem>
-                    </app>ficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160389">Fonteneti</orgName>
+                    </app>ficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160389" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     <app>
                         <lem>
                             <num>x</num>
@@ -103,43 +104,43 @@
                         <rdg wit="#C">decem</rdg>
                     </app> libras. Si quis vero super hoc mov<app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>erit<app>
                         <lem>
-                            <lacunaEnd wit="#B"/>
+                            <lacunaEnd wit="#B" />
                         </lem>
                     </app> questionem, predictus <persName key="d1e26885" xml:id="d1e160407">Anselmus</persName> et successores ipsius domini de <app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>
-                    <placeName key="stutzmann_himanis#324442" xml:id="d1e160413">Duismo</placeName> defensores
+                    <placeName key="stutzmann_himanis#324442" xml:id="d1e160413" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName> defensores
                     in omnibus<app>
                         <lem>
-                            <lacunaEnd wit="#B"/>
+                            <lacunaEnd wit="#B" />
                         </lem>
                     </app> de jure extiterint. <app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
-                    </app>Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e160424">Odo archipres<app>
+                    </app>Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e160424" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipres<app>
                             <lem>
-                                <lacunaEnd wit="#B"/>
+                                <lacunaEnd wit="#B" />
                             </lem>
-                        </app>biter de <placeName key="stutzmann_himanis#324370" xml:id="d1e160430">
+                        </app>biter de <placeName key="stutzmann_himanis#324370" xml:id="d1e160430" corresp="Touillon (Côte-d'Or, Montbard)">
                             <foreign>Toillum</foreign>
                         </placeName>
                     </persName>, <persName key="d1e26891" xml:id="d1e160435">Gau<app>
                             <lem>
-                                <lacunaStart wit="#B"/>
+                                <lacunaStart wit="#B" />
                             </lem>
-                        </app>fridus presbiter de <placeName key="stutzmann_himanis#324442" xml:id="d1e160441">Duismo</placeName>
+                        </app>fridus presbiter de <placeName key="stutzmann_himanis#324442" xml:id="d1e160441" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
                     </persName>, <persName key="d1e26897" xml:id="d1e160444">Odo<app>
                             <lem>
-                                <lacunaEnd wit="#B"/>
+                                <lacunaEnd wit="#B" />
                             </lem>
-                        </app>bertus presbiter de <placeName key="stutzmann_himanis#324474" xml:id="d1e160450">
+                        </app>bertus presbiter de <placeName key="stutzmann_himanis#324474" xml:id="d1e160450" corresp="Magny-Lambert (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>
                                 <app>
                                     <lem>Mamil</lem>
@@ -149,25 +150,25 @@
                         </placeName>
                     </persName>, <app>
                         <lem>
-                            <lacunaStart wit="#B"/>
+                            <lacunaStart wit="#B" />
                         </lem>
                     </app>
-                    <persName key="d1e26903" xml:id="d1e160461">Matheus dominus de <placeName key="stutzmann_himanis#324448" xml:id="d1e160463">
+                    <persName key="d1e26903" xml:id="d1e160461">Matheus dominus de <placeName key="stutzmann_himanis#324448" xml:id="d1e160463" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>
                     </persName>, <persName key="d1e26909" xml:id="d1e160467">Her<app>
                             <lem>
-                                <lacunaEnd wit="#B"/>
+                                <lacunaEnd wit="#B" />
                             </lem>
-                        </app>veius de <placeName key="stutzmann_himanis#324452" xml:id="d1e160473">Fontanis</placeName>
+                        </app>veius de <placeName key="stutzmann_himanis#324452" xml:id="d1e160473" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
                     </persName>, <persName key="d1e26915" xml:id="d1e160476">Hay<app>
                             <lem>
-                                <lacunaStart wit="#B"/>
+                                <lacunaStart wit="#B" />
                             </lem>
-                        </app>mo de <placeName key="stutzmann_himanis#324437" xml:id="d1e160482">Cumineio</placeName>
+                        </app>mo de <placeName key="stutzmann_himanis#324437" xml:id="d1e160482" corresp="Quemigny-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Cumineio</placeName>
                     </persName>. Actum est hoc a<app>
                         <lem>
-                            <lacunaEnd wit="#B"/>
+                            <lacunaEnd wit="#B" />
                         </lem>
                     </app>nno ab incarnatione Domini <app>
                         <lem>

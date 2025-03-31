@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e246069">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1192_d1e246069" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 294@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -47,11 +48,11 @@
                                 <addName>Albi</addName>
                         </persName>
                     </persName>, assensu et favore <persName key="d1e29826" xml:id="d1e168456">Gertrudis, filie sue privigne scilicet mee</persName>, dedi et in perpetuum
-                    concessi pro remedio anime sue ecclesie sancte Marie <orgName key="stutzmann_himanis#282689" xml:id="d1e168459">Fonteneti</orgName> et conventui
+                    concessi pro remedio anime sue ecclesie sancte Marie <orgName key="stutzmann_himanis#282689" xml:id="d1e168459" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et conventui
                     ibidem deo servienti <num>iii</num>
                     <hi rend="superscript">es</hi> solidos et <num>iii</num>
                     <hi rend="superscript">es</hi> denarios et unam eminam avene. Et quantum hoc
-                    donum ratum et inconcussum in posterum habeatur sigilli domine mee <persName key="d1e29832" xml:id="d1e168473">Matildis comitisse <placeName key="stutzmann_himanis#324459" xml:id="d1e168475">Grinionis</placeName>
+                    donum ratum et inconcussum in posterum habeatur sigilli domine mee <persName key="d1e29832" xml:id="d1e168473">Matildis comitisse <placeName key="stutzmann_himanis#324459" xml:id="d1e168475" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
                     </persName> munimine ante cujus conspectum hec elemosina assignata fuit roborari
                     precepi. Illos autem qui hunc censum annuatim reddere debent in hac paginula
                     subtitulari dignum duxi : <persName key="d1e29838" xml:id="d1e168478">Cristoldus</persName>
@@ -71,14 +72,14 @@
                     </persName>
                     <num>ii</num> denarios ; <persName key="d1e29869" xml:id="d1e168513">Morinus</persName> et <persName key="d1e29875" xml:id="d1e168516">Engelbertus</persName>
                     <num>iiii</num> denarios ; <persName key="d1e29882" xml:id="d1e168522">Cristoldus</persName>
-                    <num>iii</num> et <num>i</num> quartallum avene ; <persName key="d1e29888" xml:id="d1e168530">Bernardus de <placeName key="stutzmann_himanis#324415" xml:id="d1e168532">
+                    <num>iii</num> et <num>i</num> quartallum avene ; <persName key="d1e29888" xml:id="d1e168530">Bernardus de <placeName key="stutzmann_himanis#324415" xml:id="d1e168532" corresp="Blaisy (Côte-d'Or, Montbard)">
                             <foreign>Blaisi</foreign>
                         </placeName>
                     </persName>
                     <num>iii</num> denarios et <num>i</num> quartalum avene. Ipsi autem monachi de
-                    hoc censu debebant ei <num>xv</num> denarios. Hujus rei testes sunt <persName key="d1e29894" xml:id="d1e168548">Johannes magister <placeName key="stutzmann_himanis#324451" xml:id="d1e168550">Flaciaci</placeName>
+                    hoc censu debebant ei <num>xv</num> denarios. Hujus rei testes sunt <persName key="d1e29894" xml:id="d1e168548">Johannes magister <placeName key="stutzmann_himanis#324451" xml:id="d1e168550" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>
                     </persName>, <persName key="d1e29900" xml:id="d1e168553">Gauterius vicarius
-                            <placeName key="stutzmann_himanis#324356" xml:id="d1e168555">Saigniaci</placeName>
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e168555" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaci</placeName>
                     </persName>, <persName key="d1e29906" xml:id="d1e168558">Hugo
                         clericus</persName>, <persName key="d1e29912" xml:id="d1e168561">Guiardus <addName>
                             <foreign>Gole</foreign>

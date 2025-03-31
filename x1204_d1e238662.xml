@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1204_d1e238662">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1204_d1e238662" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 216@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,10 +33,10 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163335">Odo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163337">Burgundiae</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163335" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163337" corresp="Bourgogne">Burgundiae</placeName>
                     </persName>, notum facio presentibus et futuris me concessisse fratribus
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163340">Fontineti</orgName> unum
-                    denarium in uno quoque trossello in pedagio <placeName key="stutzmann_himanis#324426" xml:id="d1e163347">Castellionis</placeName> recipiendum a famulo ipsorum
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163340" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontineti</orgName> unum
+                    denarium in uno quoque trossello in pedagio <placeName key="stutzmann_himanis#324426" xml:id="d1e163347" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellionis</placeName> recipiendum a famulo ipsorum
                     fratrum, quousque valens quingentas et sexaginta libras <sic>provinienses</sic>
                     habuerint, de quibus eisdem fratribus pro patre meo quingentas libras et pro me
                     sexaginta debeo. Incipere autem debet receptio praedictorum nummorum in quindena

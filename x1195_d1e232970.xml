@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232970">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1195_d1e232970" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 144@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -64,18 +65,18 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324647" xml:id="d1e159327">G., Dei gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e159329">Lingonensis</placeName>
-                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e26397" xml:id="d1e159333">Osmundus de <placeName key="stutzmann_himanis#324355" xml:id="d1e159335">Rubeo Monte</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324647" xml:id="d1e159327" corresp="Garnier II de Rochefort, abbé d'Auberive, abbé de Clairvaux (1186-1193), évêque de Langres (1193-1199)">G., Dei gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e159329" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e26397" xml:id="d1e159333">Osmundus de <placeName key="stutzmann_himanis#324355" xml:id="d1e159335" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName>
                     </persName> dedit et concessit in perpetuam elemosinam <app>
                         <lem>ecclesie</lem>
                         <rdg wit="#E">ecclesiae</rdg>
                     </app>
-                    <orgName key="stutzmann_himanis#282689" xml:id="d1e159343">Fonteneti</orgName> pro anima
-                    sua piscaturam <placeName key="stutzmann_himanis#325264" xml:id="d1e159346">Curcellarum</placeName>
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e159343" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro anima
+                    sua piscaturam <placeName key="stutzmann_himanis#325264" xml:id="d1e159346" corresp="Curcellarum">Curcellarum</placeName>
                     <app>
                         <lem>et pasturas</lem>
-                        <rdg wit="#E" type="omission"/>
-                    </app> a <placeName key="stutzmann_himanis#324450" xml:id="d1e159354">Fano</placeName> in
+                        <rdg wit="#E" type="omission" />
+                    </app> a <placeName key="stutzmann_himanis#324450" xml:id="d1e159354" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName> in
                     sursum et omnes aasantias citra aquam et ultra aquam, in valle <app>
                         <lem>et</lem>
                         <rdg wit="#D">et in</rdg>
@@ -89,7 +90,7 @@
                     <app>
                         <lem>in</lem>
                         <rdg wit="#D">im</rdg>
-                    </app> perpetuum piscaturam et pasturas <placeName key="stutzmann_himanis#324360" xml:id="d1e159380">Sancti Remigii</placeName> et <placeName key="stutzmann_himanis#324419" xml:id="d1e159384">
+                    </app> perpetuum piscaturam et pasturas <placeName key="stutzmann_himanis#324360" xml:id="d1e159380" corresp="Saint-Rémy (Côte-d'Or, Montbard)">Sancti Remigii</placeName> et <placeName key="stutzmann_himanis#324419" xml:id="d1e159384" corresp="Buffon (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Bufonii</lem>
                             <rdg wit="#E">Buffonii</rdg>

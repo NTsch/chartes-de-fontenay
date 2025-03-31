@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e236504">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1198_d1e236504" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 178@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,22 +43,22 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e27507" xml:id="d1e161819">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e161821">Montis Barri</placeName>
-                        dominus</persName> testificor scire volentibus quod <persName key="d1e27514" xml:id="d1e161825">Viardus de <placeName key="stutzmann_himanis#325029" xml:id="d1e161827">Seneveio</placeName>
+                <p>Ego <persName key="d1e27507" xml:id="d1e161819">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e161821" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                        dominus</persName> testificor scire volentibus quod <persName key="d1e27514" xml:id="d1e161825">Viardus de <placeName key="stutzmann_himanis#325029" xml:id="d1e161827" corresp="Seneveii">Seneveio</placeName>
                     </persName> et <persName key="d1e27520" xml:id="d1e161830">Johannes frater
                         ejus</persName> et <persName key="d1e27526" xml:id="d1e161833">
                         <app>
                             <lem>Renerius</lem>
                             <rdg wit="#D #a">Reinerius</rdg>
-                        </app> de <placeName key="stutzmann_himanis#324430" xml:id="d1e161840">
+                        </app> de <placeName key="stutzmann_himanis#324430" xml:id="d1e161840" corresp="Champ-d'Oiseau (Côte-d'Or, Montbard)">
                             <foreign>Chaudoisel</foreign>
                         </placeName>
-                    </persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161844">
+                    </persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161844" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                         <app>
                             <lem>Fonteneti</lem>
                             <rdg wit="#D #a">Fontenetensi</rdg>
                         </app>
-                    </orgName> totam terram arabilem quam habebant a <placeName key="stutzmann_himanis#324453" xml:id="d1e161852">Fonteneto</placeName> usque <placeName key="stutzmann_himanis#324475" xml:id="d1e161855">
+                    </orgName> totam terram arabilem quam habebant a <placeName key="stutzmann_himanis#324453" xml:id="d1e161852" corresp="Fontenay (Côte-d'Or, Montbard)">Fonteneto</placeName> usque <placeName key="stutzmann_himanis#324475" xml:id="d1e161855" corresp="Marmagne (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Marmaniam</lem>
                             <rdg wit="#D">Marm</rdg>
@@ -66,29 +67,29 @@
                     </placeName>
                     <app>
                         <lem>
-                            <witEnd wit="#D #a"/>
+                            <witEnd wit="#D #a" />
                         </lem>
-                    </app>et quod habebant ad <placeName key="stutzmann_himanis#325272" xml:id="d1e161867">Altam ripam</placeName> et quod habebant in <placeName key="stutzmann_himanis#325253" xml:id="d1e161870">
+                    </app>et quod habebant ad <placeName key="stutzmann_himanis#325272" xml:id="d1e161867" corresp="Altam ripam">Altam ripam</placeName> et quod habebant in <placeName key="stutzmann_himanis#325253" xml:id="d1e161870" corresp="Correson">
                         <foreign>Curtresum</foreign>
                     </placeName> a chimino susum versus. Habebunt autem pro his omnibus singulis
                     annis <num>xii</num> denarios census. Hoc donum fecit <persName key="d1e27532" xml:id="d1e161878">Viardus</persName> prius de sua parte et habuit inde
-                    equum <num>vi</num>librarum. Postea de sua parte fecerunt donum <persName key="d1e27538" xml:id="d1e161887">Johannes</persName> et <persName key="d1e27544" xml:id="d1e161890">Renerius</persName> apud <placeName key="stutzmann_himanis#324453" xml:id="d1e161894">Fontenetum</placeName> et <persName key="d1e27551" xml:id="d1e161897">Viardus</persName> hoc laudavit <app>
+                    equum <num>vi</num>librarum. Postea de sua parte fecerunt donum <persName key="d1e27538" xml:id="d1e161887">Johannes</persName> et <persName key="d1e27544" xml:id="d1e161890">Renerius</persName> apud <placeName key="stutzmann_himanis#324453" xml:id="d1e161894" corresp="Fontenay (Côte-d'Or, Montbard)">Fontenetum</placeName> et <persName key="d1e27551" xml:id="d1e161897">Viardus</persName> hoc laudavit <app>
                         <lem>
-                            <witStart wit="#D #a"/>
+                            <witStart wit="#D #a" />
                         </lem>
                     </app>coram me et <persName key="d1e27557" xml:id="d1e161904">domino meo
-                        Anserico <placeName key="stutzmann_himanis#324959" xml:id="d1e161906">Montis
+                        Anserico <placeName key="stutzmann_himanis#324959" xml:id="d1e161906" corresp="Monte Regali">Montis
                             Regii</placeName>
                     </persName> et <persName key="d1e27563" xml:id="d1e161909">Anserico
                         juvene</persName>, <persName key="d1e27569" xml:id="d1e161912">Hugone quoque
-                        de <placeName key="stutzmann_himanis#324331" xml:id="d1e161914">Nigellis</placeName>
+                        de <placeName key="stutzmann_himanis#324331" xml:id="d1e161914" corresp="Nesle-et-Massoult (Côte-d'Or, Montbard)">Nigellis</placeName>
                     </persName> et <persName key="d1e27575" xml:id="d1e161921">Bernardo
                             <addName>Nariodi</addName>
-                    </persName> et <persName key="d1e27581" xml:id="d1e161926">Andrea de <placeName key="stutzmann_himanis#324452" xml:id="d1e161928">Fontanis</placeName>
+                    </persName> et <persName key="d1e27581" xml:id="d1e161926">Andrea de <placeName key="stutzmann_himanis#324452" xml:id="d1e161928" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
                     </persName>
                     <app>
                         <lem>
-                            <witEnd wit="#D #a"/>
+                            <witEnd wit="#D #a" />
                             <witDetail wit="#D #a">Fin omise et remplacée par "etc."</witDetail>
                         </lem>
                     </app>. <persName key="d1e27588" xml:id="d1e161936">Johannes</persName> habuit

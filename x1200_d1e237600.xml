@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1200_d1e237600">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1200_d1e237600" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 189@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -47,8 +48,8 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e162581">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis <persName key="d1e27902" xml:id="d1e162584">Bernardo abbati monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e162586">Fontaneto</orgName>
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e162581" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis <persName key="d1e27902" xml:id="d1e162584">Bernardo abbati monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e162586" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>
                     </persName> ejusque fratribus tam presentibus quam futuris regularem vitam
                     professis. <app>
                         <lem wit="#a">in perpetuum</lem>

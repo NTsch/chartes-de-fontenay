@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1199_d1e237175">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1199_d1e237175" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 190@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -38,20 +39,20 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162293">G<supplied>auterius</supplied> Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e162298">Eduensis</placeName>
-                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="stutzmann_himanis#324623" xml:id="d1e162302">O<supplied>do</supplied>
-                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e162307">Tullionis</placeName>
-                    </persName> dedit et concessit in perpetuam elemosinam Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162310">Fonteneti</orgName> ad omnium
-                    missarum usus vineam quam habebat apud <placeName key="stutzmann_himanis#324424" xml:id="d1e162313">Alysiam</placeName>. Unde testes sunt <persName key="d1e27779" xml:id="d1e162316">Willermus prior <orgName key="stutzmann_himanis#282689" xml:id="d1e162318">Fonteneti</orgName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162293" corresp="Gautier II, évêque d'Autun 1189 -1223)">G<supplied>auterius</supplied> Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e162298" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="stutzmann_himanis#324623" xml:id="d1e162302" corresp="Eudes, archiprêtre de Touillon (1173-1200)">O<supplied>do</supplied>
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e162307" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                    </persName> dedit et concessit in perpetuam elemosinam Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162310" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ad omnium
+                    missarum usus vineam quam habebat apud <placeName key="stutzmann_himanis#324424" xml:id="d1e162313" corresp="Alise-Sainte-Reine (Côte-d'Or, Montbard)">Alysiam</placeName>. Unde testes sunt <persName key="d1e27779" xml:id="d1e162316">Willermus prior <orgName key="stutzmann_himanis#282689" xml:id="d1e162318" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     </persName>, <persName key="d1e27785" xml:id="d1e162322">Humbertus
                         sacrista</persName>, <persName key="d1e27791" xml:id="d1e162325">Johannes de
-                            <placeName key="stutzmann_himanis#324408" xml:id="d1e162327">Bonesi</placeName>
+                            <placeName key="stutzmann_himanis#324408" xml:id="d1e162327" corresp="Benoisey (Côte-d'Or, Montbard)">Bonesi</placeName>
                     </persName>, <persName key="d1e27797" xml:id="d1e162333">Hugo
-                        cellerarius</persName>, monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e162336">Fonteneti</orgName> ; <persName key="d1e27803" xml:id="d1e162339">Haymo de <placeName key="stutzmann_himanis#324374" xml:id="d1e162341">
+                        cellerarius</persName>, monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e162336" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ; <persName key="d1e27803" xml:id="d1e162339">Haymo de <placeName key="stutzmann_himanis#324374" xml:id="d1e162341" corresp="Venarey-les-Laumes,Venarey (Côte-d'Or, Montbard)">
                             <foreign>Venerre</foreign>
                         </placeName>
                     </persName> et <persName key="d1e27810" xml:id="d1e162345">Leonardus de
-                            <placeName key="stutzmann_himanis#324475" xml:id="d1e162347">Marmania</placeName>
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e162347" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                         capellani</persName>. Ut igitur hoc ratum et firmum habeatur in posterum
                     presentem cartulam sigilli impressione precepi roborari. Anno incarnationis
                     dominice <num>m° c° xc° ix°</num>.</p>

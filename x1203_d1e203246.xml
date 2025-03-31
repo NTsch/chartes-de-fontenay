@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e203246">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1203_d1e203246" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2103</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -102,35 +103,35 @@
                     <date type="documentCreation" when="1203">[vers 1203]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_278_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_278_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_278_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_278_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body> <p>Ego <persName key="d1e13694" xml:id="d1e137721">Bernardus, dictus abbas
-                                <orgName key="stutzmann_himanis#282689" xml:id="d1e137723">Fonten(etensis)</orgName>
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e137723" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten(etensis)</orgName>
                         </persName>, per hujus <sic corresp="#A1">cyrophi</sic> scriptum notum facio
-                            <lb n="2"/> universis quod domina <persName key="d1e13700" xml:id="d1e137731">Aalaiz de <placeName key="stutzmann_himanis#324373" xml:id="d1e137733">Asneriis</placeName>
-                        </persName>, laudante <persName key="d1e13706" xml:id="d1e137736">Margarita</persName> filia sua, dedit in perpetu<lb n="3" break="no"/>am elemosinam ecclesie nostre de <orgName key="stutzmann_himanis#282689" xml:id="d1e137742">Fonten(eto)</orgName> pro salute anime sue quartam
-                        partem decime bla<lb n="4" break="no"/>di apud <placeName key="stutzmann_himanis#324350" xml:id="d1e137747">Raverias</placeName>, quam de
-                        proprio alodio suo ibi possidebat, et de hoc adversus omnes homines <lb n="5"/> nobis garantiam portabit. Nos vero intuitu caritatis et pacis
-                        dabimus ei annuatim ad <lb n="6"/> festum Sancti Remigii quamdiu vixerit et
-                        ubicumque fuerit .L. solidos illius monete que cursalis <lb n="7"/> erit in
+                            <lb n="2" /> universis quod domina <persName key="d1e13700" xml:id="d1e137731">Aalaiz de <placeName key="stutzmann_himanis#324373" xml:id="d1e137733" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName>
+                        </persName>, laudante <persName key="d1e13706" xml:id="d1e137736">Margarita</persName> filia sua, dedit in perpetu<lb n="3" break="no" />am elemosinam ecclesie nostre de <orgName key="stutzmann_himanis#282689" xml:id="d1e137742" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonten(eto)</orgName> pro salute anime sue quartam
+                        partem decime bla<lb n="4" break="no" />di apud <placeName key="stutzmann_himanis#324350" xml:id="d1e137747" corresp="Ravières (Yonne, Tonnerrois)">Raverias</placeName>, quam de
+                        proprio alodio suo ibi possidebat, et de hoc adversus omnes homines <lb n="5" /> nobis garantiam portabit. Nos vero intuitu caritatis et pacis
+                        dabimus ei annuatim ad <lb n="6" /> festum Sancti Remigii quamdiu vixerit et
+                        ubicumque fuerit .L. solidos illius monete que cursalis <lb n="7" /> erit in
                         terra ducis. Insuper fecimus eam participem omnium beneficiorum que fient in
-                            do<lb n="8" break="no"/>mo nostra et plenarium servicium ei in obitu suo
-                        sicut uni monachorum nostrorum persolvemus. <lb n="9"/> Hujus rei testes
+                            do<lb n="8" break="no" />mo nostra et plenarium servicium ei in obitu suo
+                        sicut uni monachorum nostrorum persolvemus. <lb n="9" /> Hujus rei testes
                         sunt <persName key="d1e13712" xml:id="d1e137761">Humbertus
                             grangiarius</persName>, <persName key="d1e13718" xml:id="d1e137764">Hugo
-                            cellerarius</persName>, <persName key="d1e13724" xml:id="d1e137767">Adam</persName> monachi nostri, <persName key="d1e13731" xml:id="d1e137771">Leo<lb n="10" break="no"/>nardus presbiter de
-                                <placeName key="stutzmann_himanis#324475" xml:id="d1e137775">Marmania</placeName>
+                            cellerarius</persName>, <persName key="d1e13724" xml:id="d1e137767">Adam</persName> monachi nostri, <persName key="d1e13731" xml:id="d1e137771">Leo<lb n="10" break="no" />nardus presbiter de
+                                <placeName key="stutzmann_himanis#324475" xml:id="d1e137775" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                         </persName>, <persName key="d1e13737" xml:id="d1e137778">Girardus de
-                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137780">Asneriis</placeName>
-                        </persName>, maritus prefate <persName key="d1e13743" xml:id="d1e137783">Margarite</persName>, <persName key="d1e13749" xml:id="d1e137786">Teobaudus <lb n="11"/> prepositus de <placeName key="stutzmann_himanis#324487" xml:id="d1e137790">Monte Barro</placeName>
-                        </persName>. Ad cujus rei memoriam sigillum meum cyrographo presenti appo<lb n="12" break="no"/>sui.</p>
+                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137780" corresp="Asnières-en-Montagne (Côte-d'Or, Montbard)">Asneriis</placeName>
+                        </persName>, maritus prefate <persName key="d1e13743" xml:id="d1e137783">Margarite</persName>, <persName key="d1e13749" xml:id="d1e137786">Teobaudus <lb n="11" /> prepositus de <placeName key="stutzmann_himanis#324487" xml:id="d1e137790" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
+                        </persName>. Ad cujus rei memoriam sigillum meum cyrographo presenti appo<lb n="12" break="no" />sui.</p>
                 
             </body>
         </text>

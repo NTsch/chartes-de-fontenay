@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1170_d1e246723">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1170_d1e246723" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 55@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -57,42 +58,42 @@
                     <date type="documentCreation" when="1170-12-31">1169 ou 1170</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e168861">Dei gratia dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168863">Burgundiae</placeName>,
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e168861" corresp="Hugues III, duc de Bourgogne (1162-1192)">Dei gratia dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168863" corresp="Bourgogne">Burgundiae</placeName>,
                         Hugo</persName>, pro salute animae meae et sacrorum locorum desiderio
-                        <placeName key="stutzmann_himanis#317554" xml:id="d1e168867">Hyerosolimam</placeName>
-                    profecturus, donavi Deo et ecclesiae sanctae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168870">Fonteneto</orgName> in elemosinam,
-                    quidquid juris habebam in <placeName key="stutzmann_himanis#324449" xml:id="d1e168873">
+                        <placeName key="stutzmann_himanis#317554" xml:id="d1e168867" corresp="Jérusalem">Hyerosolimam</placeName>
+                    profecturus, donavi Deo et ecclesiae sanctae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168870" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> in elemosinam,
+                    quidquid juris habebam in <placeName key="stutzmann_himanis#324449" xml:id="d1e168873" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Estormet</foreign>
                     </placeName> et in toto finagio ejusdem et in terris circumjacentibus, tam in
                     planis quam in nemoribus, nichil ibi penitus retinens, dedi etiam quidquid de
-                    casamento meo erat apud <placeName key="stutzmann_himanis#324335" xml:id="d1e168877">Noville Montem</placeName> et concessi praefatae ecclesiae fratribus
+                    casamento meo erat apud <placeName key="stutzmann_himanis#324335" xml:id="d1e168877" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville Montem</placeName> et concessi praefatae ecclesiae fratribus
                     acquirendum quidquid in villa acquirere possint. Huic testis est <persName key="d1e30023" xml:id="d1e168881">mater mea ducissa, ..,</persName> prece
                     maxime hoc feci et <persName key="d1e30030" xml:id="d1e168884">Girardus de
-                            <placeName key="stutzmann_himanis#324995" xml:id="d1e168886">
+                            <placeName key="stutzmann_himanis#324995" xml:id="d1e168886" corresp="Reum">
                             <foreign>Reum</foreign>
                         </placeName>
                     </persName> et <persName key="d1e30036" xml:id="d1e168890">Guilelmus de
-                            <placeName key="stutzmann_himanis#324336" xml:id="d1e168892">
+                            <placeName key="stutzmann_himanis#324336" xml:id="d1e168892" corresp="Orgeux (Côte-d'Or, Fontaine-lès-Dijon)">
                             <foreign>Orgul</foreign>
                         </placeName>
                     </persName>. Hoc laudavit <persName key="d1e30042" xml:id="d1e168896">ducissa
-                        conjux mea Aalidis</persName>. Unde testes sunt <persName key="d1e30048" xml:id="d1e168899">Nicolaus capellanus ducis</persName>, <persName key="d1e30054" xml:id="d1e168902">Henricus capellanus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168904">
+                        conjux mea Aalidis</persName>. Unde testes sunt <persName key="d1e30048" xml:id="d1e168899">Nicolaus capellanus ducis</persName>, <persName key="d1e30054" xml:id="d1e168902">Henricus capellanus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168904" corresp="Argilly (Yonne, Tonnerrois)">
                             <foreign>Argille</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e30060" xml:id="d1e168909">Hugo de <placeName key="stutzmann_himanis#324476" xml:id="d1e168911">
+                    </persName>, <persName key="d1e30060" xml:id="d1e168909">Hugo de <placeName key="stutzmann_himanis#324476" xml:id="d1e168911" corresp="Marmesse (Haute-Marne, Châteauvillain)">
                             <foreign>Marmeesse</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e30067" xml:id="d1e168915">Robertus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168917">
+                    </persName>, <persName key="d1e30067" xml:id="d1e168915">Robertus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168917" corresp="Argilly (Yonne, Tonnerrois)">
                             <foreign>Argille</foreign>
                         </placeName>
                     </persName>, <persName key="d1e30073" xml:id="d1e168921">Petrus
-                        Viqaratus</persName>. Ne qua igitur ex his in posterum ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e168924">Fonteneti</orgName> calumnia surgat,
+                        Viqaratus</persName>. Ne qua igitur ex his in posterum ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e168924" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> calumnia surgat,
                     cartae praesentis scripto haec posterorum memoriae tradere et tam meo quam
                     ducissae sigillo firmare volui. Anno <num>m° c° lx<add>i</add>x</num>.</p>
             </body>

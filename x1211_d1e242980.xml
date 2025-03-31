@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e242980">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1211_d1e242980" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 266@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,16 +42,16 @@
         <text>
             <body>
                 <p>
-                    <persName key="d1e29185" xml:id="d1e166277">Manasses <placeName key="stutzmann_himanis#99215" xml:id="d1e166279">Aurelianensis</placeName>
-                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e166282">Willermus
-                            <placeName key="stutzmann_himanis#324435" xml:id="d1e166284">Autisiodorensis</placeName> Dei gratia episcopi</persName> universis
+                    <persName key="d1e29185" xml:id="d1e166277">Manasses <placeName key="stutzmann_himanis#99215" xml:id="d1e166279" corresp="Orléans (Loiret, Orléans)">Aurelianensis</placeName>
+                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e166282" corresp="Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de Paris (1220-1223)">Willermus
+                            <placeName key="stutzmann_himanis#324435" xml:id="d1e166284" corresp="Auxerre (Yonne, Auxerre)">Autisiodorensis</placeName> Dei gratia episcopi</persName> universis
                     presentes litteras inspecturis in Domino salutem. Noverit universitas vestra
-                    quod <persName key="d1e29191" xml:id="d1e166288">Phylippus miles de <placeName key="stutzmann_himanis#325036" xml:id="d1e166290">Turre</placeName>
-                    </persName> peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e166293">sanctu<hi rend="background(red)">m</hi>
+                    quod <persName key="d1e29191" xml:id="d1e166288">Phylippus miles de <placeName key="stutzmann_himanis#325036" xml:id="d1e166290" corresp="La Tour de Rougemont">Turre</placeName>
+                    </persName> peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e166293" corresp="Sanctum Jacobum">sanctu<hi rend="background(red)">m</hi>
                         Jacobum</placeName> constitutus in presentia nostra dedit et concessit pro
                     remedio anime sue et antecessorum suorum in perpetuam donationem ecclesie
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e166299">sancte Marie de
-                        Fonteneto</orgName> quicquid juris ipse habebat apud <placeName key="stutzmann_himanis#324475" xml:id="d1e166302">Marman<hi rend="background(cyan)">ie</hi> villam</placeName> tali conditione quod nulli ipsam elemosinam
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e166299" corresp="abbaye Notre-Dame de Fontenay (1119 -)">sancte Marie de
+                        Fonteneto</orgName> quicquid juris ipse habebat apud <placeName key="stutzmann_himanis#324475" xml:id="d1e166302" corresp="Marmagne (Côte-d'Or, Montbard)">Marman<hi rend="background(cyan)">ie</hi> villam</placeName> tali conditione quod nulli ipsam elemosinam
                     vendere nisi ei, dare vel aliquo modo a se alienare valebunt. Et ut ista majorem
                     habeant firmitatem presentem paginam sigillis nostris fecimus roborari. Actum
                     est hoc anno ab incarnatione Domini <num>m° cc° xi°</num>.</p>

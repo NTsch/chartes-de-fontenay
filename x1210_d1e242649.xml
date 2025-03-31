@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e242649">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1210_d1e242649" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 259@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -13,7 +14,7 @@
                         <witness n="A">Original perdu</witness>
                         <witness n="B">Copie perdue dans Cartulaire 1 (<hi rend="italic">Flaciacum</hi>, 23)</witness>
                         <witness n="C">Cartulaire 2, fol. 105<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 23) ; table mutilée</witness>
-                        <witness n="E"/>
+                        <witness n="E" />
                     </listWit>
                 </sourceDesc>
             </fileDesc>
@@ -28,20 +29,20 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e29111" xml:id="d1e166023">Henricus comes <placeName key="stutzmann_himanis#99026" xml:id="d1e166025">Nivernensis</placeName>
+                <p>Ego <persName key="d1e29111" xml:id="d1e166023">Henricus comes <placeName key="stutzmann_himanis#99026" xml:id="d1e166025" corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName>
                     </persName> et <persName key="d1e29117" xml:id="d1e166028">M. uxor mea
                         comitissa</persName>, notum facimus universis presentem paginam inspecturis
                     quod elemosinam quam <persName key="d1e29123" xml:id="d1e166031">Givardus
                             <addName>Gola</addName>
                     </persName> et <persName key="d1e29129" xml:id="d1e166036">Petrus filius
-                        ejus</persName> fecerant ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166039">Fonteneti</orgName> de omnibus que habebant in terris, in
-                    pratis, in censivis apud <placeName key="stutzmann_himanis#324356" xml:id="d1e166043">Saigniaco</placeName> et in decimis <placeName key="stutzmann_himanis#324459" xml:id="d1e166046">Grinionis</placeName> et <placeName key="stutzmann_himanis#324408" xml:id="d1e166049">Boniseti</placeName> et in prato quodam quod a me sub
+                        ejus</persName> fecerant ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166039" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de omnibus que habebant in terris, in
+                    pratis, in censivis apud <placeName key="stutzmann_himanis#324356" xml:id="d1e166043" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName> et in decimis <placeName key="stutzmann_himanis#324459" xml:id="d1e166046" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName> et <placeName key="stutzmann_himanis#324408" xml:id="d1e166049" corresp="Benoisey (Côte-d'Or, Montbard)">Boniseti</placeName> et in prato quodam quod a me sub
                     censu tenebant — de quibus omnibus in prejudicium predicte ecclesie post mortem
                     jamdictorum <persName key="d1e29135" xml:id="d1e166052">Givardi</persName> et
                         <persName key="d1e29142" xml:id="d1e166055">Petri</persName> investieramus
                         <persName key="d1e30961" xml:id="d1e166058">Petrum Letardum</persName> eo
                     quod ad nos pertinere credebamus —, ad peticionem tandem supradictorum fratrum
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e166062">Fonteneti</orgName>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e166062" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     recognoscentes ipsam elemosinam bene et legitime factam concessimus eis perpetuo
                     pacifice possidendam et investiri eos fecimus per manum supradicti <persName key="d1e29148" xml:id="d1e166065">Petri Letardi</persName>. Et ut hoc ratum
                     permaneat imposterum presentem paginam sigilli nostri inpressione fecimus

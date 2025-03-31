@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e237715">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1201_d1e237715" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 191@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -44,20 +45,20 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162669">Galterius Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e162671">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162669" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e162671" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, notum fieri volo tam presentibus quam futuris quod
-                        <persName key="d1e27908" xml:id="d1e162675">Omundus de <placeName key="stutzmann_himanis#324341" xml:id="d1e162680">Plaaneto</placeName>
+                        <persName key="d1e27908" xml:id="d1e162675">Omundus de <placeName key="stutzmann_himanis#324341" xml:id="d1e162680" corresp="Planay (Côte-d'Or, Montbard)">Plaaneto</placeName>
                     </persName> et <persName key="d1e30936" xml:id="d1e162683">Helysabez uxor
                         ipsius</persName> et <persName key="d1e27914" xml:id="d1e162686">Omundus
-                        filius eorumdem</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162689">Fonteneti</orgName> in perpetuam elemosinam quicquid
-                    habebant in molendinis <placeName key="stutzmann_himanis#324475" xml:id="d1e162693">Marmanie</placeName> et omnia ad eadem molendina pertinentia et quicquid
+                        filius eorumdem</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162689" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in perpetuam elemosinam quicquid
+                    habebant in molendinis <placeName key="stutzmann_himanis#324475" xml:id="d1e162693" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanie</placeName> et omnia ad eadem molendina pertinentia et quicquid
                     juris eorum erat in tota riveria ab abbatia scilicet usque ad <geogName xml:id="d1e162696">
                         <foreign>Braanai</foreign>
-                    </geogName>. Dederunt etiam tria mansa apud <placeName key="stutzmann_himanis#324475" xml:id="d1e162700">Marmaniam</placeName>, mansum videlicet quod <persName key="d1e27921" xml:id="d1e162703">Leonardus capellanus</persName> tenebat,
+                    </geogName>. Dederunt etiam tria mansa apud <placeName key="stutzmann_himanis#324475" xml:id="d1e162700" corresp="Marmagne (Côte-d'Or, Montbard)">Marmaniam</placeName>, mansum videlicet quod <persName key="d1e27921" xml:id="d1e162703">Leonardus capellanus</persName> tenebat,
                     mansumque <persName key="d1e27927" xml:id="d1e162706">Johannis</persName> et
                         <persName key="d1e27933" xml:id="d1e162709">fratris ipsius</persName> et
-                        <num>vi</num> denarios censuales de manso <persName key="d1e27939" xml:id="d1e162716">Parisii <placeName key="stutzmann_himanis#324487" xml:id="d1e162718">Montis Barri</placeName>
+                        <num>vi</num> denarios censuales de manso <persName key="d1e27939" xml:id="d1e162716">Parisii <placeName key="stutzmann_himanis#324487" xml:id="d1e162718" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
                     </persName> et alios <hi rend="smallcaps" xml:space="preserve">xii </hi>denarios
                     censuales quod <persName key="d1e27945" xml:id="d1e162724">Naudus</persName> et
                         <persName key="d1e27951" xml:id="d1e162727">nepotes ejus</persName> debent
@@ -67,10 +68,10 @@
                         <num>iiii</num>
                     <hi rend="superscript">or</hi>, pro alia minori vinea <num>iiii</num>
                     <hi rend="superscript">or</hi>. Laudaverunt etiam adhuc supradicti viri quicquid
-                    tunc <orgName key="stutzmann_himanis#282689" xml:id="d1e162748">Fontenetenses</orgName> de
-                    rebus <persName key="d1e27958" xml:id="d1e162752">Rainaudi <placeName key="stutzmann_himanis#324475" xml:id="d1e162754">Marmanie</placeName>
+                    tunc <orgName key="stutzmann_himanis#282689" xml:id="d1e162748" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> de
+                    rebus <persName key="d1e27958" xml:id="d1e162752">Rainaudi <placeName key="stutzmann_himanis#324475" xml:id="d1e162754" corresp="Marmagne (Côte-d'Or, Montbard)">Marmanie</placeName>
                     </persName> possidebant : pro quadam vero terra que sita est juxta medium
-                    molendinum de <placeName key="stutzmann_himanis#324475" xml:id="d1e162757">Marmania</placeName> persolvent <orgName key="stutzmann_himanis#282689" xml:id="d1e162760">Fontenetenses</orgName> annuatim <persName key="d1e27964" xml:id="d1e162763">Odoni militi de <placeName key="stutzmann_himanis#324475" xml:id="d1e162765">Marmania</placeName>
+                    molendinum de <placeName key="stutzmann_himanis#324475" xml:id="d1e162757" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName> persolvent <orgName key="stutzmann_himanis#282689" xml:id="d1e162760" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> annuatim <persName key="d1e27964" xml:id="d1e162763">Odoni militi de <placeName key="stutzmann_himanis#324475" xml:id="d1e162765" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                     </persName>
                     <num>iiii</num>
                     <hi rend="superscript">or</hi> denarios. De hiis quippe omnibus prefatus
@@ -78,17 +79,17 @@
                     promiserunt et hoc totum laudari fecerunt ab universis liberis suis, videlicet
                         <persName key="d1e27988" xml:id="d1e162782">Helysabeth</persName>, <persName key="d1e27995" xml:id="d1e162785">Hugone</persName>, <persName key="d1e28001" xml:id="d1e162788">Guidone</persName>, <persName key="d1e28007" xml:id="d1e162791">Andrea</persName>. Hujus rei testes sunt
                         <persName key="d1e28013" xml:id="d1e162795">Hubertus quondam
-                        abbas</persName>, <persName key="d1e28019" xml:id="d1e162798">Humbertus</persName>, <persName key="d1e28025" xml:id="d1e162801">Andreas</persName>, monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e162804">Fonteneti</orgName>, <persName key="stutzmann_himanis#324626" xml:id="d1e162807">Robertus archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e162809">Tullionis</placeName>
+                        abbas</persName>, <persName key="d1e28019" xml:id="d1e162798">Humbertus</persName>, <persName key="d1e28025" xml:id="d1e162801">Andreas</persName>, monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e162804" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, <persName key="stutzmann_himanis#324626" xml:id="d1e162807" corresp="Robertus archipresbiter Tullionis">Robertus archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e162809" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e28032" xml:id="d1e162812">Leonardus capellanus de
-                            <placeName key="stutzmann_himanis#324475" xml:id="d1e162814">Marmania</placeName>
-                    </persName>, <persName key="d1e28038" xml:id="d1e162818">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e162820">
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e162814" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
+                    </persName>, <persName key="d1e28038" xml:id="d1e162818">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e162820" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
                         </placeName>
                     </persName>, <persName key="d1e28044" xml:id="d1e162824">Guillermus <addName>
                             <foreign>Bachichol</foreign>
                         </addName>
                     </persName>, <persName key="d1e28050" xml:id="d1e162830">Teobaldus quondam
-                        prepositus</persName> et <persName key="d1e28056" xml:id="d1e162833">Johannes tunc prepositus <placeName key="stutzmann_himanis#324487" xml:id="d1e162835">Montis Barri</placeName>
+                        prepositus</persName> et <persName key="d1e28056" xml:id="d1e162833">Johannes tunc prepositus <placeName key="stutzmann_himanis#324487" xml:id="d1e162835" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
                     </persName>. Actum est anno incarnationis dominice <num>m° cc° i°</num>.</p>
             </body>
         </text>

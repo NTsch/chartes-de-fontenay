@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e236360">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1198_d1e236360" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 175@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -34,18 +35,18 @@
         <text>
             <body>
                 <p>In nomine domini nostri Ihesu Christi. Presentis scripti testimonio noverit
-                    universa fidelium multitudo quod <orgName key="stutzmann_himanis#282689" xml:id="d1e161701">fratres Fonteneti</orgName> et <persName key="d1e27477" xml:id="d1e161704">Matheus de <placeName key="stutzmann_himanis#325239" xml:id="d1e161706">Aguleia</placeName> decanus</persName> super
-                    universis querelis quas ad invicem habebant de vineis et territorio <placeName key="stutzmann_himanis#325060" xml:id="d1e161710">Villenarum</placeName> composuerunt
+                    universa fidelium multitudo quod <orgName key="stutzmann_himanis#282689" xml:id="d1e161701" corresp="abbaye Notre-Dame de Fontenay (1119 -)">fratres Fonteneti</orgName> et <persName key="d1e27477" xml:id="d1e161704">Matheus de <placeName key="stutzmann_himanis#325239" xml:id="d1e161706" corresp="Aguleia">Aguleia</placeName> decanus</persName> super
+                    universis querelis quas ad invicem habebant de vineis et territorio <placeName key="stutzmann_himanis#325060" xml:id="d1e161710" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenarum</placeName> composuerunt
                     hoc modo : predictus <persName key="d1e27483" xml:id="d1e161713">M<supplied>atheus</supplied>
-                    </persName> quitavit predictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e161723">Fonteneti</orgName> quicquid juris se dicebat habere in
-                    eisdem vineis et territorio et in elemosina super altare <orgName key="stutzmann_himanis#282689" xml:id="d1e161726">Fonteneti</orgName> offerendo
+                    </persName> quitavit predictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e161723" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid juris se dicebat habere in
+                    eisdem vineis et territorio et in elemosina super altare <orgName key="stutzmann_himanis#282689" xml:id="d1e161726" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> offerendo
                     indulgentiam super omnibus molestiis quas proinde predictis fratribus intulerat
                     ab eis misericorditer consequutus in beneficium ejusdem monasterii quasi amicus
-                    et familiaris ab ipsis est receptus. Hujus pacis testes sunt <persName key="d1e27489" xml:id="d1e161729">Bernardus monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e161731">Fonteneti</orgName>
+                    et familiaris ab ipsis est receptus. Hujus pacis testes sunt <persName key="d1e27489" xml:id="d1e161729">Bernardus monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e161731" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     </persName>, <persName key="d1e30992" xml:id="d1e161734">Gilo marescalcus de
-                            <placeName key="stutzmann_himanis#322865" xml:id="d1e161736">Flaviniaco</placeName>
-                    </persName>, <persName key="d1e27495" xml:id="d1e161739">Humbertus de <placeName key="stutzmann_himanis#324342" xml:id="d1e161741">Poilleio</placeName>
-                    </persName>, ego <persName key="d1e27501" xml:id="d1e161744">Haymo <placeName key="stutzmann_himanis#319548" xml:id="d1e161746">Eduensis</placeName>
+                            <placeName key="stutzmann_himanis#322865" xml:id="d1e161736" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaco</placeName>
+                    </persName>, <persName key="d1e27495" xml:id="d1e161739">Humbertus de <placeName key="stutzmann_himanis#324342" xml:id="d1e161741" corresp="Pouilly-en-Auxois (Côte-d'Or, Arnay-le-Duc)">Poilleio</placeName>
+                    </persName>, ego <persName key="d1e27501" xml:id="d1e161744">Haymo <placeName key="stutzmann_himanis#319548" xml:id="d1e161746" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         archipresbiter</persName> ad requisitionem utriusque partis et ad id
                     testificandum sigillum meum presenti cartule apponere curavi. Actum est hoc anno
                     incarnationis dominice <num>m° c° xc° viii°</num>.</p>

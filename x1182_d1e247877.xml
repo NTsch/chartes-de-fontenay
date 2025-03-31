@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1182_d1e247877">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1182_d1e247877" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 84@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -46,22 +47,22 @@
                     <origPlace>Velletri</origPlace>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324637" xml:id="d1e169718">Lucius episcopus, servus
+                    <persName key="stutzmann_himanis#324637" xml:id="d1e169718" corresp="Lucius III papa (1181-1185)">Lucius episcopus, servus
                         servorum Dei</persName>, venerabilibus fratribus <persName key="d1e30554" xml:id="d1e169721">Lugdunensi archiepiscopo</persName> et suffraganeis ejus,
                     et dilectis filiis abbatibus, archidiaconis, prepositis et aliis ecclesiarum
                     prelatis in eorum partibus constitutis salutem et apostolicam benedictionem.</p>
                 <p>Audivimus et audientes<app>
                         <lem>
-                            <witEnd wit="#a"/>
+                            <witEnd wit="#a" />
                         </lem>
-                    </app> mirati sumus quod, cum fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169730">Fontaneto</orgName> sicut aliis omnibus <orgName key="stutzmann_himanis#281483" xml:id="d1e169733">Cisterciensis ordinis</orgName> a
+                    </app> mirati sumus quod, cum fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169730" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName> sicut aliis omnibus <orgName key="stutzmann_himanis#281483" xml:id="d1e169733" corresp="ordre des cisterciens">Cisterciensis ordinis</orgName> a
                     patribus et predecessoribus nostris concessum sit et a nobis postmodum
                     confirmatum ut de laboribus quos propriis manibus aut sumptibus excolunt nemini
                     decimas solvere teneantur, quidam ab eis nihilominus contra indulgentiam sedis
@@ -75,8 +76,8 @@
                     absoluti, ne ullus contra eos hanc materiam malignandi vel quomodo liber ipsos
                     contra justitiam molestandi per apostolica scripta vobis precipiendo mandamus
                     quatinus omnibus qui vestrae sunt potestatis aucthoritate nostra prohibere
-                    curetis ne a memoratis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169736">Fontaneto</orgName> vel a fratribus aliorum monasteriorum
-                        <orgName key="stutzmann_himanis#281483" xml:id="d1e169739">Cisterciensis
+                    curetis ne a memoratis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169736" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName> vel a fratribus aliorum monasteriorum
+                        <orgName key="stutzmann_himanis#281483" xml:id="d1e169739" corresp="ordre des cisterciens">Cisterciensis
                         ordinis</orgName> qui in partibus vestris consistunt de novalibus vel de
                     aliis terris quas propriis manibus aut sumptibus excolunt vel de nutrimentis
                     animalium decimas presumant quomodolibet extorquere. Nam si de novalibus
@@ -95,7 +96,7 @@
                     excommunicatos districtius evitari, donec congrue satisfaciant predictis
                     fratribus, cum litteris diocesani episcopi rei veritatem continentibus
                     apostolico se conspectui representetur.</p>
-                <p>Datum <placeName key="stutzmann_himanis#325046" xml:id="d1e169748">Velletri</placeName>,
+                <p>Datum <placeName key="stutzmann_himanis#325046" xml:id="d1e169748" corresp="Velletart">Velletri</placeName>,
                     quarto nonas octobris. </p>
             </body>
         </text>

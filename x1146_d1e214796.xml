@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1146_d1e214796">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1146_d1e214796" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 15@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -49,19 +50,19 @@
             <body>
                 <p>
                     <persName key="d1e17190" xml:id="d1e145618">Eugenius, episcopus</persName>,
-                    servus servorum Dei, dilectis filiis <persName key="d1e17196" xml:id="d1e145621">Guillelmo, abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145623">Fontaneto</orgName>
+                    servus servorum Dei, dilectis filiis <persName key="d1e17196" xml:id="d1e145621">Guillelmo, abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145623" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>
                     </persName>, ejusque fratribus salutem et apostolicam benedictionem. Quae a
                     fratribus nostris episcopis et ecclesiarum Dei rectoribus pro religiosorum
                     quiete rationabili providentia statuta esse cognoscimus, in sua debemus
                     stabilitate firmare ne pravorum hominum refragatio ea in posterum valeat
-                    perturbare. Compositionem itaque, quam frater noster <persName key="stutzmann_himanis#324654" xml:id="d1e145626">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e145628">Eduensis</placeName>
-                        episcopus</persName> inter vos et canonicos <orgName key="stutzmann_himanis#283960" xml:id="d1e145632">Hungiacenses</orgName> de finibus <placeName key="stutzmann_himanis#324990" xml:id="d1e145635">Puteoli</placeName> et <placeName key="stutzmann_himanis#325115" xml:id="d1e145638">Casseneti</placeName>, de <placeName key="stutzmann_himanis#325121" xml:id="d1e145642">faiso Sanctae Reginae</placeName> et
-                        <placeName key="stutzmann_himanis#325124" xml:id="d1e145645">foresta
-                        Hileranni</placeName> et de <placeName key="stutzmann_himanis#325287" xml:id="d1e145648">Frimasio</placeName>, pacis intuitu rationabiliter fecit
+                    perturbare. Compositionem itaque, quam frater noster <persName key="stutzmann_himanis#324654" xml:id="d1e145626" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e145628" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName> inter vos et canonicos <orgName key="stutzmann_himanis#283960" xml:id="d1e145632" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Hungiacenses</orgName> de finibus <placeName key="stutzmann_himanis#324990" xml:id="d1e145635" corresp="Puteoli">Puteoli</placeName> et <placeName key="stutzmann_himanis#325115" xml:id="d1e145638" corresp="desertum Casseneti">Casseneti</placeName>, de <placeName key="stutzmann_himanis#325121" xml:id="d1e145642" corresp="faiso Sanctae Reginae">faiso Sanctae Reginae</placeName> et
+                        <placeName key="stutzmann_himanis#325124" xml:id="d1e145645" corresp="foresta Hileranni">foresta
+                        Hileranni</placeName> et de <placeName key="stutzmann_himanis#325287" xml:id="d1e145648" corresp="Frimasio">Frimasio</placeName>, pacis intuitu rationabiliter fecit
                     et scripto suo firmavit, nos presentis decreti pagina confirmamus et ratam
                     manere censemus. Si quis autem hujus nostrae confirmationis paginam sciens
                     contra eam temere venire presumpserit, indignationem omnipotentis Dei et
-                    beatorum Petri et Pauli apostolorum ejus incurrat. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145651">Viterbi</placeName>
+                    beatorum Petri et Pauli apostolorum ejus incurrat. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145651" corresp="Viterbe">Viterbi</placeName>
                     <app>
                         <lem wit="#B">undecimo</lem>
                         <rdg wit="#a">VI°</rdg>

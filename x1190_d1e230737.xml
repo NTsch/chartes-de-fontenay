@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1190_d1e230737">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1190_d1e230737" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 121@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -34,43 +35,43 @@
         </teiHeader>
         <text>
             <body>
-                <p>Notum sit omnibus tam presentibus quam futuris quod ego <persName key="d1e25479" xml:id="d1e157706">Rainaudus abbas <orgName key="stutzmann_himanis#284217" xml:id="d1e157708">Flaviniaci</orgName>
+                <p>Notum sit omnibus tam presentibus quam futuris quod ego <persName key="d1e25479" xml:id="d1e157706">Rainaudus abbas <orgName key="stutzmann_himanis#284217" xml:id="d1e157708" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniaci</orgName>
                     </persName>, consilio et <surplus>et</surplus> assensu seniorum et
-                    obedientialium ecclesie nostre invadiavimus fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157714">Fonteneto</orgName> quicquid juris
-                    habebamus in territorio qui dicitur <placeName key="stutzmann_himanis#324910" xml:id="d1e157717">
+                    obedientialium ecclesie nostre invadiavimus fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157714" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid juris
+                    habebamus in territorio qui dicitur <placeName key="stutzmann_himanis#324910" xml:id="d1e157717" corresp="Jugny (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Juigne</foreign>
                     </placeName> tam in bosco quam in plano pro <num>l</num> libris proviniensium,
-                    pasturas et pastiones preter tenementum <persName key="d1e25485" xml:id="d1e157725">prioris de <placeName key="stutzmann_himanis#324425" xml:id="d1e157727">Cancellis</placeName>
+                    pasturas et pastiones preter tenementum <persName key="d1e25485" xml:id="d1e157725">prioris de <placeName key="stutzmann_himanis#324425" xml:id="d1e157727" corresp="Chanceaux (Côte-d'Or, Is-sur-Tille)">Cancellis</placeName>
                     </persName> et tenementum hominum nostrorum prata videlicet et terras quibus in
                     presenti investiti erant et preter usum forestarii. Prior autem jamdictus
                     singulis annis si voluerit <num>xv</num> porcos in pastione mittere poterit,
-                    homines vero nostri nulos. Fratres autem <orgName key="stutzmann_himanis#282689" xml:id="d1e157736">Fonteneti</orgName> in bosco et in plano arare et
+                    homines vero nostri nulos. Fratres autem <orgName key="stutzmann_himanis#282689" xml:id="d1e157736" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in bosco et in plano arare et
                     excolere et omnes aasentias suas sine ulla costuma reddendo facere poterunt.
                     Aasentias nichilominus ecclesie nostre proprie ibi retinuimus, excepto quod dare
                     aut vendere non poterimus. Et sciendum quod gageria ista infra <num>v<hi rend="superscript">e</hi>
                     </num> annos redimi non poterit. Deinde vero de martia in
-                        ma<supplied>r</supplied>tium. Huic rei interfuerunt isti : <persName key="d1e25491" xml:id="d1e157747">Odo prior <orgName key="stutzmann_himanis#324490" xml:id="d1e157749">Belli Loci</orgName>
+                        ma<supplied>r</supplied>tium. Huic rei interfuerunt isti : <persName key="d1e25491" xml:id="d1e157747">Odo prior <orgName key="stutzmann_himanis#324490" xml:id="d1e157749" corresp="abbaye de Beaulieu (Haute-Marne)">Belli Loci</orgName>
                     </persName>, <persName key="d1e25497" xml:id="d1e157753">Johannes
                         decanus</persName>, <persName key="d1e25503" xml:id="d1e157756">Petrus
-                        subprior et sacrista</persName>, <persName key="d1e25509" xml:id="d1e157759">Hugo <addName>Piscis</addName> camerarius</persName>, <persName key="d1e25516" xml:id="d1e157765">Hugo prior <placeName key="stutzmann_himanis#324368" xml:id="d1e157767">Semuri</placeName>
-                    </persName>, <persName key="d1e25522" xml:id="d1e157770">Herveius de <orgName key="stutzmann_himanis#283938" xml:id="d1e157772">Monte Sancti Johannis</orgName>
+                        subprior et sacrista</persName>, <persName key="d1e25509" xml:id="d1e157759">Hugo <addName>Piscis</addName> camerarius</persName>, <persName key="d1e25516" xml:id="d1e157765">Hugo prior <placeName key="stutzmann_himanis#324368" xml:id="d1e157767" corresp="Semur-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Semuri</placeName>
+                    </persName>, <persName key="d1e25522" xml:id="d1e157770">Herveius de <orgName key="stutzmann_himanis#283938" xml:id="d1e157772" corresp="abbaye Saint-Jean de Réôme ou Moutier-Saint-Jean (440 -)">Monte Sancti Johannis</orgName>
                     </persName>, <persName key="d1e25528" xml:id="d1e157775">Petrus
                         elemosinarius</persName>, <persName key="d1e25534" xml:id="d1e157779">Drogo
-                        prior de <placeName key="stutzmann_himanis#324459" xml:id="d1e157781">
+                        prior de <placeName key="stutzmann_himanis#324459" xml:id="d1e157781" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grinum</foreign>
                         </placeName>
                     </persName>, <persName key="d1e25540" xml:id="d1e157785">Stephanus
                         cantor</persName>, <persName key="d1e25546" xml:id="d1e157788">Petrus de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e157790">
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e157790" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Buxi</foreign>
                         </placeName>
                     </persName>
                     <hi rend="background(green)">, <persName key="d1e25553" xml:id="d1e157795">Petrus notarius <persName key="d1e25559" xml:id="d1e157797">abbatis</persName>
                         </persName>, frater <persName key="d1e25565" xml:id="d1e157800">Phylippus de
                                 Fonten<supplied>eto</supplied>
-                        </persName>, <persName key="d1e25571" xml:id="d1e157805">Humbertus</persName> et <persName key="d1e25577" xml:id="d1e157808">Andreas</persName> cellerarii, frater <persName key="d1e25583" xml:id="d1e157811">Hugo de <placeName key="stutzmann_himanis#324370" xml:id="d1e157813">Tullione</placeName>
+                        </persName>, <persName key="d1e25571" xml:id="d1e157805">Humbertus</persName> et <persName key="d1e25577" xml:id="d1e157808">Andreas</persName> cellerarii, frater <persName key="d1e25583" xml:id="d1e157811">Hugo de <placeName key="stutzmann_himanis#324370" xml:id="d1e157813" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
                         </persName>, frater <persName key="d1e25590" xml:id="d1e157817">Rainaudus
-                            magister <placeName key="stutzmann_himanis#324990" xml:id="d1e157819">Puteoli</placeName>
+                            magister <placeName key="stutzmann_himanis#324990" xml:id="d1e157819" corresp="Puteoli">Puteoli</placeName>
                         </persName>.</hi> Actum anno incarnationis Domini <num>m°</num>
                     <num>c°</num> nonagesimo.</p>
             </body>

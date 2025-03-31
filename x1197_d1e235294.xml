@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1197_d1e235294">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1197_d1e235294" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 164@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,24 +37,24 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e160902">Galterius, Dei permissione
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e160904">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e160902" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei permissione
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e160904" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, universis presentibus et futuris notum facimus quod
                         <persName key="d1e27057" xml:id="d1e160908">predecessor noster Stephanus
-                        felicis memorie</persName> monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e160911">Fonteneti</orgName> ad quatuor refectiones fratrum
+                        felicis memorie</persName> monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e160911" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ad quatuor refectiones fratrum
                     singulis annis faciendas nomine elemosine donavit in perpetuum piscaturam in suo
-                    stagno de <placeName key="stutzmann_himanis#324370" xml:id="d1e160914">Tullione</placeName> duabus precedentibus diebus et noctibus ante predictas
+                    stagno de <placeName key="stutzmann_himanis#324370" xml:id="d1e160914" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName> duabus precedentibus diebus et noctibus ante predictas
                     refectiones agendam et dimidium modium frumenti in duobus molendinis ejusdem
                     stagni annuatim ebdomada ante natalem Domini percipiendum, nos igitur hujus
                     elemosine donationem ratem habentes ad ejus confirmationem nostrum sigillum
-                    duximus apponendum. Testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e160917">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e160919">Tullionis</placeName>
+                    duximus apponendum. Testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e160917" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e160919" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e27063" xml:id="d1e160923">Haymo archipresbiter
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e160925">Eduensis</placeName>
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e160925" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                     </persName>, <persName key="d1e27070" xml:id="d1e160928">magister Galterus de
                             <placeName key="stutzmann_himanis#325034" xml:id="d1e160930">Tylio</placeName>
                     </persName>, <persName key="d1e27076" xml:id="d1e160933">magister Rodulphus de
-                            <placeName key="stutzmann_himanis#325269" xml:id="d1e160935">Esiaco</placeName>
-                    </persName>. Datum apud <placeName key="stutzmann_himanis#324470" xml:id="d1e160938">Luccennacum castrum</placeName> anno ab incarnatione Domini <num>m° c° xc°
+                            <placeName key="stutzmann_himanis#325269" xml:id="d1e160935" corresp="Esiaco">Esiaco</placeName>
+                    </persName>. Datum apud <placeName key="stutzmann_himanis#324470" xml:id="d1e160938" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Luccennacum castrum</placeName> anno ab incarnatione Domini <num>m° c° xc°
                         vii°</num>.</p>
             </body>
         </text>

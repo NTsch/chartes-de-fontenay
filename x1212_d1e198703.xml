@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e198703">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e198703" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1126</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -86,24 +87,24 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0021.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0021.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Universis ad quos presentes littere pervenerint, frater <persName key="d1e12750" xml:id="d1e134660">A. dictus abbas <orgName key="stutzmann_himanis#282500" xml:id="d1e134662">Cistercii</orgName>
-                        </persName> salutem <lb n="2"/> in summo salutari. Cum sepe fratres nostri
-                        de <orgName key="stutzmann_himanis#284222" xml:id="d1e134667">Firmitate</orgName>
-                        diuturnam exposu<lb n="3" break="no"/>issent querimoniam de fratribus
-                        nostris <orgName key="stutzmann_himanis#282689" xml:id="d1e134672">Fonteneti</orgName>, capitulo generali super quinde<lb n="4" break="no"/>cim jugeribus terre que fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134678">Fonteneto</orgName> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134681">Belnam</placeName> injuste
-                        occupare <lb n="5"/> dicebant cum sibi competerent de elemosina <persName key="stutzmann_himanis#324624" xml:id="d1e134686">O. nobilis ducis <placeName key="stutzmann_himanis#325098" xml:id="d1e134688">Burgundie</placeName>
-                        </persName>, <lb n="6"/> nos tandem de voluntate capituli generalis <add place="above" hand="eademmanu">eandem querelam</add> suscepimus
-                        terminandam. Partibus <lb n="7"/> itaque apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134699">Belnam</placeName> convocatis et
-                        rei veritate tam per ducem quam per alios diligen<lb n="8" break="no"/>tissime inquisita et inventa, de consensu parcium et nostro assensu,
-                        fratribus <lb n="9"/> nostris de <orgName key="stutzmann_himanis#284222" xml:id="d1e134706">Firmitate</orgName> dederunt quinquaginta libras
-                        fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134710">Fonteneto</orgName> et illi <lb n="10"/> querelam hanc in perpetuum
-                        quitaverunt. In hujus rei memoriam presentem car<lb n="11" break="no"/>tam
+                                        <p>Universis ad quos presentes littere pervenerint, frater <persName key="d1e12750" xml:id="d1e134660">A. dictus abbas <orgName key="stutzmann_himanis#282500" xml:id="d1e134662" corresp="abbaye Notre-Dame de Cîteaux">Cistercii</orgName>
+                        </persName> salutem <lb n="2" /> in summo salutari. Cum sepe fratres nostri
+                        de <orgName key="stutzmann_himanis#284222" xml:id="d1e134667" corresp="abbaye de la Ferté-sur-Grosne (1113 -)">Firmitate</orgName>
+                        diuturnam exposu<lb n="3" break="no" />issent querimoniam de fratribus
+                        nostris <orgName key="stutzmann_himanis#282689" xml:id="d1e134672" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, capitulo generali super quinde<lb n="4" break="no" />cim jugeribus terre que fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134678" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134681" corresp="Beaune (Côte-d'Or)">Belnam</placeName> injuste
+                        occupare <lb n="5" /> dicebant cum sibi competerent de elemosina <persName key="stutzmann_himanis#324624" xml:id="d1e134686" corresp="Eudes III, duc de Bourgogne (1192-1218)">O. nobilis ducis <placeName key="stutzmann_himanis#325098" xml:id="d1e134688" corresp="Bourgogne">Burgundie</placeName>
+                        </persName>, <lb n="6" /> nos tandem de voluntate capituli generalis <add place="above" hand="eademmanu">eandem querelam</add> suscepimus
+                        terminandam. Partibus <lb n="7" /> itaque apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134699" corresp="Beaune (Côte-d'Or)">Belnam</placeName> convocatis et
+                        rei veritate tam per ducem quam per alios diligen<lb n="8" break="no" />tissime inquisita et inventa, de consensu parcium et nostro assensu,
+                        fratribus <lb n="9" /> nostris de <orgName key="stutzmann_himanis#284222" xml:id="d1e134706" corresp="abbaye de la Ferté-sur-Grosne (1113 -)">Firmitate</orgName> dederunt quinquaginta libras
+                        fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134710" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> et illi <lb n="10" /> querelam hanc in perpetuum
+                        quitaverunt. In hujus rei memoriam presentem car<lb n="11" break="no" />tam
                         sigillo nostro fecimus consignari. Actum anno gratie <num>m° cc°
                         xii°</num>.</p>
                 

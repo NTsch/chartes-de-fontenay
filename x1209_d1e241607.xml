@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241607">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e241607" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 253@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -37,22 +38,22 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e165357">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e165360">Fonteneto</orgName> salutem et
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e165357" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e165360" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> salutem et
                     apostolicam benedictionem. Justis petentium desideriis dignum est nos facilem
                     prebere assensum et etiam quae a rationis tramite non discordant effectu
                     prosequente complere. Ea propter dilecti in Domino filii vestris justis
                     postulationibus grato concurrentes assensu, terras et usuagia quae dilectus
-                    filius nobilis vir <persName key="stutzmann_himanis#324624" xml:id="d1e165363">Odo dux
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e165365">Burgundiae</placeName>
-                    </persName><note>Eudes III de Bourgogne </note> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e165368">Bernam</placeName>, <placeName key="stutzmann_himanis#324345" xml:id="d1e165371">
+                    filius nobilis vir <persName key="stutzmann_himanis#324624" xml:id="d1e165363" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo dux
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e165365" corresp="Bourgogne">Burgundiae</placeName>
+                    </persName><note>Eudes III de Bourgogne </note> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e165368" corresp="Beaune (Côte-d'Or)">Bernam</placeName>, <placeName key="stutzmann_himanis#324345" xml:id="d1e165371" corresp="Pommard (Côte-d'Or, Ladoix-Serrigny)">
                         <foreign>Pomart</foreign>
                     </placeName> et aliis locis donavit, sicut ea juste ac pacifice possidetis,
                     authoritate apostolica vobis confirmamus et presentis scripti patrocinio
                     communimus. Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis
                     infringere vel ei aussi temerario contraire si quis autem hoc attemptare
                     presumpserit indignationem omnipotentis Dei et beatorum Petri et Pauli
-                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e165375">Viterbii</placeName>, decimo calendas octobris,
+                    apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e165375" corresp="Viterbe">Viterbii</placeName>, decimo calendas octobris,
                     pontificatus nostri anno duodecimo.</p>
             </body>
         </text>

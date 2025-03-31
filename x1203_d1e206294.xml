@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e206294">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1203_d1e206294" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2335</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -76,49 +77,49 @@
                     <date type="documentCreation" when="1203-12-31">1203</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_328_0010.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_328_0011.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0010.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0011.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="d1e14335" xml:id="d1e139734">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139736">Autisiod<supplied>ori</supplied>
-                            </placeName> comes et <placeName key="stutzmann_himanis#101449" xml:id="d1e139741">Torno<supplied>dori</supplied>
+                                        <p>Ego <persName key="d1e14335" xml:id="d1e139734">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139736" corresp="Auxerre (Yonne, Auxerre)">Autisiod<supplied>ori</supplied>
+                            </placeName> comes et <placeName key="stutzmann_himanis#101449" xml:id="d1e139741" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Torno<supplied>dori</supplied>
                             </placeName>
                         </persName>, notum facio tam presentibus quam futuris presens scriptum
                         inspecturi quod <persName key="d1e14341" xml:id="d1e139746">Aroldus
                                 <addName>Grossus</addName>
                         </persName>
-                        <lb n="2"/> et <persName key="d1e14347" xml:id="d1e139752">Pasca</persName>
-                        uxor ejus dederunt in elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139755">Fontenenti</orgName> quamdam vineam que sita est in
+                        <lb n="2" /> et <persName key="d1e14347" xml:id="d1e139752">Pasca</persName>
+                        uxor ejus dederunt in elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139755" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenenti</orgName> quamdam vineam que sita est in
                         valle de <unclear>
-                            <placeName key="stutzmann_himanis#324471" xml:id="d1e139759">Luine</placeName>
+                            <placeName key="stutzmann_himanis#324471" xml:id="d1e139759" corresp="Lugny (Côte-d'Or, Châtillon-sur-Seine)">Luine</placeName>
                             <note>ADCO 15 H 3 lit <q>la vallée de Luine</q>
                             </note> juxta</unclear>
-                        <lb n="3"/> viam que ducit <placeName key="stutzmann_himanis#325118" xml:id="d1e139769">
+                        <lb n="3" /> viam que ducit <placeName key="stutzmann_himanis#325118" xml:id="d1e139769" corresp="d’Espinuel">
                             <foreign>d’Espinuel</foreign>
-                        </placeName> usque ad <placeName key="stutzmann_himanis#325022" xml:id="d1e139773">Sanctum Martinum</placeName> et campum <placeName key="stutzmann_himanis#325113" xml:id="d1e139776">
+                        </placeName> usque ad <placeName key="stutzmann_himanis#325022" xml:id="d1e139773" corresp="Sanctum Martinum">Sanctum Martinum</placeName> et campum <placeName key="stutzmann_himanis#325113" xml:id="d1e139776" corresp="del Larriz">
                             <foreign>del Larriz</foreign>
-                        </placeName> juxta eandem vineam qui partitur terram <lb n="4"/>
-                        <placeName key="stutzmann_himanis#325011" xml:id="d1e139781">Sancti
-                            Martini</placeName> et terram que est juxta viam que ducit ad <placeName key="stutzmann_himanis#324984" xml:id="d1e139785">Pontem de Mahia</placeName>.
-                        Propter hoc beneficium predicti <persName key="d1e14353" xml:id="d1e139788">Arol<lb n="5" break="no"/>dus <addName>Grossus</addName>
+                        </placeName> juxta eandem vineam qui partitur terram <lb n="4" />
+                        <placeName key="stutzmann_himanis#325011" xml:id="d1e139781" corresp="Sancti Martini">Sancti
+                            Martini</placeName> et terram que est juxta viam que ducit ad <placeName key="stutzmann_himanis#324984" xml:id="d1e139785" corresp="Pontem de Mahia">Pontem de Mahia</placeName>.
+                        Propter hoc beneficium predicti <persName key="d1e14353" xml:id="d1e139788">Arol<lb n="5" break="no" />dus <addName>Grossus</addName>
                         </persName> et <persName key="d1e14360" xml:id="d1e139795">Pasca</persName>
-                        uxor ejus de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139798">Fonteneti</orgName> centum et viginti libras
-                        provinensium habuerunt. Quod ut <lb n="6"/> ratum imperpetuum habeatur, ego
-                            <persName key="d1e14366" xml:id="d1e139803">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139805">Autisiod.</placeName> comes
-                            et <placeName key="stutzmann_himanis#101449" xml:id="d1e139808">Tornod.</placeName>
+                        uxor ejus de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139798" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> centum et viginti libras
+                        provinensium habuerunt. Quod ut <lb n="6" /> ratum imperpetuum habeatur, ego
+                            <persName key="d1e14366" xml:id="d1e139803">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139805" corresp="Auxerre (Yonne, Auxerre)">Autisiod.</placeName> comes
+                            et <placeName key="stutzmann_himanis#101449" xml:id="d1e139808" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornod.</placeName>
                         </persName>, contra omnes <unclear>garentiam</unclear>
-                        <lb n="7"/> promisi et ad petitionem supradictorum presentem paginam sigilli
+                        <lb n="7" /> promisi et ad petitionem supradictorum presentem paginam sigilli
                         mei munimine <damage>
-                            <gap/>
-                        </damage>. <lb n="8"/> Actum est anno gratie <figure rend="trait"/>.
-                        millesimo . <figure rend="trait"/>ducentesimo . <figure rend="trait"/>tercio.</p>
+                            <gap />
+                        </damage>. <lb n="8" /> Actum est anno gratie <figure rend="trait" />.
+                        millesimo . <figure rend="trait" />ducentesimo . <figure rend="trait" />tercio.</p>
                 
             </body>
         </text>

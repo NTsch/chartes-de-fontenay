@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e196555">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1201_d1e196555" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 775</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -85,20 +86,20 @@
                     <date type="documentCreation" when="1201-12-31">1201</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0010.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0011.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0010.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0011.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e133292">Galterius, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e133294">Eduensis</placeName> episcopus</persName>, notum facio presentibus
-                            <lb n="2"/> et futuris quod <persName key="d1e12442" xml:id="d1e133300">Galterus <addName>Bachiardus</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133305">
+                                        <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e133292" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e133294" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio presentibus
+                            <lb n="2" /> et futuris quod <persName key="d1e12442" xml:id="d1e133300">Galterus <addName>Bachiardus</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133305" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">
                                 <foreign>
                                     <app>
                                         <lem wit="#A">Lucennay</lem>
@@ -106,62 +107,62 @@
                                     </app>
                                 </foreign>
                             </placeName>
-                        </persName> donavit ec<lb n="3" break="no"/>clesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133315">Fonteneti</orgName>
+                        </persName> donavit ec<lb n="3" break="no" />clesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133315" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         <sic>im</sic> perpetuam <app>
                             <lem wit="#A">helemosinam</lem>
                             <rdg wit="#B">elemosinam</rdg>
-                        </app> quicquid habebat <lb n="4"/> in territorio de <placeName key="stutzmann_himanis#324346" xml:id="d1e133329">
+                        </app> quicquid habebat <lb n="4" /> in territorio de <placeName key="stutzmann_himanis#324346" xml:id="d1e133329" corresp="Puce (La) (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>
                                 <app>
                                     <lem wit="#A">Pucce</lem>
                                     <rdg wit="#B">Puce</rdg>
                                 </app>
                             </foreign>
-                        </placeName> et quicquid possidebat infra metas fina<lb n="5" break="no"/>gii de <placeName key="stutzmann_himanis#324375" xml:id="d1e133339">
+                        </placeName> et quicquid possidebat infra metas fina<lb n="5" break="no" />gii de <placeName key="stutzmann_himanis#324375" xml:id="d1e133339" corresp="Verdonnet (Côte-d'Or, Montbard)">
                             <foreign>Verdonai</foreign>
-                        </placeName>, preter tria parva prata infra finagium de <lb n="6"/>
-                        <placeName key="stutzmann_himanis#324375" xml:id="d1e133345">
+                        </placeName>, preter tria parva prata infra finagium de <lb n="6" />
+                        <placeName key="stutzmann_himanis#324375" xml:id="d1e133345" corresp="Verdonnet (Côte-d'Or, Montbard)">
                             <foreign>Verdonai</foreign>
-                        </placeName> sita, que sub censu trium denariorum <orgName key="stutzmann_himanis#282689" xml:id="d1e133349">Fonteneten<lb n="7" break="no"/>sibus</orgName> annuatim reddendo sibi et heredibus suis retinuit.
-                            Ter<lb n="8" break="no"/>ras vero illas quas prefatus <persName key="d1e12448" xml:id="d1e133356">Galterus</persName> infra
-                        suprascriptas metas <lb n="9"/> tunc tenebat pro quibus annuatim <orgName key="stutzmann_himanis#282689" xml:id="d1e133361">Fontenetensibus</orgName>
-                        tercias persol<lb n="10" break="no"/>vebat, salvis eisdem terciis domui
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e133367">Fontenetensium</orgName> per<lb n="11" break="no"/>solvendis, in vita
-                        sua tantummodo possidebit et post obitum <lb n="12"/> jamdicti <persName key="d1e12454" xml:id="d1e133374">Galteri</persName> absque ulla
-                        reclamatione et retentione <lb n="13"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e133379">Fontenetenses</orgName>
-                        easdem terras ita libere possidebunt, quod <lb n="14"/> nec ipse <persName key="d1e12460" xml:id="d1e133384">Galterus</persName> nec aliquis
-                        heredum suorum valeat quippiam ibi <lb n="15"/> amplius vendicare vel
-                        reclamare. Hoc totum laudave<lb n="16" break="no"/>runt <persName key="d1e12466" xml:id="d1e133391">Alana, uxor predicti <persName key="d1e12473" xml:id="d1e133393">Galteri</persName>
-                        </persName>, et filii eorumdem, <persName key="d1e12479" xml:id="d1e133397">Cons<lb n="17" break="no"/>tantius</persName> et <persName key="d1e12485" xml:id="d1e133402">Robertus</persName>. Quorum quatuor
-                        rogatu et mandato, <lb n="18"/> ego <persName key="stutzmann_himanis#324610" xml:id="d1e133407">Galterius, Eduensis episcopus</persName>, hec ut
-                        perpetuo inconvulsa <lb n="19"/> permaneant, sigilli mei munimine roboravi.
-                        Unde tes<lb n="20" break="no"/>tes sunt <persName key="d1e12491" xml:id="d1e133415">Andreas, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e133417">Fonteneti</orgName>
-                        </persName>, <persName key="d1e12497" xml:id="d1e133420">Laurentius, ca<lb n="21" break="no"/>pellanus de <placeName key="stutzmann_himanis#324463" xml:id="d1e133424">
+                        </placeName> sita, que sub censu trium denariorum <orgName key="stutzmann_himanis#282689" xml:id="d1e133349" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneten<lb n="7" break="no" />sibus</orgName> annuatim reddendo sibi et heredibus suis retinuit.
+                            Ter<lb n="8" break="no" />ras vero illas quas prefatus <persName key="d1e12448" xml:id="d1e133356">Galterus</persName> infra
+                        suprascriptas metas <lb n="9" /> tunc tenebat pro quibus annuatim <orgName key="stutzmann_himanis#282689" xml:id="d1e133361" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName>
+                        tercias persol<lb n="10" break="no" />vebat, salvis eisdem terciis domui
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e133367" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensium</orgName> per<lb n="11" break="no" />solvendis, in vita
+                        sua tantummodo possidebit et post obitum <lb n="12" /> jamdicti <persName key="d1e12454" xml:id="d1e133374">Galteri</persName> absque ulla
+                        reclamatione et retentione <lb n="13" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e133379" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
+                        easdem terras ita libere possidebunt, quod <lb n="14" /> nec ipse <persName key="d1e12460" xml:id="d1e133384">Galterus</persName> nec aliquis
+                        heredum suorum valeat quippiam ibi <lb n="15" /> amplius vendicare vel
+                        reclamare. Hoc totum laudave<lb n="16" break="no" />runt <persName key="d1e12466" xml:id="d1e133391">Alana, uxor predicti <persName key="d1e12473" xml:id="d1e133393">Galteri</persName>
+                        </persName>, et filii eorumdem, <persName key="d1e12479" xml:id="d1e133397">Cons<lb n="17" break="no" />tantius</persName> et <persName key="d1e12485" xml:id="d1e133402">Robertus</persName>. Quorum quatuor
+                        rogatu et mandato, <lb n="18" /> ego <persName key="stutzmann_himanis#324610" xml:id="d1e133407" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Eduensis episcopus</persName>, hec ut
+                        perpetuo inconvulsa <lb n="19" /> permaneant, sigilli mei munimine roboravi.
+                        Unde tes<lb n="20" break="no" />tes sunt <persName key="d1e12491" xml:id="d1e133415">Andreas, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e133417" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        </persName>, <persName key="d1e12497" xml:id="d1e133420">Laurentius, ca<lb n="21" break="no" />pellanus de <placeName key="stutzmann_himanis#324463" xml:id="d1e133424" corresp="Jours-lès-Baigneux (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Jors</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12503" xml:id="d1e133428">frater Bernardus,
-                            magister de <placeName key="stutzmann_himanis#324449" xml:id="d1e133430">
+                            magister de <placeName key="stutzmann_himanis#324449" xml:id="d1e133430" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e12510" xml:id="d1e133434">frater Do<lb n="22" break="no"/>minicus, magister de <placeName key="stutzmann_himanis#324488" xml:id="d1e133438">
+                        </persName>, <persName key="d1e12510" xml:id="d1e133434">frater Do<lb n="22" break="no" />minicus, magister de <placeName key="stutzmann_himanis#324488" xml:id="d1e133438" corresp="Émorots (Côte-d'Or, Châtillon-sur-Seine)">
                                 <app>
                                     <lem wit="#A">Moraus</lem>
                                     <rdg wit="#B">Moraux</rdg>
                                 </app>
                             </placeName>
                         </persName>, <persName key="d1e12516" xml:id="d1e133445">Christianus de
-                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133447">
+                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133447" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e12522" xml:id="d1e133451">Rainaudus <lb n="23"/> de <placeName key="stutzmann_himanis#324449" xml:id="d1e133455">
+                        </persName>, <persName key="d1e12522" xml:id="d1e133451">Rainaudus <lb n="23" /> de <placeName key="stutzmann_himanis#324449" xml:id="d1e133455" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Estormer</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12528" xml:id="d1e133460">
                             <app>
                                 <lem wit="#A">Thecelinus</lem>
                                 <rdg wit="#B">Tecelinus</rdg>
-                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133467">
+                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133467" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">
                                 <foreign>Lucennai</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12534" xml:id="d1e133471">
@@ -169,14 +170,14 @@
                                 <lem wit="#A">Theobaldus</lem>
                                 <rdg wit="#B">Teobaldus.</rdg>
                             </app>
-                            <lb n="24"/>
+                            <lb n="24" />
                             <addName>
                                 <app>
                                     <lem wit="#A">Barengerius</lem>
                                     <rdg wit="#A">Berengerius</rdg>
                                 </app>
                             </addName>
-                        </persName>. Actum anno incarnationis dominice <lb n="25"/>
+                        </persName>. Actum anno incarnationis dominice <lb n="25" />
                         <num>
                             <app>
                                 <lem wit="#A">millesimo ducentesimo primo</lem>

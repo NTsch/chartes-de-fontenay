@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1142-09-01_d1e212901">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1142-09-01_d1e212901" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 8@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -64,41 +65,27 @@
         <text>
             <body>
                 <p>Per hujus cyrographi testimonium nostre posteritati notificare curamus quod
-                    <persName key="stutzmann_himanis#324659"
-                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Willermus abbas
-                        <orgName key="stutzmann_himanis#282689"
-                        corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
-                </persName> et <persName key="stutzmann_himanis#325478"
-                    corresp="Constantin, abbé d'Oigny (fl. 1142)">Constantinus abbas <orgName
-                        key="stutzmann_himanis#283960"
-                        corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
-                        >Ongiaci</orgName>
-                </persName> ambo reverentissimi viri preceptione domini <persName
-                    key="stutzmann_himanis#324654"
-                    corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humberti venerabilis
-                        <placeName key="stutzmann_himanis#319548"
-                        corresp="Autun (Saône-et-Loire, Autun)">Eduorum</placeName>
-                    episcopi</persName> in <persName key="stutzmann_himanis#324672"
-                    corresp="Obert, prieur de Saint-Symphorien (av.1139-av.1151)">Obertum priorem
-                        <orgName key="stutzmann_himanis#281890"
-                        corresp="prieuré Saint-Symphorien d'Autun (1001 -)">Sancti
+                    <persName key="stutzmann_himanis#324659" corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Willermus abbas
+                        <orgName key="stutzmann_himanis#282689" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                </persName> et <persName key="stutzmann_himanis#325478" corresp="Constantin, abbé d'Oigny (fl. 1142)">Constantinus abbas <orgName key="stutzmann_himanis#283960" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ongiaci</orgName>
+                </persName> ambo reverentissimi viri preceptione domini <persName key="stutzmann_himanis#324654" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humberti venerabilis
+                        <placeName key="stutzmann_himanis#319548" corresp="Autun (Saône-et-Loire, Autun)">Eduorum</placeName>
+                    episcopi</persName> in <persName key="stutzmann_himanis#324672" corresp="Obert, prieur de Saint-Symphorien (av.1139-av.1151)">Obertum priorem
+                        <orgName key="stutzmann_himanis#281890" corresp="prieuré Saint-Symphorien d'Autun (1001 -)">Sancti
                         Symphoriani</orgName>
-                </persName> et <persName key="stutzmann_himanis#325480"
-                    corresp="Jean, sénéchal de l'évêque d'Autun (fl. 1142)">Johannem dapiferum
+                </persName> et <persName key="stutzmann_himanis#325480" corresp="Jean, sénéchal de l'évêque d'Autun (fl. 1142)">Johannem dapiferum
                     ejusdem pontificis</persName> compromissionem fecerunt ut de querimoniis diu
                 inter eos habitis quicquid ipsi diffinirent concederent, firmiterque tenerent.
-                Diffinitum est ab eis de <placeName key="stutzmann_himanis#325114"
-                    xml:id="d1e144375">deserto Frimasii</placeName> ut domunculas quasdam ibidem
+                Diffinitum est ab eis de <placeName key="stutzmann_himanis#325114" xml:id="d1e144375" corresp="deserto Frimasii">deserto Frimasii</placeName> ut domunculas quasdam ibidem
                 edificatas cum appenditiis, orto scilicet et viridario clausurisque quibus sepiuntur
-                ecclesia <orgName key="stutzmann_himanis#283960" xml:id="d1e144378"
-                    >Ungiaci</orgName> ut suas possideat. Aliud deserti territorium adquisitum vel
+                ecclesia <orgName key="stutzmann_himanis#283960" xml:id="d1e144378" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName> ut suas possideat. Aliud deserti territorium adquisitum vel
                 quoquomodo possit adquiri per medietatem utraque ecclesia teneat. Et si pecunia pro
                 adquirendis rebus ejusdem territorii data fuerit per medium solvatur jus utriusque
                 communicetur. Calumpnia si qua, quod absit, aliunde emerserit, abbas uterque
                 causetur. Quorum alter impedimento distractus si interesse cause non poterit, alius
                 pro eo tanquam pro se agat et quod in adquirendo miserit<app>
                     <lem>
-                        <lacunaStart wit="#B"/>
+                        <lacunaStart wit="#B" />
                     </lem>
                 </app>
             </p>

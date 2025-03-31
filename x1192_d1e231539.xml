@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e231539">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1192_d1e231539" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 131@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -42,24 +43,24 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e158322">Hugo, Dei gratia dux
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e158324">Burgundiæ</placeName>
-                    </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25892" xml:id="d1e158327">Ludovicus de <placeName key="stutzmann_himanis#324965" xml:id="d1e158329">Arsellis</placeName>
-                    </persName>, veniens in capitulum <orgName key="stutzmann_himanis#282689" xml:id="d1e158332">Fonteneti</orgName> ibi dedit Deo et ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e158335">Fonteneti</orgName> pro redemptione
-                    animæ suæ et antecessorum suorum totum censum quem ei debebant <orgName key="stutzmann_himanis#282689" xml:id="d1e158338">Fontenetenses</orgName> apud
-                        <placeName key="stutzmann_himanis#325060" xml:id="d1e158342">Villenias</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e158322" corresp="Hugues III, duc de Bourgogne (1162-1192)">Hugo, Dei gratia dux
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e158324" corresp="Bourgogne">Burgundiæ</placeName>
+                    </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25892" xml:id="d1e158327">Ludovicus de <placeName key="stutzmann_himanis#324965" xml:id="d1e158329" corresp="Arsellis">Arsellis</placeName>
+                    </persName>, veniens in capitulum <orgName key="stutzmann_himanis#282689" xml:id="d1e158332" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ibi dedit Deo et ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e158335" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro redemptione
+                    animæ suæ et antecessorum suorum totum censum quem ei debebant <orgName key="stutzmann_himanis#282689" xml:id="d1e158338" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> apud
+                        <placeName key="stutzmann_himanis#325060" xml:id="d1e158342" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villenias</placeName>
                     sive in vineis seu in salicibus vel in quibuslibet terris, scilicet <num>V</num>
                     solidos et <num>X</num> denarios et unum sextarium avenæ. Interfuerunt enim eo
-                    in eodem <placeName key="stutzmann_himanis#324453" xml:id="d1e158351">capitulo</placeName>
+                    in eodem <placeName key="stutzmann_himanis#324453" xml:id="d1e158351" corresp="Fontenay (Côte-d'Or, Montbard)">capitulo</placeName>
                     qui hoc audierunt et viderunt <persName key="d1e25898" xml:id="d1e158354">Petrus
-                        presbiter de <placeName key="stutzmann_himanis#325060" xml:id="d1e158356">Villeniis</placeName>
-                    </persName>, <persName key="d1e25904" xml:id="d1e158359">Osbertus de <placeName key="stutzmann_himanis#324462" xml:id="d1e158361">Jocia</placeName>
+                        presbiter de <placeName key="stutzmann_himanis#325060" xml:id="d1e158356" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villeniis</placeName>
+                    </persName>, <persName key="d1e25904" xml:id="d1e158359">Osbertus de <placeName key="stutzmann_himanis#324462" xml:id="d1e158361" corresp="Jeux-lès-Bard (Côte-d'Or, Semur-en-Auxois)">Jocia</placeName>
                     </persName>, <persName key="d1e25910" xml:id="d1e158365">Rainaudus filius
-                            <persName key="d1e25916" xml:id="d1e158367">majoris <placeName key="stutzmann_himanis#325060" xml:id="d1e158369">Villeniarum</placeName>
+                            <persName key="d1e25916" xml:id="d1e158367">majoris <placeName key="stutzmann_himanis#325060" xml:id="d1e158369" corresp="Villaines (les-Prévôtes ou -en-Duesmois) (Côte d'Or, Montbard)">Villeniarum</placeName>
                         </persName>
                     </persName>, <persName key="d1e25923" xml:id="d1e158372">Fromaldus famulus
                         predicti <persName key="d1e25929" xml:id="d1e158374">Ludovici</persName>
-                    </persName>. Ne quis igitur predictos fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158377">Fonteneti</orgName> de hoc in posterum perturbare
+                    </persName>. Ne quis igitur predictos fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158377" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de hoc in posterum perturbare
                     presumat, ego de cujus casamento ille census erat, hanc elemosinam laudavi et
                     presentem cartam sigilli mei appensione munivi.</p>
             </body>

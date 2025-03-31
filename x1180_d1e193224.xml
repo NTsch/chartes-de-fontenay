@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1180_d1e193224">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1180_d1e193224" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 493</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -94,85 +95,85 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_130_0008.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_130_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_130_0008.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_130_0009.jpg" scale="20" />
         </facsimile>
         <text>
-            <body><p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e131047">Stephanus, Dei gracia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e131049">Eduensis</placeName> episcopus</persName>, et <persName key="stutzmann_himanis#324677" xml:id="d1e131053">Gal. <orgName key="stutzmann_himanis#284217" xml:id="d1e131055">Flavinniasensis</orgName>
-                        </persName>, <persName key="d1e11791" xml:id="d1e131058">G. <orgName key="stutzmann_himanis#281589" xml:id="d1e131060">
+            <body><p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e131047" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gracia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e131049" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, et <persName key="stutzmann_himanis#324677" xml:id="d1e131053" corresp="Gaucher, abbé de Flavigny (1173-1185)">Gal. <orgName key="stutzmann_himanis#284217" xml:id="d1e131055" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flavinniasensis</orgName>
+                        </persName>, <persName key="d1e11791" xml:id="d1e131058">G. <orgName key="stutzmann_himanis#281589" xml:id="d1e131060" corresp="abbaye d'Hautecombe (1121 -)">
                                 <sic>Altte</sic> Cumbe</orgName>
-                        </persName> abbates <lb n="2"/> notum fieri volumus presentibus et futuris
-                        quod cumtroversias que inter ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e131067">Fonteneti</orgName> et <orgName key="stutzmann_himanis#283960" xml:id="d1e131071">Ungiaci</orgName> verte<lb n="3" break="no"/>bantur
+                        </persName> abbates <lb n="2" /> notum fieri volumus presentibus et futuris
+                        quod cumtroversias que inter ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e131067" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et <orgName key="stutzmann_himanis#283960" xml:id="d1e131071" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName> verte<lb n="3" break="no" />bantur
                         utriusque partis assensu in hunc modum amicabili composicione terminavimus.
-                        Composicionem per <lb n="4"/> manum domini <persName key="stutzmann_himanis#324654" xml:id="d1e131078">Umberti tunc <orgName key="stutzmann_himanis#281272" xml:id="d1e131080">Eduensis</orgName> episcopi</persName> factam
-                        sicut continetur in carta sigillo ipsius episcopi et abbatis <orgName key="stutzmann_himanis#283960" xml:id="d1e131084">Ungniacen<lb n="5" break="no"/>sis</orgName> signata vel altera simili sigillo episcopi et abbatis de
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131089">
+                        Composicionem per <lb n="4" /> manum domini <persName key="stutzmann_himanis#324654" xml:id="d1e131078" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Umberti tunc <orgName key="stutzmann_himanis#281272" xml:id="d1e131080" corresp="évêché d'Autun">Eduensis</orgName> episcopi</persName> factam
+                        sicut continetur in carta sigillo ipsius episcopi et abbatis <orgName key="stutzmann_himanis#283960" xml:id="d1e131084" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungniacen<lb n="5" break="no" />sis</orgName> signata vel altera simili sigillo episcopi et abbatis de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131089" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                             <sic>Funteneto</sic>
-                        </orgName> confirmata secundum tenorem instrumenti ipsius inviola<lb n="6" break="no"/>biliter deinceps pars utraque servabit, hoc
+                        </orgName> confirmata secundum tenorem instrumenti ipsius inviola<lb n="6" break="no" />biliter deinceps pars utraque servabit, hoc
                             <sic>ecepto</sic> quod de preteritis expensis vel de fructibus
-                        quibuslibet usque ad diem trans<lb n="7" break="no"/>accionis hujus
+                        quibuslibet usque ad diem trans<lb n="7" break="no" />accionis hujus
                         perceptis nulla erit inter eos questio et quicquid a parti alteri adversus
-                        alteram super his videbatur <lb n="8"/> de jure repocendum sine ulla
-                        retencione sibi invicem remiserunt. <placeName key="stutzmann_himanis#325030" xml:id="d1e131103">Silvam de <foreign>Leurre</foreign>
-                        </placeName> ex equo parcientur ad arbitri<lb n="9" break="no"/>um abbatis
-                            <orgName key="stutzmann_himanis#283145" xml:id="d1e131111">Longi Vuadi</orgName>
-                        et fratris <persName key="d1e11797" xml:id="d1e131114">Roberti de <placeName key="stutzmann_himanis#324328" xml:id="d1e131116">Annaio</placeName>
+                        alteram super his videbatur <lb n="8" /> de jure repocendum sine ulla
+                        retencione sibi invicem remiserunt. <placeName key="stutzmann_himanis#325030" xml:id="d1e131103" corresp="Silvam de Leurre">Silvam de <foreign>Leurre</foreign>
+                        </placeName> ex equo parcientur ad arbitri<lb n="9" break="no" />um abbatis
+                            <orgName key="stutzmann_himanis#283145" xml:id="d1e131111" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longi Vuadi</orgName>
+                        et fratris <persName key="d1e11797" xml:id="d1e131114">Roberti de <placeName key="stutzmann_himanis#324328" xml:id="d1e131116" corresp="Aignay-le-Duc (Côte-d'Or, Châtillon-sur-Seine)">Annaio</placeName>
                         </persName>, quibus erit plena potestas dividere eam secundum quod congruum
-                            <lb n="10"/> sibi videbitur utriusque partis commoditate servata. Si
-                        inter eosdem duos de divisione minus convenerit <orgName key="stutzmann_himanis#284217" xml:id="d1e131121">Flavi<lb n="11" break="no"/>gniacensis</orgName> et de monasterio <orgName key="stutzmann_himanis#283938" xml:id="d1e131126">Sancti Johannis</orgName> abbates eandem silvam
-                        dividant inter eos. Porro pro medietate silve <lb n="12"/> illius <orgName key="stutzmann_himanis#283960" xml:id="d1e131132">
+                            <lb n="10" /> sibi videbitur utriusque partis commoditate servata. Si
+                        inter eosdem duos de divisione minus convenerit <orgName key="stutzmann_himanis#284217" xml:id="d1e131121" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flavi<lb n="11" break="no" />gniacensis</orgName> et de monasterio <orgName key="stutzmann_himanis#283938" xml:id="d1e131126" corresp="abbaye Saint-Jean de Réôme ou Moutier-Saint-Jean (440 -)">Sancti Johannis</orgName> abbates eandem silvam
+                        dividant inter eos. Porro pro medietate silve <lb n="12" /> illius <orgName key="stutzmann_himanis#283960" xml:id="d1e131132" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">
                             <sic>Unniacences</sic>
-                        </orgName> annuatim solvent monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e131136">Fonteneti</orgName> censum sex denariorum in pascuis
-                        territorii <lb n="13"/> de <placeName key="stutzmann_himanis#324449" xml:id="d1e131141">Estormer</placeName> et <placeName key="stutzmann_himanis#324335" xml:id="d1e131144">Noville Montis</placeName>
-                        <orgName key="stutzmann_himanis#283960" xml:id="d1e131146">Ungniacenses</orgName>
-                        sexaginta animalia et non amplius habere poterunt. Fratres autem <lb n="14"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e131151">Fonteneti</orgName>
-                        animalia sua et in suis et in pascuis de <placeName key="stutzmann_himanis#324988" xml:id="d1e131154">Pretenerio</placeName> ducent sine contradiccione.
-                        Terram de <placeName key="stutzmann_himanis#324446" xml:id="d1e131157">Ampille</placeName> fra<lb n="15" break="no"/>tres <orgName key="stutzmann_himanis#283960" xml:id="d1e131162">Ungiacensis</orgName> ecclesie
-                        in omni pace deinceps retinebunt. Similiter de <placeName key="stutzmann_himanis#325172" xml:id="d1e131166">prato <sic>Teolbaudi</sic>
-                            Berardi</placeName> omnis est quere<lb n="16" break="no"/>la <orgName key="stutzmann_himanis#282689" xml:id="d1e131174">Fontenetensium</orgName> sopita.
-                        Et quia fratres <orgName key="stutzmann_himanis#283960" xml:id="d1e131177">Ungiacen<subst>
+                        </orgName> annuatim solvent monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e131136" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> censum sex denariorum in pascuis
+                        territorii <lb n="13" /> de <placeName key="stutzmann_himanis#324449" xml:id="d1e131141" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">Estormer</placeName> et <placeName key="stutzmann_himanis#324335" xml:id="d1e131144" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Noville Montis</placeName>
+                        <orgName key="stutzmann_himanis#283960" xml:id="d1e131146" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungniacenses</orgName>
+                        sexaginta animalia et non amplius habere poterunt. Fratres autem <lb n="14" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e131151" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        animalia sua et in suis et in pascuis de <placeName key="stutzmann_himanis#324988" xml:id="d1e131154" corresp="Pretenerio">Pretenerio</placeName> ducent sine contradiccione.
+                        Terram de <placeName key="stutzmann_himanis#324446" xml:id="d1e131157" corresp="Ampilly-les-Bordes (Côte-d'Or, Châtillon-sur-Seine)">Ampille</placeName> fra<lb n="15" break="no" />tres <orgName key="stutzmann_himanis#283960" xml:id="d1e131162" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiacensis</orgName> ecclesie
+                        in omni pace deinceps retinebunt. Similiter de <placeName key="stutzmann_himanis#325172" xml:id="d1e131166" corresp="prato Teolbaudi Berardi">prato <sic>Teolbaudi</sic>
+                            Berardi</placeName> omnis est quere<lb n="16" break="no" />la <orgName key="stutzmann_himanis#282689" xml:id="d1e131174" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensium</orgName> sopita.
+                        Et quia fratres <orgName key="stutzmann_himanis#283960" xml:id="d1e131177" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiacen<subst>
                                 <del>c</del>
                                 <add>s</add>
-                            </subst>es</orgName> edificia sua in territorio de <placeName key="stutzmann_himanis#325288" xml:id="d1e131186">Fromasio</placeName> mutaverunt
-                            <lb n="17"/> secundum cantitatem illius loci ubi priora edificia fuerant
-                        in illo loco ubi postea edificaverunt cum orto <lb n="18"/> illo adviridario
-                        que ibi prius abuerant ex composicione eadem tantundem spacii eis im <lb n="19"/> pace remanebit. Quod superfuerit in clausura grangie per medium
-                        dividetur et medietatem <placeName key="stutzmann_himanis#324372" xml:id="d1e131196">Ungiacenses</placeName>
-                        <lb n="20"/> im pace similiter habebunt, pro altera medietate comutacionem
-                        dabunt illis de <orgName key="stutzmann_himanis#282689" xml:id="d1e131200">Fonteneto</orgName> ubi abbas <lb n="21"/>
-                        <orgName key="stutzmann_himanis#283145" xml:id="d1e131204">Longi Vadi</orgName> et
-                        frater <persName key="d1e11797" xml:id="d1e131208">Robertus de <placeName key="stutzmann_himanis#324328" xml:id="d1e131210">Aennaio</placeName>
+                            </subst>es</orgName> edificia sua in territorio de <placeName key="stutzmann_himanis#325288" xml:id="d1e131186" corresp="Fromasio">Fromasio</placeName> mutaverunt
+                            <lb n="17" /> secundum cantitatem illius loci ubi priora edificia fuerant
+                        in illo loco ubi postea edificaverunt cum orto <lb n="18" /> illo adviridario
+                        que ibi prius abuerant ex composicione eadem tantundem spacii eis im <lb n="19" /> pace remanebit. Quod superfuerit in clausura grangie per medium
+                        dividetur et medietatem <placeName key="stutzmann_himanis#324372" xml:id="d1e131196" corresp="Oigny (Côte-d'Or, Châtillon-sur-Seine)">Ungiacenses</placeName>
+                        <lb n="20" /> im pace similiter habebunt, pro altera medietate comutacionem
+                        dabunt illis de <orgName key="stutzmann_himanis#282689" xml:id="d1e131200" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> ubi abbas <lb n="21" />
+                        <orgName key="stutzmann_himanis#283145" xml:id="d1e131204" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longi Vadi</orgName> et
+                        frater <persName key="d1e11797" xml:id="d1e131208">Robertus de <placeName key="stutzmann_himanis#324328" xml:id="d1e131210" corresp="Aignay-le-Duc (Côte-d'Or, Châtillon-sur-Seine)">Aennaio</placeName>
                         </persName> constituerint secundum arbitrium suum vel si inter eos non
-                        convenerit <lb n="22"/>
-                        <orgName key="stutzmann_himanis#284217" xml:id="d1e131214">Flavigniacensis</orgName>
-                        et de <orgName key="stutzmann_himanis#283938" xml:id="d1e131217">Monasterio Sancti
+                        convenerit <lb n="22" />
+                        <orgName key="stutzmann_himanis#284217" xml:id="d1e131214" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flavigniacensis</orgName>
+                        et de <orgName key="stutzmann_himanis#283938" xml:id="d1e131217" corresp="abbaye Saint-Jean de Réôme ou Moutier-Saint-Jean (440 -)">Monasterio Sancti
                             Johannis</orgName> abbatis preceperint, et ipsi diviserint utrique
-                            recipient.<lb n="23"/> Si forte animalia<note>
+                            recipient.<lb n="23" /> Si forte animalia<note>
                             <p rend="footnote text">||-lia… <hi rend="italic">début de B</hi>.</p>
                         </note> utriuslibet partis morbida esse constiterit, in teritorium partis
-                        alterius quamdiu morbi<lb n="24" break="no"/>da fuerint ducere <choice>
+                        alterius quamdiu morbi<lb n="24" break="no" />da fuerint ducere <choice>
                             <sic corresp="#A">nom</sic>
                             <corr>non</corr>
                         </choice> poterit.</p>
-                    <p>Actum <placeName key="stutzmann_himanis#98064" xml:id="d1e131241">Lugduni</placeName>,
+                    <p>Actum <placeName key="stutzmann_himanis#98064" xml:id="d1e131241" corresp="Lyon (Rhône)">Lugduni</placeName>,
                         anno ab incarnacione Domini <num>m° c° <app>
                                 <lem wit="#A">octogesimo</lem>
                                 <rdg wit="#B">lxxx°</rdg>
                             </app>
-                        </num>, astan<lb n="25" break="no"/>tibus et astestantibus <persName key="d1e11807" xml:id="d1e131254">D. abbate <orgName key="stutzmann_himanis#324497" xml:id="d1e131256">Sancte <app>
+                        </num>, astan<lb n="25" break="no" />tibus et astestantibus <persName key="d1e11807" xml:id="d1e131254">D. abbate <orgName key="stutzmann_himanis#324497" xml:id="d1e131256" corresp="abbaye Sainte-Marguerite">Sancte <app>
                                     <lem wit="#A">
                                         <sic>Marguarite</sic>
                                     </lem>
                                     <rdg wit="#B">Margarite</rdg>
                                 </app>
                             </orgName>
-                        </persName>, <persName key="d1e11813" xml:id="d1e131265">H. abbate <orgName key="stutzmann_himanis#284111" xml:id="d1e131267">Benedicionis Dei</orgName>
+                        </persName>, <persName key="d1e11813" xml:id="d1e131265">H. abbate <orgName key="stutzmann_himanis#284111" xml:id="d1e131267" corresp="abbaye de la Bénisson-Dieu ou Nizors (1138 -)">Benedicionis Dei</orgName>
                         </persName>, <persName key="d1e11819" xml:id="d1e131271">P. preposito
-                                <orgName key="stutzmann_himanis#281272" xml:id="d1e131273">Eduensi</orgName>
-                        </persName>, <persName key="d1e11825" xml:id="d1e131276">G. <lb n="26"/>
-                            archidiacono <placeName key="stutzmann_himanis#321577" xml:id="d1e131280">
+                                <orgName key="stutzmann_himanis#281272" xml:id="d1e131273" corresp="évêché d'Autun">Eduensi</orgName>
+                        </persName>, <persName key="d1e11825" xml:id="d1e131276">G. <lb n="26" />
+                            archidiacono <placeName key="stutzmann_himanis#321577" xml:id="d1e131280" corresp="Chalon-sur-Saône (Saône-et-Loire, Chalon-sur-Saône)">
                                 <app>
                                     <lem wit="#A">
                                         <sic>Cabilonensu</sic>
@@ -181,10 +182,10 @@
                                 </app>
                             </placeName>
                         </persName>, <persName key="d1e11831" xml:id="d1e131288">G. priore
-                                <placeName key="stutzmann_himanis#324403" xml:id="d1e131290">Barri</placeName>
-                        </persName>, <persName key="d1e11837" xml:id="d1e131293">G. de <placeName key="stutzmann_himanis#324977" xml:id="d1e131295">
+                                <placeName key="stutzmann_himanis#324403" xml:id="d1e131290" corresp="Bar-sur-Seine (Aube, Bar-sur-Seine)">Barri</placeName>
+                        </persName>, <persName key="d1e11837" xml:id="d1e131293">G. de <placeName key="stutzmann_himanis#324977" xml:id="d1e131295" corresp="Perrol">
                                 <foreign>Perrol</foreign>
-                            </placeName> archidiacono <placeName key="stutzmann_himanis#319548" xml:id="d1e131299">Eduensi</placeName>
+                            </placeName> archidiacono <placeName key="stutzmann_himanis#319548" xml:id="d1e131299" corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName>
                         </persName>.</p>
                 
             </body>

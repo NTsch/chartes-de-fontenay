@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1177_d1e227783">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1177_d1e227783" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 72[bis]@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -49,11 +50,11 @@
 
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155592">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155594">Lingonensis</placeName> episcopus</persName>, notum facio presentibus
+                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155592" corresp="Gauthier de Bourgogne, évêque de Langres (1163-1179)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155594" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName> episcopus</persName>, notum facio presentibus
                     et futuris quod <persName key="d1e24319" xml:id="d1e155598">Johannes, miles de
-                            <placeName key="stutzmann_himanis#325023" xml:id="d1e155600">Saneveto</placeName>
-                    </persName>, laudavit in presentia mea vadi-[17]-atiam quam <persName key="d1e24325" xml:id="d1e155603">Wiardus miles de <placeName key="stutzmann_himanis#325023" xml:id="d1e155605">Saneveto</placeName>, frater
+                            <placeName key="stutzmann_himanis#325023" xml:id="d1e155600" corresp="Saneveto">Saneveto</placeName>
+                    </persName>, laudavit in presentia mea vadi-[17]-atiam quam <persName key="d1e24325" xml:id="d1e155603">Wiardus miles de <placeName key="stutzmann_himanis#325023" xml:id="d1e155605" corresp="Saneveto">Saneveto</placeName>, frater
                         ejus</persName>, invadiaverat<note> invadivierat <hi rend="italic">ante
                             corr. B</hi>.</note> sanctimonialibus de Juliaco in agris, in pratis, in
                     pastura tocius finagii de Saneve-[18]-to. Accepit autem idem Johannes de

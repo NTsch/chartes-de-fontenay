@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1190_d1e201656">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1190_d1e201656" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1867</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -72,7 +73,7 @@
                         <bibl>ADCO 15 H 2, fol. 82<hi rend="superscript">v</hi> (Laignes. B)</bibl>
                         <bibl>ADCO 15 H 3, p. 597-598 (XXIX. 6. 5) : « scellé d’un sceau de cire
                             jaune à queue de parchemin pendant ».</bibl>
-                        <bibl/>
+                        <bibl />
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -81,54 +82,54 @@
                     <date type="documentCreation" when="1190-12-31">1190</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0016.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0017.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0016.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0017.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego <persName key="d1e13219" xml:id="d1e136600">Petrus, Dei gratia <orgName key="stutzmann_himanis#284001" xml:id="d1e136602">sancti Benigni
-                                Divionensis</orgName> abbas et domini <persName key="himanis_324599" xml:id="d1e136605">Manasse episcopi <placeName key="stutzmann_himanis#317574" xml:id="d1e136607">Lingonensis</placeName>
-                            </persName> vicarius</persName>, notifico pre<lb n="2" break="no"/>sentibus et futuris quod duo fratres de <placeName key="stutzmann_himanis#324466" xml:id="d1e136613">Lania</placeName>, <persName key="d1e13225" xml:id="d1e136616">Matheus</persName> videlicet et <persName key="d1e13231" xml:id="d1e136619">Arnulfus</persName>, invadiaverunt
-                        fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e136623">Fonteneto</orgName>
-                        <lb n="3"/> partem suam pasturarum de <placeName key="stutzmann_himanis#324466" xml:id="d1e136627">Lania</placeName> pro .XX. libris, tali conditione
-                        quod nisi de propriis denariis eam redimere non poterunt <lb n="4"/> nec ab
+                                        <p>Ego <persName key="d1e13219" xml:id="d1e136600">Petrus, Dei gratia <orgName key="stutzmann_himanis#284001" xml:id="d1e136602" corresp="abbaye Saint-Bénigne de Dijon (512 -)">sancti Benigni
+                                Divionensis</orgName> abbas et domini <persName key="himanis_324599" xml:id="d1e136605">Manasse episcopi <placeName key="stutzmann_himanis#317574" xml:id="d1e136607" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
+                            </persName> vicarius</persName>, notifico pre<lb n="2" break="no" />sentibus et futuris quod duo fratres de <placeName key="stutzmann_himanis#324466" xml:id="d1e136613" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>, <persName key="d1e13225" xml:id="d1e136616">Matheus</persName> videlicet et <persName key="d1e13231" xml:id="d1e136619">Arnulfus</persName>, invadiaverunt
+                        fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e136623" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
+                        <lb n="3" /> partem suam pasturarum de <placeName key="stutzmann_himanis#324466" xml:id="d1e136627" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName> pro .XX. libris, tali conditione
+                        quod nisi de propriis denariis eam redimere non poterunt <lb n="4" /> nec ab
                         altero redimi facient. Cum vero eam redemerint alteri vendere vel invadiare
-                        eandem non poterunt, nisi prius <lb n="5"/> eosdem fratres inde
+                        eandem non poterunt, nisi prius <lb n="5" /> eosdem fratres inde
                         submonuerint. Quod si idem fratres tantum inde eis dare noluerint quantum ab
-                        altero eis oblatum fuerit, <lb n="6"/> exinde cuicumque placuerit eis
+                        altero eis oblatum fuerit, <lb n="6" /> exinde cuicumque placuerit eis
                         vendere aut invadiare licebit. Quamdiu autem jamdicti fratres eandem
-                        pasturam <lb n="7"/> habuerint, ipsi videlicet <persName key="d1e13237" xml:id="d1e136639">Matheus</persName> et <persName key="d1e13243" xml:id="d1e136642">Arnulfus</persName> eis adversus omnes homines si
-                        necesse fuerit guarentiam portabunt <lb n="8"/> nec aliorum animalia nisi
+                        pasturam <lb n="7" /> habuerint, ipsi videlicet <persName key="d1e13237" xml:id="d1e136639">Matheus</persName> et <persName key="d1e13243" xml:id="d1e136642">Arnulfus</persName> eis adversus omnes homines si
+                        necesse fuerit guarentiam portabunt <lb n="8" /> nec aliorum animalia nisi
                         sua aut hominum suorum propria pascere ibi permittent, sed ad usus animalium
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e136647">Fonteneti</orgName>
-                        fideliter <lb n="9"/> eam defendent. Et sciendum quod postquam eadem
-                        guageria redempta fuerit, animalia fratrum quadraginta diebus <lb n="10"/>
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e136647" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        fideliter <lb n="9" /> eam defendent. Et sciendum quod postquam eadem
+                        guageria redempta fuerit, animalia fratrum quadraginta diebus <lb n="10" />
                         post redemptionem in eadem pastura libere et quiete sine ulla calumpnia
-                        pasturabunt. Hec autem omnia <lb n="11"/> isdem <persName key="d1e13250" xml:id="d1e136657">Matheus</persName> super sancta juravit se per omnia
-                        fideliter custodire. Hujus rei testes sunt <persName key="d1e13256" xml:id="d1e136660">Walterius de <placeName key="stutzmann_himanis#324468" xml:id="d1e136662">Ar<lb n="12" break="no"/>genteolo</placeName>
+                        pasturabunt. Hec autem omnia <lb n="11" /> isdem <persName key="d1e13250" xml:id="d1e136657">Matheus</persName> super sancta juravit se per omnia
+                        fideliter custodire. Hujus rei testes sunt <persName key="d1e13256" xml:id="d1e136660">Walterius de <placeName key="stutzmann_himanis#324468" xml:id="d1e136662" corresp="Argenteuil-sur-Armançon (Yonne, Tonnerrois)">Ar<lb n="12" break="no" />genteolo</placeName>
                         </persName>, <persName key="d1e13262" xml:id="d1e136667">Robertus de
-                                <placeName key="stutzmann_himanis#324352" xml:id="d1e136669">Riceio</placeName>
+                                <placeName key="stutzmann_himanis#324352" xml:id="d1e136669" corresp="Recey-sur-Ource (Côte-d'Or, Châtillon-sur-Seine)">Riceio</placeName>
                         </persName> et <persName key="d1e13268" xml:id="d1e136672">Thomas</persName>
                         frater ejus, <persName key="d1e13274" xml:id="d1e136676">Silvester
-                            prepositus <placeName key="stutzmann_himanis#101449" xml:id="d1e136678">Tornodori</placeName>
+                            prepositus <placeName key="stutzmann_himanis#101449" xml:id="d1e136678" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornodori</placeName>
                         </persName>, et <persName key="d1e13280" xml:id="d1e136681">Adam</persName>
-                        nepos ejus. <lb n="13"/> Hoc totum laudavit <persName key="d1e13287" xml:id="d1e136686">Lora</persName> uxor ejusdem <persName key="d1e13293" xml:id="d1e136689">Mathei</persName>. Unde testes sunt <persName key="d1e13299" xml:id="d1e136692">Rocelinus de <placeName key="stutzmann_himanis#324466" xml:id="d1e136694">Lania</placeName>
-                        </persName>, <persName key="d1e13305" xml:id="d1e136698">Thomas <lb n="14"/>
-                            de <placeName key="stutzmann_himanis#324352" xml:id="d1e136702">Riceio</placeName>
+                        nepos ejus. <lb n="13" /> Hoc totum laudavit <persName key="d1e13287" xml:id="d1e136686">Lora</persName> uxor ejusdem <persName key="d1e13293" xml:id="d1e136689">Mathei</persName>. Unde testes sunt <persName key="d1e13299" xml:id="d1e136692">Rocelinus de <placeName key="stutzmann_himanis#324466" xml:id="d1e136694" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>
+                        </persName>, <persName key="d1e13305" xml:id="d1e136698">Thomas <lb n="14" />
+                            de <placeName key="stutzmann_himanis#324352" xml:id="d1e136702" corresp="Recey-sur-Ource (Côte-d'Or, Châtillon-sur-Seine)">Riceio</placeName>
                         </persName>, <persName key="d1e13311" xml:id="d1e136705">Hugo</persName>
-                        filius <persName key="d1e13317" xml:id="d1e136708">Pagani de <placeName key="stutzmann_himanis#324466" xml:id="d1e136710">Lania</placeName>
+                        filius <persName key="d1e13317" xml:id="d1e136708">Pagani de <placeName key="stutzmann_himanis#324466" xml:id="d1e136710" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>
                         </persName>, <persName key="d1e13324" xml:id="d1e136713">Clarus de
-                                <placeName key="stutzmann_himanis#324466" xml:id="d1e136715">Lania</placeName>
+                                <placeName key="stutzmann_himanis#324466" xml:id="d1e136715" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lania</placeName>
                         </persName>, <persName key="d1e13330" xml:id="d1e136718">Hugo
                                 <foreign>Billart</foreign>
-                        </persName>, <persName key="d1e13336" xml:id="d1e136723">Raimbaudus de <lb n="15"/>
-                            <placeName key="stutzmann_himanis#324944" xml:id="d1e136726">Marcennaco</placeName>
+                        </persName>, <persName key="d1e13336" xml:id="d1e136723">Raimbaudus de <lb n="15" />
+                            <placeName key="stutzmann_himanis#324944" xml:id="d1e136726" corresp="Marcennaco">Marcennaco</placeName>
                         </persName>. Actum anno incarnationis Domini millesimo centesimo
                         nonagesimo.</p>
                 

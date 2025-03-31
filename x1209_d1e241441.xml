@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241441">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e241441" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 246@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,27 +36,27 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e165255">Gauterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e165257">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e165255" corresp="Gautier II, évêque d'Autun 1189 -1223)">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e165257" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, omnibus notum facio tam presentibus quam futuris quod
-                        <persName key="d1e28864" xml:id="d1e165261">Ricardus miles de <placeName key="stutzmann_himanis#325251" xml:id="d1e165263">Curte Rabodi</placeName>
+                        <persName key="d1e28864" xml:id="d1e165261">Ricardus miles de <placeName key="stutzmann_himanis#325251" xml:id="d1e165263" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">Curte Rabodi</placeName>
                     </persName> dedit et concessit in perpetuam elemosinam pro salute sua et
-                    antecessorum suorum ecclesie sancte Marie <orgName key="stutzmann_himanis#282689" xml:id="d1e165266">Fonteneti</orgName> et fratribus ejusdem loci quicquid
-                    juris habebat in <placeName key="stutzmann_himanis#325148" xml:id="d1e165269">molendino
-                            <placeName key="stutzmann_himanis#324450" xml:id="d1e165271">Fanii</placeName>
+                    antecessorum suorum ecclesie sancte Marie <orgName key="stutzmann_himanis#282689" xml:id="d1e165266" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> et fratribus ejusdem loci quicquid
+                    juris habebat in <placeName key="stutzmann_himanis#325148" xml:id="d1e165269" corresp="molendino Fanii quod dicitur de Colle">molendino
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e165271" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName>
                         quod dicitur de Colle</placeName> et in omnibus ad ipsum molendinum
                     pertinentibus et potestatem totum molendinum adquirendi et omnia ad eumdem
                     molendinum pertinentia. Concessit etiam liberum transitum sicut consuetudo erat
-                    ante donum istud omnibus ire volentibus ad molendinum et in foresta <placeName key="stutzmann_himanis#324450" xml:id="d1e165275">Fanii</placeName> omnia necessaria
+                    ante donum istud omnibus ire volentibus ad molendinum et in foresta <placeName key="stutzmann_himanis#324450" xml:id="d1e165275" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName> omnia necessaria
                     ad usus molendini. Hoc totum sicut premisimus laudaverunt <persName key="d1e28870" xml:id="d1e165279">Helysabez <persName key="d1e28876" xml:id="d1e165281">supradicti Ricardi</persName> mater</persName>,
                         <persName key="d1e28883" xml:id="d1e165285">Aaliz soror ejus</persName> et
                         <persName key="d1e28889" xml:id="d1e165288">Agnes uxor ejus</persName>,
-                        <persName key="d1e28895" xml:id="d1e165291">Willermus miles de <placeName key="stutzmann_himanis#324956" xml:id="d1e165293">
+                        <persName key="d1e28895" xml:id="d1e165291">Willermus miles de <placeName key="stutzmann_himanis#324956" xml:id="d1e165293" corresp="Ménétreux">
                             <foreign>Monesteruel</foreign>
                         </placeName>
                     </persName> et <persName key="d1e28901" xml:id="d1e165297">Bartholomeus frater
                         ejus</persName>, <persName key="d1e28907" xml:id="d1e165300">Willermus miles
-                        de <placeName key="stutzmann_himanis#324456" xml:id="d1e165302">Gisseio</placeName>
+                        de <placeName key="stutzmann_himanis#324456" xml:id="d1e165302" corresp="Gissey-sous-Flavigny (Côte-d'Or, Montbard)">Gisseio</placeName>
                         cognomento <addName>
                             <foreign>Godins</foreign>
                         </addName>

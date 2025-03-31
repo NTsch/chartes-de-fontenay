@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e204499">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1196_d1e204499" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2263</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -96,13 +97,13 @@
                     <date type="documentCreation" when="1196-12-31">1196</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_317_0006.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_317_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_317_0006.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_317_0007.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
@@ -113,42 +114,42 @@
                                 </lem>
                                 <rdg wit="#B #C #E #a">comitissa</rdg>
                             </app>
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138600">Grinionis</placeName>
-                        </persName>, donavi ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e138603">Fon<lb n="2" break="no"/>teneti</orgName> pro remedio
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138600" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
+                        </persName>, donavi ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e138603" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fon<lb n="2" break="no" />teneti</orgName> pro remedio
                         anime mee vineam <app>
                             <lem>
                                 <sic corresp="#A #C">quandam</sic>
                             </lem>
                             <rdg wit="#B #E #a">quamdam</rdg>
                         </app> quam ab <persName key="d1e14014" xml:id="d1e138615">Erardo</persName>
-                        in vadimoni<lb n="3" break="no"/>um pro novem <surplus corresp="#B #C #E #a">IX</surplus> libris divionensium acceperam, que sita est in <app>
+                        in vadimoni<lb n="3" break="no" />um pro novem <surplus corresp="#B #C #E #a">IX</surplus> libris divionensium acceperam, que sita est in <app>
                             <lem wit="#A">parrichia</lem>
                             <rdg wit="#B #C #E #a">parrochia</rdg>
                         </app>
-                        <placeName key="stutzmann_himanis#324356" xml:id="d1e138629">
+                        <placeName key="stutzmann_himanis#324356" xml:id="d1e138629" corresp="Seigny (Côte-d'Or, Montbard)">
                             <app>
                                 <lem wit="#A">Signiaci</lem>
                                 <rdg wit="#B #C #E #a">Saigniaci</rdg>
                             </app>
-                        </placeName> tali pac<lb n="4" break="no"/>to quod ex fructu vinee missarum
-                        officia celebrabuntur. Quod si quid residui fuerit inde <lb n="5"/> tela
+                        </placeName> tali pac<lb n="4" break="no" />to quod ex fructu vinee missarum
+                        officia celebrabuntur. Quod si quid residui fuerit inde <lb n="5" /> tela
                         emetur unde corporalia fient. Concessi insuper ut prefatam vineam liceat
-                        eisdem <lb n="6"/> fratribus quoquomodo <app>
+                        eisdem <lb n="6" /> fratribus quoquomodo <app>
                             <lem>potuerint</lem>
                             <rdg wit="#C">poterunt</rdg>
                         </app>
                         <app>
                             <lem wit="#A">acquirere</lem>
                             <rdg wit="#B #C #E #a">adquirere</rdg>
-                        </app>. Promiserunt etiam michi predicte ecclesie abbas et monachi <lb n="7"/> quod si memorata vinea redempta fuerit, percepta redemptio tali
-                        deputabitur edificio <lb n="8"/> quod sicut supra condictum est in jamdicta
+                        </app>. Promiserunt etiam michi predicte ecclesie abbas et monachi <lb n="7" /> quod si memorata vinea redempta fuerit, percepta redemptio tali
+                        deputabitur edificio <lb n="8" /> quod sicut supra condictum est in jamdicta
                         ecclesia <app>
                             <lem>divina</lem>
                             <rdg wit="#B">||ivina</rdg>
-                        </app> celebrabuntur. Hec omnia et universa <lb n="9"/> de quibus <app>
+                        </app> celebrabuntur. Hec omnia et universa <lb n="9" /> de quibus <app>
                             <lem>investiti</lem>
                             <rdg wit="#B">investi||</rdg>
-                        </app> erant fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e138673">
+                        </app> erant fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e138673" corresp="abbaye Notre-Dame de Fontenay (1119 -)">
                             <app>
                                 <lem>
                                     <sic corresp="#A">Fontenti</sic>
@@ -157,40 +158,40 @@
                                 <rdg wit="#C">Fonteneteñ</rdg>
                                 <rdg wit="#E #a">Fontenetenses</rdg>
                             </app>
-                        </orgName> die quo hec acta sunt laudavit et concessit <lb n="10"/>
+                        </orgName> die quo hec acta sunt laudavit et concessit <lb n="10" />
                         <persName key="d1e14020" xml:id="d1e138686">
                             <app>
                                 <lem>Odo</lem>
                                 <rdg wit="#B">||do</rdg>
-                            </app> comes <placeName key="stutzmann_himanis#324459" xml:id="d1e138693">Grinionis</placeName>
-                        </persName>. Hujus rei testes sunt : <persName key="stutzmann_himanis#324623" xml:id="d1e138696">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e138698">Tullionis</placeName>
+                            </app> comes <placeName key="stutzmann_himanis#324459" xml:id="d1e138693" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
+                        </persName>. Hujus rei testes sunt : <persName key="stutzmann_himanis#324623" xml:id="d1e138696" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e138698" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, <persName key="d1e14027" xml:id="d1e138701">
                             <app>
                                 <lem>Oliverus</lem>
                                 <rdg wit="#B">||liverius</rdg>
                                 <rdg wit="#C #E #a">Oliverius</rdg>
-                            </app> de <lb n="11"/>
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138711">Grinione</placeName>
+                            </app> de <lb n="11" />
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138711" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                         </persName>, <persName key="d1e14033" xml:id="d1e138715">
                             <app>
                                 <lem>Rinerus</lem>
                                 <rdg wit="#B #C #E #a">Renerius</rdg>
-                            </app> de <placeName key="stutzmann_himanis#324359" xml:id="d1e138722">Sancta
+                            </app> de <placeName key="stutzmann_himanis#324359" xml:id="d1e138722" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta
                                 Columba</placeName>
                         </persName>, <persName key="d1e14039" xml:id="d1e138725">Josbertus de
-                                <placeName key="stutzmann_himanis#98140" xml:id="d1e138727">
+                                <placeName key="stutzmann_himanis#98140" xml:id="d1e138727" corresp="Maisey-le-Duc, seigneurie">
                                 <app>
                                     <lem>Masiaco</lem>
                                     <rdg wit="#B">||asiaco</rdg>
                                 </app>
                             </placeName>
                         </persName>, <persName key="d1e14045" xml:id="d1e138734">Galannus
-                            prepositus</persName>. Ut autem <lb n="12"/> hoc totum in <app>
+                            prepositus</persName>. Ut autem <lb n="12" /> hoc totum in <app>
                             <lem>perpetuum</lem>
                             <rdg wit="#C">imperpetuum</rdg>
-                        </app> ratum habeatur, ego <persName key="d1e14051" xml:id="d1e138745">Matildis comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e138747">Grinionis</placeName>
-                        </persName> presentem pagi<lb n="13" break="no"/>nam sigillo meo roboravi.
-                        Actum anno Verbi incarnati M° <figure rend="trait"/>C° <figure rend="trait"/>XC° <figure rend="trait"/>VI<hi rend="superscript">to</hi>.<note>Date avec
+                        </app> ratum habeatur, ego <persName key="d1e14051" xml:id="d1e138745">Matildis comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e138747" corresp="Grignon (Côte-d'Or, Montbard)">Grinionis</placeName>
+                        </persName> presentem pagi<lb n="13" break="no" />nam sigillo meo roboravi.
+                        Actum anno Verbi incarnati M° <figure rend="trait" />C° <figure rend="trait" />XC° <figure rend="trait" />VI<hi rend="superscript">to</hi>.<note>Date avec
                             traits entre les chiffres pour la justification</note>
                     </p>
                 

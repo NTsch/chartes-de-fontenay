@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e244153">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e244153" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 277@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -39,12 +40,12 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167113">Galterius, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167115">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167113" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167115" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, notum facio tam futuris quam presentibus quod
-                        <persName key="d1e29382" xml:id="d1e167119">dominus Guido de <placeName key="stutzmann_himanis#324374" xml:id="d1e167121">Venerre<app>
+                        <persName key="d1e29382" xml:id="d1e167119">dominus Guido de <placeName key="stutzmann_himanis#324374" xml:id="d1e167121" corresp="Venarey-les-Laumes,Venarey (Côte-d'Or, Montbard)">Venerre<app>
                                 <lem>
-                                    <witEnd wit="#B #C"/>
+                                    <witEnd wit="#B #C" />
                                 </lem>
                             </app>
                         </placeName>
@@ -53,18 +54,18 @@
                     </witDetail>, in presentia nostra constitutus, dedit et in perpetuam <app>
                         <lem>elemosinam</lem>
                         <rdg wit="#D">eleemosinam</rdg>
-                    </app> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e167142">Fonteneti</orgName> pro remedio anime sue et antecessorum
-                    suorum libere et absolute omnia que habebat in decimis de <placeName key="stutzmann_himanis#324458" xml:id="d1e167145">Grangiis</placeName> et de
-                        <placeName key="stutzmann_himanis#324459" xml:id="d1e167149">Grinione</placeName> tam
+                    </app> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e167142" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio anime sue et antecessorum
+                    suorum libere et absolute omnia que habebat in decimis de <placeName key="stutzmann_himanis#324458" xml:id="d1e167145" corresp="Granges (Les) (Côte-d'Or, Montbard)">Grangiis</placeName> et de
+                        <placeName key="stutzmann_himanis#324459" xml:id="d1e167149" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName> tam
                     bladi quam vini et tractus earumdem decimarum, hoc excepto quod de ipsis decimis
-                    unum modium vini dedit monacho et capellano de <placeName key="stutzmann_himanis#324459" xml:id="d1e167154">Grinione</placeName> annuo jure persolvendum. Dedit etiam
+                    unum modium vini dedit monacho et capellano de <placeName key="stutzmann_himanis#324459" xml:id="d1e167154" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName> annuo jure persolvendum. Dedit etiam
                     idem <persName key="d1e29388" xml:id="d1e167157">Guido</persName> jamdictis
                     fratribus et concessit <app>
                         <lem>quicquid</lem>
                         <rdg wit="#D">quidquid</rdg>
                     </app> adquirere poterunt in alia parte <app>
                         <lem>dictarum</lem>
-                        <rdg wit="#D" type="omis"/>
+                        <rdg wit="#D" type="omis" />
                     </app> decimarum <app>
                         <lem>que</lem>
                         <rdg wit="#D">quod</rdg>

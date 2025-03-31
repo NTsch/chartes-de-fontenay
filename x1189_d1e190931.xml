@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e190931">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e190931" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 262</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -99,65 +100,65 @@
                     <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_120_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_120_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                   <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e129511">Stephanus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e129513">Eduensis</placeName> episcopus</persName>, scripto presenti
-                        notifico presentibus et futuris quod <persName key="d1e11357" xml:id="d1e129517">Calo de <placeName key="stutzmann_himanis#324470" xml:id="d1e129519">Lucennaco</placeName>
+                   <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e129511" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e129513" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, scripto presenti
+                        notifico presentibus et futuris quod <persName key="d1e11357" xml:id="d1e129517">Calo de <placeName key="stutzmann_himanis#324470" xml:id="d1e129519" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
                         </persName>
-                        <lb n="2"/> laudavit ecclesie Fonteneti et fratribus ejusdem loci terram
+                        <lb n="2" /> laudavit ecclesie Fonteneti et fratribus ejusdem loci terram
                         quam <persName key="d1e11363" xml:id="d1e129523">Gerardus <hi rend="italic">Nochers</hi>
-                        </persName> eis ante in elemosinam <lb n="3"/> dederat a chimino levato,
-                        scilicet versus <placeName key="stutzmann_himanis#324479" xml:id="d1e129530">Aringias</placeName> sicut chiminum vadit, usque ad metam lapideam
-                        secus <lb n="4"/> ipsum chiminum positam et ab ipsa meta sursum versus usque
-                        ad <placeName key="stutzmann_himanis#324957" xml:id="d1e129536">Montem
+                        </persName> eis ante in elemosinam <lb n="3" /> dederat a chimino levato,
+                        scilicet versus <placeName key="stutzmann_himanis#324479" xml:id="d1e129530" corresp="Éringes (Côte-d'Or, Montbard)">Aringias</placeName> sicut chiminum vadit, usque ad metam lapideam
+                        secus <lb n="4" /> ipsum chiminum positam et ab ipsa meta sursum versus usque
+                        ad <placeName key="stutzmann_himanis#324957" xml:id="d1e129536" corresp="Mons Arlaut">Montem
                                 <foreign>Arlauth</foreign>
-                        </placeName>, sicut ostendunt me<lb n="5" break="no"/>te lapidee ibidem
-                        posite et, sicut <placeName key="stutzmann_himanis#324957" xml:id="d1e129543">Mons
+                        </placeName>, sicut ostendunt me<lb n="5" break="no" />te lapidee ibidem
+                        posite et, sicut <placeName key="stutzmann_himanis#324957" xml:id="d1e129543" corresp="Mons Arlaut">Mons
                                 <foreign>Arlaut</foreign>
-                        </placeName> eandem terram dividit, usque ad alias metas lapideas <lb n="6"/> inter ipsam terram et terram <placeName key="stutzmann_himanis#324470" xml:id="d1e129550">Lucennaci</placeName> positas. Laudavit etiam eis
-                        ultra chiminum in <placeName key="stutzmann_himanis#324897" xml:id="d1e129554">monte
-                            de Faia</placeName>, septem <lb n="7"/> novalia ad exitum campi
+                        </placeName> eandem terram dividit, usque ad alias metas lapideas <lb n="6" /> inter ipsam terram et terram <placeName key="stutzmann_himanis#324470" xml:id="d1e129550" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaci</placeName> positas. Laudavit etiam eis
+                        ultra chiminum in <placeName key="stutzmann_himanis#324897" xml:id="d1e129554" corresp="Montfay (Côte-d'Or, Châtillon-sur-Seine)">monte
+                            de Faia</placeName>, septem <lb n="7" /> novalia ad exitum campi
                         [<hi rend="italic" xml:space="preserve">plus d’une ligne entière grattée, dont quelques traces sont lisibles : </hi>et
-                        si … habea… in finagio Luce… ].<lb n="8"/> Concessit etiam eis ut quocumque
-                        modo possent acquirerent terras ho<lb n="9" break="no"/>minum suorum de
-                            <placeName key="stutzmann_himanis#324421" xml:id="d1e129566">
+                        si … habea… in finagio Luce… ].<lb n="8" /> Concessit etiam eis ut quocumque
+                        modo possent acquirerent terras ho<lb n="9" break="no" />minum suorum de
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e129566" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">
                             <foreign>Bussi</foreign>
-                        </placeName> quas habent in territorio de <placeName key="stutzmann_himanis#324449" xml:id="d1e129571">
+                        </placeName> quas habent in territorio de <placeName key="stutzmann_himanis#324449" xml:id="d1e129571" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Estormer</foreign>
-                        </placeName>, sive elemosina, sive emptione, sive <lb n="10"/> scambio,
-                        excepta gageria quam habebat <persName key="d1e11369" xml:id="d1e129577">Milo Falsus Peregrinus</persName> a <persName key="d1e11375" xml:id="d1e129580">Waleranno de <placeName key="stutzmann_himanis#324333" xml:id="d1e129582">
+                        </placeName>, sive elemosina, sive emptione, sive <lb n="10" /> scambio,
+                        excepta gageria quam habebat <persName key="d1e11369" xml:id="d1e129577">Milo Falsus Peregrinus</persName> a <persName key="d1e11375" xml:id="d1e129580">Waleranno de <placeName key="stutzmann_himanis#324333" xml:id="d1e129582" corresp="Nod-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>No</foreign>
                             </placeName>
-                        </persName>. Hec omnia predictus <persName key="d1e11381" xml:id="d1e129586">Calo</persName> bo<lb n="11" break="no"/>na fide fecit et quod de his
+                        </persName>. Hec omnia predictus <persName key="d1e11381" xml:id="d1e129586">Calo</persName> bo<lb n="11" break="no" />na fide fecit et quod de his
                         omnibus adversus omnes homines eidem ecclesie legitimam garentiam portaret
-                        promisit. Hinc <lb n="12"/> testes sunt <persName key="d1e11387" xml:id="d1e129594">Guillermus prior <orgName key="stutzmann_himanis#282689" xml:id="d1e129596">Fonteneti</orgName>
+                        promisit. Hinc <lb n="12" /> testes sunt <persName key="d1e11387" xml:id="d1e129594">Guillermus prior <orgName key="stutzmann_himanis#282689" xml:id="d1e129596" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName>, <persName key="d1e11394" xml:id="d1e129599">Guillermus de
-                                <placeName key="stutzmann_himanis#281544" xml:id="d1e129601">Scarleis</placeName>
-                        </persName>, <persName key="d1e11400" xml:id="d1e129604">Philippus</persName> et <persName key="d1e11406" xml:id="d1e129607">Haimo</persName> monachi, <persName key="stutzmann_himanis#324623" xml:id="d1e129610">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e129612">Tulli<lb n="13" break="no"/>onis</placeName>
+                                <placeName key="stutzmann_himanis#281544" xml:id="d1e129601" corresp="abbaye des Echarlis (1112 -)">Scarleis</placeName>
+                        </persName>, <persName key="d1e11400" xml:id="d1e129604">Philippus</persName> et <persName key="d1e11406" xml:id="d1e129607">Haimo</persName> monachi, <persName key="stutzmann_himanis#324623" xml:id="d1e129610" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e129612" corresp="Touillon (Côte-d'Or, Montbard)">Tulli<lb n="13" break="no" />onis</placeName>
                         </persName>, <persName key="d1e11412" xml:id="d1e129618">Odo Rufus de
-                                <placeName key="stutzmann_himanis#98140" xml:id="d1e129620">Maise</placeName>
+                                <placeName key="stutzmann_himanis#98140" xml:id="d1e129620" corresp="Maisey-le-Duc, seigneurie">Maise</placeName>
                         </persName> et <persName key="d1e11418" xml:id="d1e129623">Theobaudus de
-                                <placeName key="stutzmann_himanis#324470" xml:id="d1e129625">Lucennaco</placeName>
-                        </persName>. Hec omnia laudavit <persName key="d1e11424" xml:id="d1e129628">Agnes, uxor Calonis</persName>, et filii eo<lb n="14" break="no"/>rum
+                                <placeName key="stutzmann_himanis#324470" xml:id="d1e129625" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
+                        </persName>. Hec omnia laudavit <persName key="d1e11424" xml:id="d1e129628">Agnes, uxor Calonis</persName>, et filii eo<lb n="14" break="no" />rum
                         et filie, <persName key="d1e11431" xml:id="d1e129633">Raimundus</persName>
-                        et <persName key="d1e11437" xml:id="d1e129636">Hugo</persName>, <persName key="d1e11443" xml:id="d1e129640">Agnes</persName> et <persName key="d1e11449" xml:id="d1e129643">Adelina</persName>. Testes <persName key="d1e11455" xml:id="d1e129646">Philippus</persName>, <persName key="d1e11461" xml:id="d1e129649">Guillermus</persName>, <persName key="d1e11468" xml:id="d1e129652">Haimo</persName> et <persName key="d1e11474" xml:id="d1e129655">Galterius</persName> monachi, <lb n="15"/>
-                        <persName key="stutzmann_himanis#324623" xml:id="d1e129660">Odo
-                            archipresbiter</persName>, <persName key="d1e11480" xml:id="d1e129663">Pontius de <placeName key="stutzmann_himanis#324467" xml:id="d1e129665">
+                        et <persName key="d1e11437" xml:id="d1e129636">Hugo</persName>, <persName key="d1e11443" xml:id="d1e129640">Agnes</persName> et <persName key="d1e11449" xml:id="d1e129643">Adelina</persName>. Testes <persName key="d1e11455" xml:id="d1e129646">Philippus</persName>, <persName key="d1e11461" xml:id="d1e129649">Guillermus</persName>, <persName key="d1e11468" xml:id="d1e129652">Haimo</persName> et <persName key="d1e11474" xml:id="d1e129655">Galterius</persName> monachi, <lb n="15" />
+                        <persName key="stutzmann_himanis#324623" xml:id="d1e129660" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                            archipresbiter</persName>, <persName key="d1e11480" xml:id="d1e129663">Pontius de <placeName key="stutzmann_himanis#324467" xml:id="d1e129665" corresp="Lantilly (Côte-d'Or, Semur-en-Auxois)">
                                 <foreign>Lentille</foreign>
                             </placeName>
                         </persName>, <persName key="d1e11486" xml:id="d1e129669">Theobaudus de
-                                <placeName key="stutzmann_himanis#324470" xml:id="d1e129671">Lucennaco</placeName>
-                        </persName>. Nos etiam ipsius <persName key="d1e11492" xml:id="d1e129674">Calonis</persName> jussione car<lb n="16" break="no"/>tam presentem
-                        sigillo nostro signantes, ne quis ulterius his obviare presumat <lb n="17"/>
+                                <placeName key="stutzmann_himanis#324470" xml:id="d1e129671" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
+                        </persName>. Nos etiam ipsius <persName key="d1e11492" xml:id="d1e129674">Calonis</persName> jussione car<lb n="16" break="no" />tam presentem
+                        sigillo nostro signantes, ne quis ulterius his obviare presumat <lb n="17" />
                         episcopali prohibemus auctoritate et his obviantes donec resipiscant
                         anathemate condempnamus.</p>
                 

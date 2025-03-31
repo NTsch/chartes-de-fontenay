@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240011">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e240011" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 233@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -63,11 +64,11 @@
         </teiHeader>
         <text>
             <body>
-                <p>Notum sit omnibus presentes litteras inspecturis quod ego <persName key="stutzmann_himanis#324624" xml:id="d1e164202">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e164204">Burgundiae</placeName></persName>, pro amore Dei et pro anima mea et
+                <p>Notum sit omnibus presentes litteras inspecturis quod ego <persName key="stutzmann_himanis#324624" xml:id="d1e164202" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e164204" corresp="Bourgogne">Burgundiae</placeName></persName>, pro amore Dei et pro anima mea et
                     antecessorum meorum, dedi in perpetuum <app>
                         <lem>elemozinam</lem>
                         <rdg wit="#E">elemosinam</rdg>
-                    </app> fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e164213">sanctae Mariae de <app>
+                    </app> fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e164213" corresp="abbaye Notre-Dame de Fontenay (1119 -)">sanctae Mariae de <app>
                             <lem>Fontaneto</lem>
                             <rdg wit="#E">Fonteneto</rdg>
                         </app></orgName> ut in omni terra mea quantum ad jurisdictionem meam
@@ -79,56 +80,56 @@
                     </app>, donans eis ut si quid ipsi aut res eorum in omni terra mea dampnum
                     fecerint in segetibus, pratis, vineis et aliis fructibus <app>
                         <lem>super terram</lem>
-                        <rdg wit="#E" type="omission"/>
+                        <rdg wit="#E" type="omission" />
                     </app>, absque omni alia emenda et sine alia lege, capitale tantummodo
                     restituentes in pace <app>
                         <lem>consistant</lem>
                         <rdg wit="#E">contestant</rdg>
                     </app>. <app>
                         <lem>
-                            <witEnd wit="#E"/>
+                            <witEnd wit="#E" />
                         </lem>
                     </app>Donavi vero <hi rend="background(cyan)">super</hi> a dictis fratribus
                     laudatione et assensu <persName key="d1e28432" xml:id="d1e164249">Andreae,
-                        frater mei, comitis <placeName key="stutzmann_himanis#324413" xml:id="d1e164251">Albonii</placeName>
-                    </persName> omnes terras meas gaignabiles in omni finagio <placeName key="stutzmann_himanis#324406" xml:id="d1e164254">Bernae</placeName> et de <placeName key="stutzmann_himanis#325065" xml:id="d1e164258">Bretena</placeName>, corveyam
-                    videlicet <placeName key="stutzmann_himanis#325137" xml:id="d1e164261">mansi
-                        Guichardi</placeName>, corveyam de <placeName key="stutzmann_himanis#324466" xml:id="d1e164264">Lanneis</placeName>, corveyam <placeName key="stutzmann_himanis#325144" xml:id="d1e164267">molendini Petrini</placeName>,
-                    corveyam de <placeName key="stutzmann_himanis#324976" xml:id="d1e164270">Astrea</placeName> et <placeName key="stutzmann_himanis#325086" xml:id="d1e164273">campum juxta corveyam de Astrea</placeName>, corveyam <placeName key="stutzmann_himanis#325141" xml:id="d1e164277">molendini Guidonis de
-                        Pomae</placeName> ab aqua in aquam, corveyam de <placeName key="stutzmann_himanis#325258" xml:id="d1e164283">
+                        frater mei, comitis <placeName key="stutzmann_himanis#324413" xml:id="d1e164251" corresp="Albon (Drôme, Saint-Vallier)">Albonii</placeName>
+                    </persName> omnes terras meas gaignabiles in omni finagio <placeName key="stutzmann_himanis#324406" xml:id="d1e164254" corresp="Beaune (Côte-d'Or)">Bernae</placeName> et de <placeName key="stutzmann_himanis#325065" xml:id="d1e164258" corresp="Bretena">Bretena</placeName>, corveyam
+                    videlicet <placeName key="stutzmann_himanis#325137" xml:id="d1e164261" corresp="mansi Guichardi">mansi
+                        Guichardi</placeName>, corveyam de <placeName key="stutzmann_himanis#324466" xml:id="d1e164264" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lanneis</placeName>, corveyam <placeName key="stutzmann_himanis#325144" xml:id="d1e164267" corresp="molendini Petrini">molendini Petrini</placeName>,
+                    corveyam de <placeName key="stutzmann_himanis#324976" xml:id="d1e164270" corresp="Astrea">Astrea</placeName> et <placeName key="stutzmann_himanis#325086" xml:id="d1e164273" corresp="campum juxta corveyam de Astrea">campum juxta corveyam de Astrea</placeName>, corveyam <placeName key="stutzmann_himanis#325141" xml:id="d1e164277" corresp="molendini Guidonis de Pomae">molendini Guidonis de
+                        Pomae</placeName> ab aqua in aquam, corveyam de <placeName key="stutzmann_himanis#325258" xml:id="d1e164283" corresp="Cultelet">
                         <foreign>Cultelet</foreign>
-                    </placeName> usque in aquam <placeName key="stutzmann_himanis#325144" xml:id="d1e164287">molendini Petrini</placeName>, coveyam de <placeName key="stutzmann_himanis#324928" xml:id="d1e164290">
+                    </placeName> usque in aquam <placeName key="stutzmann_himanis#325144" xml:id="d1e164287" corresp="molendini Petrini">molendini Petrini</placeName>, coveyam de <placeName key="stutzmann_himanis#324928" xml:id="d1e164290" corresp="Lamarz">
                         <foreign>Lamarz</foreign>
-                    </placeName>, corveyam juxta <placeName key="stutzmann_himanis#325103" xml:id="d1e164294">corveyam Templariorum in via de Montinae</placeName>, <placeName key="stutzmann_himanis#325082" xml:id="d1e164300">campum <foreign>Florez</foreign>
-                    </placeName>, corveyam <placeName key="stutzmann_himanis#325217" xml:id="d1e164306">ulmi
+                    </placeName>, corveyam juxta <placeName key="stutzmann_himanis#325103" xml:id="d1e164294" corresp="corveyam Templariorum in via de Montinae">corveyam Templariorum in via de Montinae</placeName>, <placeName key="stutzmann_himanis#325082" xml:id="d1e164300" corresp="campum Florez">campum <foreign>Florez</foreign>
+                    </placeName>, corveyam <placeName key="stutzmann_himanis#325217" xml:id="d1e164306" corresp="ulmi Brudiz">ulmi
                             <foreign>Brudiz</foreign>
-                    </placeName>, corveyam de <placeName key="stutzmann_himanis#324434" xml:id="d1e164311">Coereyo</placeName>, corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164314">
+                    </placeName>, corveyam de <placeName key="stutzmann_himanis#324434" xml:id="d1e164311" corresp="Charrey-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Coereyo</placeName>, corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164314" corresp="Chevez">
                         <foreign>Chevez</foreign>
-                    </placeName>, juxta corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164318">
+                    </placeName>, juxta corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164318" corresp="Chevez">
                         <foreign>Chevez</foreign>
-                    </placeName> duo jornalia, <placeName key="stutzmann_himanis#325085" xml:id="d1e164322">campum Mescini</placeName>, corveyam in <placeName key="stutzmann_himanis#325228" xml:id="d1e164325">via de Belinete</placeName>, <placeName key="stutzmann_himanis#325084" xml:id="d1e164332">campum <persName key="d1e28439" xml:id="d1e164334">
+                    </placeName> duo jornalia, <placeName key="stutzmann_himanis#325085" xml:id="d1e164322" corresp="campum Mescini">campum Mescini</placeName>, corveyam in <placeName key="stutzmann_himanis#325228" xml:id="d1e164325" corresp="via de Belinete">via de Belinete</placeName>, <placeName key="stutzmann_himanis#325084" xml:id="d1e164332" corresp="campum Looth">campum <persName key="d1e28439" xml:id="d1e164334">
                             <foreign>Looth</foreign>
                         </persName>
-                    </placeName>, <placeName key="stutzmann_himanis#324385" xml:id="d1e164338">campum <name>
+                    </placeName>, <placeName key="stutzmann_himanis#324385" xml:id="d1e164338" corresp="Épineuse (Côte-d'Or, Montbard)">campum <name>
                             <foreign>Espinez</foreign>
                         </name> juxta molendinum Guidonis de Pomas</placeName>, tria jornalia ad
-                        <placeName key="stutzmann_himanis#325097" xml:id="d1e164348">chiminum parrinum novem
+                        <placeName key="stutzmann_himanis#325097" xml:id="d1e164348" corresp="chiminum parrinum novem sailuns ad crucem de Boila">chiminum parrinum novem
                         sailuns ad crucem de Boila</placeName>, quatuor jornalia corveyam ad
-                        <placeName key="stutzmann_himanis#325100" xml:id="d1e164355">clausum
-                        Petrinii</placeName> et corveyam de <placeName key="stutzmann_himanis#325065" xml:id="d1e164361">Bretena</placeName>. Donavi etiam praefatis fratribus
+                        <placeName key="stutzmann_himanis#325100" xml:id="d1e164355" corresp="clausum Petrinii">clausum
+                        Petrinii</placeName> et corveyam de <placeName key="stutzmann_himanis#325065" xml:id="d1e164361" corresp="Bretena">Bretena</placeName>. Donavi etiam praefatis fratribus
                     pasturas in omnibus suprascriptis finagiis et plenarium usagium in planeta ad
-                    domum quam iidem fratres facient apud <placeName key="stutzmann_himanis#324406" xml:id="d1e164364">Bernam</placeName>. Preterea concessi eisdem fratribus et
+                    domum quam iidem fratres facient apud <placeName key="stutzmann_himanis#324406" xml:id="d1e164364" corresp="Beaune (Côte-d'Or)">Bernam</placeName>. Preterea concessi eisdem fratribus et
                     laudavi quidquid tenent in omnibus locis a cunctis predecessoribus meis ducibus
                     Burgundiae de quibus vestiti erant et quidquid in <geogName xml:id="d1e164368">aqua Bernensi</geogName> edificare voluerint absque dampno alii faciendo. <app>
                         <lem>
-                            <witStart wit="#E"/>
+                            <witStart wit="#E" />
                         </lem>
-                    </app>Quod totum ut ratum et firmum habeatur venerabilis <persName key="stutzmann_himanis#324610" xml:id="d1e164375">
+                    </app>Quod totum ut ratum et firmum habeatur venerabilis <persName key="stutzmann_himanis#324610" xml:id="d1e164375" corresp="Gautier II, évêque d'Autun 1189 -1223)">
                         <app>
                             <lem>Galterus</lem>
                             <rdg wit="#E">Galtherius</rdg>
                         </app>
-                        <placeName key="stutzmann_himanis#319548" xml:id="d1e164381">Eduensis</placeName>
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e164381" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName> ad meam petitionem donum meum confirmans suum sigillum
                     praesenti cartae apposuit et ego sigilli mei impressione firmari praecepi. Actum
                     anno <app>

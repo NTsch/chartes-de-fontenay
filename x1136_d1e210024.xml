@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1136_d1e210024">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1136_d1e210024" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 4@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -17,22 +18,18 @@
                             l’annotation « <hi rend="italic">Ista littera est in prima magna
                                 carta</hi> ».</witness>
                         <witness n="D">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
-                            fol. 175<hi rend="superscript">v</hi><desc>Papier. Copie partielle, <hi
-                                rend="background(red)">non collationné</hi>e, d’après A (« <hi
-                                rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B ou C
+                            fol. 175<hi rend="superscript">v</hi><desc>Papier. Copie partielle, <hi rend="background(red)">non collationné</hi>e, d’après A (« <hi rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B ou C
                             (« meme cartulaire »).</desc></witness>
                         <witness n="E">ADCO 1 F 216, fol. 51. <desc>Copie d’après Plancher ;
                             rapproche ce texte des souscriptions du § 34 de la première pancarte
                             (cf. ibid. fol. 21)</desc></witness>
                         <witness n="b"><bibl sameAs="#Plancher1739"><biblScope>t. I, preuves p. XL, n° LIX</biblScope></bibl>
                             </witness>
-                       <!-- <witness n="b">
-                            <hi rend="background(red)">A COLLATIONNER</hi>
-                        </witness>-->
+                       
 
                     </listWit>
                     <listBibl>
-                    <bibl/>
+                    <bibl />
                 </listBibl>
                 </sourceDesc>
             </fileDesc>
@@ -50,38 +47,21 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324643" xml:id="d1e142238">Stephanus, Dei
-                    gratia <placeName key="stutzmann_himanis#319548"
-                        corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
-                    episcopus</persName>, adaugeo abbatie <orgName key="stutzmann_himanis#282689"
-                    xml:id="d1e142244">Fonteneti</orgName> de valle in qua eadem abbatia sedet supra
+                <p>Ego <persName key="stutzmann_himanis#324643" xml:id="d1e142238" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephanus, Dei
+                    gratia <placeName key="stutzmann_himanis#319548" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                    episcopus</persName>, adaugeo abbatie <orgName key="stutzmann_himanis#282689" xml:id="d1e142244" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de valle in qua eadem abbatia sedet supra
                 primum donum nostrum a rupe que prius esse meta solebat usque ad locum qui dicitur
-                    « <placeName key="stutzmann_himanis#325031" xml:id="d1e142247">Ad molam
+                    « <placeName key="stutzmann_himanis#325031" xml:id="d1e142247" corresp="Ad molam fabri">Ad molam
                     fabri</placeName> », et interdico <sic corresp="#C">actoritate</sic> nostra ne
                 quis a loco illo usque ad abbatiam piscari presumat vel aliquod aliud dampnum eidem
                 abbatie inferre. Quod si quis contra hec nisi forte ex consensu abbatis loci illius
                 fecerit, noverit se excommunicationi illi subditum quam pridem de his et hujusmodi
-                propter predictam abbatiam fecimus.   Hujus doni laudatores et testes sunt <persName
-                    key="stutzmann_himanis#325490"
-                    corresp="Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis"
-                    >Willermus decanus</persName>, archidiaconi <persName
-                    key="stutzmann_himanis#324650"
-                    corresp="Geoffroy, archidiacre dans le diocèse d'Autun">Gaufridus</persName>,
-                    <persName key="stutzmann_himanis#324651"
-                    corresp="Seguin, archidiacre dans le diocèse d'Autun">Siguinus</persName>,
-                    <persName key="stutzmann_himanis#325486"
-                    corresp="Gérard, archidiacre dans le diocèse d'Autun">Girardus</persName>,
-                    <persName key="stutzmann_himanis#325488"
-                    corresp="Humbert, archidiacre dans le diocèse d'Autun">Humbertus</persName>,
-                    <persName key="stutzmann_himanis#325492"
-                    corresp="Gautier, préchantre du chapitre cathédral d'Autun (fl. 1136), Galterius praecentor Eduensis"
-                    >Galterius precentor</persName>, <persName key="stutzmann_himanis#325495"
-                    corresp="Jean, sous-chantre du chapitre d'Autun (fl. 1136)">Johannes
-                    succentor</persName>.   Hoc donum confirmo et communio sigilli nostri <sic
-                    corresp="#C">actoritate</sic> ego <persName key="stutzmann_himanis#324643"
-                    xml:id="d1e142279">Stephanus Dei gratia <placeName
-                        key="stutzmann_himanis#319548" corresp="Autun (Saône-et-Loire, Autun)"
-                        >Eduensis</placeName> episcopus</persName>.</p>
+                propter predictam abbatiam fecimus.   Hujus doni laudatores et testes sunt <persName key="stutzmann_himanis#325490" corresp="Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis">Willermus decanus</persName>, archidiaconi <persName key="stutzmann_himanis#324650" corresp="Geoffroy, archidiacre dans le diocèse d'Autun">Gaufridus</persName>,
+                    <persName key="stutzmann_himanis#324651" corresp="Seguin, archidiacre dans le diocèse d'Autun">Siguinus</persName>,
+                    <persName key="stutzmann_himanis#325486" corresp="Gérard, archidiacre dans le diocèse d'Autun">Girardus</persName>,
+                    <persName key="stutzmann_himanis#325488" corresp="Humbert, archidiacre dans le diocèse d'Autun">Humbertus</persName>,
+                    <persName key="stutzmann_himanis#325492" corresp="Gautier, préchantre du chapitre cathédral d'Autun (fl. 1136), Galterius praecentor Eduensis">Galterius precentor</persName>, <persName key="stutzmann_himanis#325495" corresp="Jean, sous-chantre du chapitre d'Autun (fl. 1136)">Johannes
+                    succentor</persName>.   Hoc donum confirmo et communio sigilli nostri <sic corresp="#C">actoritate</sic> ego <persName key="stutzmann_himanis#324643" xml:id="d1e142279" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephanus Dei gratia <placeName key="stutzmann_himanis#319548" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>.</p>
             </body>
         </text>
     </TEI>

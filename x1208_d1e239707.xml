@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e239707">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1208_d1e239707" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 229@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -33,20 +34,20 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324639" xml:id="d1e163978">Innocentius episcopus, servus
-                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e163981">Fontaneto</orgName>, Cisterciensis
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e163978" corresp="Innocentius III papa (1198-1216)">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e163981" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>, Cisterciensis
                     ordinis, salutem et apostolicam benedictionem. Cum a nobis petitur quod justum
                     est et honestum, tam vigor aequitatis quam ordo exigit rationis ut id per
                     sollicitudinem officii nostri ad debitum perducatur effectum. Ea propter,
                     dilecti in Domino filii vestris justis postulationibus grato concurrentes
-                    assensu, compositionem inter vos et <orgName key="stutzmann_himanis#284434" xml:id="d1e163984">capitulum <placeName key="stutzmann_himanis#324435" xml:id="d1e163986">Altisiodorensis</placeName> ecclesiae</orgName>
+                    assensu, compositionem inter vos et <orgName key="stutzmann_himanis#284434" xml:id="d1e163984" corresp="cathédrale Saint-Etienne d'Auxerre chapitre">capitulum <placeName key="stutzmann_himanis#324435" xml:id="d1e163986" corresp="Auxerre (Yonne, Auxerre)">Altisiodorensis</placeName> ecclesiae</orgName>
                     initum super quadam terra quae olim <persName key="d1e28408" xml:id="d1e163990">Guidonis <addName>Joardi</addName>
                     </persName> fuisse dinoscitur, sicut sine pravitate provide facta est et ab
                     utraque parte sponte recepta, aucthoritate apostolica confirmamus et presentis
                     scripti patrocinio communimus. Nulli ergo omnino hominum liceat hanc paginam
                     nostrae confirmationis infringere vel ei ausu temerario contra ire. Si quis
                     autem hoc attemptare presumpserit indignationem omnipotentis Dei et beatorum
-                    Petri et Pauli apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e163995">Laterani</placeName>, quarto idus
+                    Petri et Pauli apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e163995" corresp="Laterani">Laterani</placeName>, quarto idus
                     martii, pontificatus nostri anno undecimo.</p>
             </body>
         </text>

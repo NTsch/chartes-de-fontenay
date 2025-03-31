@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e238939">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1205_d1e238939" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original *219 bis@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -20,10 +21,10 @@
                             <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
                         <bibl>ADCO 15 H 4, p. 335 (XV. 18. 4) : « […] en date de 1205 […] titre
                             latin en parchemin, par lequel il conste du droit de pâturage pour les
-                                <orgName key="stutzmann_himanis#324504" xml:id="d1e163499">habitans de
-                                Poiseul</orgName> au finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163502">Eschallot</placeName> sans amende, avec
-                            reconnoissance comme <orgName key="stutzmann_himanis#324500" xml:id="d1e163505">ceux d’Eschalot</orgName> ne peuvent couper du bois dans la forêt
-                            de <placeName key="stutzmann_himanis#324409" xml:id="d1e163508">Bergerosse</placeName>, etc., et scellé d’un sceau qui y étoit
+                                <orgName key="stutzmann_himanis#324504" xml:id="d1e163499" corresp="Poiseul-la-Grange, habitants">habitans de
+                                Poiseul</orgName> au finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163502" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschallot</placeName> sans amende, avec
+                            reconnoissance comme <orgName key="stutzmann_himanis#324500" xml:id="d1e163505" corresp="Échalot, habitants">ceux d’Eschalot</orgName> ne peuvent couper du bois dans la forêt
+                            de <placeName key="stutzmann_himanis#324409" xml:id="d1e163508" corresp="Bergerosse (Côte-d'Or, Châtillon-sur-Seine)">Bergerosse</placeName>, etc., et scellé d’un sceau qui y étoit
                             autrefois ».</bibl>
                     </listBibl>
                 </sourceDesc>
@@ -39,7 +40,7 @@
         </teiHeader>
         <text>
             <body>
-                <p/>
+                <p />
             </body>
         </text>
     </TEI>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e189055">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1211_d1e189055" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 160</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -86,19 +87,19 @@
                     <date type="documentCreation" when="1211-12-31">1211</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_107_0026.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_107_0027.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_107_0026.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_107_0027.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e128239">Galterus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128241">Eduensis</placeName> episcopus</persName>, notum facio universis
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e128239" corresp="Gautier II, évêque d'Autun 1189 -1223)">Galterus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128241" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, notum facio universis
                         presentes litteras inspecturis quod <persName key="d1e10974" xml:id="d1e128245">
                             <foreign xml:lang="fr">
                                 <app>
@@ -106,7 +107,7 @@
                                     <rdg wit="#B">Huez</rdg>
                                 </app>
                             </foreign>
-                            <lb n="2"/> de <placeName key="stutzmann_himanis#324439" xml:id="d1e128254">
+                            <lb n="2" /> de <placeName key="stutzmann_himanis#324439" xml:id="d1e128254" corresp="Darcey (Côte-d'Or, Montbard)">
                                 <foreign>Darce</foreign>
                             </placeName>, cognomento <foreign>
                                 <app>
@@ -114,19 +115,19 @@
                                     <rdg wit="#B">Corniaux</rdg>
                                 </app>
                             </foreign>
-                        </persName>, peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e128265">Sanctum Jacobum</placeName>, constitutus in presentia
-                        mea dedit et <lb n="3"/> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e128270">Fonteneti</orgName> pro remedio
-                        anime sue et antecessorum suorum in perpetuam elemosinam <lb n="4"/> pratum
-                        suum quod est inter <placeName key="stutzmann_himanis#325222" xml:id="d1e128276">vadum
-                            domni Laurentii</placeName> et <placeName key="stutzmann_himanis#324906" xml:id="d1e128279">pontem de <app>
+                        </persName>, peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e128265" corresp="Sanctum Jacobum">Sanctum Jacobum</placeName>, constitutus in presentia
+                        mea dedit et <lb n="3" /> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e128270" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro remedio
+                        anime sue et antecessorum suorum in perpetuam elemosinam <lb n="4" /> pratum
+                        suum quod est inter <placeName key="stutzmann_himanis#325222" xml:id="d1e128276" corresp="vadum domni Laurentii">vadum
+                            domni Laurentii</placeName> et <placeName key="stutzmann_himanis#324906" xml:id="d1e128279" corresp="Cirey (Côte-d'Or, Montbard)">pontem de <app>
                                 <lem wit="#A">Ceres</lem>
                                 <rdg wit="#B">Cerex</rdg>
                             </app>
-                        </placeName>. Et pro ista donatio<lb n="5" break="no"/>ne <persName key="d1e10980" xml:id="d1e128289">Willermus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e128291">Fonteneti</orgName>
+                        </placeName>. Et pro ista donatio<lb n="5" break="no" />ne <persName key="d1e10980" xml:id="d1e128289">Willermus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e128291" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         </persName> de consilio fratrum suorum recepit predictum <persName key="d1e10987" xml:id="d1e128294">
                             <foreign>Huet</foreign>
-                        </persName> in fratrem et in partici<lb n="6" break="no"/>pacionem omnium
-                        bonorum suorum. Et ut ratum sit et firmum maneat in posterum presens <lb n="7"/> scriptum sigilli mei inpressione munivi. Actum est hoc anno
+                        </persName> in fratrem et in partici<lb n="6" break="no" />pacionem omnium
+                        bonorum suorum. Et ut ratum sit et firmum maneat in posterum presens <lb n="7" /> scriptum sigilli mei inpressione munivi. Actum est hoc anno
                         gratie <num>m° cc° <app>
                                 <lem wit="#A">undecimo</lem>
                                 <rdg wit="#B">xi°</rdg>

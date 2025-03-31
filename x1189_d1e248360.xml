@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e248360">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e248360" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 112@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -32,31 +33,31 @@
                     </date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e170062">Stephanus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e170064">Eduensis</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e170062" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e170064" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e30751" xml:id="d1e170068">Oliverius filius <persName key="d1e30757" xml:id="d1e170070">Brutini</persName>
-                    </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e170073">Fonteneti</orgName> totam terram quam habebat in summitate campi <placeName key="stutzmann_himanis#324451" xml:id="d1e170076">Flaci<hi rend="background(red)">a</hi>ci</placeName> desuper chiminum versus <placeName key="stutzmann_himanis#324356" xml:id="d1e170082">Saigniacum</placeName> sub annuo
+                    </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e170073" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> totam terram quam habebat in summitate campi <placeName key="stutzmann_himanis#324451" xml:id="d1e170076" corresp="Flacey (Côte-d'Or, Montbard)">Flaci<hi rend="background(red)">a</hi>ci</placeName> desuper chiminum versus <placeName key="stutzmann_himanis#324356" xml:id="d1e170082" corresp="Seigny (Côte-d'Or, Montbard)">Saigniacum</placeName> sub annuo
                     censu <num>vi</num> denariorum in marcio reddendorum. Item unum jornale retro
-                        <placeName key="stutzmann_himanis#324451" xml:id="d1e170089">Flaciacum</placeName> pro
-                    uno denario censuali. Item <placeName key="stutzmann_himanis#325177" xml:id="d1e170092">pratum de Noa Beleth</placeName> pro <num>iiii</num> denariis census.
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e170089" corresp="Flacey (Côte-d'Or, Montbard)">Flaciacum</placeName> pro
+                    uno denario censuali. Item <placeName key="stutzmann_himanis#325177" xml:id="d1e170092" corresp="pratum Belet">pratum de Noa Beleth</placeName> pro <num>iiii</num> denariis census.
                     Laudavit etiam et concessit omnes elemosinas quas eidem ecclesie fecerant
                     antecessores suis, sive avunculi ipsius, et omnia tenementa de quibus eo die
-                    investiti erant <orgName key="stutzmann_himanis#282689" xml:id="d1e170098">Fontenetenses</orgName> bona fide guerpivit. Inde habuit de beneficio
+                    investiti erant <orgName key="stutzmann_himanis#282689" xml:id="d1e170098" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> bona fide guerpivit. Inde habuit de beneficio
                     ejusdem ecclesie tam ipse quam uxor ejus <num>viii</num> libras. Horum omnium
-                    testes sunt <persName key="d1e30763" xml:id="d1e170105">Odo decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e170107">Montis Barri</placeName>
-                    </persName>, <persName key="d1e30770" xml:id="d1e170110">Osmundus de <placeName key="stutzmann_himanis#324341" xml:id="d1e170112">Plaaneto</placeName>
-                    </persName>, <persName key="d1e30776" xml:id="d1e170115">Rainerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e170117">Sancta Columba</placeName>
+                    testes sunt <persName key="d1e30763" xml:id="d1e170105">Odo decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e170107" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                    </persName>, <persName key="d1e30770" xml:id="d1e170110">Osmundus de <placeName key="stutzmann_himanis#324341" xml:id="d1e170112" corresp="Planay (Côte-d'Or, Montbard)">Plaaneto</placeName>
+                    </persName>, <persName key="d1e30776" xml:id="d1e170115">Rainerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e170117" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
                     </persName>. Qui <persName key="d1e30782" xml:id="d1e170120">Rainerius</persName> graantavit se responsorem esse de hiis omnibus si
                     predictus <persName key="d1e30788" xml:id="d1e170123">Oliverius</persName> eidem
                     ecclesie garentiam portare non posset aut nollet. Hoc etiam laudavit <persName key="d1e30794" xml:id="d1e170126">Laura uxor <persName key="d1e30800" xml:id="d1e170128">predicti Oliverii</persName>
                     </persName>. Unde testes sunt <persName key="d1e30807" xml:id="d1e170132">Wido
-                        presbiter de <placeName key="stutzmann_himanis#324437" xml:id="d1e170134">
+                        presbiter de <placeName key="stutzmann_himanis#324437" xml:id="d1e170134" corresp="Quemigny-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">
                             <foreign>Cumigne</foreign>
                         </placeName>
                     </persName>, <persName key="d1e30813" xml:id="d1e170138">Johannes miles ejusdem

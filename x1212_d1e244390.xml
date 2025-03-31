@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e244390">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e244390" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 278@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -38,14 +39,14 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="d1e29419" xml:id="d1e167246">Guido, dominus <placeName key="stutzmann_himanis#324943" xml:id="d1e167248">Arcæiarium</placeName>
+                <p>Ego <persName key="d1e29419" xml:id="d1e167246">Guido, dominus <placeName key="stutzmann_himanis#324943" xml:id="d1e167248" corresp="Arcæiarium">Arcæiarium</placeName>
                     </persName>, notum facio omnibus presentibus et futuris quod ego, laude et
                     assensu <persName key="d1e29425" xml:id="d1e167251">
                         <sic corresp="#B">Maltidis</sic> uxoris meæ</persName>, dedi et concessi
-                    œclesiæ beatæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167256">Fonteneti</orgName>, pro remedio animæ meæ, et <persName key="d1e29431" xml:id="d1e167259">Maltidis dictæ uxoris meæ</persName>, quidquid habebam
-                    apud <placeName key="stutzmann_himanis#324465" xml:id="d1e167262">Junaium</placeName>,
-                    videlicet tertiam partem quam habebam in molendino quod est situm sub <placeName key="stutzmann_himanis#324465" xml:id="d1e167266">Junaio</placeName>, quamdam domum et
-                    omnes terras meas in territorio <placeName key="stutzmann_himanis#324465" xml:id="d1e167269">Junai</placeName> sitas, libere et absolute in perpetuum
+                    œclesiæ beatæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167256" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>, pro remedio animæ meæ, et <persName key="d1e29431" xml:id="d1e167259">Maltidis dictæ uxoris meæ</persName>, quidquid habebam
+                    apud <placeName key="stutzmann_himanis#324465" xml:id="d1e167262" corresp="Genay (Côte-d'Or, Semur-en-Auxois)">Junaium</placeName>,
+                    videlicet tertiam partem quam habebam in molendino quod est situm sub <placeName key="stutzmann_himanis#324465" xml:id="d1e167266" corresp="Genay (Côte-d'Or, Semur-en-Auxois)">Junaio</placeName>, quamdam domum et
+                    omnes terras meas in territorio <placeName key="stutzmann_himanis#324465" xml:id="d1e167269" corresp="Genay (Côte-d'Or, Semur-en-Auxois)">Junai</placeName> sitas, libere et absolute in perpetuum
                     possidendas. Et ut ratum et inviolabile presentem cartam sigilli mei munimine
                     roboravi. Actum est hoc anno Domini <sic corresp="#B">millezimo</sic>
                     ducentesimo decimo secundo.<note>

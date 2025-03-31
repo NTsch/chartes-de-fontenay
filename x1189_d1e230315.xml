@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230315">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e230315" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 111@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,38 +37,38 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157389">Stephanus Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157391">Eduensis</placeName>
-                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25281" xml:id="d1e157395">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e157397">Frolesio</placeName>
-                    </persName> concessit fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157400">Fonteneto</orgName> quicquid habebat de proprio dominio
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157389" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157391" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25281" xml:id="d1e157395">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e157397" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                    </persName> concessit fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157400" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid habebat de proprio dominio
                     et quicquid <persName key="d1e25287" xml:id="d1e157403">Girardus
                             <addName>Pilosus</addName>
                     </persName> et <persName key="d1e25293" xml:id="d1e157408">Gilebertus de
-                            <placeName key="stutzmann_himanis#324433" xml:id="d1e157410">Colomeis</placeName>
+                            <placeName key="stutzmann_himanis#324433" xml:id="d1e157410" corresp="Coulmier-le-Sec (Côte-d'Or, Châtillon-sur-Seine)">Colomeis</placeName>
                     </persName> et <persName key="d1e25299" xml:id="d1e157414">Obertus
                             <addName>Villanus</addName>
                     </persName> tenebant ab <persName key="d1e25331" xml:id="d1e157419">Hugone de
-                            <placeName key="stutzmann_himanis#324905" xml:id="d1e157421">
+                            <placeName key="stutzmann_himanis#324905" xml:id="d1e157421" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaace</foreign>
                         </placeName>
-                    </persName> a ponte <placeName key="stutzmann_himanis#324356" xml:id="d1e157425">Saigniaci</placeName> sicut via ducit versus <placeName key="stutzmann_himanis#324479" xml:id="d1e157428">Aringias</placeName> et sicut
+                    </persName> a ponte <placeName key="stutzmann_himanis#324356" xml:id="d1e157425" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaci</placeName> sicut via ducit versus <placeName key="stutzmann_himanis#324479" xml:id="d1e157428" corresp="Éringes (Côte-d'Or, Montbard)">Aringias</placeName> et sicut
                         <geogName xml:id="d1e157431">rivus Aringiarum</geogName> ducit usque in
                         <geogName xml:id="d1e157434">aquam Brane</geogName> preter censum quem
                     annuatim reddunt monachi militibus supradictis videlicet <num>xii</num> solidos
                     et dimidium. Cujus census medietatem adquirere poterunt predicti monachi sive
                     per elemosinam sive per emptionem. Concessit etiam eisdem fratribus predictus
                         <persName key="d1e25337" xml:id="d1e157441">Renerius</persName> quicquid
-                    poterunt adquirere legitime ab heredibus <persName key="d1e25343" xml:id="d1e157444">Radulphi de <placeName key="stutzmann_himanis#324356" xml:id="d1e157446">Saigniaco</placeName>
+                    poterunt adquirere legitime ab heredibus <persName key="d1e25343" xml:id="d1e157444">Radulphi de <placeName key="stutzmann_himanis#324356" xml:id="d1e157446" corresp="Seigny (Côte-d'Or, Montbard)">Saigniaco</placeName>
                     </persName> et <persName key="d1e25349" xml:id="d1e157449">Roberti fratris
                         ejusdem Radulphi</persName> infra prescriptos terminos. Hec omnia
-                    laudaverunt filii ejusdem <persName key="d1e25355" xml:id="d1e157452">Renerii</persName>, <persName key="d1e25361" xml:id="d1e157455">Pontius</persName>, <persName key="d1e25368" xml:id="d1e157459">Adam</persName>, <persName key="d1e25374" xml:id="d1e157462">Milo</persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e157465">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e157467">Tullionis</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324632" xml:id="d1e157470">Haymo
-                        archipresbiter <placeName key="stutzmann_himanis#322865" xml:id="d1e157472">Flaviniaci</placeName>
+                    laudaverunt filii ejusdem <persName key="d1e25355" xml:id="d1e157452">Renerii</persName>, <persName key="d1e25361" xml:id="d1e157455">Pontius</persName>, <persName key="d1e25368" xml:id="d1e157459">Adam</persName>, <persName key="d1e25374" xml:id="d1e157462">Milo</persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e157465" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e157467" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324632" xml:id="d1e157470" corresp="Haimo archipresbiter Flaviniaci">Haymo
+                        archipresbiter <placeName key="stutzmann_himanis#322865" xml:id="d1e157472" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniaci</placeName>
                     </persName>, <persName key="d1e25380" xml:id="d1e157475">Girardus <addName>
                             <foreign>Guununs</foreign>
                         </addName>
                     </persName>, <persName key="d1e25386" xml:id="d1e157481">Petrus
-                        clericus</persName>. Predictus etiam <persName key="d1e25392" xml:id="d1e157485">Renerius</persName> recognovit in presentia <persName key="stutzmann_himanis#324677" xml:id="d1e157488">Gaucherii abbatis <orgName key="stutzmann_himanis#284217" xml:id="d1e157490">Flaviniaci</orgName>
+                        clericus</persName>. Predictus etiam <persName key="d1e25392" xml:id="d1e157485">Renerius</persName> recognovit in presentia <persName key="stutzmann_himanis#324677" xml:id="d1e157488" corresp="Gaucher, abbé de Flavigny (1173-1185)">Gaucherii abbatis <orgName key="stutzmann_himanis#284217" xml:id="d1e157490" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniaci</orgName>
                     </persName>, <persName key="d1e25398" xml:id="d1e157493">Johannis
                         monachi</persName>, <persName key="d1e25405" xml:id="d1e157496">Teobaudi <addName>
                             <foreign>Seebrant</foreign>

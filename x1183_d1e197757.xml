@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1183_d1e197757">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1183_d1e197757" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1095</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -84,39 +85,39 @@
                     <date type="documentCreation" when="1183-12-31">1183</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Ego, <persName key="stutzmann_himanis#324640" xml:id="d1e134067">Hugo, Dei gratia
-                                <placeName key="stutzmann_himanis#324435" xml:id="d1e134069">Autissiodorensis</placeName> episcopus</persName>, notum volo fieri
+                                        <p>Ego, <persName key="stutzmann_himanis#324640" xml:id="d1e134067" corresp="Hugues de Noyers, évêque d'Auxerre (1183-1206)">Hugo, Dei gratia
+                                <placeName key="stutzmann_himanis#324435" xml:id="d1e134069" corresp="Auxerre (Yonne, Auxerre)">Autissiodorensis</placeName> episcopus</persName>, notum volo fieri
                         tam presentibus quam futuris quod <persName key="d1e12670" xml:id="d1e134073">Stephanus <addName>Rufus</addName>
                         </persName>, frater <persName key="d1e12676" xml:id="d1e134078">Johannis
-                            Beruardi</persName>, <lb n="2"/> vendidit vineam suam magnam que est in
-                            <placeName key="stutzmann_himanis#324961" xml:id="d1e134083">Monte
-                            Reifridi</placeName> monachis de <orgName key="stutzmann_himanis#282689" xml:id="d1e134087">Fonteneto</orgName>. Concesserunt autem monachi illi
-                            prefa<lb n="3" break="no"/>to <persName key="d1e12682" xml:id="d1e134092">Johanni</persName> ut vineam illam possideat idem
+                            Beruardi</persName>, <lb n="2" /> vendidit vineam suam magnam que est in
+                            <placeName key="stutzmann_himanis#324961" xml:id="d1e134083" corresp="Monte Reifridi">Monte
+                            Reifridi</placeName> monachis de <orgName key="stutzmann_himanis#282689" xml:id="d1e134087" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>. Concesserunt autem monachi illi
+                            prefa<lb n="3" break="no" />to <persName key="d1e12682" xml:id="d1e134092">Johanni</persName> ut vineam illam possideat idem
                             <persName key="d1e12688" xml:id="d1e134095">Johannes</persName> toto
-                        tempore vite sue nisi secularibus abrenuntiare voluerit, sub hac <lb n="4"/>
+                        tempore vite sue nisi secularibus abrenuntiare voluerit, sub hac <lb n="4" />
                         tamen conditione quod prefatus <persName key="d1e12695" xml:id="d1e134100">Johannes</persName> annuatim reddet unum modium vini monachis
-                        prescriptis quod tempore messium <lb n="5"/> bibent. Reddet etiam eis
+                        prescriptis quod tempore messium <lb n="5" /> bibent. Reddet etiam eis
                             <num>xv</num> denarios de censu singulis annis ut per hec ab eis
-                        possideri vinea cognoscatur post deces<lb n="6" break="no"/>sum tamen
+                        possideri vinea cognoscatur post deces<lb n="6" break="no" />sum tamen
                             <persName key="d1e12701" xml:id="d1e134111">Johannis</persName>.
                             <persName key="d1e12707" xml:id="d1e134114">Johannes</persName> vero
                         propter hoc donum eisdem monachis domum suam que est sita super aquam
-                        concessit possi<lb n="7" break="no"/>dendam de cetero ad omnes voluntates
+                        concessit possi<lb n="7" break="no" />dendam de cetero ad omnes voluntates
                         suas explendas. Hec vidimus fieri et audivimus et in hujus facti testimonium
-                        ad <lb n="8"/> petitionem monachorum et <persName key="d1e12713" xml:id="d1e134122">Johannis</persName> et <persName key="d1e12719" xml:id="d1e134125">Stephani</persName> presenti scripto sigilli nostri
-                        munimen apposuimus. Datum anno incarnationis Dominice <lb n="9"/> .M°. c°.
-                        lxxx. <figure rend="trait"/>.iii°.</p>
+                        ad <lb n="8" /> petitionem monachorum et <persName key="d1e12713" xml:id="d1e134122">Johannis</persName> et <persName key="d1e12719" xml:id="d1e134125">Stephani</persName> presenti scripto sigilli nostri
+                        munimen apposuimus. Datum anno incarnationis Dominice <lb n="9" /> .M°. c°.
+                        lxxx. <figure rend="trait" />.iii°.</p>
                 
             </body>
         </text>

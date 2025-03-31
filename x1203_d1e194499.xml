@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e194499">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1203_d1e194499" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 507</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -77,38 +78,38 @@
                     <date type="documentCreation" when="1203-12-31">1203</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0012.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_66_0013.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0012.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0013.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                                        <p>Noverint universi presentes pariter et futuri quod ego <persName key="d1e11918" xml:id="d1e131892">Silvester, prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e131894">Cruseio</placeName>
-                        </persName> et [<hi rend="italic">espace blanc</hi>] <lb n="2"/>
+                                        <p>Noverint universi presentes pariter et futuri quod ego <persName key="d1e11918" xml:id="d1e131892">Silvester, prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e131894" corresp="Cruse">Cruseio</placeName>
+                        </persName> et [<hi rend="italic">espace blanc</hi>] <lb n="2" />
                         <persName key="d1e11924" xml:id="d1e131901">uxor mea</persName> et <persName key="d1e11930" xml:id="d1e131904">Bartholomeus</persName> filius meus et
                             <persName key="d1e11936" xml:id="d1e131907">Aalaiz</persName> uxor sua,
-                        vineam nostram <placeName key="stutzmann_himanis#324435" xml:id="d1e131911">Autisiodori</placeName> sitam in loco qui dicitur <lb n="3"/>
-                        <placeName key="stutzmann_himanis#324963" xml:id="d1e131915">
+                        vineam nostram <placeName key="stutzmann_himanis#324435" xml:id="d1e131911" corresp="Auxerre (Yonne, Auxerre)">Autisiodori</placeName> sitam in loco qui dicitur <lb n="3" />
+                        <placeName key="stutzmann_himanis#324963" xml:id="d1e131915" corresp="Montoht">
                             <foreign>Montoht</foreign>
-                        </placeName> dedimus in elemosinam <orgName key="stutzmann_himanis#282689" xml:id="d1e131919">ecclesie sancte Marie Fonteneti</orgName> et
-                        fratribus ejusdem loci, pro salute animarum nostrarum, deinceps <lb n="4"/>
+                        </placeName> dedimus in elemosinam <orgName key="stutzmann_himanis#282689" xml:id="d1e131919" corresp="abbaye Notre-Dame de Fontenay (1119 -)">ecclesie sancte Marie Fonteneti</orgName> et
+                        fratribus ejusdem loci, pro salute animarum nostrarum, deinceps <lb n="4" />
                         absque contraditione nostra vel heredum nostrorum, jure perpetuo
-                        possidendam. Habuimus autem pro hac donatione nostra de benefi<lb n="5" break="no"/>cio ejusdem ecclesie <hi rend="smallcaps">xl</hi>
+                        possidendam. Habuimus autem pro hac donatione nostra de benefi<lb n="5" break="no" />cio ejusdem ecclesie <hi rend="smallcaps">xl</hi>
                         <hi rend="superscript">ta</hi> libras provin[ensis] monete. Ut igitur hec
-                        nostra donatio rata et inconcussa perduret et ne aliquis decetero <lb n="6"/> debeat contra ire, ego <persName key="d1e11942" xml:id="d1e131934">Silvester, prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e131936">Cruseio</placeName>
-                        </persName>, presentem paginam sigilli mei munimine roborari precepi. <lb n="7"/> Anno verbi incarnati millesimo ducentesimo tercio, presentibus
+                        nostra donatio rata et inconcussa perduret et ne aliquis decetero <lb n="6" /> debeat contra ire, ego <persName key="d1e11942" xml:id="d1e131934">Silvester, prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e131936" corresp="Cruse">Cruseio</placeName>
+                        </persName>, presentem paginam sigilli mei munimine roborari precepi. <lb n="7" /> Anno verbi incarnati millesimo ducentesimo tercio, presentibus
                         istis <persName key="d1e11948" xml:id="d1e131941">Roberto sacerdote de
-                                <placeName key="stutzmann_himanis#325256" xml:id="d1e131943">Cruseio</placeName>
+                                <placeName key="stutzmann_himanis#325256" xml:id="d1e131943" corresp="Cruse">Cruseio</placeName>
                         </persName>, <persName key="d1e11955" xml:id="d1e131947">Willermo de
-                                <placeName key="stutzmann_himanis#324352" xml:id="d1e131949">Rice<lb n="8" break="no"/>io</placeName> milite</persName>, <persName key="d1e11961" xml:id="d1e131955">Serunno famulo meo</persName>,
+                                <placeName key="stutzmann_himanis#324352" xml:id="d1e131949" corresp="Recey-sur-Ource (Côte-d'Or, Châtillon-sur-Seine)">Rice<lb n="8" break="no" />io</placeName> milite</persName>, <persName key="d1e11961" xml:id="d1e131955">Serunno famulo meo</persName>,
                             <persName key="d1e11967" xml:id="d1e131958">Humberto</persName> et
                             <persName key="d1e11973" xml:id="d1e131961">Adam</persName> monachis
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131964">Fonteneti</orgName>.</p>
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131964" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>.</p>
                 
             </body>
         </text>

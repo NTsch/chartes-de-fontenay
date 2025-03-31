@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1185_d1e190237">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1185_d1e190237" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 254</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -90,47 +91,47 @@
                     
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_118_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_118_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_118_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_118_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                     <p>
-                        <hi rend="module plus grand">Ego <persName key="himanis_324577" xml:id="d1e128992">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e128994">Burgundie</placeName>
-                            </persName>, notum fieri volo quod <persName key="d1e11221" xml:id="d1e128997">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e128999">
+                        <hi rend="module plus grand">Ego <persName key="himanis_324577" xml:id="d1e128992">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e128994" corresp="Bourgogne">Burgundie</placeName>
+                            </persName>, notum fieri volo quod <persName key="d1e11221" xml:id="d1e128997">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e128999" corresp="Étais (Côte-d'Or, Montbard)">
                                     <foreign>Estez</foreign>
                                 </placeName>
-                            </persName> recognovit ante me quod <lb n="2"/> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e129005">Fonteneti</orgName> habebant
-                            a patre suo</hi> super pastionem et super pasturas de <placeName key="stutzmann_himanis#324348" xml:id="d1e129009">Puteis</placeName> et de
-                            <placeName key="stutzmann_himanis#324448" xml:id="d1e129012">
+                            </persName> recognovit ante me quod <lb n="2" /> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e129005" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> habebant
+                            a patre suo</hi> super pastionem et super pasturas de <placeName key="stutzmann_himanis#324348" xml:id="d1e129009" corresp="Puits (Côte-d'Or, Châtillon-sur-Seine)">Puteis</placeName> et de
+                            <placeName key="stutzmann_himanis#324448" xml:id="d1e129012" corresp="Étais (Côte-d'Or, Montbard)">
                             <foreign>Estez</foreign>
-                        </placeName> quingentos <lb n="3"/> solidos proviniensis monete, tali
+                        </placeName> quingentos <lb n="3" /> solidos proviniensis monete, tali
                         conditione quod idem <persName key="d1e11227" xml:id="d1e129018">Matheus</persName> de eadem pastura vel pastione nulli alii ecclesie
-                            <lb n="4"/> elemosinam faciet nec ullo modo alios introducet in pasturam
-                        sive in pastionem nisi <orgName key="stutzmann_himanis#282689" xml:id="d1e129024">Fontenetenses</orgName> et homines earumdem <lb n="5"/> villarum.
+                            <lb n="4" /> elemosinam faciet nec ullo modo alios introducet in pasturam
+                        sive in pastionem nisi <orgName key="stutzmann_himanis#282689" xml:id="d1e129024" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName> et homines earumdem <lb n="5" /> villarum.
                         Quando vero eas redemerit, si de eis se adjuvare voluerit, prius abbati et
-                        fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e129029">Fonteneti</orgName> offeret, et si <lb n="6"/> abbas presens affuerit
+                        fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e129029" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> offeret, et si <lb n="6" /> abbas presens affuerit
                             <num>xv</num> dies respectus habebit. Si vero non fuerit presens,
-                            <num>xl</num> dies respectus habebunt fratres <lb n="7"/> et tunc si
+                            <num>xl</num> dies respectus habebunt fratres <lb n="7" /> et tunc si
                         fratres ei tamen dare noluerint quantum se ab alio duobus legitimis viris
-                        hoc juramento firman<lb n="8" break="no"/>tibus habere posse monstraverit,
+                        hoc juramento firman<lb n="8" break="no" />tibus habere posse monstraverit,
                         exinde quod voluerit facere poterit. In hoc consensit abbas et fratres
-                        Fontenetenses ommis<lb n="9" break="no"/>sis aliis querelis quas de his
-                        rebus adversus <persName key="d1e11233" xml:id="d1e129047">Matheum</persName> habebant. Horum testes sunt <persName key="d1e11239" xml:id="d1e129050">Milo, abbas <orgName key="stutzmann_himanis#284025" xml:id="d1e129052">Sancti Stephani <lb n="10"/>
+                        Fontenetenses ommis<lb n="9" break="no" />sis aliis querelis quas de his
+                        rebus adversus <persName key="d1e11233" xml:id="d1e129047">Matheum</persName> habebant. Horum testes sunt <persName key="d1e11239" xml:id="d1e129050">Milo, abbas <orgName key="stutzmann_himanis#284025" xml:id="d1e129052" corresp="abbaye Saint-Etienne de Dijon (580 -)">Sancti Stephani <lb n="10" />
                                 Divionensis</orgName>
                         </persName>, <persName key="d1e11246" xml:id="d1e129057">Daniel, abbas
-                                <orgName key="stutzmann_himanis#283954" xml:id="d1e129059">Castellionis</orgName>
-                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e129063">Odo,
-                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e129065">Tullionis</placeName>
+                                <orgName key="stutzmann_himanis#283954" xml:id="d1e129059" corresp="abbaye Notre-Dame de Châtillon-sur-Seine">Castellionis</orgName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e129063" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo,
+                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e129065" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                         </persName>, et <persName key="d1e11252" xml:id="d1e129068">Hugo, capellanus
-                            meus</persName>, <persName key="d1e11258" xml:id="d1e129071">Andreas <lb n="11"/>
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e129074">Montis
+                            meus</persName>, <persName key="d1e11258" xml:id="d1e129071">Andreas <lb n="11" />
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e129074" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                                 Barri</placeName>
                         </persName>, <persName key="d1e11264" xml:id="d1e129077">Stephanus
                                 <addName>Villanus</addName>

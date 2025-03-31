@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e195634">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e195634" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 772</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -153,78 +154,78 @@
                     <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0004.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_148_0005.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0004.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0005.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
-                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e132724">Stephanus, Dei gratia
-                                <placeName key="stutzmann_himanis#319548" xml:id="d1e132726">Eduensis</placeName> episcopus</persName>, tam futuris quam
-                        presentibus, notum fieri volo quod <persName key="d1e12127" xml:id="d1e132730">Savericus</persName>, <persName key="d1e12133" xml:id="d1e132733">Andreas</persName> et <persName key="d1e12140" xml:id="d1e132736">Herveus</persName>, <lb n="2"/> filii <persName key="d1e12146" xml:id="d1e132742">Odonis de <placeName key="stutzmann_himanis#324452" xml:id="d1e132744">Fontanis</placeName>
-                        </persName>, laudante matre sua <persName key="d1e12152" xml:id="d1e132747">Alwiz</persName> et sororibus suis <persName key="d1e12158" xml:id="d1e132750">Alwiz</persName>, <persName key="d1e12164" xml:id="d1e132753">Tecelina</persName> et <persName key="d1e12170" xml:id="d1e132756">Gertrude</persName>, laudaverunt in presentia <lb n="3"/> mea donum quod pater suus ad conversionem veniens <orgName key="stutzmann_himanis#282689" xml:id="d1e132762">Fontenetensi ecclesie</orgName>
-                        fecerat. Donum autem ipsum hujusmodi est : ut <orgName key="stutzmann_himanis#282689" xml:id="d1e132765">Fon<lb n="4" break="no"/>tenentenses</orgName>
-                        quotiens sibi placuerit per totum finem <placeName key="stutzmann_himanis#324452" xml:id="d1e132770">Fontanarum</placeName>, omni tempore, in plano et in
-                        bosco et in aquis, absque <lb n="5"/> damno messium et pratorum, pecora sua
+                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e132724" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e132726" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, tam futuris quam
+                        presentibus, notum fieri volo quod <persName key="d1e12127" xml:id="d1e132730">Savericus</persName>, <persName key="d1e12133" xml:id="d1e132733">Andreas</persName> et <persName key="d1e12140" xml:id="d1e132736">Herveus</persName>, <lb n="2" /> filii <persName key="d1e12146" xml:id="d1e132742">Odonis de <placeName key="stutzmann_himanis#324452" xml:id="d1e132744" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
+                        </persName>, laudante matre sua <persName key="d1e12152" xml:id="d1e132747">Alwiz</persName> et sororibus suis <persName key="d1e12158" xml:id="d1e132750">Alwiz</persName>, <persName key="d1e12164" xml:id="d1e132753">Tecelina</persName> et <persName key="d1e12170" xml:id="d1e132756">Gertrude</persName>, laudaverunt in presentia <lb n="3" /> mea donum quod pater suus ad conversionem veniens <orgName key="stutzmann_himanis#282689" xml:id="d1e132762" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensi ecclesie</orgName>
+                        fecerat. Donum autem ipsum hujusmodi est : ut <orgName key="stutzmann_himanis#282689" xml:id="d1e132765" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fon<lb n="4" break="no" />tenentenses</orgName>
+                        quotiens sibi placuerit per totum finem <placeName key="stutzmann_himanis#324452" xml:id="d1e132770" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>, omni tempore, in plano et in
+                        bosco et in aquis, absque <lb n="5" /> damno messium et pratorum, pecora sua
                         libere pastum mittant et de boschis ejusdem ville tollant que pecoribus vel
-                            pa<lb n="6" break="no"/>storibus suis ibidem morantibus necessaria
+                            pa<lb n="6" break="no" />storibus suis ibidem morantibus necessaria
                         fuerint, ad bordam scilicet, ad focum, ad umbracula et ad ceteros idoneos
-                        usus, ita <lb n="7"/> sane ut si pecora <orgName key="stutzmann_himanis#282689" xml:id="d1e132780">Fontenetensium</orgName> in prato vel messe damnum
-                        aliquod intulerint absque alia lege damnum solummodo reddent. <lb n="8"/>
+                        usus, ita <lb n="7" /> sane ut si pecora <orgName key="stutzmann_himanis#282689" xml:id="d1e132780" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensium</orgName> in prato vel messe damnum
+                        aliquod intulerint absque alia lege damnum solummodo reddent. <lb n="8" />
                         Hoc donum patris sui jampridem laudaverant predicti fratres. Postea vero
-                        idem donum tam ipsi quam mater eorum atque sorores <lb n="9"/> prenominate
+                        idem donum tam ipsi quam mater eorum atque sorores <lb n="9" /> prenominate
                         ex parte sua fecerunt <note> Sic « ex parte″ fecerunt ″sua ».</note>,
                         adicientes insuper et donantes prefate ecclesie monachis pastionem ad porcos
-                            <lb n="10"/> suos per nemora sua. Concesserunt etiam quod nullos homines
-                        alterius religionis in ipsas pasturas vel usuaria <lb n="11"/> mittent, nisi
-                        tantum habitatores <placeName key="stutzmann_himanis#324452" xml:id="d1e132796">Fontanarum</placeName>, necnon ad opus animalium monachorum per terram
-                        suam et per mediam <lb n="12"/> riveriam, unam carreriam trium tesiarum.
-                        Dimiserunt quoque prefate ecclesie totam calumniam quam habebant in <lb n="13"/> territorio <placeName key="stutzmann_himanis#324375" xml:id="d1e132803">Verdennaci</placeName>, nichil inibi retinentes infra metas versus
-                            <placeName key="stutzmann_himanis#324375" xml:id="d1e132806">Verdennacum</placeName>, que communi assensu, ipsorum scilicet et mo<lb n="14" break="no"/>nachorum posite sunt, nisi pasturas animalibus
-                        hominum suorum et pastionem porcis eorum. Et si damnum <lb n="15"/> fecerint
-                        monachis animalia <placeName key="stutzmann_himanis#324452" xml:id="d1e132814">Fontanarum</placeName>, sine alia lege damnum restituent. Hec etiam
-                        laudaverunt homines <lb n="16"/> ipsius ville qui dicebant se habere usagium
-                        in predicto <placeName key="stutzmann_himanis#324375" xml:id="d1e132819">Verdennaci</placeName> territorio, et omnem calumniam quam ha<lb n="17" break="no"/>bebant ibi pro animabus suis ecclesie Fontenetensi
+                            <lb n="10" /> suos per nemora sua. Concesserunt etiam quod nullos homines
+                        alterius religionis in ipsas pasturas vel usuaria <lb n="11" /> mittent, nisi
+                        tantum habitatores <placeName key="stutzmann_himanis#324452" xml:id="d1e132796" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>, necnon ad opus animalium monachorum per terram
+                        suam et per mediam <lb n="12" /> riveriam, unam carreriam trium tesiarum.
+                        Dimiserunt quoque prefate ecclesie totam calumniam quam habebant in <lb n="13" /> territorio <placeName key="stutzmann_himanis#324375" xml:id="d1e132803" corresp="Verdonnet (Côte-d'Or, Montbard)">Verdennaci</placeName>, nichil inibi retinentes infra metas versus
+                            <placeName key="stutzmann_himanis#324375" xml:id="d1e132806" corresp="Verdonnet (Côte-d'Or, Montbard)">Verdennacum</placeName>, que communi assensu, ipsorum scilicet et mo<lb n="14" break="no" />nachorum posite sunt, nisi pasturas animalibus
+                        hominum suorum et pastionem porcis eorum. Et si damnum <lb n="15" /> fecerint
+                        monachis animalia <placeName key="stutzmann_himanis#324452" xml:id="d1e132814" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName>, sine alia lege damnum restituent. Hec etiam
+                        laudaverunt homines <lb n="16" /> ipsius ville qui dicebant se habere usagium
+                        in predicto <placeName key="stutzmann_himanis#324375" xml:id="d1e132819" corresp="Verdonnet (Côte-d'Or, Montbard)">Verdennaci</placeName> territorio, et omnem calumniam quam ha<lb n="17" break="no" />bebant ibi pro animabus suis ecclesie Fontenetensi
                         guerpierunt, nichil penitus excipientes, nisi quod in orationibus et
-                        beneficiis <lb n="18"/> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e132827">Fonteneti</orgName> recipientur, quorum sunt nomina
-                            <persName key="d1e12177" xml:id="d1e132830">Christianus de <placeName key="stutzmann_himanis#324960" xml:id="d1e132832">Monte Canino</placeName>
+                        beneficiis <lb n="18" /> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e132827" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> recipientur, quorum sunt nomina
+                            <persName key="d1e12177" xml:id="d1e132830">Christianus de <placeName key="stutzmann_himanis#324960" xml:id="d1e132832" corresp="Monte Canino">Monte Canino</placeName>
                         </persName>, <persName key="d1e12183" xml:id="d1e132835">Hugo</persName> et
-                            <persName key="d1e12189" xml:id="d1e132838">Odo</persName>, <persName key="d1e12195" xml:id="d1e132841">Brictius</persName> et <persName key="d1e12201" xml:id="d1e132845">Wido</persName>, <lb n="19"/> filius
+                            <persName key="d1e12189" xml:id="d1e132838">Odo</persName>, <persName key="d1e12195" xml:id="d1e132841">Brictius</persName> et <persName key="d1e12201" xml:id="d1e132845">Wido</persName>, <lb n="19" /> filius
                         ejus, <persName key="d1e12207" xml:id="d1e132850">Petrus major filius
-                                <persName key="d1e12214" xml:id="d1e132852">Theobaldi de <placeName key="stutzmann_himanis#325259" xml:id="d1e132854">Cumba</placeName>
+                                <persName key="d1e12214" xml:id="d1e132852">Theobaldi de <placeName key="stutzmann_himanis#325259" xml:id="d1e132854" corresp="Cumba">Cumba</placeName>
                             </persName>
                         </persName>, <persName key="d1e12220" xml:id="d1e132857">Henricus</persName>
-                        etiam et fratres ejus, <persName key="d1e12226" xml:id="d1e132860">Petrinus</persName> et <persName key="d1e12232" xml:id="d1e132863">Willelmus</persName>, et <persName key="d1e12238" xml:id="d1e132867">Beris</persName> eorum avunculus, <lb n="20"/> et <persName key="d1e12244" xml:id="d1e132872">Hugo <addName>Albus</addName>
-                        </persName>. Horum testes sunt <persName key="d1e12251" xml:id="d1e132877">Willelmus de <placeName key="stutzmann_himanis#324336" xml:id="d1e132879">
+                        etiam et fratres ejus, <persName key="d1e12226" xml:id="d1e132860">Petrinus</persName> et <persName key="d1e12232" xml:id="d1e132863">Willelmus</persName>, et <persName key="d1e12238" xml:id="d1e132867">Beris</persName> eorum avunculus, <lb n="20" /> et <persName key="d1e12244" xml:id="d1e132872">Hugo <addName>Albus</addName>
+                        </persName>. Horum testes sunt <persName key="d1e12251" xml:id="d1e132877">Willelmus de <placeName key="stutzmann_himanis#324336" xml:id="d1e132879" corresp="Orgeux (Côte-d'Or, Fontaine-lès-Dijon)">
                                 <foreign>Orgeol</foreign>
                             </placeName>
                         </persName>, <persName key="d1e12257" xml:id="d1e132883">Audo vicecomes
-                                <placeName key="stutzmann_himanis#324442" xml:id="d1e132885">Duismi</placeName>
-                        </persName>, <persName key="d1e12263" xml:id="d1e132888">Haimo de <placeName key="stutzmann_himanis#324402" xml:id="d1e132890">
+                                <placeName key="stutzmann_himanis#324442" xml:id="d1e132885" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismi</placeName>
+                        </persName>, <persName key="d1e12263" xml:id="d1e132888">Haimo de <placeName key="stutzmann_himanis#324402" xml:id="d1e132890" corresp="Aisey-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">
                                 <foreign>Aise</foreign>
                             </placeName>
-                        </persName>, <persName key="d1e12269" xml:id="d1e132895">Hugo de <placeName key="stutzmann_himanis#324912" xml:id="d1e132897">Asenvilla</placeName>
-                        </persName>. <lb n="21"/> Hec ita laudavit <persName key="d1e12275" xml:id="d1e132902">Pontius <addName>
+                        </persName>, <persName key="d1e12269" xml:id="d1e132895">Hugo de <placeName key="stutzmann_himanis#324912" xml:id="d1e132897" corresp="Aizanville">Asenvilla</placeName>
+                        </persName>. <lb n="21" /> Hec ita laudavit <persName key="d1e12275" xml:id="d1e132902">Pontius <addName>
                                 <foreign>Chenlarz</foreign>
                             </addName>
-                        </persName> et <persName key="d1e12281" xml:id="d1e132908">Willelma</persName> uxor ejus ; unde sunt testes <persName key="d1e12288" xml:id="d1e132911">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e132913">
+                        </persName> et <persName key="d1e12281" xml:id="d1e132908">Willelma</persName> uxor ejus ; unde sunt testes <persName key="d1e12288" xml:id="d1e132911">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e132913" corresp="Conforgien (Côte-d'Or, Arnay-le-Duc)">
                                 <foreign>Corfergen</foreign>
                             </placeName>
-                        </persName> et <persName key="d1e12294" xml:id="d1e132917">Bernardus</persName> frater ejus, <lb n="22"/>
+                        </persName> et <persName key="d1e12294" xml:id="d1e132917">Bernardus</persName> frater ejus, <lb n="22" />
                         <persName key="d1e12300" xml:id="d1e132922">Girardus
                                 <addName>Pilosus</addName>
                         </persName> et <persName key="d1e12306" xml:id="d1e132927">Guiardus</persName> filius ejus. Hec omnia laudavit <persName key="d1e12312" xml:id="d1e132930">Elisabeth, filia <persName key="d1e12318" xml:id="d1e132932">Saverici</persName>
-                        </persName>. Unde sunt testes <lb n="23"/>
+                        </persName>. Unde sunt testes <lb n="23" />
                         <persName key="d1e12325" xml:id="d1e132936">Letardus presbiter</persName>,
                             <persName key="d1e12331" xml:id="d1e132939">Wido de Frollesio
-                            monachus</persName>, <persName key="d1e12337" xml:id="d1e132943">Walterius prepositus</persName>, <persName key="d1e12343" xml:id="d1e132946">Airardus</persName>, <persName key="d1e12349" xml:id="d1e132949">Reinaldus</persName>, <persName key="d1e12355" xml:id="d1e132952">Engirbertus magister <placeName key="stutzmann_himanis#325154" xml:id="d1e132954">Carbonerum</placeName>
-                        </persName>. <lb n="24"/> Ego igitur hec omnia sigilli mei munimine signans,
-                        ne quis ulterius de his ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e132959">Fonteneti</orgName> vexare aut perturbare presumat
+                            monachus</persName>, <persName key="d1e12337" xml:id="d1e132943">Walterius prepositus</persName>, <persName key="d1e12343" xml:id="d1e132946">Airardus</persName>, <persName key="d1e12349" xml:id="d1e132949">Reinaldus</persName>, <persName key="d1e12355" xml:id="d1e132952">Engirbertus magister <placeName key="stutzmann_himanis#325154" xml:id="d1e132954" corresp="Carbonerum">Carbonerum</placeName>
+                        </persName>. <lb n="24" /> Ego igitur hec omnia sigilli mei munimine signans,
+                        ne quis ulterius de his ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e132959" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> vexare aut perturbare presumat
                         episcopali anatematizans virtute perhibeo.</p>
                 
             </body>

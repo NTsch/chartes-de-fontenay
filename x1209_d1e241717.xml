@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241717">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1209_d1e241717" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 249@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,9 +37,9 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165422">Haymo Dei pacientia
-                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e165424">Flaviniaci</orgName>
-                    </persName>, omnibus notum facio presentes litteras inspecturis quod <persName key="d1e28920" xml:id="d1e165427">Garnerius de <placeName key="stutzmann_himanis#324337" xml:id="d1e165429">
+                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165422" corresp="Aimon, archidiacre de Flavigny">Haymo Dei pacientia
+                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e165424" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniaci</orgName>
+                    </persName>, omnibus notum facio presentes litteras inspecturis quod <persName key="d1e28920" xml:id="d1e165427">Garnerius de <placeName key="stutzmann_himanis#324337" xml:id="d1e165429" corresp="Panges (Côte-d'Or, Fontaine-lès-Dijon)">
                             <foreign>Paanges</foreign>
                         </placeName>
                     </persName> et <persName key="d1e28926" xml:id="d1e165433">Adelina uxor
@@ -48,27 +49,27 @@
                             <persName key="d1e28950" xml:id="d1e165443">Petri</persName>
                     </persName> et <persName key="d1e28957" xml:id="d1e165447">Humbertus maritus
                             <persName key="d1e28963" xml:id="d1e165449">Helysabeth</persName>
-                    </persName> invadiaverunt fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165452">Fonteneti</orgName> pro <num>xx</num>
+                    </persName> invadiaverunt fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165452" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro <num>xx</num>
                     <hi rend="superscript">ti</hi> libris proviniensibus, tres sextariis frumenti et
-                    tres avene quos dicti fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165460">Fonteneti</orgName> debebant eis de decima in grangia sua <placeName key="stutzmann_himanis#324449" xml:id="d1e165463">
+                    tres avene quos dicti fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165460" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> debebant eis de decima in grangia sua <placeName key="stutzmann_himanis#324449" xml:id="d1e165463" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>d’Estormer</foreign>
-                    </placeName> annuatim. Hanc autem guageriam laudavit <persName key="d1e28969" xml:id="d1e165468">Ansericus de <placeName key="stutzmann_himanis#324356" xml:id="d1e165470">
+                    </placeName> annuatim. Hanc autem guageriam laudavit <persName key="d1e28969" xml:id="d1e165468">Ansericus de <placeName key="stutzmann_himanis#324356" xml:id="d1e165470" corresp="Seigny (Côte-d'Or, Montbard)">
                             <foreign>Saigni</foreign>
                         </placeName>
                     </persName> de cujus casamento erat et promisit data fide in manu mea quod
-                    fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165474">Fonteneti</orgName>
+                    fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165474" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     super hac gageria non vexaret nec vexari permitteret et quod omnia dampna que
                     occasione hujus gagerie contingerent jamdictis fratribus ipse extingueret. Unde
-                    etiam responsores dedit fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165477">Fonteneti</orgName>
-                    <persName key="d1e28975" xml:id="d1e165479">Robertum de <placeName key="stutzmann_himanis#325255" xml:id="d1e165481">
+                    etiam responsores dedit fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165477" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    <persName key="d1e28975" xml:id="d1e165479">Robertum de <placeName key="stutzmann_himanis#325255" xml:id="d1e165481" corresp="Crie">
                             <foreign>Crie</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e28981" xml:id="d1e165485">Willermum de <placeName key="stutzmann_himanis#324956" xml:id="d1e165487">
+                    </persName>, <persName key="d1e28981" xml:id="d1e165485">Willermum de <placeName key="stutzmann_himanis#324956" xml:id="d1e165487" corresp="Ménétreux">
                             <foreign>Monesteruel</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e28987" xml:id="d1e165491">Symeone de <placeName key="stutzmann_himanis#324487" xml:id="d1e165493">Monte Barro</placeName>
+                    </persName>, <persName key="d1e28987" xml:id="d1e165491">Symeone de <placeName key="stutzmann_himanis#324487" xml:id="d1e165493" corresp="Montbard (Côte-d'Or, Montbard)">Monte Barro</placeName>
                     </persName> milites, <persName key="d1e28994" xml:id="d1e165497">Teobaudum
-                        prepositum de <placeName key="stutzmann_himanis#324487" xml:id="d1e165499">Monte
+                        prepositum de <placeName key="stutzmann_himanis#324487" xml:id="d1e165499" corresp="Montbard (Côte-d'Or, Montbard)">Monte
                             Barro</placeName>
                     </persName>. Et ego ad petitionem utriusque partis presentem paginam sigilli
                     nostri munimine roboravi. Actum anno verbi incarnati <num>m° cc° ix°</num>.</p>

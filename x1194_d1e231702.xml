@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1194_d1e231702">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1194_d1e231702" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 136@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -48,25 +49,25 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e158438">Odo, Dei gratia dux
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e158440">Burgundie</placeName>
-                    </persName>, notum facio presentibus pariter et futuris quod <persName key="d1e25935" xml:id="d1e158443">Osmundus de <placeName key="stutzmann_himanis#324355" xml:id="d1e158445">Rubeo Monte</placeName>
-                    </persName> in presentia mea apud <placeName key="stutzmann_himanis#324955" xml:id="d1e158448">Monasterium Sancti Johannis</placeName> ubi gravi
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e158438" corresp="Eudes III, duc de Bourgogne (1192-1218)">Odo, Dei gratia dux
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e158440" corresp="Bourgogne">Burgundie</placeName>
+                    </persName>, notum facio presentibus pariter et futuris quod <persName key="d1e25935" xml:id="d1e158443">Osmundus de <placeName key="stutzmann_himanis#324355" xml:id="d1e158445" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName>
+                    </persName> in presentia mea apud <placeName key="stutzmann_himanis#324955" xml:id="d1e158448" corresp="Monasterium Sancti Johannis">Monasterium Sancti Johannis</placeName> ubi gravi
                     infirmitate detinebatur dedit et concessit in perpetuam elemosinam ecclesie
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e158451">Fonteneti</orgName> pro
-                    anima sua piscaturam <placeName key="stutzmann_himanis#325264" xml:id="d1e158454">Curcellarum</placeName> et pasturas a <placeName key="stutzmann_himanis#324450" xml:id="d1e158458">Fano</placeName> insursum et omnes aasentias citra aquam
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e158451" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> pro
+                    anima sua piscaturam <placeName key="stutzmann_himanis#325264" xml:id="d1e158454" corresp="Curcellarum">Curcellarum</placeName> et pasturas a <placeName key="stutzmann_himanis#324450" xml:id="d1e158458" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName> insursum et omnes aasentias citra aquam
                     et ultra aquam in valle et in monte, in bosco et in plano. Dedit etiam jamdicte
-                    ecclesie in perpetuum piscaturam <placeName key="stutzmann_himanis#324360" xml:id="d1e158461">Sancti Remigii</placeName> et pasturam per totum finagium
+                    ecclesie in perpetuum piscaturam <placeName key="stutzmann_himanis#324360" xml:id="d1e158461" corresp="Saint-Rémy (Côte-d'Or, Montbard)">Sancti Remigii</placeName> et pasturam per totum finagium
                     ejusdem ville et omnes aasentias citra aquam et ultra aquam in valle et in monte
                     in bosco et in plano et ut hoc firmiter manutenerem atque inviolabiliter
-                    observare facerem satis a me humiliter expetivit. Unde sunt testes <persName key="d1e25941" xml:id="d1e158464">Hugo abbas monasterii <orgName key="stutzmann_himanis#324499" xml:id="d1e158466">Sancti Remigii</orgName>
-                    </persName>, <persName key="d1e25947" xml:id="d1e158469">Willermus de <placeName key="stutzmann_himanis#324349" xml:id="d1e158471">Quinci</placeName> monachus
+                    observare facerem satis a me humiliter expetivit. Unde sunt testes <persName key="d1e25941" xml:id="d1e158464">Hugo abbas monasterii <orgName key="stutzmann_himanis#324499" xml:id="d1e158466" corresp="abbaye Saint-Rémi de Sens">Sancti Remigii</orgName>
+                    </persName>, <persName key="d1e25947" xml:id="d1e158469">Willermus de <placeName key="stutzmann_himanis#324349" xml:id="d1e158471" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quinci</placeName> monachus
                         ejus</persName>, <persName key="d1e25953" xml:id="d1e158475">Willermus de
-                            <placeName key="stutzmann_himanis#325054" xml:id="d1e158477">Brena</placeName>
+                            <placeName key="stutzmann_himanis#325054" xml:id="d1e158477" corresp="Brena">Brena</placeName>
                     </persName>, <persName key="d1e25960" xml:id="d1e158480">Renardus
-                            vierius<placeName key="stutzmann_himanis#319548" xml:id="d1e158485">Eduensis</placeName>
+                            vierius<placeName key="stutzmann_himanis#319548" xml:id="d1e158485" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                     </persName>, <persName key="d1e25966" xml:id="d1e158489">Teobaudus prepositus
-                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158491">Montis
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e158491" corresp="Montbard (Côte-d'Or, Montbard)">Montis
                             Barri</placeName>
                     </persName>. Et ut hoc ratum habeatur in posterum sigilli mei impressione munivi
                     anno ab incarnatione Domini <num>m° c° xc° iiii°</num>. </p>

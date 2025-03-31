@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e189975">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e189975" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 211</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -74,45 +75,45 @@
                     <date type="documentCreation" when="1213-12-31">1213</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_112_0002.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_112_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_112_0002.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_112_0003.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
-                    <p>Ego <persName key="d1e11165" xml:id="d1e128802">Dominicus, major <orgName key="stutzmann_himanis#282515" xml:id="d1e128804">communie <placeName key="stutzmann_himanis#96489" xml:id="d1e128806">Divionis</placeName>
+                    <p>Ego <persName key="d1e11165" xml:id="d1e128802">Dominicus, major <orgName key="stutzmann_himanis#282515" xml:id="d1e128804" corresp="ville de Dijon">communie <placeName key="stutzmann_himanis#96489" xml:id="d1e128806" corresp="Dijon (Côte-d'Or, Dijon)">Divionis</placeName>
                             </orgName>
                         </persName>, omnibus notum facio presentibus pariter et futuris quod fratres
-                        de <orgName key="stutzmann_himanis#282689" xml:id="d1e128809">Fon<lb n="2" break="no"/>teneto</orgName> emerunt a <persName key="d1e11172" xml:id="d1e128814">Johanne</persName> et <persName key="d1e11178" xml:id="d1e128817">Willermo de Divione</persName>, hominibus suis, pratum suum quod est
-                        situm subtus <placeName key="stutzmann_himanis#325274" xml:id="d1e128820">Farverni</placeName>
-                        <lb n="3"/> in <placeName key="stutzmann_himanis#324899" xml:id="d1e128825">pratea de
-                            Lampone</placeName>, necnon et <placeName key="stutzmann_himanis#325235" xml:id="d1e128828">vineam eorum que dicitur Milonis</placeName> et est
-                        apud <placeName key="stutzmann_himanis#324342" xml:id="d1e128831">
+                        de <orgName key="stutzmann_himanis#282689" xml:id="d1e128809" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fon<lb n="2" break="no" />teneto</orgName> emerunt a <persName key="d1e11172" xml:id="d1e128814">Johanne</persName> et <persName key="d1e11178" xml:id="d1e128817">Willermo de Divione</persName>, hominibus suis, pratum suum quod est
+                        situm subtus <placeName key="stutzmann_himanis#325274" xml:id="d1e128820" corresp="Farverni">Farverni</placeName>
+                        <lb n="3" /> in <placeName key="stutzmann_himanis#324899" xml:id="d1e128825" corresp="Lamponne (Côte-d'Or, Chevigny-Saint-Sauveur)">pratea de
+                            Lampone</placeName>, necnon et <placeName key="stutzmann_himanis#325235" xml:id="d1e128828" corresp="vineam eorum que dicitur Milonis">vineam eorum que dicitur Milonis</placeName> et est
+                        apud <placeName key="stutzmann_himanis#324342" xml:id="d1e128831" corresp="Pouilly-en-Auxois (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Polli</foreign>
                         </placeName>, que continet in se <choice>
                             <sic>apertum</sic>
                             <corr>arpentum</corr>
                         </choice>
-                        <lb n="4"/> et dimidium, videlicet pro centum quinquaginta libris
-                        divionensium. Hoc totum laudavit <persName key="d1e11184" xml:id="d1e128842">Maria, uxor predicti Johannis</persName>. Idem <lb n="5"/> etiam
+                        <lb n="4" /> et dimidium, videlicet pro centum quinquaginta libris
+                        divionensium. Hoc totum laudavit <persName key="d1e11184" xml:id="d1e128842">Maria, uxor predicti Johannis</persName>. Idem <lb n="5" /> etiam
                             <persName key="d1e11190" xml:id="d1e128848">Johannes</persName> et
                         superius nominata <persName key="d1e11196" xml:id="d1e128851">uxor ipsius
-                            Maria</persName> vendiderunt eisdem fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e128854">Fonteneti</orgName> aliam vineam
-                        de <placeName key="stutzmann_himanis#324342" xml:id="d1e128857">
+                            Maria</persName> vendiderunt eisdem fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e128854" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> aliam vineam
+                        de <placeName key="stutzmann_himanis#324342" xml:id="d1e128857" corresp="Pouilly-en-Auxois (Côte-d'Or, Arnay-le-Duc)">
                             <hi rend="italic">Polli</hi>
                         </placeName>
-                        <lb n="6"/> que similiter continet in se arpentum et dimidium pro quater
-                        viginti libris divionensium. Hoc etiam filii ipsorum lau<lb n="7" break="no"/>daverunt, <persName key="d1e11202" xml:id="d1e128865">Petrus</persName>
+                        <lb n="6" /> que similiter continet in se arpentum et dimidium pro quater
+                        viginti libris divionensium. Hoc etiam filii ipsorum lau<lb n="7" break="no" />daverunt, <persName key="d1e11202" xml:id="d1e128865">Petrus</persName>
                         scilicet et <persName key="d1e11209" xml:id="d1e128868">Johannes</persName>,
                         necnon et <persName key="d1e11215" xml:id="d1e128871">Willermus, frater
-                            sepedicti Johannis</persName>, hoc laudavit. Nos vero ad memoriam <lb n="8"/> hujus rei et munimen, ne quis decetero predictos fratres
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e128876">Fonteneti</orgName>
-                        super hoc molestaret, presens scriptum sigillo <lb n="9"/>
-                        <orgName key="stutzmann_himanis#282515" xml:id="d1e128881">communie Divionis</orgName>
+                            sepedicti Johannis</persName>, hoc laudavit. Nos vero ad memoriam <lb n="8" /> hujus rei et munimen, ne quis decetero predictos fratres
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e128876" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                        super hoc molestaret, presens scriptum sigillo <lb n="9" />
+                        <orgName key="stutzmann_himanis#282515" xml:id="d1e128881" corresp="ville de Dijon">communie Divionis</orgName>
                         roboravimus. Actum anno verbi incarnati millesimo ducentesimo
                         terciodecimo.</p>
                 

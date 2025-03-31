@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e243795">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1212_d1e243795" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 273@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -44,18 +45,18 @@
                         <app>
                             <lem>M.</lem>
                             <rdg wit="#D">Martinus</rdg>
-                        </app>, archidiaconus <placeName key="stutzmann_himanis#322865" xml:id="d1e166856">Flaviniacensis</placeName>
+                        </app>, archidiaconus <placeName key="stutzmann_himanis#322865" xml:id="d1e166856" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniacensis</placeName>
                     </persName>, omnibus presentem paginam inspecturis notum facimus quod cum causa
-                    verteretur inter ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e166859">beate Marie de Fonteneto</orgName> et <persName key="d1e29314" xml:id="d1e166862">Lambertum capellanum de <placeName key="stutzmann_himanis#324450" xml:id="d1e166864">Fano</placeName>
-                    </persName> super tercia parte decime de <placeName key="stutzmann_himanis#324450" xml:id="d1e166867">Fano</placeName> quam dicta ecclesia in elemosinam
+                    verteretur inter ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e166859" corresp="abbaye Notre-Dame de Fontenay (1119 -)">beate Marie de Fonteneto</orgName> et <persName key="d1e29314" xml:id="d1e166862">Lambertum capellanum de <placeName key="stutzmann_himanis#324450" xml:id="d1e166864" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName>
+                    </persName> super tercia parte decime de <placeName key="stutzmann_himanis#324450" xml:id="d1e166867" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName> quam dicta ecclesia in elemosinam
                     possidebat a <persName key="d1e29320" xml:id="d1e166870">Comitissa, filia
-                            <persName key="d1e29327" xml:id="d1e166872">Odonis militis de <placeName key="stutzmann_himanis#324475" xml:id="d1e166874">Marmania</placeName>
+                            <persName key="d1e29327" xml:id="d1e166872">Odonis militis de <placeName key="stutzmann_himanis#324475" xml:id="d1e166874" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                         </persName>
                     </persName>, et ab <persName key="d1e29333" xml:id="d1e166878">Odone marito
                         suo</persName> receptis ab utraque parte probationibus nobis indubitanter
-                    constitit quod prefata ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166881">Fonteneti</orgName> terciam partem habebat de omnibus decimis de <placeName key="stutzmann_himanis#324450" xml:id="d1e166884">Fano</placeName> tam magnis quam
+                    constitit quod prefata ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166881" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> terciam partem habebat de omnibus decimis de <placeName key="stutzmann_himanis#324450" xml:id="d1e166884" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fano</placeName> tam magnis quam
                     minutis et in annatiis et preterea tractum totius decime et grangiatum et
-                    capellanus ecclesie <placeName key="stutzmann_himanis#324450" xml:id="d1e166887">Fani</placeName> debet habere de communi totius decime unam minam frumenti
+                    capellanus ecclesie <placeName key="stutzmann_himanis#324450" xml:id="d1e166887" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fani</placeName> debet habere de communi totius decime unam minam frumenti
                     in vigilia sancti ipsius ville ad procurationem clericorum qui veniunt ad
                     festum. Quod ut ratum et firmum in posterum habeatur ad preces utriusque partis
                     sigillo nostro fecimus roborari. Actum anno gratie <num>m° cc° xii°</num>.</p>

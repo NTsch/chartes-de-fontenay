@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e208431">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1213_d1e208431" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 2591</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -91,53 +92,53 @@
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_203_0027.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_203_0028.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_203_0027.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_203_0028.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                  <p>
-                        <persName key="d1e14841" xml:id="d1e141214">G. <placeName key="stutzmann_himanis#319548" xml:id="d1e141216">Eduensis</placeName>
-                        </persName>, <persName key="d1e14847" xml:id="d1e141219">W. <placeName key="stutzmann_himanis#317574" xml:id="d1e141221">Lingonensis</placeName>
-                        </persName>, et <persName key="d1e14853" xml:id="d1e141224">W. <placeName key="stutzmann_himanis#324435" xml:id="d1e141226">Autissiodorensis</placeName>
+                        <persName key="d1e14841" xml:id="d1e141214">G. <placeName key="stutzmann_himanis#319548" xml:id="d1e141216" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        </persName>, <persName key="d1e14847" xml:id="d1e141219">W. <placeName key="stutzmann_himanis#317574" xml:id="d1e141221" corresp="Langres (Haute-Marne, Langres)">Lingonensis</placeName>
+                        </persName>, et <persName key="d1e14853" xml:id="d1e141224">W. <placeName key="stutzmann_himanis#324435" xml:id="d1e141226" corresp="Auxerre (Yonne, Auxerre)">Autissiodorensis</placeName>
                         </persName>, Dei gratia episcopi, omnibus <app>
                             <lem wit="#A">presentes</lem>
                             <rdg wit="#a">pręsentes</rdg>
-                        </app> litteras inspecturis <lb n="2"/> salutem in Domino. Noverint universi
-                        presentes pariter et futuri quod cum inter abbatem et monachos <lb n="3"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141239">Fonteneti</orgName> ex una
+                        </app> litteras inspecturis <lb n="2" /> salutem in Domino. Noverint universi
+                        presentes pariter et futuri quod cum inter abbatem et monachos <lb n="3" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141239" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> ex una
                         parte et nobilem virum <persName key="d1e14859" xml:id="d1e141242">Andream
-                            dominum <placeName key="stutzmann_himanis#324447" xml:id="d1e141244">Espissie</placeName>
-                        </persName> ex altera, controver<lb n="4" break="no"/>sia verteretur super
-                        hominibus, possessionibus et terris apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141249">
+                            dominum <placeName key="stutzmann_himanis#324447" xml:id="d1e141244" corresp="Époisses (Côte-d'Or, Semur-en-Auxois)">Espissie</placeName>
+                        </persName> ex altera, controver<lb n="4" break="no" />sia verteretur super
+                        hominibus, possessionibus et terris apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141249" corresp="Marmagne (Côte-d'Or, Montbard)">
                             <app>
                                 <lem wit="#A">Marmagniam</lem>
                                 <rdg wit="#C #a">Marmaniam</rdg>
                             </app>
-                        </placeName> existentibus, que nobilis mulier <lb n="5"/>
-                        <persName key="d1e14865" xml:id="d1e141257">Hyla de <placeName key="stutzmann_himanis#324962" xml:id="d1e141259">Monte Sancti
+                        </placeName> existentibus, que nobilis mulier <lb n="5" />
+                        <persName key="d1e14865" xml:id="d1e141257">Hyla de <placeName key="stutzmann_himanis#324962" xml:id="d1e141259" corresp="Monte Sancti Johannis">Monte Sancti
                                 Johannis</placeName>
                         </persName> et <persName key="d1e14871" xml:id="d1e141263">Johannes</persName>, filius ejusdem, in perpetuam <app>
                             <lem wit="#A">elemosinam</lem>
                             <rdg wit="#a">eleemosynam</rdg>
-                        </app> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e141272">Fon<lb n="6" break="no"/>teneti</orgName> dederant et concesserant que etiam a
+                        </app> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e141272" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fon<lb n="6" break="no" />teneti</orgName> dederant et concesserant que etiam a
                         bone memorie <persName key="d1e14878" xml:id="d1e141277">Bernardo, patre
                             ejusdem <persName key="d1e14884" xml:id="d1e141279">Andree</persName>
-                        </persName>, abbas <lb n="7"/> et monachi dicebant occupata fuisse, et
-                        preterea super trecentis marcis argenti quas predicti abbas <lb n="8"/> et
+                        </persName>, abbas <lb n="7" /> et monachi dicebant occupata fuisse, et
+                        preterea super trecentis marcis argenti quas predicti abbas <lb n="8" /> et
                         monachi <app>
                             <lem wit="#A">sibi</lem>
-                            <rdg wit="#C #a" type="omission"/>
+                            <rdg wit="#C #a" type="omission" />
                         </app> a prefato <persName key="d1e14890" xml:id="d1e141292">Bernardo</persName> sepedicti <persName key="d1e14896" xml:id="d1e141295">Andree</persName> patre legatas fuisse asserebant,
-                        tandem <lb n="9"/> nobis presentibus et nobilibus viris <persName key="d1e14902" xml:id="d1e141300">Odone duce <placeName key="stutzmann_himanis#325098" xml:id="d1e141302">Burgundie</placeName>
+                        tandem <lb n="9" /> nobis presentibus et nobilibus viris <persName key="d1e14902" xml:id="d1e141300">Odone duce <placeName key="stutzmann_himanis#325098" xml:id="d1e141302" corresp="Bourgogne">Burgundie</placeName>
                         </persName> et <persName key="d1e14908" xml:id="d1e141305">Guidone de
-                                <placeName key="stutzmann_himanis#324440" xml:id="d1e141307">Dompetra</placeName>
-                        </persName> et multis aliis in hanc <lb n="10"/> compositionis formam
+                                <placeName key="stutzmann_himanis#324440" xml:id="d1e141307" corresp="Dampierre-en-Montagne (Côte-d'Or, Semur-en-Auxois)">Dompetra</placeName>
+                        </persName> et multis aliis in hanc <lb n="10" /> compositionis formam
                         venerunt, quod de trecentis marcis superius nominatis abbas et monachi
-                        memorati <lb n="11"/> medietatem habeant, reliquam vero medietatem <persName key="d1e14915" xml:id="d1e141315">Andreas</persName> supradictus. De
-                        rebus vero apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141318">
+                        memorati <lb n="11" /> medietatem habeant, reliquam vero medietatem <persName key="d1e14915" xml:id="d1e141315">Andreas</persName> supradictus. De
+                        rebus vero apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141318" corresp="Marmagne (Côte-d'Or, Montbard)">
                             <app>
-                                <lem wit="#A">Mar<lb n="12" break="no"/>magniam</lem>
+                                <lem wit="#A">Mar<lb n="12" break="no" />magniam</lem>
                                 <rdg wit="#C #a">Marmaniam</rdg>
                             </app>
                         </placeName> existentibus, de quibus erat controversia, ita fuit statutum
@@ -146,13 +147,13 @@
                                     <lem wit="#A">Andree</lem>
                                     <rdg wit="#a">Andreę</rdg>
                                 </app>
-                            </persName>, <lb n="13"/> canonicus Lingonensis</persName>, res illas
-                        tenebit quamdiu vixerit, et post mortem ipsius <persName key="d1e14933" xml:id="d1e141339">Guidonis</persName> ad ecclesiam <lb n="14"/>
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141344">Fonteneti</orgName> libere
-                        et absque omni contradictione revertentur. Tenebit autem res illas <persName key="d1e14939" xml:id="d1e141347">Guido</persName> prefatus nomine <lb n="15"/> ecclesie ab ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e141352">Fonteneti</orgName>. Actum anno <app>
+                            </persName>, <lb n="13" /> canonicus Lingonensis</persName>, res illas
+                        tenebit quamdiu vixerit, et post mortem ipsius <persName key="d1e14933" xml:id="d1e141339">Guidonis</persName> ad ecclesiam <lb n="14" />
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141344" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> libere
+                        et absque omni contradictione revertentur. Tenebit autem res illas <persName key="d1e14939" xml:id="d1e141347">Guido</persName> prefatus nomine <lb n="15" /> ecclesie ab ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e141352" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. Actum anno <app>
                             <lem wit="#A">gratie</lem>
                             <rdg wit="#C">dominice</rdg>
-                            <rdg wit="#a" type="omission"/>
+                            <rdg wit="#a" type="omission" />
                         </app>
                         <num>millesimo cc° <app>
                                 <lem wit="#A">terciodecimo</lem>

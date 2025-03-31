@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1180_d1e228162">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1180_d1e228162" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 81@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -46,20 +47,20 @@
             <body>
                 <p>
                     <persName key="d1e24424" xml:id="d1e155845">Alexander, episcopus, servus
-                        servorum Dei</persName>, dilectis filiis <persName key="d1e24430" xml:id="d1e155848">Bernardo abbati et fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e155850">Fonteneto</orgName>
+                        servorum Dei</persName>, dilectis filiis <persName key="d1e24430" xml:id="d1e155848">Bernardo abbati et fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e155850" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
                     </persName>, salutem et apostolicam benedictionem. Ea, quae inter viros
                     ecclesiasticos amicabili compositione vel judicio sunt terminata, firma debent
                     et inconcussa existere et stabilitatis robore premuniri. Inde est quod nos
-                    conventiones quae inter vos et <orgName key="stutzmann_himanis#284103" xml:id="d1e155853">ecclesiam sancti Martini Æduensis</orgName> medietantibus venerabilibus
+                    conventiones quae inter vos et <orgName key="stutzmann_himanis#284103" xml:id="d1e155853" corresp="abbaye Saint-Martin d'Autun (599 -)">ecclesiam sancti Martini Æduensis</orgName> medietantibus venerabilibus
                     fratribus nostris <persName key="d1e24436" xml:id="d1e155856">
-                        <placeName key="stutzmann_himanis#98064" xml:id="d1e155857">Lugdunensi</placeName>
+                        <placeName key="stutzmann_himanis#98064" xml:id="d1e155857" corresp="Lyon (Rhône)">Lugdunensi</placeName>
                         archiepiscopo, apostolicae Sedis legato</persName>, et <persName key="d1e352 d1e1234" xml:id="d1e155861">
-                        <placeName key="stutzmann_himanis#319548" xml:id="d1e155862">Eduensi</placeName>
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e155862" corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName>
                         episcopo</persName> de convenientia et beneplacito utriusque partis
                     rationabiliter factae sunt et eorum scripto autentico roboratae, firmas et ratas
                     habentes eas aucthoritate apostolica duximus roborandas et presentibus litteris
-                    exprimendas, quae siquidem tales sunt. <persName key="d1e24442" xml:id="d1e155866">W., abbas et conventus <orgName key="stutzmann_himanis#284103" xml:id="d1e155868">Sancti Martini Eduensis</orgName>
-                    </persName>, quicquid in villa quae dicitur <placeName key="stutzmann_himanis#324449" xml:id="d1e155872">
+                    exprimendas, quae siquidem tales sunt. <persName key="d1e24442" xml:id="d1e155866">W., abbas et conventus <orgName key="stutzmann_himanis#284103" xml:id="d1e155868" corresp="abbaye Saint-Martin d'Autun (599 -)">Sancti Martini Eduensis</orgName>
+                    </persName>, quicquid in villa quae dicitur <placeName key="stutzmann_himanis#324449" xml:id="d1e155872" corresp="Étormay (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>
                             <app>
                                 <lem wit="#B">Estormer</lem>
@@ -72,17 +73,17 @@
                     in nemoribus cum appenditiis, pasturis et usuariis et quicquid juris ab aqua
                     quae dicitur <geogName xml:id="d1e155886">Braana</geogName> usque ad flumen
                         <geogName xml:id="d1e155889">Sequanae</geogName> habebant, ecclesiae vestrae
-                    dederunt et concesserunt. Vos vero propter hoc <orgName key="stutzmann_himanis#284103" xml:id="d1e155892">ecclesiae Sancti Martini</orgName> singulis annis a mense
+                    dederunt et concesserunt. Vos vero propter hoc <orgName key="stutzmann_himanis#284103" xml:id="d1e155892" corresp="abbaye Saint-Martin d'Autun (599 -)">ecclesiae Sancti Martini</orgName> singulis annis a mense
                     augusti usque ad festum Omnium Sanctorum quatuor modios frumenti et dimidium in
-                    cellario suo bona fide ad mensuram fori <placeName key="stutzmann_himanis#319548" xml:id="d1e155895">Eduensis</placeName> solvetis. De habitatoribus autem
-                    villae statutum est, quod quandiu in terris vestris aut in territorio <placeName key="stutzmann_himanis#324370" xml:id="d1e155899">Tullionis</placeName> manere
-                    voluerint, absque ulla calumpnia <orgName key="stutzmann_himanis#284103" xml:id="d1e155902">monachorum Eduensium</orgName> libere et absolute
-                    permaneant. Territorium quoque <placeName key="stutzmann_himanis#324335" xml:id="d1e155905">Novillae Montis</placeName> cum appenditiis, pasturis et
+                    cellario suo bona fide ad mensuram fori <placeName key="stutzmann_himanis#319548" xml:id="d1e155895" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> solvetis. De habitatoribus autem
+                    villae statutum est, quod quandiu in terris vestris aut in territorio <placeName key="stutzmann_himanis#324370" xml:id="d1e155899" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> manere
+                    voluerint, absque ulla calumpnia <orgName key="stutzmann_himanis#284103" xml:id="d1e155902" corresp="abbaye Saint-Martin d'Autun (599 -)">monachorum Eduensium</orgName> libere et absolute
+                    permaneant. Territorium quoque <placeName key="stutzmann_himanis#324335" xml:id="d1e155905" corresp="La Villeneuve-les-Convers,La-Villeneuve-les-Convers (Côte-d'Or, Montbard)">Novillae Montis</placeName> cum appenditiis, pasturis et
                     usuariis ad illud territorium pertinentibus rationabiliter vobis collatum, vobis
                     nihilominus confirmamus. Decernimus ergo ut nulli omnino hominum liceat hanc
                     paginam nostrae confirmationis infringere vel ei aliquatenus contra ire. Si quis
                     autem hoc attemptare presumpserit, indignationem omnipotentis Dei et beatorum
-                    Petri et Pauli apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#325037" xml:id="d1e155908">Tusculani</placeName>, <app>
+                    Petri et Pauli apostolorum ejus se noverit incursurum. Datum <placeName key="stutzmann_himanis#325037" xml:id="d1e155908" corresp="Tusculani">Tusculani</placeName>, <app>
                         <lem>tertio</lem>
                         <rdg wit="#a">III°</rdg>
                     </app> calendas januarii.</p>

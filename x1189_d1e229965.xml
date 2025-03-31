@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e229965">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1189_d1e229965" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 107@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -36,32 +37,32 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e157147">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e157149">Burgundie</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e157147" corresp="Hugues III, duc de Bourgogne (1162-1192)">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e157149" corresp="Bourgogne">Burgundie</placeName>
                     </persName>, notum fieri volo tam presentibus quam futuris, quod pro remedio
                     anime mee et meorum, et pro injuriis ipsi ecclesie illatis, dedi monachis de
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157152">Fontaneto</orgName> quinque
-                    modios frumenti in minachio <placeName key="stutzmann_himanis#319548" xml:id="d1e157155">Eduensi</placeName>, singulis annis ad mensuram illius civitatis <choice>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157152" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName> quinque
+                    modios frumenti in minachio <placeName key="stutzmann_himanis#319548" xml:id="d1e157155" corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName>, singulis annis ad mensuram illius civitatis <choice>
                         <sic>persolvendis</sic>
                         <corr>persolvendo</corr>
                     </choice>. Unde prefati monachi promiserunt anniversarium meum post obitum meum
-                    in ecclesia sua faciendum. Hujus rei testes sunt : <persName key="d1e25102" xml:id="d1e157164">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e157166">
+                    in ecclesia sua faciendum. Hujus rei testes sunt : <persName key="d1e25102" xml:id="d1e157164">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e157166" corresp="Corabœuf (Côte-d'Or, Arnay-le-Duc)">
                             <foreign>Corrabuz</foreign>
                         </placeName>
                     </persName>, <persName key="d1e25108" xml:id="d1e157171">Dominicus succentor
-                        ejusdem ecclesie</persName>, ambo monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e157174">Fontaneto</orgName> ; <persName key="d1e25114" xml:id="d1e157177">Hugo decanus de <placeName key="stutzmann_himanis#324969" xml:id="d1e157179">
+                        ejusdem ecclesie</persName>, ambo monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e157174" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName> ; <persName key="d1e25114" xml:id="d1e157177">Hugo decanus de <placeName key="stutzmann_himanis#324969" xml:id="d1e157179" corresp="Neblens">
                             <foreign>Neblens</foreign>
                         </placeName>
                     </persName> qui cartam presentem scripsit, <persName key="d1e25120" xml:id="d1e157183">Petrus Hospitalarius ducis eleemosinarius</persName> ;
-                    milites isti : <persName key="d1e25127" xml:id="d1e157186">Pontius de <placeName key="stutzmann_himanis#82732" xml:id="d1e157188">Granceio</placeName>
+                    milites isti : <persName key="d1e25127" xml:id="d1e157186">Pontius de <placeName key="stutzmann_himanis#82732" xml:id="d1e157188" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Granceio</placeName>
                     </persName>, <persName key="d1e25133" xml:id="d1e157191">Bertrannus dictus <addName>
                             <foreign>Saudun</foreign>
                         </addName>
-                    </persName>, <persName key="d1e25139" xml:id="d1e157198">Hamo de <placeName key="stutzmann_himanis#324336" xml:id="d1e157200">
+                    </persName>, <persName key="d1e25139" xml:id="d1e157198">Hamo de <placeName key="stutzmann_himanis#324336" xml:id="d1e157200" corresp="Orgeux (Côte-d'Or, Fontaine-lès-Dijon)">
                             <foreign>Orjul</foreign>
                         </placeName>
                     </persName> ; clientes : <persName key="d1e25145" xml:id="d1e157204">Huvrardus
-                        prepositus <placeName key="stutzmann_himanis#96489" xml:id="d1e157206">Divionensis</placeName>
-                    </persName>, <persName key="d1e25151" xml:id="d1e157209">Robertus de <placeName key="stutzmann_himanis#324940" xml:id="d1e157211">Machoneria</placeName>
+                        prepositus <placeName key="stutzmann_himanis#96489" xml:id="d1e157206" corresp="Dijon (Côte-d'Or, Dijon)">Divionensis</placeName>
+                    </persName>, <persName key="d1e25151" xml:id="d1e157209">Robertus de <placeName key="stutzmann_himanis#324940" xml:id="d1e157211" corresp="Machoneria">Machoneria</placeName>
                     </persName>, et plures alii. Actum est hoc anno ab incarnatione Domini M° C°
                     octogesimo nono. Et ut hoc ratum perpetuis temporibus habeatur, sigillo meo et
                         <persName key="d1e25157" xml:id="d1e157214">Odonis filii mei</persName>,

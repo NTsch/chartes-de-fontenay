@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e233229">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1187_d1e233229" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 145@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -43,35 +44,35 @@
         <text>
             <body>
                 <p>Ego frater <persName key="d1e26422" xml:id="d1e159488">Radulphus dictus abbas
-                            <orgName key="stutzmann_himanis#283145" xml:id="d1e159490">Longi Vadi</orgName>
+                            <orgName key="stutzmann_himanis#283145" xml:id="d1e159490" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longi Vadi</orgName>
                     </persName> et frater <persName key="d1e26428" xml:id="d1e159493">Robertus de
-                            <placeName key="stutzmann_himanis#324328" xml:id="d1e159495">Ainnaio</placeName>
+                            <placeName key="stutzmann_himanis#324328" xml:id="d1e159495" corresp="Aignay-le-Duc (Côte-d'Or, Châtillon-sur-Seine)">Ainnaio</placeName>
                         Ungiaci canonicus</persName> volumus notum fieri presentibus et futuris quod
                     sicut nobis a <persName key="d1e26434" xml:id="d1e159499">domino
-                        Eduensi</persName> et <persName key="stutzmann_himanis#324677" xml:id="d1e159502">
-                        <orgName key="stutzmann_himanis#284217" xml:id="d1e159503">Flaviniaci</orgName>
-                    </persName> et <orgName key="stutzmann_himanis#281589" xml:id="d1e159506">
+                        Eduensi</persName> et <persName key="stutzmann_himanis#324677" xml:id="d1e159502" corresp="Gaucher, abbé de Flavigny (1173-1185)">
+                        <orgName key="stutzmann_himanis#284217" xml:id="d1e159503" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniaci</orgName>
+                    </persName> et <orgName key="stutzmann_himanis#281589" xml:id="d1e159506" corresp="abbaye d'Hautecombe (1121 -)">
                         <persName key="d1e26441" xml:id="d1e159507">Alte Cumbe</persName>
-                    </orgName> abbatibus commissum fuit <placeName key="stutzmann_himanis#325210" xml:id="d1e159511">silvam de <foreign>Leurce</foreign>
-                    </placeName> partiti sumus, reddentes <orgName key="stutzmann_himanis#282689" xml:id="d1e159516">Fonteneto</orgName> et <orgName key="stutzmann_himanis#283960" xml:id="d1e159519">Ungiaco</orgName> partem suam, laude et assensu utriusque
+                    </orgName> abbatibus commissum fuit <placeName key="stutzmann_himanis#325210" xml:id="d1e159511" corresp="silvam de Leurce">silvam de <foreign>Leurce</foreign>
+                    </placeName> partiti sumus, reddentes <orgName key="stutzmann_himanis#282689" xml:id="d1e159516" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> et <orgName key="stutzmann_himanis#283960" xml:id="d1e159519" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaco</orgName> partem suam, laude et assensu utriusque
                     capituli sicut mete lapidee ibidem posite designant. Hac scilicet conditione
                     quod neutra pars in parte alterius deinceps aliquid adquirere poterit nec
-                    habere. Et quia fratres <orgName key="stutzmann_himanis#283960" xml:id="d1e159522">Ungiacenses</orgName> edificia sua in territorio <placeName key="stutzmann_himanis#325286" xml:id="d1e159525">Frimasii</placeName> mutaverunt ubi
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e159528">Fontenetenses</orgName>
+                    habere. Et quia fratres <orgName key="stutzmann_himanis#283960" xml:id="d1e159522" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiacenses</orgName> edificia sua in territorio <placeName key="stutzmann_himanis#325286" xml:id="d1e159525" corresp="Frimasii">Frimasii</placeName> mutaverunt ubi
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e159528" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetenses</orgName>
                     medietatem habebant secundum quantitatem loci ubi priora edificia fuerant in
                     illo loco ubi postea edificaverunt cum orto illo et veridario que ibi prius
                     habuerant, tantumdem spacii sicut nobis commissum fuerat eis in pace
                     concessimus. Quod vero superfuit in clausura grangie per medium divisimus
-                    medietatem <orgName key="stutzmann_himanis#283960" xml:id="d1e159532">Ungiacensibus</orgName> assignantes et pro altera medietate utriusque
-                    partis assensu commutationem congruam <orgName key="stutzmann_himanis#282689" xml:id="d1e159535">Fontenetensibus</orgName> reddentes. Ad testimonium hujus
-                    rei ego <persName key="d1e26447" xml:id="d1e159538">Radulphus abbas <orgName key="stutzmann_himanis#283145" xml:id="d1e159540">Longi Vadi</orgName>
-                    </persName> scripto huic sigillum meum apposui et ego <persName key="d1e26453" xml:id="d1e159543">Arverius abbas <orgName key="stutzmann_himanis#283960" xml:id="d1e159545">Ungiaci</orgName>
+                    medietatem <orgName key="stutzmann_himanis#283960" xml:id="d1e159532" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiacensibus</orgName> assignantes et pro altera medietate utriusque
+                    partis assensu commutationem congruam <orgName key="stutzmann_himanis#282689" xml:id="d1e159535" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensibus</orgName> reddentes. Ad testimonium hujus
+                    rei ego <persName key="d1e26447" xml:id="d1e159538">Radulphus abbas <orgName key="stutzmann_himanis#283145" xml:id="d1e159540" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longi Vadi</orgName>
+                    </persName> scripto huic sigillum meum apposui et ego <persName key="d1e26453" xml:id="d1e159543">Arverius abbas <orgName key="stutzmann_himanis#283960" xml:id="d1e159545" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName>
                     </persName> ut hec rata permaneant sigilli nostri appositione confirmo. Hinc
                     testes sunt <persName key="d1e26459" xml:id="d1e159548">Bartholomeus prior
-                            <orgName key="stutzmann_himanis#283960" xml:id="d1e159550">Ungiaci</orgName>
-                    </persName>, <persName key="d1e26465" xml:id="d1e159553">Hugo cantor <orgName key="stutzmann_himanis#283145" xml:id="d1e159555">Longi Vadi</orgName>
+                            <orgName key="stutzmann_himanis#283960" xml:id="d1e159550" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName>
+                    </persName>, <persName key="d1e26465" xml:id="d1e159553">Hugo cantor <orgName key="stutzmann_himanis#283145" xml:id="d1e159555" corresp="abbaye Notre-Dame de Longuay (1102 -)">Longi Vadi</orgName>
                     </persName>, <persName key="d1e26471" xml:id="d1e159559">Galterius</persName> et
-                        <persName key="d1e26478" xml:id="d1e159562">Bernardus <orgName key="stutzmann_himanis#282689" xml:id="d1e159564">Fonteneti</orgName>
+                        <persName key="d1e26478" xml:id="d1e159562">Bernardus <orgName key="stutzmann_himanis#282689" xml:id="d1e159564" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                         monachi</persName>.</p>
             </body>
         </text>

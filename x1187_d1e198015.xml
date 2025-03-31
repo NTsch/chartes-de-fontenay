@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e198015">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1187_d1e198015" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1096</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -81,34 +82,34 @@
                     <date type="documentCreation" when="1187-12-31">1187</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0004.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_72_0005.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0004.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0005.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                                         <p>
-                        <persName key="stutzmann_himanis#324640" xml:id="d1e134247">Hugo, Dei gratia
-                                <placeName key="stutzmann_himanis#324435" xml:id="d1e134249">Autissiodorensis</placeName> episcopus</persName>, omnibus ad quos
-                        littere presentes pervenerint in Domino salutem. Notum volumus fieri <lb n="2"/> quod quicquid juris habebamus seu habere debebamus in rebus
+                        <persName key="stutzmann_himanis#324640" xml:id="d1e134247" corresp="Hugues de Noyers, évêque d'Auxerre (1183-1206)">Hugo, Dei gratia
+                                <placeName key="stutzmann_himanis#324435" xml:id="d1e134249" corresp="Auxerre (Yonne, Auxerre)">Autissiodorensis</placeName> episcopus</persName>, omnibus ad quos
+                        littere presentes pervenerint in Domino salutem. Notum volumus fieri <lb n="2" /> quod quicquid juris habebamus seu habere debebamus in rebus
                             <persName key="d1e12725" xml:id="d1e134255">Vincentii filii defuncti
                                 <persName key="d1e12732" xml:id="d1e134257">Teobaudi <addName>
                                     <foreign>Quarre</foreign>
                                 </addName>
                             </persName>
-                        </persName>, videlicet <lb n="3"/> in quodam prato et quadam vinea
-                        quitavimus monachis de <orgName key="stutzmann_himanis#282689" xml:id="d1e134265">Fonteneio</orgName>, volentes ut res illas de cetero mona<lb n="4" break="no"/>chi supradicti quiete possideant. Et quoniam domum eorumdem
-                        monachorum quam religiosam esse novimus, sincero dilec<lb n="5" break="no"/>tionis affectu anplectimur in protectione nostra, recipimus quicquid juste
-                        et canonice in dyocesi nostra adquisive<lb n="6" break="no"/>runt aut in
+                        </persName>, videlicet <lb n="3" /> in quodam prato et quadam vinea
+                        quitavimus monachis de <orgName key="stutzmann_himanis#282689" xml:id="d1e134265" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneio</orgName>, volentes ut res illas de cetero mona<lb n="4" break="no" />chi supradicti quiete possideant. Et quoniam domum eorumdem
+                        monachorum quam religiosam esse novimus, sincero dilec<lb n="5" break="no" />tionis affectu anplectimur in protectione nostra, recipimus quicquid juste
+                        et canonice in dyocesi nostra adquisive<lb n="6" break="no" />runt aut in
                         posterum sunt adquisituri, sive donatione fidelium, sive quocumque alio
-                        modo. Ut hoc autem <lb n="7"/> ratum permaneat, presentem paginam nostro
-                        fecimus corroborari sigillo. Actum anno incarnationis dominice <lb n="8"/>
-                        .M°. <space/>.C°. <space/>.lxxx.° .vij°.</p>
+                        modo. Ut hoc autem <lb n="7" /> ratum permaneat, presentem paginam nostro
+                        fecimus corroborari sigillo. Actum anno incarnationis dominice <lb n="8" />
+                        .M°. <space />.C°. <space />.lxxx.° .vij°.</p>
                 
             </body>
         </text>

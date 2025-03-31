@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1188_d1e201991">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1188_d1e201991" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original n° @ = Access n° 1868</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -78,45 +79,45 @@
                     <date type="documentCreation" when="1188-12-31">1188</date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <facsimile>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0018.jpg" scale="20"/>
-            <graphic url="../../../Fontenay/FRAD021_15_H_193_0019.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0018.jpg" scale="20" />
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0019.jpg" scale="20" />
         </facsimile>
         <text>
             <body>
                 
                                         <p>Ego <persName key="d1e13342" xml:id="d1e136826">
-                            <sic>Matilld.</sic>, comitissa <placeName key="stutzmann_himanis#101449" xml:id="d1e136830">Tornodorensis</placeName>
-                        </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e13348" xml:id="d1e136833">Hugo <lb n="2"/> de <placeName key="stutzmann_himanis#325298" xml:id="d1e136837">Jaigniaco</placeName>
+                            <sic>Matilld.</sic>, comitissa <placeName key="stutzmann_himanis#101449" xml:id="d1e136830" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornodorensis</placeName>
+                        </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e13348" xml:id="d1e136833">Hugo <lb n="2" /> de <placeName key="stutzmann_himanis#325298" xml:id="d1e136837" corresp="Jaigne">Jaigniaco</placeName>
                         </persName> et <persName key="d1e13354" xml:id="d1e136840">Pontius</persName> frater ejus, laudante matre eorum <persName key="d1e13361" xml:id="d1e136843">
                             <foreign>Damerun</foreign>
-                        </persName>, dederunt in <lb n="3"/> elemosinam eclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136850">Fonteneti</orgName> quicquid
-                        juris pasturarum habebant in omni finagio <lb n="4"/>
-                        <placeName key="stutzmann_himanis#325298" xml:id="d1e136854">Jaigniaci</placeName> et
-                            <placeName key="stutzmann_himanis#324466" xml:id="d1e136857">Lanie</placeName> et
-                        pro hoc habuerunt de beneficio eclesie <persName key="d1e13367" xml:id="d1e136860">Hugo</persName> .X. libras <lb n="5"/> et frater ejus
+                        </persName>, dederunt in <lb n="3" /> elemosinam eclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136850" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid
+                        juris pasturarum habebant in omni finagio <lb n="4" />
+                        <placeName key="stutzmann_himanis#325298" xml:id="d1e136854" corresp="Jaigne">Jaigniaci</placeName> et
+                            <placeName key="stutzmann_himanis#324466" xml:id="d1e136857" corresp="Laignes (Côte-d'Or, Châtillon-sur-Seine)">Lanie</placeName> et
+                        pro hoc habuerunt de beneficio eclesie <persName key="d1e13367" xml:id="d1e136860">Hugo</persName> .X. libras <lb n="5" /> et frater ejus
                             <persName key="d1e13373" xml:id="d1e136866">P.</persName> XX. solidos et
                         ego <persName key="d1e13379" xml:id="d1e136869">Matilldis</persName>
-                        <term>pleggia</term> sum et garantiam <lb n="6"/> porto contra omnes qui de
-                        hoc aliquam calumpniam fecerint. Hujus <lb n="7"/> rei testes sunt <persName key="d1e13385" xml:id="d1e136878">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e136880">
+                        <term>pleggia</term> sum et garantiam <lb n="6" /> porto contra omnes qui de
+                        hoc aliquam calumpniam fecerint. Hujus <lb n="7" /> rei testes sunt <persName key="d1e13385" xml:id="d1e136878">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e136880" corresp="Grignon (Côte-d'Or, Montbard)">
                                 <foreign>Grignun</foreign>
                             </placeName>
                         </persName> et <persName key="d1e13391" xml:id="d1e136885">Andreas de
-                                <placeName key="stutzmann_himanis#324421" xml:id="d1e136887">Buisseio</placeName>
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e136887" corresp="Bussy-le-Grand (Côte-d'Or, Montbard)">Buisseio</placeName>
                         </persName>
-                        <lb n="8"/> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e136891">Fonteneto</orgName>, <persName key="d1e13398" xml:id="d1e136894">Wido
-                            de <placeName key="stutzmann_himanis#101449" xml:id="d1e136896">Tornod<supplied>oro</supplied>
+                        <lb n="8" /> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e136891" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, <persName key="d1e13398" xml:id="d1e136894">Wido
+                            de <placeName key="stutzmann_himanis#101449" xml:id="d1e136896" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornod<supplied>oro</supplied>
                             </placeName>
-                        </persName>, <persName key="d1e13404" xml:id="d1e136901">Haimo de <placeName key="stutzmann_himanis#324952" xml:id="d1e136903">
+                        </persName>, <persName key="d1e13404" xml:id="d1e136901">Haimo de <placeName key="stutzmann_himanis#324952" xml:id="d1e136903" corresp="Milisse">
                                 <hi rend="italic">Milisse</hi>
                             </placeName>
                         </persName>, <persName key="d1e13410" xml:id="d1e136907">
                             <foreign>Coluns</foreign>
-                            <lb n="9"/> prepositus <placeName key="stutzmann_himanis#101449" xml:id="d1e136912">Tornod<hi rend="background(red)">[ori]</hi>
+                            <lb n="9" /> prepositus <placeName key="stutzmann_himanis#101449" xml:id="d1e136912" corresp="Tonnerre (Yonne, Avallon, Tonnerrois)">Tornod<hi rend="background(red)">[ori]</hi>
                             </placeName>
                         </persName>. Annus verbi incarnati M<hi rend="superscript">us</hi>. C<hi rend="superscript">us</hi>. octogesimus. octavus.</p>
                 

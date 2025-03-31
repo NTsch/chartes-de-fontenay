@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e248028">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1186_d1e248028" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 110@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,26 +36,26 @@
                     </date>
                 </creation>
                 <abstract>
-                    <p/>
+                    <p />
                 </abstract>
             </profileDesc>
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e169812">Stephanus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e169814">Eduensis</placeName>
-                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e30560" xml:id="d1e169818">Osmundus</persName> et <persName key="d1e30566" xml:id="d1e169821">Odo</persName> et <persName key="d1e30572" xml:id="d1e169824">Valdricus filii <persName key="d1e30578" xml:id="d1e169826">Bartholomei de <placeName key="stutzmann_himanis#324475" xml:id="d1e169828">Marmania</placeName>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e169812" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e169814" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e30560" xml:id="d1e169818">Osmundus</persName> et <persName key="d1e30566" xml:id="d1e169821">Odo</persName> et <persName key="d1e30572" xml:id="d1e169824">Valdricus filii <persName key="d1e30578" xml:id="d1e169826">Bartholomei de <placeName key="stutzmann_himanis#324475" xml:id="d1e169828" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                         </persName>
                     </persName>, laudantibus <persName key="d1e30585" xml:id="d1e169831">matre sua
-                        Helysabeth</persName> et <persName key="d1e30591" xml:id="d1e169835">sororibus suis Petronilla</persName> et <persName key="d1e30597" xml:id="d1e169838">Adelina</persName>, pacem fecerunt cum monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e169841">Fonteneti</orgName> de omnibus
+                        Helysabeth</persName> et <persName key="d1e30591" xml:id="d1e169835">sororibus suis Petronilla</persName> et <persName key="d1e30597" xml:id="d1e169838">Adelina</persName>, pacem fecerunt cum monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e169841" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> de omnibus
                     querelis quas tam ipsi quam pater eorum habuerant adversus eosdem
                         mona<supplied>chos</supplied> hoc modo. Guirpiverunt omnem calumpniam quam
                     eisdem monachis de decimis suis faciebant ita ut nunquam amplius ab eis in
-                    territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e169849">Fanii</placeName>
-                    decimas exigant. Laudaverunt quoque monachis <placeName key="stutzmann_himanis#325163" xml:id="d1e169853">ortum suum subtus abbatiam</placeName> et pratum sub
+                    territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e169849" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName>
+                    decimas exigant. Laudaverunt quoque monachis <placeName key="stutzmann_himanis#325163" xml:id="d1e169853" corresp="ortum suum subtus abbatiam">ortum suum subtus abbatiam</placeName> et pratum sub
                         <persName key="d1e30603" xml:id="d1e169856">chimino Fanii ubi Miles
-                        jacet</persName> et lescheriam desuper <placeName key="stutzmann_himanis#324450" xml:id="d1e169859">Fanium</placeName> et salceium quod habebant supra eamdem
-                    lescheriam et omnes vineas quas monachi tenebant in territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e169862">Fanii</placeName>, vineam scilicet
+                        jacet</persName> et lescheriam desuper <placeName key="stutzmann_himanis#324450" xml:id="d1e169859" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanium</placeName> et salceium quod habebant supra eamdem
+                    lescheriam et omnes vineas quas monachi tenebant in territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e169862" corresp="Fain-lès-Montbard (Côte-d'Or, Montbard)">Fanii</placeName>, vineam scilicet
                         <persName key="d1e30609" xml:id="d1e169865">Rainaldi
                             <addName>Embrasati</addName>
                     </persName>, vineam <persName key="d1e30615" xml:id="d1e169870">Warnerii <addName>
@@ -70,25 +71,25 @@
                     </persName> quando eam conquirere poterunt et terram <persName key="d1e30634" xml:id="d1e169889">Warnerii <addName>
                             <foreign>Vitecoth</foreign>
                         </addName>
-                    </persName> quam habebat ad censum pro duobus nummis in costa <placeName key="stutzmann_himanis#324489" xml:id="d1e169895">Morville</placeName>. Quod autem de
+                    </persName> quam habebat ad censum pro duobus nummis in costa <placeName key="stutzmann_himanis#324489" xml:id="d1e169895" corresp="Morville (Côte-d'Or, Montbard)">Morville</placeName>. Quod autem de
                     his omnibus predicte ecclesie semper fideles existerent et quod adversus omnes
-                    qui de his calumpniam moverent eis semper legitimam garentiam portarent <hi rend="background(green)">super veram crucem Domini ante <placeName key="stutzmann_himanis#324453" xml:id="d1e169900">altare Fonteneti</placeName>
+                    qui de his calumpniam moverent eis semper legitimam garentiam portarent <hi rend="background(green)">super veram crucem Domini ante <placeName key="stutzmann_himanis#324453" xml:id="d1e169900" corresp="Fontenay (Côte-d'Or, Montbard)">altare Fonteneti</placeName>
                         juraverunt</hi>. <persName key="d1e30640" xml:id="d1e169904">Stephanum
                         quoque cognatum suum</persName> de his omnibus responsorem dederunt. Pro his
                     autem omnibus <num>ccc</num>
                     <hi rend="superscript">os</hi> solidos de intragio dederunt eis monachi et
                     semper annuatim dabunt eis <num>xx</num> solidos census in martio et matri eorum
                     unum sextarium frumenti et unum trimensis tantum in vita sua. Unde testes sunt
-                        <persName key="stutzmann_himanis#324625" xml:id="d1e169916">Hugo archipresbiter
-                            <placeName key="stutzmann_himanis#324344" xml:id="d1e169918">Puilleniaci</placeName>
-                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e169921">Odo
-                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e169923">Tullionis</placeName>
+                        <persName key="stutzmann_himanis#324625" xml:id="d1e169916" corresp="Hugo archipresbiter Pulleniaci">Hugo archipresbiter
+                            <placeName key="stutzmann_himanis#324344" xml:id="d1e169918" corresp="Pouillenay (Côte-d'Or, Montbard)">Puilleniaci</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e169921" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e169923" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e30646" xml:id="d1e169926">Humbertus capellanus de
-                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169928">Raveriis</placeName>
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169928" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
                     </persName>, <persName key="d1e30652" xml:id="d1e169932">Iterius
                             <addName>Buro</addName>
                     </persName> et <persName key="d1e30659" xml:id="d1e169937">Villelmus dominus de
-                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169939">Raveriis</placeName>
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169939" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
                     </persName>
                     <witDetail wit="#B">"Iterius… Raverius" écrit en marge</witDetail>, <persName key="d1e30665" xml:id="d1e169944">Bernardus <addName>Brabentio</addName>
                     </persName> et <persName key="d1e30671" xml:id="d1e169949">Oliverius filius
@@ -99,22 +100,22 @@
                     </persName> et <persName key="d1e30696" xml:id="d1e169960">Johannes frater
                         ejus</persName>, <persName key="d1e30702" xml:id="d1e169963">Durannus major
                         Fanii</persName> et <persName key="d1e30708" xml:id="d1e169966">
-                        <foreign>Hugonez</foreign> poslerius de <placeName key="stutzmann_himanis#324475" xml:id="d1e169973">Marmania</placeName>
+                        <foreign>Hugonez</foreign> poslerius de <placeName key="stutzmann_himanis#324475" xml:id="d1e169973" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
                     </persName>.</p>
-                <p>De laude matris eorum atque sororum testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e169978">Odo archipresbiter</persName> et <persName key="d1e30714" xml:id="d1e169981">Humbertus capellanus de <placeName key="stutzmann_himanis#324350" xml:id="d1e169983">Raveriis</placeName>
+                <p>De laude matris eorum atque sororum testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e169978" corresp="Eudes, archiprêtre de Touillon (1173-1200)">Odo archipresbiter</persName> et <persName key="d1e30714" xml:id="d1e169981">Humbertus capellanus de <placeName key="stutzmann_himanis#324350" xml:id="d1e169983" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
                     </persName>, <persName key="d1e30720" xml:id="d1e169986">Willermus dominus de
-                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169988">Raveriis</placeName>
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e169988" corresp="Ravières (Yonne, Tonnerrois)">Raveriis</placeName>
                     </persName> et <persName key="d1e30726" xml:id="d1e169991">Stephanus gener
                         ejus</persName>, <persName key="d1e30733" xml:id="d1e169994">Osmundus de
-                            <placeName key="stutzmann_himanis#324341" xml:id="d1e169996">Plaaneto</placeName>
+                            <placeName key="stutzmann_himanis#324341" xml:id="d1e169996" corresp="Planay (Côte-d'Or, Montbard)">Plaaneto</placeName>
                     </persName> et <persName key="d1e30739" xml:id="d1e170000">Rainaldus major
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e170002">Tulionis</placeName>
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e170002" corresp="Touillon (Côte-d'Or, Montbard)">Tulionis</placeName>
                     </persName> cum <persName key="d1e30745" xml:id="d1e170005">Johanne filio
                         suo</persName>.</p>
                 <p>Hec igitur omnia se fecisse, dedisse et laudasse coram me recognoverunt et ut
                     sigillo meo confirmarem postulaverunt. Proinde ut ista in posterum stabili
                     firmitate serventur cartam presentem sigilli mei munimine firmo et omnes qui de
-                    hiis ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e170010">Fonteneti</orgName> in aliquo vexare aut dampnum aliquod inferre aussi
+                    hiis ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e170010" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> in aliquo vexare aut dampnum aliquod inferre aussi
                     fuerint donec resipiscant anathemate dampno. </p>
             </body>
         </text>

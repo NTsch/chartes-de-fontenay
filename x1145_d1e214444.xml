@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1145_d1e214444">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1145_d1e214444" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 13@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -38,7 +39,7 @@
             <body>
                 <p>
                     <persName key="d1e17104" xml:id="d1e145373">Eugenius, episcopus</persName>,
-                    servus servorum Dei, dilectis filiis <persName key="d1e17110" xml:id="d1e145376">Guillelmo abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145378">Fontaneto</orgName>
+                    servus servorum Dei, dilectis filiis <persName key="d1e17110" xml:id="d1e145376">Guillelmo abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145378" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontaneto</orgName>
                     </persName> ejusque fratribus tam presentibus quam futuris regularem vitam
                     professis <app>
                         <lem wit="#a">in perpetuum</lem>
@@ -59,20 +60,20 @@
                         <note>Corrigé silencieusement par Wiederhold</note>
                     </app> propitio poteritis adipisci firma vobis vestrisque successoribus et
                     illibata permaneant, in quibus haec propriis duximus exprimenda vocabulis :
-                        <placeName key="stutzmann_himanis#325041" xml:id="d1e145397">Vallem ipsam in qua eadem
-                        abbatia sita est</placeName>, cum omnibus finibus suis ; grangiam <placeName key="stutzmann_himanis#325165" xml:id="d1e145400">Carmeti</placeName> cum omnibus
-                    appenditiis suis ; dona <persName key="stutzmann_himanis#324643" xml:id="d1e145404">Stephani Eduensis episcopi</persName> de terris et de aasentiis suis,
+                        <placeName key="stutzmann_himanis#325041" xml:id="d1e145397" corresp="Vallem ipsam in qua eadem abbatia sita est">Vallem ipsam in qua eadem
+                        abbatia sita est</placeName>, cum omnibus finibus suis ; grangiam <placeName key="stutzmann_himanis#325165" xml:id="d1e145400" corresp="Carmeti">Carmeti</placeName> cum omnibus
+                    appenditiis suis ; dona <persName key="stutzmann_himanis#324643" xml:id="d1e145404" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephani Eduensis episcopi</persName> de terris et de aasentiis suis,
                     scilicet terras ad excolendum sine tertiis et nemus ad omnem usum, etiam ad
-                    ardendum in agricultura ; grangiam <placeName key="stutzmann_himanis#324452" xml:id="d1e145407">Fontanarum</placeName> cum appenditiis suis ; <app>
+                    ardendum in agricultura ; grangiam <placeName key="stutzmann_himanis#324452" xml:id="d1e145407" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanarum</placeName> cum appenditiis suis ; <app>
                         <lem wit="#B">
                             <sic>dona</sic>
                         </lem>
                         <rdg wit="#a">donum</rdg>
                     </app>
-                    <persName key="d1e17116" xml:id="d1e145416">Rainardi domini <placeName key="stutzmann_himanis#324487" xml:id="d1e145418">Montis Barri</placeName>
-                    </persName> de aasentiis suis et pasturis suis ; grangiam <placeName key="stutzmann_himanis#324990" xml:id="d1e145421">Puteoli</placeName> cum omnibus
-                    appenditiis suis ; grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e145424">Flaciaci</placeName> cum omnibus appenditiis suis ; locum <placeName key="stutzmann_himanis#325010" xml:id="d1e145428">sancti Aniani</placeName> cum
-                    appenditiis suis omnibus ; grangiam <placeName key="stutzmann_himanis#324479" xml:id="d1e145431">Aringiarum</placeName> cum omnibus appenditiis suis. Sane
+                    <persName key="d1e17116" xml:id="d1e145416">Rainardi domini <placeName key="stutzmann_himanis#324487" xml:id="d1e145418" corresp="Montbard (Côte-d'Or, Montbard)">Montis Barri</placeName>
+                    </persName> de aasentiis suis et pasturis suis ; grangiam <placeName key="stutzmann_himanis#324990" xml:id="d1e145421" corresp="Puteoli">Puteoli</placeName> cum omnibus
+                    appenditiis suis ; grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e145424" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName> cum omnibus appenditiis suis ; locum <placeName key="stutzmann_himanis#325010" xml:id="d1e145428" corresp="Saint-Agnan (Nièvre, Montsauche)">sancti Aniani</placeName> cum
+                    appenditiis suis omnibus ; grangiam <placeName key="stutzmann_himanis#324479" xml:id="d1e145431" corresp="Éringes (Côte-d'Or, Montbard)">Aringiarum</placeName> cum omnibus appenditiis suis. Sane
                     laborum vestrorum, quos propriis manibus aut sumptibus colitis, sive de
                     nutrimentis vestrorum animalium, nullus omnino clericus vel laicus decimas a
                     vobis exigere presumat. Decernimus ergo ut nulli omnino hominum liceat prefatum
@@ -117,7 +118,7 @@
                             <lem wit="#a">
                                 <supplied>sedis</supplied>
                             </lem>
-                            <rdg type="omis" wit="#B"/>
+                            <rdg type="omis" wit="#B" />
                             <note>Omis B, restitué d’après le formulaire pontifical, sans
                                 indication, par a.</note>
                         </app> episcopus</persName>. </p>
@@ -133,7 +134,7 @@
                         sancti Nicolai in carcere Tulliano</persName>. </p>
                 <p>Ego <persName key="d1e17178" xml:id="d1e145528">Jordanus Romanae ecclesiae
                         diaconus cardinalis</persName>.</p>
-                <p>Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145533">Biterbi</placeName> per
+                <p>Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145533" corresp="Viterbe">Biterbi</placeName> per
                     manum <persName key="d1e17184" xml:id="d1e145536">Roberti sanctae Romanae
                         ecclesiae presbiteri cardinalis et cancellarii</persName>, <app>
                         <lem wit="#B">decimo sexto</lem>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1185_d1e229786">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1185_d1e229786" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 93@ [douteux (pourquoi ?)]</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -35,32 +36,32 @@
         </teiHeader>
         <text>
             <body>
-                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157024">Stephanus, Dei gratia
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157024" corresp="Étienne II, évêque d'Autun (1171-1189)">Stephanus, Dei gratia
                         Eduensis episcopus</persName>, scripto præsenti notifico quod monachi de
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157027">Fonteneto</orgName> habent
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157027" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> habent
                     super omnes pasturas <persName key="d1e25016" xml:id="d1e157030">Oliverii de
-                            <placeName key="stutzmann_himanis#324459" xml:id="d1e157032">Grignon</placeName>
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e157032" corresp="Grignon (Côte-d'Or, Montbard)">Grignon</placeName>
                     </persName>, ubicumque illas habeat, quingentos solidos provinienses, et hoc
                     tali pacto quod et in aqua et in terris pasturarum omnem aasentiam suam habebunt
                     et facient pastores et pecora monachorum. Insuper ne quae in posterum discordia
                     superhoriat, scriptum presens sigillo nostro muniri curavimus. De hac gageria
                     testes sunt <persName key="d1e25022" xml:id="d1e157040">Guillelmus prior
-                            <orgName key="stutzmann_himanis#282689" xml:id="d1e157042">Fonteneti</orgName>
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e157042" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     </persName>, <persName key="d1e25028" xml:id="d1e157045">Joannes
-                        cellerarius</persName>, <persName key="d1e25034" xml:id="d1e157048">Philibertus monachus</persName>, <persName key="d1e25040" xml:id="d1e157051">frater Vualdricus, magister <placeName key="stutzmann_himanis#324451" xml:id="d1e157053">Flacciaci</placeName>
+                        cellerarius</persName>, <persName key="d1e25034" xml:id="d1e157048">Philibertus monachus</persName>, <persName key="d1e25040" xml:id="d1e157051">frater Vualdricus, magister <placeName key="stutzmann_himanis#324451" xml:id="d1e157053" corresp="Flacey (Côte-d'Or, Montbard)">Flacciaci</placeName>
                     </persName>, <persName key="d1e25046" xml:id="d1e157056">Vuillermus
                             <addName>Uldreus</addName>
                     </persName>, <persName key="d1e25053" xml:id="d1e157061">
-                        <foreign>Oigeroz</foreign> de <placeName key="stutzmann_himanis#324459" xml:id="d1e157065">
+                        <foreign>Oigeroz</foreign> de <placeName key="stutzmann_himanis#324459" xml:id="d1e157065" corresp="Grignon (Côte-d'Or, Montbard)">
                             <foreign>Grignon</foreign>
                         </placeName>
                     </persName>. Laudavit hoc <persName key="d1e25059" xml:id="d1e157070">uxor
                         ejusdem <persName key="d1e25065" xml:id="d1e157072">Olivieri</persName>
-                        Regina</persName>. Unde testes sunt <persName key="d1e25071" xml:id="d1e157076">Vualdricus magister <placeName key="stutzmann_himanis#324451" xml:id="d1e157078">Flacciaci</placeName>
+                        Regina</persName>. Unde testes sunt <persName key="d1e25071" xml:id="d1e157076">Vualdricus magister <placeName key="stutzmann_himanis#324451" xml:id="d1e157078" corresp="Flacey (Côte-d'Or, Montbard)">Flacciaci</placeName>
                     </persName>, <persName key="d1e25077" xml:id="d1e157081">frater
                         Julianus</persName>, <persName key="d1e25083" xml:id="d1e157084">Renerius de
-                            <placeName key="stutzmann_himanis#324353" xml:id="d1e157086">Roca</placeName>
-                    </persName>, <persName key="d1e25090" xml:id="d1e157089">Renerius de <placeName key="stutzmann_himanis#324356" xml:id="d1e157091">Sanniaco</placeName>
+                            <placeName key="stutzmann_himanis#324353" xml:id="d1e157086" corresp="La Roche-Vanneau (Côte-d'Or, Montbard)">Roca</placeName>
+                    </persName>, <persName key="d1e25090" xml:id="d1e157089">Renerius de <placeName key="stutzmann_himanis#324356" xml:id="d1e157091" corresp="Seigny (Côte-d'Or, Montbard)">Sanniaco</placeName>
                     </persName>, <persName key="d1e25096" xml:id="d1e157094">Vuillermus
                             <addName>Aldreus</addName>
                     </persName>. Actum anno ab incarnatione Domini millesimo centesimo octogesimo

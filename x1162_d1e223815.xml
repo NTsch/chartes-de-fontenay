@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1162_d1e223815">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="x1162_d1e223815" xmlns="http://www.tei-c.org/ns/1.0">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
                     <title>Acte original 44@</title>
-                    <author/>
+                    <author />
                 </titleStmt>
                 <publicationStmt>
                     <p>See the header of the teiCorpus</p>
@@ -41,75 +42,75 @@
         <text>
             <body>
                 <p>
-                    <persName key="stutzmann_himanis#324588" xml:id="d1e152714">Henricus, Dei gratia
-                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152716">Eduensis</placeName>
+                    <persName key="stutzmann_himanis#324588" xml:id="d1e152714" corresp="Henri de Bourgogne, évêque d'Autun (1148 -1171)">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152716" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
                         episcopus</persName>, omnibus pacem sectantibus salutem et benedictionem.
                     Presentibus et futuris hujus carte scripto notificamus concordiam in nostri
-                    presentia factam inter monachos de <orgName key="stutzmann_himanis#282689" xml:id="d1e152720">Fonteneto</orgName> et <persName key="d1e22888" xml:id="d1e152723">Renerium de <placeName key="stutzmann_himanis#323218" xml:id="d1e152725">Frolesio</placeName>
-                    </persName>. Monachi in finagio grangie sue <placeName key="stutzmann_himanis#324451" xml:id="d1e152728">Flaciaci</placeName> et in <placeName key="stutzmann_himanis#325294" xml:id="d1e152731">Alteris Vallibus</placeName> terras
-                    habebant adcensitas a quibusdam militibus, <persName key="d1e22894" xml:id="d1e152734">Girardo videlicet et Piloso</persName>, <persName key="d1e22900" xml:id="d1e152742">Gileberto de <placeName key="stutzmann_himanis#324433" xml:id="d1e152744">Columberiis</placeName>
+                    presentia factam inter monachos de <orgName key="stutzmann_himanis#282689" xml:id="d1e152720" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> et <persName key="d1e22888" xml:id="d1e152723">Renerium de <placeName key="stutzmann_himanis#323218" xml:id="d1e152725" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                    </persName>. Monachi in finagio grangie sue <placeName key="stutzmann_himanis#324451" xml:id="d1e152728" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName> et in <placeName key="stutzmann_himanis#325294" xml:id="d1e152731" corresp="Alteris Vallibus">Alteris Vallibus</placeName> terras
+                    habebant adcensitas a quibusdam militibus, <persName key="d1e22894" xml:id="d1e152734">Girardo videlicet et Piloso</persName>, <persName key="d1e22900" xml:id="d1e152742">Gileberto de <placeName key="stutzmann_himanis#324433" xml:id="d1e152744" corresp="Coulmier-le-Sec (Côte-d'Or, Châtillon-sur-Seine)">Columberiis</placeName>
                     </persName> et <persName key="d1e25299" xml:id="d1e152747">Oberto
                             <addName>Villano</addName>
-                    </persName> qui eas tenebant in chasamento ab <persName key="d1e22907" xml:id="d1e152752">Hugone de <placeName key="stutzmann_himanis#324905" xml:id="d1e152754">
+                    </persName> qui eas tenebant in chasamento ab <persName key="d1e22907" xml:id="d1e152752">Hugone de <placeName key="stutzmann_himanis#324905" xml:id="d1e152754" corresp="Chacey (Côte-d'Or, Montbard)">
                             <foreign>Chaace</foreign>
                         </placeName>
                     </persName>, cujus <persName key="d1e22913" xml:id="d1e152758">filiam</persName>
                     in matrimonio predictus <persName key="d1e22919" xml:id="d1e152761">Renerius</persName> habebat, ideoque terras illas sibi competere et sui
                     juris esse dicebat. Hac de causa vexabat et causabatur monachos asserens nunquam
                     se nec socerum suum <persName key="d1e22925" xml:id="d1e152764">Hugonem</persName> predictas adcensias laudasse. Econtra dicebant monachi
-                    se easdem terras tenere primum quidem cum laude <persName key="d1e22931" xml:id="d1e152768">Hugonis de <placeName key="stutzmann_himanis#324905" xml:id="d1e152770">Chaaceio</placeName>
+                    se easdem terras tenere primum quidem cum laude <persName key="d1e22931" xml:id="d1e152768">Hugonis de <placeName key="stutzmann_himanis#324905" xml:id="d1e152770" corresp="Chacey (Côte-d'Or, Montbard)">Chaaceio</placeName>
                     </persName> deinde cum laude ipsius <persName key="d1e22937" xml:id="d1e152773">Renerii</persName>. Auditis itaque partis utriusque allegationibus ad
                     judicium misimus et judicatum est quod si testes haberent monachi de laude
                         <persName key="d1e22944" xml:id="d1e152776">Hugonis</persName> suam rite
                     causam peregissent et a causa Renerius excidisset. Tunc monachi testes
                     produxerunt duos religionis <persName key="d1e22950" xml:id="d1e152779">Andream
-                        videlicet de <placeName key="stutzmann_himanis#324438" xml:id="d1e152781">
+                        videlicet de <placeName key="stutzmann_himanis#324438" xml:id="d1e152781" corresp="Courtangy (Côte-d'Or, Montbard)">
                             <foreign>Curtenge</foreign>
                         </placeName>
-                    </persName>, <persName key="d1e22956" xml:id="d1e152785">Teobaudum de <placeName key="stutzmann_himanis#324460" xml:id="d1e152787">
+                    </persName>, <persName key="d1e22956" xml:id="d1e152785">Teobaudum de <placeName key="stutzmann_himanis#324460" xml:id="d1e152787" corresp="Grésigny-Sainte-Reine (Côte-d'Or, Montbard)">
                             <foreign>Grisine</foreign>
                         </placeName>
-                    </persName> et duos seculares <persName key="d1e22962" xml:id="d1e152791">Robertum scilicet de <placeName key="stutzmann_himanis#324359" xml:id="d1e152793">Sancta Columba</placeName>
+                    </persName> et duos seculares <persName key="d1e22962" xml:id="d1e152791">Robertum scilicet de <placeName key="stutzmann_himanis#324359" xml:id="d1e152793" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
                     </persName>
                     <supplied>et </supplied>
                     <persName key="d1e22968" xml:id="d1e152798">
-                        <supplied>C</supplied>alonem de <placeName key="stutzmann_himanis#324459" xml:id="d1e152802">Grinione</placeName>
+                        <supplied>C</supplied>alonem de <placeName key="stutzmann_himanis#324459" xml:id="d1e152802" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
                     </persName> qui se loco et colloquio dicerent affuis<supplied>se</supplied>
-                    <supplied>quando</supplied> predictus <persName key="d1e22974" xml:id="d1e152810">Hugo</persName> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152813">Fonteneti</orgName> predictas terras laudavit. Iterum
+                    <supplied>quando</supplied> predictus <persName key="d1e22974" xml:id="d1e152810">Hugo</persName> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152813" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> predictas terras laudavit. Iterum
                     judicatum est ut si duo religiosi super veritatem suam et ordinem se id vidisse
                     et audisse testarentur et duo seculares idem jurejurando firmarent sufficeret
                     monachis sicque <persName key="d1e22981" xml:id="d1e152816">Renerius</persName>
                     querelam omitteret. Quod ita factum est. <persName key="d1e22987" xml:id="d1e152820">Andreas namque monachus</persName> et <persName key="d1e22993" xml:id="d1e152823">Theobaudus conversus</persName> veraciter
-                    se hoc audisse et vidisse testati sunt, <persName key="d1e22999" xml:id="d1e152826">Robertus autem de <placeName key="stutzmann_himanis#324359" xml:id="d1e152828">Sancta Columba</placeName>
-                    </persName> et <persName key="d1e23005" xml:id="d1e152831">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e152833">Grinione</placeName>
-                    </persName> super sancta idem juraverunt. Actum apud <placeName key="stutzmann_himanis#324370" xml:id="d1e152836">Tullionem</placeName> in nostri
-                    sicut ante diximus presentia presente etiam domno <persName key="stutzmann_himanis#324660" xml:id="d1e152839">Arnaudo abbate <orgName key="stutzmann_himanis#282689" xml:id="d1e152841">Fonteneto</orgName>
-                    </persName> cum monachis his : <persName key="d1e23011" xml:id="d1e152845">Willermo de <placeName key="stutzmann_himanis#281544" xml:id="d1e152847">Scharleis</placeName>
-                    </persName>, <persName key="d1e23018" xml:id="d1e152850">Odone de <placeName key="stutzmann_himanis#324347" xml:id="d1e152852">Pultariis</placeName>
+                    se hoc audisse et vidisse testati sunt, <persName key="d1e22999" xml:id="d1e152826">Robertus autem de <placeName key="stutzmann_himanis#324359" xml:id="d1e152828" corresp="Sainte-Colombe-en-Auxois (Côte-d'Or, Semur-en-Auxois)">Sancta Columba</placeName>
+                    </persName> et <persName key="d1e23005" xml:id="d1e152831">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e152833" corresp="Grignon (Côte-d'Or, Montbard)">Grinione</placeName>
+                    </persName> super sancta idem juraverunt. Actum apud <placeName key="stutzmann_himanis#324370" xml:id="d1e152836" corresp="Touillon (Côte-d'Or, Montbard)">Tullionem</placeName> in nostri
+                    sicut ante diximus presentia presente etiam domno <persName key="stutzmann_himanis#324660" xml:id="d1e152839" corresp="Arnaud, abbé de Fontenay (1154-1163)">Arnaudo abbate <orgName key="stutzmann_himanis#282689" xml:id="d1e152841" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
+                    </persName> cum monachis his : <persName key="d1e23011" xml:id="d1e152845">Willermo de <placeName key="stutzmann_himanis#281544" xml:id="d1e152847" corresp="abbaye des Echarlis (1112 -)">Scharleis</placeName>
+                    </persName>, <persName key="d1e23018" xml:id="d1e152850">Odone de <placeName key="stutzmann_himanis#324347" xml:id="d1e152852" corresp="Pothières (Côte-d'Or, Châtillon-sur-Seine)">Pultariis</placeName>
                     </persName>, <persName key="d1e23024" xml:id="d1e152855">Milone de <placeName key="stutzmann_himanis#325034" xml:id="d1e152857">Tilyo</placeName>
-                    </persName>. Unde testes sunt hii : <persName key="d1e23030" xml:id="d1e152860">magister Audebertus <placeName key="stutzmann_himanis#324366" xml:id="d1e152862">Sedeloci</placeName> decanus</persName>, <persName key="stutzmann_himanis#324622" xml:id="d1e152866">Jordanus <placeName key="stutzmann_himanis#324370" xml:id="d1e152868">Tullionis</placeName> archipresbiter</persName>,
-                        <persName key="stutzmann_himanis#324625" xml:id="d1e152872">Hugo <placeName key="stutzmann_himanis#324344" xml:id="d1e152874">Pulleniaci</placeName>
+                    </persName>. Unde testes sunt hii : <persName key="d1e23030" xml:id="d1e152860">magister Audebertus <placeName key="stutzmann_himanis#324366" xml:id="d1e152862" corresp="Saulieu (Côte-d'Or, Semur-en-Auxois)">Sedeloci</placeName> decanus</persName>, <persName key="stutzmann_himanis#324622" xml:id="d1e152866" corresp="Jordan, archiprêtre de Touillon (v.1155-v.1170)">Jordanus <placeName key="stutzmann_himanis#324370" xml:id="d1e152868" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName> archipresbiter</persName>,
+                        <persName key="stutzmann_himanis#324625" xml:id="d1e152872" corresp="Hugo archipresbiter Pulleniaci">Hugo <placeName key="stutzmann_himanis#324344" xml:id="d1e152874" corresp="Pouillenay (Côte-d'Or, Montbard)">Pulleniaci</placeName>
                         archipresbiter</persName>, <persName key="d1e23036" xml:id="d1e152879">Wido
-                        de <placeName key="stutzmann_himanis#324374" xml:id="d1e152881">
+                        de <placeName key="stutzmann_himanis#324374" xml:id="d1e152881" corresp="Venarey-les-Laumes,Venarey (Côte-d'Or, Montbard)">
                             <foreign>Venerre</foreign>
                         </placeName>
                     </persName>, <persName key="d1e23042" xml:id="d1e152885">Willermus
                             <addName>Buro</addName>
-                    </persName>, <persName key="d1e23048" xml:id="d1e152890">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e152892">Turre</placeName>
+                    </persName>, <persName key="d1e23048" xml:id="d1e152890">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e152892" corresp="La Tour de Rougemont">Turre</placeName>
                     </persName>, <persName key="d1e23055" xml:id="d1e152895">Gilebertus de
-                            <placeName key="stutzmann_himanis#324460" xml:id="d1e152897">
+                            <placeName key="stutzmann_himanis#324460" xml:id="d1e152897" corresp="Grésigny-Sainte-Reine (Côte-d'Or, Montbard)">
                             <foreign>Grisine</foreign>
                         </placeName>
                     </persName>, <persName key="d1e23061" xml:id="d1e152901">Wido
                             <addName>Varrellus</addName>
-                    </persName>, <persName key="d1e23067" xml:id="d1e152906">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e152908">
+                    </persName>, <persName key="d1e23067" xml:id="d1e152906">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e152908" corresp="Courtangy (Côte-d'Or, Montbard)">
                             <foreign>Curtenge</foreign>
                         </placeName>
                     </persName>, <persName key="d1e23073" xml:id="d1e152913">Renaudus major
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e152915">Tullionis</placeName>
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e152915" corresp="Touillon (Côte-d'Or, Montbard)">Tullionis</placeName>
                     </persName>, <persName key="d1e23079" xml:id="d1e152918">Gilebertus frater
                         ejus</persName> et <persName key="d1e23085" xml:id="d1e152921">Paganus
-                            <addName>Cocus</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e152926">Lucennaco</placeName>
+                            <addName>Cocus</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e152926" corresp="Lucenay-le-Duc (Côte-d'Or, Montbard)">Lucennaco</placeName>
                     </persName>. Ad munimen ergo rei hujus presenti carte sigillum nostrum apponimus
                     et siquis deinceps contraire presumpserit eum penitus nisi resipuerit
                     anathematizamus.</p>
