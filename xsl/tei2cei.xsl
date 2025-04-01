@@ -395,6 +395,11 @@
                     <xsl:value-of select="@xml:id"/>
                 </xsl:attribute>
             </xsl:if>
+            <xsl:if test="@corresp">
+                <xsl:attribute name="reg">
+                    <xsl:value-of select="@corresp"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </cei:placeName>
     </xsl:template>
@@ -406,6 +411,11 @@
                     <xsl:value-of select="@xml:id"/>
                 </xsl:attribute>
             </xsl:if>
+            <xsl:if test="@corresp">
+                <xsl:attribute name="reg">
+                    <xsl:value-of select="@corresp"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </cei:persName>
     </xsl:template>
@@ -415,6 +425,11 @@
             <xsl:if test="@xml:id">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="@corresp">
+                <xsl:attribute name="reg">
+                    <xsl:value-of select="@corresp"/>
                 </xsl:attribute>
             </xsl:if>
             <xsl:apply-templates/>
@@ -697,6 +712,11 @@
     
     <xsl:template match="geogName">
         <cei:geogName id="{@xml:id}">
+            <xsl:if test="@corresp">
+                <xsl:attribute name="reg">
+                    <xsl:value-of select="@corresp"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </cei:geogName>
     </xsl:template>
