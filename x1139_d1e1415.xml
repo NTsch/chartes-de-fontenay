@@ -180,7 +180,7 @@
                     </app>
                     <w xml:id="w_Fontenay_27">
                         <seg type="wp" xml:id="wp_Fontenay_27_1">to</seg>
-                        <lb break="no" />
+                        <lb break="no" n="3"/>
                         <seg type="wp" xml:id="wp_Fontenay_27_2">tiu<g rend="s_long">s</g>
                         </seg>
                     </w>
@@ -256,7 +256,7 @@
                         <g rend="s_long">s</g>ervientium</w>
                     <w xml:id="w_Fontenay_68">
                         <seg type="wp" xml:id="wp_Fontenay_68_1">con</seg>
-                        <lb break="no" />
+                        <lb break="no" n="6" />
                         <seg type="wp" xml:id="wp_Fontenay_68_2">cedimu<g rend="s_long">s</g>
                         </seg>
                     </w>
