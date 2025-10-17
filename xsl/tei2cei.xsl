@@ -405,7 +405,17 @@
     </xsl:template>
     
     <xsl:template match="persName">
-        <cei:persName key="{@key}">
+        <cei:persName key="{concat('FontenayPersons:', substring-after(@key, 'stutzmann_himanis#'))}">
+            <xsl:attribute name="key">
+                <xsl:choose>
+                    <xsl:when test="contains(@key, 'stutzmann_himanis#')">
+                        <xsl:value-of select="concat('FontenayPersons:', substring-after(@key, 'stutzmann_himanis#'))"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="concat('FontenayPersons:', @key)"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
             <xsl:if test="@xml:id">
                 <xsl:attribute name="id">
                     <xsl:value-of select="@xml:id"/>
