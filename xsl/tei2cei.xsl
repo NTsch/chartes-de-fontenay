@@ -95,6 +95,16 @@
         </cei:witnessOrig>
     </xsl:template>
     
+    <xsl:template match="witness[node()[1] = text() and not(.//bibl)]">
+        <!--TODO: placeholder to make text visible until witness is reworked in cei2html-->
+        <cei:witness>
+            <xsl:copy-of select="@*[name() != 'source']"/>
+            <cei:bibl>
+                <xsl:apply-templates/>
+            </cei:bibl>
+        </cei:witness>
+    </xsl:template>
+    
     <xsl:template match="witness">
         <cei:witness>
             <xsl:copy-of select="@*[name() != 'source']"/>

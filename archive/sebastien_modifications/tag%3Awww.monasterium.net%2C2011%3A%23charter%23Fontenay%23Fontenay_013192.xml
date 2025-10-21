@@ -1,0 +1,205 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom"><atom:id>tag:www.monasterium.net,2011:/charter/Fontenay/Fontenay_013192</atom:id><atom:title/><atom:published>2024-03-13T13:53:09.464Z</atom:published><atom:updated>2024-03-13T13:53:09.464Z</atom:updated><atom:author><atom:email>sebastien.barret@cnrs-orleans.fr</atom:email></atom:author><app:control xmlns:app="http://www.w3.org/2007/app"><app:draft>no</app:draft></app:control><atom:content type="application/xml"><cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front><cei:sourceDesc>
+                            <cei:sourceDescVolltext>
+                                <cei:bibl/>
+                            </cei:sourceDescVolltext>
+                            <cei:sourceDescRegest>
+                                <cei:bibl/>
+                            </cei:sourceDescRegest>
+                        </cei:sourceDesc></cei:front>
+            <cei:body>
+               <cei:idno id="Fontenay_013192">Fontenay 013192</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:date value="11171231">[1117]</cei:date>
+                  <cei:placeName/><cei:dateRange from="99999999" to="99999999"/></cei:issued>
+                  <cei:abstract>Concession faite par G[uy], abbé de Molesme, à la réquisition d’Etienne,
+                        évêque d’Autun, d’un lieu où il y avait un ermitage à la charge d’y bâtir
+                        une abbaye bénédictine.</cei:abstract>
+                  <cei:witListPar>
+                     <cei:witness n="A">Original perdu</cei:witness>
+                     <cei:witness n="B">B. Cartulaire 1, fol. 23<cei:hi rend="superscript">r-v</cei:hi> (<cei:hi rend="italic">Abbatia</cei:hi>, 6) ; table : « <cei:hi rend="italic">Carta
+                                abbatis Mollismensis de dono domni Martini</cei:hi> »</cei:witness>
+                     <cei:witness n="C">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                                fol. 175<cei:hi rend="superscript">v</cei:hi>. —
+                            Papier.<cei:hi rend="background(red)"> non collationné</cei:hi>,
+                            d’après A (« <cei:hi rend="italic">Ex chartario Fonteneti</cei:hi> ») et renvoi
+                            à B (« Cartulaire de l’abbaïe de Fontenay »).</cei:witness>
+                     <cei:witness n="D">Dijon, Arch. dép. Côte d’Or, 1 F 216, fol. 39-40, d’après
+                            a.</cei:witness>
+                     <cei:witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 2-4. — Papier.
+                            Copie par E. Petit d’après a.</cei:witness>
+                     <cei:witness n="a">
+                        <cei:bibl n="a">
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Plancher</cei:surname>, <cei:forename>Urbain</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>Histoire générale et particulière de la Bourgogne, avec des notes, des
+                dissertations et les preuves justificatives</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Dijon</cei:pubPlace>
+                              <cei:publisher>A. de Fay</cei:publisher>
+                              <cei:date value="17399999">1739</cei:date>
+                           </cei:imprint>
+                           <cei:scope>t. I, preuve p.
+                                    xxxvii, n° L</cei:scope>
+                           <cei:note>D’après C</cei:note>
+                        </cei:bibl>
+                     </cei:witness>
+                     <cei:witness n="b">
+                        <cei:bibl n="b">
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Laurent</cei:surname>, <cei:forename>Jacques</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>Cartulaires de l’abbaye de Molesmes, ancien diocèse de Langres 916-1250
+                : recueil de documents sur le nord de la Bourgogne et le midi de la
+                Champagne</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Paris</cei:pubPlace>
+                              <cei:publisher>A. Picard</cei:publisher>
+                              <cei:date value="19079999">1907</cei:date>
+                           </cei:imprint>
+                           <cei:note type="tag">Abbaye Notre-Dame (Molesmes, Côte-d’Or)</cei:note>
+                           <cei:note>b. Fragment réimprimé
+                                    d’après a : </cei:note>
+                        </cei:bibl>
+                     <cei:traditioForm/><cei:figure/><cei:archIdentifier/><cei:physicalDesc>
+                                        <cei:material/>
+                                        <cei:dimensions/>
+                                        <cei:condition/>
+                                    </cei:physicalDesc><cei:auth>
+                                        <cei:sealDesc/>
+                                        <cei:notariusDesc/>
+                                    </cei:auth><cei:nota/><cei:rubrum/></cei:witness>
+                  </cei:witListPar>
+                  <cei:diplomaticAnalysis>
+                     <cei:listBibl>
+                        <cei:bibl>Paris, Bibl. nat. de France, Ms. Baluze 143,
+                            fol. 276<cei:hi rend="superscript">v </cei:hi>(notes de
+                            P.-F. Chifflet, « ex duobus tabulariis »)</cei:bibl>
+                        <cei:bibl>
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Chifflet</cei:surname>, <cei:forename>Pierre-François</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>S. Bernardi Clarevallensis abbatis genus illustre assertum</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Paris</cei:pubPlace>
+                              <cei:publisher>Chavance</cei:publisher>
+                              <cei:date value="16609999">1660</cei:date>
+                           </cei:imprint>Chifflet<cei:scope>p. 563 : « Stephano Eduensi
+                                episcopi, G. Molismensis abbas concedit locum, in quo frater
+                                Martinus eremita morabatur, ut ibi fiat abbatia fratrum regularium,
+                                juxta institutionem S. Benedicti viventium »</cei:scope>
+                        </cei:bibl>
+                        <cei:bibl>
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Petit</cei:surname>, <cei:forename>Ernest</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>Histoire des ducs de Bourgogne de la race capétienne avec des documents
+                inédits et des pièces justificatives</cei:title>
+                           <cei:title>Histoire des ducs de Bourgogne</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Dijon</cei:pubPlace>
+                              <cei:publisher>Lamarche</cei:publisher>
+                              <cei:date value="18859999">1885</cei:date>
+                           </cei:imprint>
+                           <cei:scope>t. I, p. 461, n° 171</cei:scope>
+                        </cei:bibl>
+                        <cei:bibl n="a">
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Plancher</cei:surname>, <cei:forename>Urbain</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>Histoire générale et particulière de la Bourgogne, avec des notes, des
+                dissertations et les preuves justificatives</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Dijon</cei:pubPlace>
+                              <cei:publisher>A. de Fay</cei:publisher>
+                              <cei:date value="17399999">1739</cei:date>
+                           </cei:imprint>
+                           <cei:scope>t. I, preuve p.
+                                    xxxvii, n° L</cei:scope>
+                           <cei:note>D’après C</cei:note>
+                        </cei:bibl>
+                        <cei:bibl n="b">
+                           <cei:author>
+                              <cei:persName>
+                                 <cei:surname>Laurent</cei:surname>, <cei:forename>Jacques</cei:forename>
+                              </cei:persName>
+                           </cei:author>: <cei:title>Cartulaires de l’abbaye de Molesmes, ancien diocèse de Langres 916-1250
+                : recueil de documents sur le nord de la Bourgogne et le midi de la
+                Champagne</cei:title>.<cei:imprint>
+                              <cei:pubPlace>Paris</cei:pubPlace>
+                              <cei:publisher>A. Picard</cei:publisher>
+                              <cei:date value="19079999">1907</cei:date>
+                           </cei:imprint>
+                           <cei:note type="tag">Abbaye Notre-Dame (Molesmes, Côte-d’Or)</cei:note>
+                           <cei:note>b. Fragment réimprimé
+                                    d’après a : </cei:note>
+                        </cei:bibl>
+                     </cei:listBibl>
+                  <cei:listBiblEdition>
+                                    <cei:bibl/>
+                                </cei:listBiblEdition><cei:listBiblRegest>
+                                    <cei:bibl/>
+                                </cei:listBiblRegest><cei:listBiblFaksimile>
+                                    <cei:bibl/>
+                                </cei:listBiblFaksimile><cei:listBiblErw>
+                                    <cei:bibl/>
+                                </cei:listBiblErw><cei:p/><cei:quoteOriginaldatierung/><cei:nota/></cei:diplomaticAnalysis>
+               <cei:witnessOrig>
+                                <cei:traditioForm/>
+                                <cei:figure/>
+                                <cei:archIdentifier/>
+                                <cei:physicalDesc>
+                                    <cei:decoDesc>
+                                        <cei:p/>
+                                    </cei:decoDesc>
+                                    <cei:material/>
+                                    <cei:dimensions/>
+                                    <cei:condition/>
+                                </cei:physicalDesc>
+                                <cei:auth>
+                                    <cei:notariusDesc/>
+                                    <cei:sealDesc/>
+                                </cei:auth>
+                                <cei:nota/>
+                                <cei:rubrum/>
+                            </cei:witnessOrig><cei:lang_MOM/></cei:chDesc>
+               <cei:tenor>
+                  <cei:pTenor>Domino reverentissimo <cei:persName key="P_Stephanus_episcopus_Eduensis_56410">Stephano Dei gratia <cei:placeName id="d1e141914" reg="Autun">Eduensi</cei:placeName> episcopo</cei:persName> et omni
+                    ipsius ecclesie devotissimo clero, <cei:persName key="P_frater_G_Molismensis_cenobii_abbas_41918">frater G.
+                            <cei:orgName id="d1e141920" reg="Abbaye Notre-Dame de Molesme">Molismensis</cei:orgName> cenobii
+                        abbas</cei:persName> licet indignus cum omni fratrum suorum conventu salutem
+                    vite presentis et future. Quia vestre pie petitioni que nobis in presenti beate
+                    Marie assumptione per clericum vestrum in nostro capitulo devote offertur
+                    resistere nec volumus nec debemus, sancte vestre voluntati quod petitis
+                    concedimus ut locus ille videlicet in quo <cei:persName key="P_frater_Martinus_hermita_41924">frater
+                        Martinus hermita</cei:persName>
+                     morabatur pro voto et desiderio vestro abbatia fratrum regularium
+                    juxta institutionem almi patris Benedicti viventium fiat, ut autem et nos eorum
+                    beneficiis eorum congaudendo remunerationis quoque participes vobiscum inveniri
+                    mereamur, hac presenti paginula etiam concessionem nostram firmamus sigillique
+                    nostri impressione roboramus quatinus tam presentes quam futuri et vestre
+                    petitionis et nostre concessionis certitudinem habeant utrorumque paci et quieti
+                    in posterum studentes. Hoc ergo in predicta festivitate in commune firmavimus.
+                    Sed ne aliqua scrupulositas inde oriatur etiam locum ipsum nostre concessionis
+                    denominamus. Concedimus vobis locum <cei:persName key="P_fratris_Martini_41928">fratris
+                        Martini</cei:persName> cum omnibus appendiciis suis, nemus videlicet quod
+                        <cei:placeName id="d1e141931" reg="Chastelum">
+                        <cei:foreign lang="">Chastelum</cei:foreign>
+                     </cei:placeName> vocatur ea videlicet ratione et devotione qua supra definivimus sub
+                    presentia totius capituli nostri, domno <cei:persName key="P_Galterio_priore_41936">Galterio
+                        priore</cei:persName> cum ceteris prioribus, <cei:persName key="P_Teobaudo_41939">Teobaudo</cei:persName> scilicet et <cei:persName key="P_Deodato_41942">Deodato</cei:persName> laudante, <cei:persName key="P_Richerio_camerario_41945">Richerio
+                        camerario</cei:persName> et <cei:persName key="P_Roberto_cellerario_41948">Roberto
+                        cellerario</cei:persName> cum ceteris omnibus confirmantibus. Valete.</cei:pTenor>
+               </cei:tenor>
+            </cei:body>
+         <cei:back>
+                        <cei:class/>
+                        <cei:persName/>
+                        <cei:placeName/>
+                        <cei:index/>
+                        <cei:divNotes>
+                            <cei:note/>
+                        </cei:divNotes>
+                    </cei:back></cei:text></atom:content></atom:entry>

@@ -1,0 +1,134 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom"><atom:id>tag:www.monasterium.net,2011:/charter/Fontenay/Fontenay_053746.1</atom:id><atom:title/><atom:published>2024-11-29T10:15:59.468+01:00</atom:published><atom:updated>2024-11-29T10:17:08.856+01:00</atom:updated><atom:author><atom:email>sebastien.barret@cnrs-orleans.fr</atom:email></atom:author><app:control xmlns:app="http://www.w3.org/2007/app"><app:draft>no</app:draft></app:control><atom:content type="application/xml"><cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front><cei:sourceDesc>
+                            <cei:sourceDescVolltext>
+                                <cei:bibl/>
+                            </cei:sourceDescVolltext>
+                            <cei:sourceDescRegest>
+                                <cei:bibl/>
+                            </cei:sourceDescRegest>
+                        </cei:sourceDesc></cei:front>
+            <cei:body>
+               <cei:idno id="Fontenay_053746.1">Fontenay 053746</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:date value="12121231">1212</cei:date>
+                  <cei:placeName/><cei:dateRange from="99999999" to="99999999"/></cei:issued>
+                  <cei:abstract>Régeste</cei:abstract>
+                  <cei:witListPar>
+                     <cei:witness n="A">Original perdu</cei:witness>
+                     <cei:witness n="B">B. Cartulaire 1, fol. 37<cei:hi rend="superscript">v</cei:hi>-38<cei:hi rend="superscript">r</cei:hi> (<cei:hi rend="italic">Abbatia</cei:hi>, 42) ;
+                            table : « <cei:hi rend="italic">Carta Henrici
+                            Herbelestarii</cei:hi> ».</cei:witness>
+                     <cei:witness n="C">ADCO 15 H 11* (cart. 202), fol. 19<cei:hi rend="superscript">v</cei:hi> (Montbard. EE) : « <cei:hi rend="italic">Non restat
+                                corrigia</cei:hi> ».</cei:witness>
+                     <cei:witness n="é">édité d’après B<cei:traditioForm/><cei:figure/><cei:archIdentifier/><cei:physicalDesc>
+                                        <cei:material/>
+                                        <cei:dimensions/>
+                                        <cei:condition/>
+                                    </cei:physicalDesc><cei:auth>
+                                        <cei:sealDesc/>
+                                        <cei:notariusDesc/>
+                                    </cei:auth><cei:nota/><cei:rubrum/></cei:witness>
+                  </cei:witListPar>
+                  <cei:diplomaticAnalysis>
+                     <cei:listBibl>
+                        <cei:bibl>ADCO 15 H 1, fol. <cei:hi rend="background(red)">@</cei:hi> (Montbard.
+                            EE)</cei:bibl>
+                        <cei:bibl>ADCO 15 H 2, fol. <cei:hi rend="background(red)">@</cei:hi> (Montbard. EE).
+                            —ADCO 15 H <cei:hi rend="background(red)">@</cei:hi>, p. <cei:hi rend="background(red)">@</cei:hi> (<cei:hi rend="background(red)">@</cei:hi>.
+                                <cei:hi rend="background(red)">@</cei:hi>. <cei:hi rend="background(red)">@</cei:hi>).</cei:bibl>
+                     </cei:listBibl>
+                  <cei:listBiblEdition>
+                                    <cei:bibl/>
+                                </cei:listBiblEdition><cei:listBiblRegest>
+                                    <cei:bibl/>
+                                </cei:listBiblRegest><cei:listBiblFaksimile>
+                                    <cei:bibl/>
+                                </cei:listBiblFaksimile><cei:listBiblErw>
+                                    <cei:bibl/>
+                                </cei:listBiblErw><cei:p/><cei:quoteOriginaldatierung/><cei:nota/></cei:diplomaticAnalysis>
+               <cei:witnessOrig>
+                                <cei:traditioForm/>
+                                <cei:figure/>
+                                <cei:archIdentifier/>
+                                <cei:physicalDesc>
+                                    <cei:decoDesc>
+                                        <cei:p/>
+                                    </cei:decoDesc>
+                                    <cei:material/>
+                                    <cei:dimensions/>
+                                    <cei:condition/>
+                                </cei:physicalDesc>
+                                <cei:auth>
+                                    <cei:notariusDesc/>
+                                    <cei:sealDesc/>
+                                </cei:auth>
+                                <cei:nota/>
+                                <cei:rubrum/>
+                            </cei:witnessOrig><cei:lang_MOM/></cei:chDesc>
+               <cei:tenor>
+                  <cei:pTenor>Ego <cei:persName key="P_Odo_III_dux_Burgundiae_70365">
+                        <cei:app>
+                           <cei:lem>O.</cei:lem>
+                           <cei:rdg wit="#C">Odo</cei:rdg>
+                        </cei:app>, dux <cei:placeName id="d1e166659" reg="Bourgogne">Burgundie</cei:placeName>
+                     </cei:persName>, omnibus notum facio tam presentibus quam futuris quod <cei:persName key="P_Henricus_Arbelestarius_de_Monte_Barri_66662">Henricus Arbelestarius de <cei:placeName id="d1e166664" reg="Montbard">Monte Barri</cei:placeName>
+                     </cei:persName> et <cei:persName key="P_uxor_ejus_66667">uxor ejus</cei:persName> guerpiverunt in
+                    manibus nostris et penitus <cei:app>
+                        <cei:lem>quitaverunt</cei:lem>
+                        <cei:rdg wit="#C">quittaverunt</cei:rdg>
+                     </cei:app> querelam quam habebant adversus fratres <cei:orgName id="d1e166676" reg="Abbaye de Fontenay">Fonteneti</cei:orgName> super quodam fossato quod fecerant dicti fratres ad
+                    utilitatem <cei:placeName id="d1e166680" reg="molendini molendini sui quod est subtus abbatiam">
+                        <cei:app>
+                           <cei:lem>molendini</cei:lem>
+                           <cei:rdg wit="#C">molendini sui</cei:rdg>
+                        </cei:app> quod est subtus abbatiam</cei:placeName>. Concesserunt etiam
+                    supranominati, <cei:persName key="P_Henricus_66688">Henricus</cei:persName> scilicet et
+                        <cei:persName key="P_Maria_uxor_sua_66691">Maria uxor sua</cei:persName>, prelibatis fratribus
+                        <cei:orgName id="d1e166694" reg="Abbaye de Fontenay">Fonteneti</cei:orgName>
+                     <cei:app>
+                        <cei:lem>quicquid</cei:lem>
+                        <cei:rdg wit="#C">quidquid</cei:rdg>
+                     </cei:app> juris a prefato <cei:placeName id="d1e166702" reg="molendino">molendino</cei:placeName>
+                    versus <cei:placeName id="d1e166706" reg="Fontenay">abbatiam</cei:placeName> habebant tam in <cei:app>
+                        <cei:lem>terris</cei:lem>
+                        <cei:rdg wit="#C">pratis</cei:rdg>
+                     </cei:app> quam in <cei:app>
+                        <cei:lem>pratis</cei:lem>
+                        <cei:rdg wit="#C">terris</cei:rdg>
+                     </cei:app> et de his omnibus adversus omnes debitam garentiam promiserunt. Hoc totum
+                    laudaverunt <cei:persName key="P_liberi_eorum_Henrici_scilicet_et_Marie_uxoris_sue_66721">liberi eorum, <cei:persName key="P_Henrici_66723">Henrici</cei:persName> scilicet et <cei:persName key="P_Marie_uxoris_sue_66726">Marie uxoris sue</cei:persName>
+                     </cei:persName>, et ipse <cei:persName key="P_Henricus_66729">Henricus</cei:persName> habuit
+                    propter hoc <cei:app>
+                        <cei:lem>
+                           <cei:num value="99999999">xxx</cei:num>
+                           <cei:hi rend="superscript">a</cei:hi>
+                        </cei:lem>
+                        <cei:rdg wit="#C">viginti</cei:rdg>
+                     </cei:app> libras <cei:app>
+                        <cei:lem>divionensium</cei:lem>
+                        <cei:rdg wit="#B">divioñ</cei:rdg>
+                        <cei:rdg wit="#C">divionenses</cei:rdg>
+                     </cei:app> de beneficio ecclesie et uxor ejus <cei:app>
+                        <cei:lem>
+                           <cei:num value="99999999">lx</cei:num>
+                        </cei:lem>
+                        <cei:rdg wit="#C">quadraginta</cei:rdg>
+                     </cei:app> solidos pro laude. Actum est hoc anno verbi incarnati <cei:app>
+                        <cei:lem>
+                           <cei:num value="99999999">m° cc° xii°</cei:num>
+                        </cei:lem>
+                        <cei:rdg wit="#C">millesimo ducentesimo duodecimo</cei:rdg>
+                     </cei:app>. Quod totum ut ratum sit presentem paginam sigilli mei munimine
+                    roboravi.</cei:pTenor>
+               </cei:tenor>
+            </cei:body>
+         <cei:back>
+                        <cei:class/>
+                        <cei:persName/>
+                        <cei:placeName/>
+                        <cei:index/>
+                        <cei:divNotes>
+                            <cei:note/>
+                        </cei:divNotes>
+                    </cei:back></cei:text></atom:content></atom:entry>

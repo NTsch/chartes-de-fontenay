@@ -1,0 +1,535 @@
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom"><atom:id>tag:www.monasterium.net,2011:/charter/Fontenay/Fontenay_2566414807</atom:id><atom:title/><atom:published>2024-08-01T10:05:36.119+02:00</atom:published><atom:updated>2024-08-01T10:05:36.119+02:00</atom:updated><atom:author><atom:email>paul.chaffenet@gmail.com</atom:email></atom:author><app:control xmlns:app="http://www.w3.org/2007/app"><app:draft>no</app:draft></app:control><atom:content type="application/xml"><cei:text xmlns:cei="http://www.monasterium.net/NS/cei" type="charter">
+            <cei:front><cei:sourceDesc>
+                            <cei:sourceDescVolltext>
+                                <cei:bibl/>
+                            </cei:sourceDescVolltext>
+                            <cei:sourceDescRegest>
+                                <cei:bibl/>
+                            </cei:sourceDescRegest>
+                        </cei:sourceDesc></cei:front>
+            <cei:body>
+               <cei:idno id="Fontenay_2566414807">Fontenay 2566414807</cei:idno>
+               <cei:chDesc>
+                  <cei:issued>
+                     <cei:date value="11791231">[1171-1180]<cei:note>Date d’après
+                        l’épiscopat de Gauthier à Langres, réduite par la mention de Manassès de
+                        Bar-sur-Seine comme doyen, cf. <cei:bibl status="draft">
+                              <cei:author>
+                                 <cei:persName>
+                                    <cei:surname>Flammarion</cei:surname>, <cei:forename>Hubert</cei:forename>
+                                 </cei:persName>
+                              </cei:author>: <cei:title>Cartulaire du chapitre cathédral de Langres</cei:title>.<cei:imprint>
+                                 <cei:pubPlace>Turnhout</cei:pubPlace>
+                                 <cei:publisher>Brepols</cei:publisher>
+                                 <cei:date value="20049999">2004</cei:date>
+                              </cei:imprint>
+                              <cei:note type="tag">Langres (France) Church history Eglise catholique.
+                Diocèse (Langres, Haute-Marne) -- Histoire -- Sources</cei:note>
+                              <cei:scope>p.
+                                57</cei:scope>
+                           </cei:bibl>. Manasses de Bar-sur-Seine Girard de Montsaugeon, archidiacre du
+                        Tonnerrois de 1154 à 1180, puis doyen du chapitre. Pierre de Bar, chanoine
+                        de Langres de 1154 à 1197, doyen rural de Bar à partir de 1171. Belin,
+                        chapelain de l’évêque, chanoine de Langres de 1157 à 1184. Bartholomeus
+                        Coquille : attesté en 1178, cf. <cei:bibl status="draft">
+                              <cei:author>
+                                 <cei:persName>
+                                    <cei:surname>Flammarion</cei:surname>, <cei:forename>Hubert</cei:forename>
+                                 </cei:persName>
+                              </cei:author>: <cei:title>Cartulaire du chapitre cathédral de Langres</cei:title>.<cei:imprint>
+                                 <cei:pubPlace>Turnhout</cei:pubPlace>
+                                 <cei:publisher>Brepols</cei:publisher>
+                                 <cei:date value="20049999">2004</cei:date>
+                              </cei:imprint>
+                              <cei:note type="tag">Langres (France) Church history Eglise catholique.
+                Diocèse (Langres, Haute-Marne) -- Histoire -- Sources</cei:note>Flammarion<cei:scope>p. 152</cei:scope>
+                           </cei:bibl>
+                        </cei:note>
+                     </cei:date>
+                  <cei:placeName/><cei:dateRange from="99999999" to="99999999"/></cei:issued>
+                  <cei:abstract>Gauthier, évêque de Langres,notifie le don fait à l’abbaye de Fontenay par
+                        Hugues de Bellenot de ce qu’il possédait dans la dîme de Planay.</cei:abstract>
+                  <cei:witnessOrig>
+                     <cei:traditioForm>Original</cei:traditioForm>
+                     <cei:archIdentifier>
+                        <cei:settlement>Dijon</cei:settlement>
+                        <cei:arch>Archives départementales de la Côte
+                                        d'Or</cei:arch>
+                        <cei:idno>15 H 249, pièce 1</cei:idno>
+                     </cei:archIdentifier>
+                     <cei:physicalDesc>
+                        <cei:material>Original en parchemin</cei:material>
+                        <cei:dimensions type="leaves" unit="mm">
+                           <cei:height>180/165</cei:height>
+                           <cei:width>160</cei:width>
+                        </cei:dimensions>
+                        <cei:dimensions type="written" unit="mm">
+                           <cei:height>150</cei:height>
+                           <cei:width>140</cei:width>
+                        </cei:dimensions>
+                     <cei:decoDesc>
+                                        <cei:p/>
+                                    </cei:decoDesc><cei:condition/></cei:physicalDesc>
+                     <cei:p type="layout">Columns: 1, Lines: 12 - réglure à la mine de plomb (10, 140, 10 x 5, 148, 30 mm) ; repli de 17/10 mm, avec une entaille centrale et deux trous latéraux</cei:p>
+                     <cei:p type="handDesc">écriture livresque adaptée</cei:p>
+                     <cei:rubrum>Mentions dorsales : (XIIe s.) « Carta Hugonis de
+                                        Balenno. super decima de Plaaneto » ; (XIIIe s.) « .C.
+                                        Hugonis de Baleno. Plaaneti. » ; « XIII. » ; (XVIIe s.) une
+                                        signature répétée deux fois « Gueldret » ( ?) ; « Planay » ;
+                                        « Fonteines Planay. Don de dixmes de Plani a Mrs de Fonteyne
+                                        [sic]. Cotte P » ; (1787) « N° 3 / Sans date »</cei:rubrum>
+                     <cei:p type="history">
+                                        Fontenay?
+                                </cei:p>
+                     <cei:figure>
+                        <cei:zone id="w_Fontenay_7175"/>
+                        <cei:zone id="pc_Fontenay_974"/>
+                        <cei:zone id="w_Fontenay_7181"/>
+                        <cei:zone id="w_Fontenay_7182"/>
+                        <cei:zone id="w_Fontenay_7183"/>
+                        <cei:zone id="w_Fontenay_7184"/>
+                        <cei:zone id="w_Fontenay_7185"/>
+                        <cei:zone id="w_Fontenay_7186"/>
+                        <cei:zone id="w_Fontenay_7187"/>
+                        <cei:zone id="w_Fontenay_7188"/>
+                        <cei:zone id="w_Fontenay_7192"/>
+                        <cei:zone id="w_Fontenay_7193"/>
+                        <cei:zone id="w_Fontenay_7194"/>
+                        <cei:zone id="w_Fontenay_7195"/>
+                        <cei:zone id="w_Fontenay_7196"/>
+                        <cei:zone id="w_Fontenay_7197"/>
+                        <cei:zone id="w_Fontenay_7198"/>
+                        <cei:zone id="w_Fontenay_7199"/>
+                        <cei:zone id="w_Fontenay_7200"/>
+                        <cei:zone id="w_Fontenay_7202"/>
+                        <cei:zone id="w_Fontenay_7203"/>
+                        <cei:zone id="w_Fontenay_7204"/>
+                        <cei:zone id="w_Fontenay_7205"/>
+                        <cei:zone id="w_Fontenay_7206"/>
+                        <cei:zone id="pc_Fontenay_975"/>
+                        <cei:zone id="w_Fontenay_7208"/>
+                        <cei:zone id="w_Fontenay_7209"/>
+                        <cei:zone id="w_Fontenay_7210"/>
+                        <cei:zone id="w_Fontenay_7212"/>
+                        <cei:zone id="w_Fontenay_7213"/>
+                        <cei:zone id="pc_Fontenay_976"/>
+                        <cei:zone id="w_Fontenay_7214"/>
+                        <cei:zone id="w_Fontenay_7215"/>
+                        <cei:zone id="w_Fontenay_7216"/>
+                        <cei:zone id="pc_Fontenay_977"/>
+                        <cei:zone id="pc_Fontenay_978"/>
+                        <cei:zone id="pc_Fontenay_979"/>
+                        <cei:zone id="w_Fontenay_7228"/>
+                        <cei:zone id="w_Fontenay_7229"/>
+                        <cei:zone id="w_Fontenay_7230"/>
+                        <cei:zone id="w_Fontenay_7232"/>
+                        <cei:zone id="pc_Fontenay_980"/>
+                        <cei:zone id="w_Fontenay_7234"/>
+                        <cei:zone id="w_Fontenay_7235"/>
+                        <cei:zone id="pc_Fontenay_981"/>
+                        <cei:zone id="w_Fontenay_7237"/>
+                        <cei:zone id="w_Fontenay_7238"/>
+                        <cei:zone id="w_Fontenay_7239"/>
+                        <cei:zone id="pc_Fontenay_982"/>
+                        <cei:zone id="pc_Fontenay_983"/>
+                        <cei:zone id="w_Fontenay_7246"/>
+                        <cei:zone id="w_Fontenay_7247"/>
+                        <cei:zone id="w_Fontenay_7248"/>
+                        <cei:zone id="w_Fontenay_7249"/>
+                        <cei:zone id="w_Fontenay_7250"/>
+                        <cei:zone id="w_Fontenay_7251"/>
+                        <cei:zone id="w_Fontenay_7252"/>
+                        <cei:zone id="w_Fontenay_7254"/>
+                        <cei:zone id="pc_Fontenay_984"/>
+                        <cei:zone id="w_Fontenay_7257"/>
+                        <cei:zone id="w_Fontenay_7258"/>
+                        <cei:zone id="w_Fontenay_7259"/>
+                        <cei:zone id="w_Fontenay_7260"/>
+                        <cei:zone id="pc_Fontenay_985"/>
+                        <cei:zone id="w_Fontenay_7261"/>
+                        <cei:zone id="w_Fontenay_7262"/>
+                        <cei:zone id="w_Fontenay_7263"/>
+                        <cei:zone id="pc_Fontenay_987"/>
+                        <cei:zone id="pc_Fontenay_988"/>
+                        <cei:zone id="pc_Fontenay_989"/>
+                        <cei:zone id="pc_Fontenay_990"/>
+                        <cei:zone id="pc_Fontenay_991"/>
+                        <cei:zone id="pc_Fontenay_992"/>
+                        <cei:zone id="w_Fontenay_7283"/>
+                        <cei:zone id="pc_Fontenay_993"/>
+                        <cei:zone id="pc_Fontenay_994"/>
+                        <cei:graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_249_0016/full/full/0/default.jpg"/>
+                     </cei:figure>
+                  <cei:auth>
+                                    <cei:notariusDesc/>
+                                    <cei:sealDesc/>
+                                </cei:auth><cei:nota/></cei:witnessOrig>
+                  <cei:witListPar><cei:witness>
+                                    <cei:traditioForm/>
+                                    <cei:figure/>
+                                    <cei:archIdentifier/>
+                                    <cei:physicalDesc>
+                                        <cei:material/>
+                                        <cei:dimensions/>
+                                        <cei:condition/>
+                                    </cei:physicalDesc>
+                                    <cei:auth>
+                                        <cei:sealDesc/>
+                                        <cei:notariusDesc/>
+                                    </cei:auth>
+                                    <cei:nota/>
+                                    <cei:rubrum/>
+                                </cei:witness></cei:witListPar>
+                  <cei:diplomaticAnalysis>
+                     <cei:listBibl>
+                        <cei:bibl status="draft">ADCO 15 H 1, fol. 77r
+                            (Fontaines-les-Sèches. P)</cei:bibl>
+                        <cei:bibl status="draft">ADCO 15 H 2, fol. 63v
+                            (Fontaines-les-Sèches. P)</cei:bibl>
+                        <cei:bibl status="draft">ADCO 15 H 3, p. 383 (XXIV. 51. 3) : «
+                            scellé d’un sceau de cire jaune à queue de peau blanche pendant »</cei:bibl>
+                     </cei:listBibl>
+                  <cei:listBiblEdition>
+                                    <cei:bibl/>
+                                </cei:listBiblEdition><cei:listBiblRegest>
+                                    <cei:bibl/>
+                                </cei:listBiblRegest><cei:listBiblFaksimile>
+                                    <cei:bibl/>
+                                </cei:listBiblFaksimile><cei:listBiblErw>
+                                    <cei:bibl/>
+                                </cei:listBiblErw><cei:p/><cei:quoteOriginaldatierung/><cei:nota/></cei:diplomaticAnalysis>
+               <cei:lang_MOM/></cei:chDesc>
+               <cei:tenor>
+                  <cei:pTenor>
+                     <cei:pb id="pb_Fontenay_34" n="1" facs="FRAD021_15_H_249_0016.png"/>
+                     <cei:lb n="1"/>
+                     <cei:w id="w_Fontenay_7175">EGo</cei:w>
+                     <cei:persName key="P_Galterus_filius_Hugonis_II_ducis_Burgundiae_archiepiscopus_Bisuntiae_episcopus_Lingonensis_52460">
+                        <cei:w id="w_Fontenay_7176">Gualteri<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:pc id="pc_Fontenay_972">,</cei:pc>
+                        <cei:w id="w_Fontenay_7177">
+                           <cei:expan abbr="d̃">de</cei:expan>i</cei:w>
+                        <cei:w id="w_Fontenay_7178">
+                           <cei:expan abbr="grã">gratia</cei:expan>
+                        </cei:w>
+                        <cei:pc id="pc_Fontenay_973">,</cei:pc>
+                        <cei:placeName id="d1e44913" reg="Langres">
+                           <cei:w id="w_Fontenay_7179">lingonen<cei:c>s</cei:c>is</cei:w>
+                        </cei:placeName>
+                        <cei:w id="w_Fontenay_7180">
+                           <cei:expan abbr="epc̃">episcopus</cei:expan>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_974">,</cei:pc>
+                     <cei:w id="w_Fontenay_7181">tam</cei:w>
+                     <cei:w id="w_Fontenay_7182">futuri<cei:c>s</cei:c>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7183">qu<cei:expan abbr="ã">am</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7184">
+                        <cei:seg id="wp_Fontenay_7184_1" type="wp">pre<cei:c>s</cei:c>enti</cei:seg>
+                        <cei:lb break="no"/>
+                        <cei:seg id="wp_Fontenay_7184_2" type="wp">bu<cei:c>s</cei:c>
+                        </cei:seg>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7185">not<cei:expan abbr="ũ">um</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7186">fieri</cei:w>
+                     <cei:w id="w_Fontenay_7187">volo</cei:w>
+                     <cei:w id="w_Fontenay_7188">
+                        <cei:c rend="δ">
+                           <cei:expan abbr="qd̃">quod</cei:expan>
+                        </cei:c>
+                     </cei:w>
+                     <cei:persName key="P_hugodeBalenno_44972">
+                        <cei:w id="w_Fontenay_7189">hugo</cei:w>
+                        <cei:w id="w_Fontenay_7190">de</cei:w>
+                        <cei:placeName id="d1e44977" reg="Bellenod-sur-Seine">
+                           <cei:w id="w_Fontenay_7191">Balenno</cei:w>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:w id="w_Fontenay_7192">guerpivit</cei:w>
+                     <cei:w id="w_Fontenay_7193">
+                        <cei:expan abbr="&amp;">et</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7194">in</cei:w>
+                     <cei:w id="w_Fontenay_7195">elemo<cei:c>s</cei:c>in<cei:expan abbr="ã">am</cei:expan>
+                     </cei:w>
+                     <cei:lb n="3"/>
+                     <cei:w id="w_Fontenay_7196">dedit</cei:w>
+                     <cei:w id="w_Fontenay_7197">ecc<cei:expan abbr="ł">les</cei:expan>ie</cei:w>
+                     <cei:w id="w_Fontenay_7198">
+                        <cei:c rend="s_long">
+                           <cei:expan abbr="sc̃">sanct</cei:expan>
+                        </cei:c>e</cei:w>
+                     <cei:w id="w_Fontenay_7199">MARIE</cei:w>
+                     <cei:w id="w_Fontenay_7200">de</cei:w>
+                     <cei:orgName id="d1e45025" reg="Abbaye de Fontenay">
+                        <cei:w id="w_Fontenay_7201">fonteneto</cei:w>
+                     </cei:orgName>
+                     <cei:w id="w_Fontenay_7202">quic<cei:expan abbr="qͥ">qui</cei:expan>
+                        <cei:c>d</cei:c>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7203">habebat</cei:w>
+                     <cei:w id="w_Fontenay_7204">in</cei:w>
+                     <cei:w id="w_Fontenay_7205">decima</cei:w>
+                     <cei:w id="w_Fontenay_7206">
+                        <cei:c>d</cei:c>e</cei:w>
+                     <cei:placeName id="d1e45047" reg="Planay">
+                        <cei:w id="w_Fontenay_7207">
+                           <cei:seg id="wp_Fontenay_7207_1" type="wp">pla</cei:seg>
+                           <cei:lb break="no"/>
+                           <cei:seg id="wp_Fontenay_7207_2" type="wp">aneto</cei:seg>
+                        </cei:w>
+                     </cei:placeName>
+                     <cei:pc id="pc_Fontenay_975">.</cei:pc>
+                     <cei:w id="w_Fontenay_7208">Hoc</cei:w>
+                     <cei:w id="w_Fontenay_7209">don<cei:expan abbr="ũ">um</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7210">lau<cei:c>d</cei:c>avit</cei:w>
+                     <cei:persName key="P_Adam_45071">
+                        <cei:w id="w_Fontenay_7211">Adam</cei:w>
+                     </cei:persName>
+                     <cei:w id="w_Fontenay_7212">filiu<cei:c>s</cei:c>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7213">ej<cei:expan abbr="⁹">us</cei:expan>
+                     </cei:w>
+                     <cei:pc id="pc_Fontenay_976">.</cei:pc>
+                     <cei:w id="w_Fontenay_7214">Unde</cei:w>
+                     <cei:w id="w_Fontenay_7215">
+                        <cei:c>s</cei:c>
+                        <cei:expan abbr="ũ">un</cei:expan>t</cei:w>
+                     <cei:w id="w_Fontenay_7216">te<cei:c>s</cei:c>tes</cei:w>
+                     <cei:persName key="P_Willelmusduismidominus_45103">
+                        <cei:w id="w_Fontenay_7217">Wi<cei:expan abbr="łł">llel</cei:expan>m<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:lb n="5"/>
+                        <cei:placeName id="d1e45118" reg="Duesme">
+                           <cei:w id="w_Fontenay_7218">
+                              <cei:c>d</cei:c>ui<cei:c>s</cei:c>mi</cei:w>
+                        </cei:placeName>
+                        <cei:w id="w_Fontenay_7219">
+                           <cei:expan abbr="dñ">dominu</cei:expan>s</cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_977">,</cei:pc>
+                     <cei:persName key="P_Girarduspilosusdeaiseio_45136">
+                        <cei:w id="w_Fontenay_7220">Girar<cei:c>d</cei:c>
+                           <cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7221">pilo<cei:c>s</cei:c>us</cei:w>
+                        <cei:w id="w_Fontenay_7222">de</cei:w>
+                        <cei:placeName id="d1e45153" reg="aiseio">
+                           <cei:w id="w_Fontenay_7223">ai<cei:c>s</cei:c>eio</cei:w>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_978">,</cei:pc>
+                     <cei:persName key="P_Bernardusdemontebarri_45161">
+                        <cei:w id="w_Fontenay_7224">Bernar<cei:c>d</cei:c>
+                           <cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7225">de</cei:w>
+                        <cei:placeName id="d1e45173" reg="Montbard">
+                           <cei:w id="w_Fontenay_7226">monte</cei:w>
+                           <cei:w id="w_Fontenay_7227">barri</cei:w>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_979">.</cei:pc>
+                     <cei:w id="w_Fontenay_7228">Hoc</cei:w>
+                     <cei:lb n="6"/>
+                     <cei:w id="w_Fontenay_7229">quo<cei:expan abbr="q;">que</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7230">lau<cei:c>d</cei:c>ave<cei:expan abbr="rt̃">runt</cei:expan>
+                     </cei:w>
+                     <cei:persName key="P_Everardus_45200">
+                        <cei:w id="w_Fontenay_7231">Everar<cei:c>d</cei:c>
+                           <cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:w id="w_Fontenay_7232">
+                        <cei:expan abbr="⁊">et</cei:expan>
+                     </cei:w>
+                     <cei:persName key="P_Elisabeth_45216">
+                        <cei:w id="w_Fontenay_7233">Eli<cei:c>s</cei:c>abeth</cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_980">,</cei:pc>
+                     <cei:w id="w_Fontenay_7234">filii</cei:w>
+                     <cei:w id="w_Fontenay_7235">eju<cei:c>s</cei:c>d<cei:expan abbr="ẽ">em</cei:expan>
+                     </cei:w>
+                     <cei:persName key="P_hugonis_45237">
+                        <cei:w id="w_Fontenay_7236">hugoni<cei:c>s</cei:c>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_981">.</cei:pc>
+                     <cei:w id="w_Fontenay_7237">Un<cei:c rend="δ">
+                           <cei:expan abbr="d̃">de</cei:expan>
+                        </cei:c>
+                     </cei:w>
+                     <cei:lb n="7"/>
+                     <cei:w id="w_Fontenay_7238">
+                        <cei:c>s</cei:c>unt</cei:w>
+                     <cei:w id="w_Fontenay_7239">te<cei:c>s</cei:c>tes</cei:w>
+                     <cei:persName key="P_Audoduismivicecomes_45263">
+                        <cei:w id="w_Fontenay_7240">Audo</cei:w>
+                        <cei:placeName id="d1e45266" reg="Duesme">
+                           <cei:w id="w_Fontenay_7241">
+                              <cei:c>d</cei:c>ui<cei:c>s</cei:c>mi</cei:w>
+                        </cei:placeName>
+                        <cei:w id="w_Fontenay_7242">vicecome<cei:c>s</cei:c>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_982">,</cei:pc>
+                     <cei:persName key="P_Robertusdemontagne_45281">
+                        <cei:w id="w_Fontenay_7243">Ro<cei:expan abbr="b̃">ber</cei:expan>tu<cei:c>s</cei:c>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7244">de</cei:w>
+                        <cei:placeName id="d1e45294" reg="montagne">
+                           <cei:foreign lang="">
+                              <cei:w id="w_Fontenay_7245">montagne</cei:w>
+                           </cei:foreign>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_983">.</cei:pc>
+                     <cei:lb n="8"/>
+                     <cei:w id="w_Fontenay_7246">Confirmatum</cei:w>
+                     <cei:w id="w_Fontenay_7247">e<cei:c>s</cei:c>t</cei:w>
+                     <cei:w id="w_Fontenay_7248">au<cei:expan abbr="t̃">tem</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7249">don<cei:expan abbr="ũ">um</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7250">i<cei:c>s</cei:c>tu<cei:c>d</cei:c>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7251">a</cei:w>
+                     <cei:w id="w_Fontenay_7252">
+                        <cei:expan abbr="p̃">pre</cei:expan>fato</cei:w>
+                     <cei:persName key="P_hugone_45338">
+                        <cei:w id="w_Fontenay_7253">hugone</cei:w>
+                     </cei:persName>
+                     <cei:w id="w_Fontenay_7254">in</cei:w>
+                     <cei:placeName id="d1e45344" reg="Langres">
+                        <cei:w id="w_Fontenay_7255">cap<cei:expan abbr="ł">itul</cei:expan>o</cei:w>
+                        <cei:w id="w_Fontenay_7256">
+                           <cei:seg id="wp_Fontenay_7256_1" type="wp">lingo</cei:seg>
+                           <cei:lb break="no"/>
+                           <cei:seg id="wp_Fontenay_7256_2" type="wp">nen<cei:c>s</cei:c>i</cei:seg>
+                        </cei:w>
+                     </cei:placeName>
+                     <cei:pc id="pc_Fontenay_984">,</cei:pc>
+                     <cei:w id="w_Fontenay_7257">pre<cei:c>s</cei:c>enti<cei:expan abbr="b;">bus</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7258">eju<cei:c>s</cei:c>d<cei:expan abbr="ẽ">em</cei:expan>
+                     </cei:w>
+                     <cei:w id="w_Fontenay_7259">ecc<cei:expan abbr="ł">les</cei:expan>ie</cei:w>
+                     <cei:w id="w_Fontenay_7260">canonici<cei:c>s</cei:c>
+                     </cei:w>
+                     <cei:pc id="pc_Fontenay_985">.</cei:pc>
+                     <cei:w id="w_Fontenay_7261">Un<cei:c>d</cei:c>e</cei:w>
+                     <cei:w id="w_Fontenay_7262">
+                        <cei:c>s</cei:c>unt</cei:w>
+                     <cei:w id="w_Fontenay_7263">te<cei:c>s</cei:c>te<cei:hi rend="étiré">s</cei:hi>
+                     </cei:w>
+                     <cei:lb n="10"/>
+                     <cei:persName key="P_Manassesdecanuslingonensisecclesieetbarrensisarchidiaconus_45416">
+                        <cei:w id="w_Fontenay_7264">Mana<cei:c>s</cei:c>
+                           <cei:c>s</cei:c>es</cei:w>
+                        <cei:pc id="pc_Fontenay_986">,</cei:pc>
+                        <cei:w id="w_Fontenay_7265">decan<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:placeName id="d1e45433" reg="Langres">
+                           <cei:w id="w_Fontenay_7266">lingonen<cei:c>s</cei:c>is</cei:w>
+                        </cei:placeName>
+                        <cei:w id="w_Fontenay_7267">ecc<cei:expan abbr="ł">les</cei:expan>ie</cei:w>
+                        <cei:w id="w_Fontenay_7268">
+                           <cei:expan abbr="⁊">et</cei:expan>
+                        </cei:w>
+                        <cei:placeName id="d1e45453" reg="Bar-sur-Seine">
+                           <cei:w id="w_Fontenay_7269">barren<cei:c>s</cei:c>is</cei:w>
+                        </cei:placeName>
+                        <cei:w id="w_Fontenay_7270">
+                           <cei:seg id="wp_Fontenay_7270_1" type="wp">archi<cei:c>d</cei:c>iaco</cei:seg>
+                           <cei:lb break="no"/>
+                           <cei:seg id="wp_Fontenay_7270_2" type="wp">nu<cei:c>s</cei:c>
+                           </cei:seg>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_987">,</cei:pc>
+                     <cei:persName key="P_Girardus_archidiaconus_45472">
+                        <cei:w id="w_Fontenay_7271">Girar<cei:c>d</cei:c>
+                           <cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7272">archi<cei:c>d</cei:c>iacon<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_988">,</cei:pc>
+                     <cei:persName key="P_Arnaldusdecanus_45494">
+                        <cei:w id="w_Fontenay_7273">Arnald<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7274">decan<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_989">,</cei:pc>
+                     <cei:persName key="P_Belinusdecanus_45511">
+                        <cei:w id="w_Fontenay_7275">Belin<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:w id="w_Fontenay_7276">decan<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_990">,</cei:pc>
+                     <cei:persName key="P_Petrusdecanusbarrensis_45528">
+                        <cei:w id="w_Fontenay_7277">Petrus</cei:w>
+                        <cei:lb n="12"/>
+                        <cei:w id="w_Fontenay_7278">
+                           <cei:c>d</cei:c>ecan<cei:expan abbr="⁹">us</cei:expan>
+                        </cei:w>
+                        <cei:placeName id="d1e45541" reg="Bar-sur-Seine">
+                           <cei:w id="w_Fontenay_7279">barr<cei:expan abbr="ẽ">en</cei:expan>
+                              <cei:c>s</cei:c>i<cei:c>s</cei:c>
+                           </cei:w>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_991">,</cei:pc>
+                     <cei:persName key="P_Milodesanz_45557">
+                        <cei:w id="w_Fontenay_7280">Milo</cei:w>
+                        <cei:w id="w_Fontenay_7281">
+                           <cei:c rend="δ">
+                              <cei:expan abbr="d̃">de</cei:expan>
+                           </cei:c>
+                        </cei:w>
+                        <cei:placeName id="d1e45568" reg="sanz">
+                           <cei:w id="w_Fontenay_7282">
+                              <cei:c>s</cei:c>anz</cei:w>
+                        </cei:placeName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_992">,</cei:pc>
+                     <cei:w id="w_Fontenay_7283">Milite<cei:c>s</cei:c>
+                     </cei:w>
+                     <cei:persName key="P_Bartolomeuscoquilla_45579">
+                        <cei:w id="w_Fontenay_7284">Barto<cei:expan abbr="ł">lomeus</cei:expan>
+                        </cei:w>
+                        <cei:addName>
+                           <cei:w id="w_Fontenay_7285">co<cei:expan abbr="qͥ">qui</cei:expan>lla</cei:w>
+                        </cei:addName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_993">,</cei:pc>
+                     <cei:persName key="P_Hugomalusvicinus_45598">
+                        <cei:w id="w_Fontenay_7286">Hugo</cei:w>
+                        <cei:addName>
+                           <cei:w id="w_Fontenay_7287">mal<cei:expan abbr="⁹">us</cei:expan>
+                           </cei:w>
+                           <cei:w id="w_Fontenay_7288">vici<cei:hi rend="souscrit">nus </cei:hi>
+                           </cei:w>
+                        </cei:addName>
+                     </cei:persName>
+                     <cei:pc id="pc_Fontenay_994">.</cei:pc>
+                  </cei:pTenor>
+               </cei:tenor>
+            </cei:body>
+         <cei:back>
+                        <cei:class/>
+                        <cei:persName/>
+                        <cei:placeName/>
+                        <cei:index/>
+                        <cei:divNotes>
+                            <cei:note/>
+                        </cei:divNotes>
+                    </cei:back></cei:text></atom:content></atom:entry>
