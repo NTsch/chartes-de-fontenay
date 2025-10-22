@@ -24,15 +24,14 @@ with open(input_file, newline='', encoding='utf-8-sig') as csvfile:
         person_elem = ET.SubElement(list_person, f"{{{tei_ns}}}person", {"xml:id": person_id})
 
         pers_name_elem = ET.SubElement(person_elem, f"{{{tei_ns}}}persName")
+        pers_name_elem.text = main_name
+
         if alt_names:
-            name_elem = ET.SubElement(pers_name_elem, f"{{{tei_ns}}}name")
-            name_elem.text = main_name
             for alt_name in alt_names.split('|'):
                 alt_name = alt_name.strip()
                 if alt_name:
-                    name_elem = ET.SubElement(pers_name_elem, f"{{{tei_ns}}}name")
-                    name_elem.text = alt_name
-        else: pers_name_elem.text = main_name
+                    pers_name_elem = ET.SubElement(person_elem, f"{{{tei_ns}}}persName")
+                    pers_name_elem.text = alt_name
         if desc:
             note_elem = ET.SubElement(person_elem, f"{{{tei_ns}}}note")
             note_elem.text = desc

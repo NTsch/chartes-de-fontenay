@@ -46,10 +46,8 @@
           <tei:note>frère de Philippe de Valois</tei:note>
         </tei:person>
         <tei:person xml:id="81654">
-          <tei:persName>
-            <tei:name>Pierre Albais (Me)</tei:name>
-            <tei:name>Pierre Aubais (Me)</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre Albais (Me)</tei:persName>
+          <tei:persName>Pierre Aubais (Me)</tei:persName>
           <tei:note>de Marsillargues, notaire</tei:note>
           <tei:note>ou mieux Aubais</tei:note>
         </tei:person>
@@ -72,10 +70,8 @@
           <tei:note>fils aîné de Philippe, prince de Tarente</tei:note>
         </tei:person>
         <tei:person xml:id="81660">
-          <tei:persName>
-            <tei:name>Charles de Valois</tei:name>
-            <tei:name>Charles d'Anjou</tei:name>
-          </tei:persName>
+          <tei:persName>Charles de Valois</tei:persName>
+          <tei:persName>Charles d'Anjou</tei:persName>
           <tei:note>comte de Valois, d'Alençon, de Chartres et d'Anjou, comes Valesii, Karolus comes Andegavensium</tei:note>
         </tei:person>
         <tei:person xml:id="81661">
@@ -106,17 +102,13 @@
           <tei:note>damoiseau, seigneur du lieu</tei:note>
         </tei:person>
         <tei:person xml:id="81680">
-          <tei:persName>
-            <tei:name>Châteauneuf-les-Bains</tei:name>
-            <tei:name>Châteauneuf-en-Auvergne</tei:name>
-          </tei:persName>
+          <tei:persName>Châteauneuf-les-Bains</tei:persName>
+          <tei:persName>Châteauneuf-en-Auvergne</tei:persName>
           <tei:note>auj. et</tei:note>
         </tei:person>
         <tei:person xml:id="81687">
-          <tei:persName>
-            <tei:name>Albert Ier</tei:name>
-            <tei:name>Albert</tei:name>
-          </tei:persName>
+          <tei:persName>Albert Ier</tei:persName>
+          <tei:persName>Albert</tei:persName>
           <tei:note>comte-abbé de Saint-Quentin (Albert Ier, comte de Vermandois)</tei:note>
         </tei:person>
         <tei:person xml:id="81688">
@@ -186,11 +178,9 @@
           <tei:note>de Laon</tei:note>
         </tei:person>
         <tei:person xml:id="81720">
-          <tei:persName>
-            <tei:name>Biche Guidi</tei:name>
-            <tei:name>Biche Guy</tei:name>
-            <tei:name>Albizzo (ser)</tei:name>
-          </tei:persName>
+          <tei:persName>Biche Guidi</tei:persName>
+          <tei:persName>Biche Guy</tei:persName>
+          <tei:persName>Albizzo (ser)</tei:persName>
         </tei:person>
         <tei:person xml:id="81721">
           <tei:persName>Chicho (Jean)</tei:persName>
@@ -514,10 +504,8 @@
           <tei:note>bourgeois de Chartres</tei:note>
         </tei:person>
         <tei:person xml:id="81853">
-          <tei:persName>
-            <tei:name>Alice de Boussagues</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Boussagues</tei:persName>
+          <tei:persName>Alice</tei:persName>
           <tei:note>femme de Bérenger IV Guilhem (Alice de Boussagues)</tei:note>
         </tei:person>
         <tei:person xml:id="81854">
@@ -571,11 +559,9 @@
           <tei:note>de Pavie</tei:note>
         </tei:person>
         <tei:person xml:id="81882">
-          <tei:persName>
-            <tei:name>Crépy</tei:name>
-            <tei:name>Crépy-en-Valois</tei:name>
-            <tei:name>Crispeio</tei:name>
-          </tei:persName>
+          <tei:persName>Crépy</tei:persName>
+          <tei:persName>Crépy-en-Valois</tei:persName>
+          <tei:persName>Crispeio</tei:persName>
           <tei:note>magister Johannes de)</tei:note>
         </tei:person>
         <tei:person xml:id="81883">
@@ -691,10 +677,8 @@
           <tei:note>de Tournedos-sur-Seine, ses héritiers</tei:note>
         </tei:person>
         <tei:person xml:id="81931">
-          <tei:persName>
-            <tei:name>Alice de Châteauvillain</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Châteauvillain</tei:persName>
+          <tei:persName>Alice</tei:persName>
           <tei:note>fille de Jean Ier, jadis seigneur de Châteauvillain</tei:note>
         </tei:person>
         <tei:person xml:id="81932">
@@ -736,10 +720,8 @@
           <tei:note>fils de Bérenger IV Guilhem</tei:note>
         </tei:person>
         <tei:person xml:id="81942">
-          <tei:persName>
-            <tei:name>Alice d'Haverskerque</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Alice d'Haverskerque</tei:persName>
+          <tei:persName>Alice</tei:persName>
           <tei:note>fille de Jean, sire d'Haverskerque et femme de Robert, sire de Beauval</tei:note>
         </tei:person>
         <tei:person xml:id="81943">
@@ -770,10 +752,8 @@
           <tei:note>sergent du roi</tei:note>
         </tei:person>
         <tei:person xml:id="81953">
-          <tei:persName>
-            <tei:name>Alice de Châteauvillain</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Châteauvillain</tei:persName>
+          <tei:persName>Alice</tei:persName>
           <tei:note>tante d'Huguenin de Châteauvillain</tei:note>
         </tei:person>
         <tei:person xml:id="81955">
@@ -884,10 +864,8 @@
           <tei:note>châtelain royal de La Feuillie</tei:note>
         </tei:person>
         <tei:person xml:id="81990">
-          <tei:persName>
-            <tei:name>Durand de Champagne (frère)</tei:name>
-            <tei:name>Durand (frère)</tei:name>
-          </tei:persName>
+          <tei:persName>Durand de Champagne (frère)</tei:persName>
+          <tei:persName>Durand (frère)</tei:persName>
           <tei:note>confesseur de la reine Marguerite de Bourgogne</tei:note>
         </tei:person>
         <tei:person xml:id="81991">
@@ -918,10 +896,8 @@
           <tei:note>syndic de la communauté de Vallabrègues</tei:note>
         </tei:person>
         <tei:person xml:id="81998">
-          <tei:persName>
-            <tei:name>Alice de Châteauvillain</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Châteauvillain</tei:persName>
+          <tei:persName>Alice</tei:persName>
         </tei:person>
         <tei:person xml:id="82002">
           <tei:persName>Dyonisius de Senonis (magister)</tei:persName>
@@ -943,10 +919,8 @@
           <tei:note>valet du roi</tei:note>
         </tei:person>
         <tei:person xml:id="82009">
-          <tei:persName>
-            <tei:name>Alice de Clermont</tei:name>
-            <tei:name>Alice de Nesle</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Clermont</tei:persName>
+          <tei:persName>Alice de Nesle</tei:persName>
           <tei:note>dame de Nesle, femme de Jean de Chalon</tei:note>
         </tei:person>
         <tei:person xml:id="82015">
@@ -1041,11 +1015,9 @@
           <tei:note>jadis clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="82042">
-          <tei:persName>
-            <tei:name>Avise de Mons</tei:name>
-            <tei:name>Avise</tei:name>
-            <tei:name>Alice</tei:name>
-          </tei:persName>
+          <tei:persName>Avise de Mons</tei:persName>
+          <tei:persName>Avise</tei:persName>
+          <tei:persName>Alice</tei:persName>
           <tei:note>Avise de Mons, seconde femme d'Enguerrand de Marigny</tei:note>
         </tei:person>
         <tei:person xml:id="82043">
@@ -1064,10 +1036,8 @@
           <tei:note>marchand de chevaux à Saint-Jean-d'Angély</tei:note>
         </tei:person>
         <tei:person xml:id="82047">
-          <tei:persName>
-            <tei:name>Élie de Vaux</tei:name>
-            <tei:name>Élie</tei:name>
-          </tei:persName>
+          <tei:persName>Élie de Vaux</tei:persName>
+          <tei:persName>Élie</tei:persName>
           <tei:note>verdier de la forêt de Vernon</tei:note>
         </tei:person>
         <tei:person xml:id="82048">
@@ -1087,10 +1057,8 @@
           <tei:note>femme de Nicolas V, seigneur de Rumigny et de Château-Porcien, et dame desdits lieux</tei:note>
         </tei:person>
         <tei:person xml:id="82053">
-          <tei:persName>
-            <tei:name>Alice de Montaigu</tei:name>
-            <tei:name>Aelipdis de Monte Acuto</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Montaigu</tei:persName>
+          <tei:persName>Aelipdis de Monte Acuto</tei:persName>
           <tei:note>femme de Guillaume de Joigny</tei:note>
         </tei:person>
         <tei:person xml:id="82054">
@@ -1162,10 +1130,8 @@
           <tei:note>sire de Coucy, d'Oisy et de Montmirail</tei:note>
         </tei:person>
         <tei:person xml:id="82075">
-          <tei:persName>
-            <tei:name>Alice de Clermont</tei:name>
-            <tei:name>Alice de Nesle</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Clermont</tei:persName>
+          <tei:persName>Alice de Nesle</tei:persName>
         </tei:person>
         <tei:person xml:id="82076">
           <tei:persName>Enguerrand</tei:persName>
@@ -1255,10 +1221,8 @@
           <tei:note>forestier des bois du Fenouillèdes</tei:note>
         </tei:person>
         <tei:person xml:id="82109">
-          <tei:persName>
-            <tei:name>Aliénor</tei:name>
-            <tei:name>Éléonore</tei:name>
-          </tei:persName>
+          <tei:persName>Aliénor</tei:persName>
+          <tei:persName>Éléonore</tei:persName>
         </tei:person>
         <tei:person xml:id="82112">
           <tei:persName>Espineut (Perrot)</tei:persName>
@@ -1356,10 +1320,8 @@
           <tei:note>bourgeois royal de Paris</tei:note>
         </tei:person>
         <tei:person xml:id="82142">
-          <tei:persName>
-            <tei:name>Aliénor d'Angleterre</tei:name>
-            <tei:name>Aliénor</tei:name>
-          </tei:persName>
+          <tei:persName>Aliénor d'Angleterre</tei:persName>
+          <tei:persName>Aliénor</tei:persName>
           <tei:note>comtesse de Leicester</tei:note>
         </tei:person>
         <tei:person xml:id="82143">
@@ -1636,10 +1598,8 @@
           <tei:note>juif</tei:note>
         </tei:person>
         <tei:person xml:id="82220">
-          <tei:persName>
-            <tei:name>Alon</tei:name>
-            <tei:name>Alo</tei:name>
-          </tei:persName>
+          <tei:persName>Alon</tei:persName>
+          <tei:persName>Alo</tei:persName>
           <tei:note>dominus Montis Maurilii, miles, procurator plurium nobilium (Alon, seigneur de Montmoreau)</tei:note>
         </tei:person>
         <tei:person xml:id="82222">
@@ -1667,10 +1627,8 @@
           <tei:note>écuyer, demeurant à Puiselet-le-Marais</tei:note>
         </tei:person>
         <tei:person xml:id="82231">
-          <tei:persName>
-            <tei:name>Alodet de Soyries</tei:name>
-            <tei:name>Alauzet Soinez</tei:name>
-          </tei:persName>
+          <tei:persName>Alodet de Soyries</tei:persName>
+          <tei:persName>Alauzet Soinez</tei:persName>
           <tei:note>sergent royal à Toulouse</tei:note>
           <tei:note>corr. Alauzet ou Alodet de Soyries</tei:note>
         </tei:person>
@@ -1704,10 +1662,8 @@
           <tei:persName>Faye (Guilhem)</tei:persName>
         </tei:person>
         <tei:person xml:id="82242">
-          <tei:persName>
-            <tei:name>Alon</tei:name>
-            <tei:name>Alo</tei:name>
-          </tei:persName>
+          <tei:persName>Alon</tei:persName>
+          <tei:persName>Alo</tei:persName>
           <tei:note>seigneur de Montmoreau</tei:note>
         </tei:person>
         <tei:person xml:id="82244">
@@ -2003,12 +1959,10 @@
           <tei:note>notaire</tei:note>
         </tei:person>
         <tei:person xml:id="82367">
-          <tei:persName>
-            <tei:name>François d'Haverskerque</tei:name>
-            <tei:name>Franciscus de Haveskerque</tei:name>
-            <tei:name>François</tei:name>
-            <tei:name>Franciscus</tei:name>
-          </tei:persName>
+          <tei:persName>François d'Haverskerque</tei:persName>
+          <tei:persName>Franciscus de Haveskerque</tei:persName>
+          <tei:persName>François</tei:persName>
+          <tei:persName>Franciscus</tei:persName>
           <tei:note>Franciscus de Haveskerque, chevalier, fils cadet de Jean, seigneur d'Haverskerque</tei:note>
         </tei:person>
         <tei:person xml:id="82369">
@@ -2353,10 +2307,8 @@
           <tei:persName>Gaston III de Gontaud</tei:persName>
         </tei:person>
         <tei:person xml:id="82472">
-          <tei:persName>
-            <tei:name>Gaubert de Durban</tei:name>
-            <tei:name>Gaubert de Leucate</tei:name>
-          </tei:persName>
+          <tei:persName>Gaubert de Durban</tei:persName>
+          <tei:persName>Gaubert de Leucate</tei:persName>
           <tei:note>autrement dit de Leucate, donzel, co-seigneur du château de Leucate</tei:note>
         </tei:person>
         <tei:person xml:id="82473">
@@ -2383,10 +2335,8 @@
           <tei:note>frère d'Itier d'Ancy, damoiseau du diocèse de Langres</tei:note>
         </tei:person>
         <tei:person xml:id="82479">
-          <tei:persName>
-            <tei:name>Gaucher II de Châtillon</tei:name>
-            <tei:name>Galcherus de Castellione</tei:name>
-          </tei:persName>
+          <tei:persName>Gaucher II de Châtillon</tei:persName>
+          <tei:persName>Galcherus de Castellione</tei:persName>
           <tei:note>Galcherus de Castellione, comte de Porcien, connétable de France</tei:note>
         </tei:person>
         <tei:person xml:id="82480">
@@ -2789,10 +2739,8 @@
           <tei:note>juge du Minervois</tei:note>
         </tei:person>
         <tei:person xml:id="82592">
-          <tei:persName>
-            <tei:name>Géraud de Courtonne</tei:name>
-            <tei:name>Gerardus de Cortonna</tei:name>
-          </tei:persName>
+          <tei:persName>Géraud de Courtonne</tei:persName>
+          <tei:persName>Gerardus de Cortonna</tei:persName>
         </tei:person>
         <tei:person xml:id="82593">
           <tei:persName>Géraud de Cussac</tei:persName>
@@ -2845,10 +2793,8 @@
           <tei:note>seigneur d'Ornacieux, chevalier</tei:note>
         </tei:person>
         <tei:person xml:id="82609">
-          <tei:persName>
-            <tei:name>Gerbaud de La Fontaine (Me)</tei:name>
-            <tei:name>Gerbaud de Fonte</tei:name>
-          </tei:persName>
+          <tei:persName>Gerbaud de La Fontaine (Me)</tei:persName>
+          <tei:persName>Gerbaud de Fonte</tei:persName>
           <tei:note>de Fonte (Me). Avocat au Châtelet</tei:note>
         </tei:person>
         <tei:person xml:id="82610">
@@ -2889,10 +2835,8 @@
           <tei:note>de La Ferté-sous-Jouarre</tei:note>
         </tei:person>
         <tei:person xml:id="82619">
-          <tei:persName>
-            <tei:name>Amédée V</tei:name>
-            <tei:name>Amé</tei:name>
-          </tei:persName>
+          <tei:persName>Amédée V</tei:persName>
+          <tei:persName>Amé</tei:persName>
           <tei:note>comte de Savoie</tei:note>
         </tei:person>
         <tei:person xml:id="82620">
@@ -2999,10 +2943,8 @@
           <tei:note>clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="82646">
-          <tei:persName>
-            <tei:name>Gilles</tei:name>
-            <tei:name>Gilles Loysel</tei:name>
-          </tei:persName>
+          <tei:persName>Gilles</tei:persName>
+          <tei:persName>Gilles Loysel</tei:persName>
           <tei:note>de la Paneterie</tei:note>
         </tei:person>
         <tei:person xml:id="82647">
@@ -3109,17 +3051,13 @@
           <tei:persName>Gioffredo de Gropo Sancti Petri</tei:persName>
         </tei:person>
         <tei:person xml:id="82675">
-          <tei:persName>
-            <tei:name>Amicie</tei:name>
-            <tei:name>Amicia</tei:name>
-          </tei:persName>
+          <tei:persName>Amicie</tei:persName>
+          <tei:persName>Amicia</tei:persName>
           <tei:note>relicta Guillelmi militis</tei:note>
         </tei:person>
         <tei:person xml:id="82676">
-          <tei:persName>
-            <tei:name>Giovanni de Boscagio</tei:name>
-            <tei:name>Boscagio (Giovanni de)</tei:name>
-          </tei:persName>
+          <tei:persName>Giovanni de Boscagio</tei:persName>
+          <tei:persName>Boscagio (Giovanni de)</tei:persName>
           <tei:note>originaire d'Outre-mont, bourgeois du royaume</tei:note>
         </tei:person>
         <tei:person xml:id="82677">
@@ -3332,10 +3270,8 @@
           <tei:note>chevalier du roi, sénéchal de Beaucaire et Nîmes</tei:note>
         </tei:person>
         <tei:person xml:id="82754">
-          <tei:persName>
-            <tei:name>Amis d'Orléans (Me)</tei:name>
-            <tei:name>Amisius de Aurelianis</tei:name>
-          </tei:persName>
+          <tei:persName>Amis d'Orléans (Me)</tei:persName>
+          <tei:persName>Amisius de Aurelianis</tei:persName>
           <tei:note>Amisius de Aurelianis, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="82756">
@@ -3877,10 +3813,8 @@
           <tei:note>légiste</tei:note>
         </tei:person>
         <tei:person xml:id="82906">
-          <tei:persName>
-            <tei:name>Guilhem de Villariorivoso</tei:name>
-            <tei:name>Estève</tei:name>
-          </tei:persName>
+          <tei:persName>Guilhem de Villariorivoso</tei:persName>
+          <tei:persName>Estève</tei:persName>
           <tei:note>autrement dit Estève, notaire public apostolique et royal du diocèse de Carcassonne</tei:note>
         </tei:person>
         <tei:person xml:id="82907">
@@ -3954,10 +3888,8 @@
           <tei:note>comte de Genève</tei:note>
         </tei:person>
         <tei:person xml:id="82925">
-          <tei:persName>
-            <tei:name>Guillaume Ier</tei:name>
-            <tei:name>Guillelmus</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume Ier</tei:persName>
+          <tei:persName>Guillelmus</tei:persName>
           <tei:note>comte de Hainaut, Hollande et Zélande, seigneur de Frise, Guillelmus, comes Anagnie. Comes Anagnie</tei:note>
         </tei:person>
         <tei:person xml:id="82926">
@@ -4002,10 +3934,8 @@
           <tei:note>neveu de Richaud d'Autun</tei:note>
         </tei:person>
         <tei:person xml:id="82937">
-          <tei:persName>
-            <tei:name>Guillaume</tei:name>
-            <tei:name>Guillermus</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume</tei:persName>
+          <tei:persName>Guillermus</tei:persName>
           <tei:note>notaire d'Henri II, comte de Champagne</tei:note>
         </tei:person>
         <tei:person xml:id="82938">
@@ -4069,10 +3999,8 @@
           <tei:note>écuyer, ses enfants</tei:note>
         </tei:person>
         <tei:person xml:id="82953">
-          <tei:persName>
-            <tei:name>Andronic II Paléologue</tei:name>
-            <tei:name>Andronic II</tei:name>
-          </tei:persName>
+          <tei:persName>Andronic II Paléologue</tei:persName>
+          <tei:persName>Andronic II</tei:persName>
           <tei:note>Paléologue, empereur grec de Constantinople</tei:note>
         </tei:person>
         <tei:person xml:id="82954">
@@ -4228,10 +4156,8 @@
           <tei:note>prévôt de Sens</tei:note>
         </tei:person>
         <tei:person xml:id="82996">
-          <tei:persName>
-            <tei:name>Guillaume de Dol (Me)</tei:name>
-            <tei:name>Guillelmus de Dolis (magister)</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Dol (Me)</tei:persName>
+          <tei:persName>Guillelmus de Dolis (magister)</tei:persName>
           <tei:note>Dolis, magister Guillelmus Dolis, clerc du roi</tei:note>
           <tei:note>de</tei:note>
         </tei:person>
@@ -4272,10 +4198,8 @@
           <tei:note>magister Guillelmus de Gilli, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83006">
-          <tei:persName>
-            <tei:name>Guillaume de Gisors (Me)</tei:name>
-            <tei:name>Guillelmus de Gisorcio (magister)</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Gisors (Me)</tei:persName>
+          <tei:persName>Guillelmus de Gisorcio (magister)</tei:persName>
           <tei:note>magister Guillelmus de Gisorcio, archidiacre d'Auge, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83007">
@@ -4291,10 +4215,8 @@
           <tei:note>garde de la prévôté de Sens</tei:note>
         </tei:person>
         <tei:person xml:id="83011">
-          <tei:persName>
-            <tei:name>Guillaume de Hangest</tei:name>
-            <tei:name>Guillelmus de Hangesto</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Hangest</tei:persName>
+          <tei:persName>Guillelmus de Hangesto</tei:persName>
           <tei:note>l'aîné ou le vieux, trésorier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83012">
@@ -4383,11 +4305,9 @@
           <tei:note>chanoine de Bourges, commissaire aux nouveaux acquêts</tei:note>
         </tei:person>
         <tei:person xml:id="83036">
-          <tei:persName>
-            <tei:name>Guillaume de Marcilly</tei:name>
-            <tei:name>Guillelmus de Marcilliaco</tei:name>
-            <tei:name>G. de Marcilliaco</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Marcilly</tei:persName>
+          <tei:persName>Guillelmus de Marcilliaco</tei:persName>
+          <tei:persName>G. de Marcilliaco</tei:persName>
           <tei:note>Guillelmus de Marcilliaco, seigneur d'Athis, chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83037">
@@ -4467,11 +4387,9 @@
           <tei:note>sire d'Uytbergen, chevalier et baron de Flandre</tei:note>
         </tei:person>
         <tei:person xml:id="83057">
-          <tei:persName>
-            <tei:name>Guillaume de Nogaret</tei:name>
-            <tei:name>Guillelmus de Nogareto</tei:name>
-            <tei:name>Guillelmus de Nongerato</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Nogaret</tei:persName>
+          <tei:persName>Guillelmus de Nogareto</tei:persName>
+          <tei:persName>Guillelmus de Nongerato</tei:persName>
           <tei:note>Guillelmus de Nogareto de Nongareto, Nogaretus, chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83058">
@@ -4567,10 +4485,8 @@
           <tei:note>chevalier du roi, son fils aîné</tei:note>
         </tei:person>
         <tei:person xml:id="83082">
-          <tei:persName>
-            <tei:name>Guillaume de Tancarville</tei:name>
-            <tei:name>Guillaume</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume de Tancarville</tei:persName>
+          <tei:persName>Guillaume</tei:persName>
           <tei:note>damoiseau, fils de Robert, chambellan de Tancarville</tei:note>
         </tei:person>
         <tei:person xml:id="83083">
@@ -4652,10 +4568,8 @@
           <tei:note>grenetier royal à Paris</tei:note>
         </tei:person>
         <tei:person xml:id="83103">
-          <tei:persName>
-            <tei:name>Guillaume d'Harcourt</tei:name>
-            <tei:name>Guillelmus de Haracuria</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume d'Harcourt</tei:persName>
+          <tei:persName>Guillelmus de Haracuria</tei:persName>
           <tei:note>Guillelmus de Haracuria, chevalier, conseiller et familier du roi, seigneur de La Saussaye, maître queux de France</tei:note>
         </tei:person>
         <tei:person xml:id="83104">
@@ -4667,17 +4581,13 @@
           <tei:note>bailli de Caux</tei:note>
         </tei:person>
         <tei:person xml:id="83106">
-          <tei:persName>
-            <tei:name>Guillaume du Bois</tei:name>
-            <tei:name>Bosco (Guillelmus de)</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume du Bois</tei:persName>
+          <tei:persName>Bosco (Guillelmus de)</tei:persName>
           <tei:note>Guillelmus de Bosco, trésorier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83107">
-          <tei:persName>
-            <tei:name>Guillaume du Buisson (Me)</tei:name>
-            <tei:name>Guillelmus de Dumo</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume du Buisson (Me)</tei:persName>
+          <tei:persName>Guillelmus de Dumo</tei:persName>
         </tei:person>
         <tei:person xml:id="83108">
           <tei:persName>Guillaume du Cochet</tei:persName>
@@ -4743,11 +4653,9 @@
           <tei:note>Guillaume de Chinon, garde des châteaux du comté de Rethel</tei:note>
         </tei:person>
         <tei:person xml:id="83125">
-          <tei:persName>
-            <tei:name>Guillaume du Buisson</tei:name>
-            <tei:name>Buisson (Guillaume du)</tei:name>
-            <tei:name>Guillelmus de Dumo</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume du Buisson</tei:persName>
+          <tei:persName>Buisson (Guillaume du)</tei:persName>
+          <tei:persName>Guillelmus de Dumo</tei:persName>
           <tei:note>Me Guillaume du Buisson, commissaire à la levée de l'aide au mariage de la reine d'Angleterre</tei:note>
         </tei:person>
         <tei:person xml:id="83126">
@@ -4823,10 +4731,8 @@
           <tei:note>clerc tenant le sceau royal à La Rochelle</tei:note>
         </tei:person>
         <tei:person xml:id="83149">
-          <tei:persName>
-            <tei:name>Guion de Bretagne</tei:name>
-            <tei:name>Gui</tei:name>
-          </tei:persName>
+          <tei:persName>Guion de Bretagne</tei:persName>
+          <tei:persName>Gui</tei:persName>
           <tei:note>Guion de Bretagne, fils puîné du duc Arthur II, frère du duc Jean III</tei:note>
         </tei:person>
         <tei:person xml:id="83150">
@@ -4985,10 +4891,8 @@
           <tei:persName>Havard (Guillaume) de Ferrières</tei:persName>
         </tei:person>
         <tei:person xml:id="83209">
-          <tei:persName>
-            <tei:name>Guillaume Argence</tei:name>
-            <tei:name>Guillaume Argences</tei:name>
-          </tei:persName>
+          <tei:persName>Guillaume Argence</tei:persName>
+          <tei:persName>Guillaume Argences</tei:persName>
           <tei:note>Argences (Guillaume)</tei:note>
         </tei:person>
         <tei:person xml:id="83211">
@@ -5132,16 +5036,12 @@
           <tei:persName>Henri de Bourgogne</tei:persName>
         </tei:person>
         <tei:person xml:id="83252">
-          <tei:persName>
-            <tei:name>Henri de Briey</tei:name>
-            <tei:name>Briey (Henri de)</tei:name>
-          </tei:persName>
+          <tei:persName>Henri de Briey</tei:persName>
+          <tei:persName>Briey (Henri de)</tei:persName>
         </tei:person>
         <tei:person xml:id="83253">
-          <tei:persName>
-            <tei:name>Armand</tei:name>
-            <tei:name>Armandus de Saltu</tei:name>
-          </tei:persName>
+          <tei:persName>Armand</tei:persName>
+          <tei:persName>Armandus de Saltu</tei:persName>
           <tei:note>Armandus de Saltu, chevalier</tei:note>
         </tei:person>
         <tei:person xml:id="83254">
@@ -5254,10 +5154,8 @@
           <tei:persName>Hertherii (Sicard)</tei:persName>
         </tei:person>
         <tei:person xml:id="83286">
-          <tei:persName>
-            <tei:name>Arnaud de Coloniis</tei:name>
-            <tei:name>Arnaldus de Coloniis</tei:name>
-          </tei:persName>
+          <tei:persName>Arnaud de Coloniis</tei:persName>
+          <tei:persName>Arnaldus de Coloniis</tei:persName>
           <tei:note>procurator</tei:note>
         </tei:person>
         <tei:person xml:id="83287">
@@ -5813,10 +5711,8 @@
           <tei:note>fille de Gui IV de Châtillon, comte de Saint-Pol</tei:note>
         </tei:person>
         <tei:person xml:id="83445">
-          <tei:persName>
-            <tei:name>Isabelle</tei:name>
-            <tei:name>Sibylle</tei:name>
-          </tei:persName>
+          <tei:persName>Isabelle</tei:persName>
+          <tei:persName>Sibylle</tei:persName>
           <tei:note>fille et héritière de Jacques Laire, son fils</tei:note>
         </tei:person>
         <tei:person xml:id="83446">
@@ -5884,10 +5780,8 @@
           <tei:note>veuve de Pierre de Machau</tei:note>
         </tei:person>
         <tei:person xml:id="83462">
-          <tei:persName>
-            <tei:name>Isabelle d'Acy</tei:name>
-            <tei:name>Acy, Isabelle d'</tei:name>
-          </tei:persName>
+          <tei:persName>Isabelle d'Acy</tei:persName>
+          <tei:persName>Acy, Isabelle d'</tei:persName>
           <tei:note>abbesse d'Origny-Sainte-Benoite</tei:note>
         </tei:person>
         <tei:person xml:id="83463">
@@ -5924,10 +5818,8 @@
           <tei:persName>Isabelle de Flandre</tei:persName>
         </tei:person>
         <tei:person xml:id="83472">
-          <tei:persName>
-            <tei:name>Isabelle de France</tei:name>
-            <tei:name>Isabelle</tei:name>
-          </tei:persName>
+          <tei:persName>Isabelle de France</tei:persName>
+          <tei:persName>Isabelle</tei:persName>
           <tei:note>reine d'Angleterre, fille aînée de Philippe le Bel, femme du roi Édouard II</tei:note>
         </tei:person>
         <tei:person xml:id="83473">
@@ -6079,17 +5971,13 @@
           <tei:note>magister Yvo de Laudunaco, légiste, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83514">
-          <tei:persName>
-            <tei:name>Ives Grosse Teste</tei:name>
-            <tei:name>Ives de Pavillons</tei:name>
-          </tei:persName>
+          <tei:persName>Ives Grosse Teste</tei:persName>
+          <tei:persName>Ives de Pavillons</tei:persName>
           <tei:note>dit de Pavillons, valet de chambre du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83516">
-          <tei:persName>
-            <tei:name>J. d'Acy</tei:name>
-            <tei:name>Acy, J. d'</tei:name>
-          </tei:persName>
+          <tei:persName>J. d'Acy</tei:persName>
+          <tei:persName>Acy, J. d'</tei:persName>
           <tei:note>de Acy, signatures et mentions de collation</tei:note>
           <tei:note>Jean d'Acy, notaire du roi</tei:note>
         </tei:person>
@@ -6333,10 +6221,8 @@
           <tei:note>comte de Mortain</tei:note>
         </tei:person>
         <tei:person xml:id="83586">
-          <tei:persName>
-            <tei:name>Arnaud de Proboleno</tei:name>
-            <tei:name>Arnaldus de Proboleno</tei:name>
-          </tei:persName>
+          <tei:persName>Arnaud de Proboleno</tei:persName>
+          <tei:persName>Arnaldus de Proboleno</tei:persName>
           <tei:note>Arnaldus de Proboleno, bourgeois de Cahors</tei:note>
         </tei:person>
         <tei:person xml:id="83587">
@@ -6372,10 +6258,8 @@
           <tei:note>duc de Bretagne</tei:note>
         </tei:person>
         <tei:person xml:id="83595">
-          <tei:persName>
-            <tei:name>Jean III</tei:name>
-            <tei:name>Jean de Bretagne</tei:name>
-          </tei:persName>
+          <tei:persName>Jean III</tei:persName>
+          <tei:persName>Jean de Bretagne</tei:persName>
           <tei:note>duc de Bretagne, fils aîné du duc Arthur II</tei:note>
         </tei:person>
         <tei:person xml:id="83596">
@@ -6514,10 +6398,8 @@
           <tei:note>seigneur de Pomponne</tei:note>
         </tei:person>
         <tei:person xml:id="83630">
-          <tei:persName>
-            <tei:name>Arnaud-Bernard de Pressac</tei:name>
-            <tei:name>Soudan</tei:name>
-          </tei:persName>
+          <tei:persName>Arnaud-Bernard de Pressac</tei:persName>
+          <tei:persName>Soudan</tei:persName>
           <tei:note>dit Soudan</tei:note>
         </tei:person>
         <tei:person xml:id="83631">
@@ -6564,10 +6446,8 @@
           <tei:persName>Adam de Villiers</tei:persName>
         </tei:person>
         <tei:person xml:id="83642">
-          <tei:persName>
-            <tei:name>Arnaud-Garcie de Got</tei:name>
-            <tei:name>Arnaud-Garsie de Got</tei:name>
-          </tei:persName>
+          <tei:persName>Arnaud-Garcie de Got</tei:persName>
+          <tei:persName>Arnaud-Garsie de Got</tei:persName>
           <tei:note>vicomte de Lomagne et d'Auvillar</tei:note>
         </tei:person>
         <tei:person xml:id="83643">
@@ -6652,11 +6532,9 @@
           <tei:note>chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83664">
-          <tei:persName>
-            <tei:name>Arnaud-Raimond du Soler</tei:name>
-            <tei:name>Arnaud-Raimond Soley</tei:name>
-            <tei:name>Arnaud-Raimond Delsoler</tei:name>
-          </tei:persName>
+          <tei:persName>Arnaud-Raimond du Soler</tei:persName>
+          <tei:persName>Arnaud-Raimond Soley</tei:persName>
+          <tei:persName>Arnaud-Raimond Delsoler</tei:persName>
           <tei:note>panetier du roi</tei:note>
           <tei:note>ou Soley ou Delsoler</tei:note>
         </tei:person>
@@ -6768,10 +6646,8 @@
           <tei:note>chevalier</tei:note>
         </tei:person>
         <tei:person xml:id="83694">
-          <tei:persName>
-            <tei:name>Jean II de Chalon</tei:name>
-            <tei:name>Johannes de Cabilone</tei:name>
-          </tei:persName>
+          <tei:persName>Jean II de Chalon</tei:persName>
+          <tei:persName>Johannes de Cabilone</tei:persName>
           <tei:note>comte d'Auxerre et seigneur de Rochefort, Johannes de Cabilone</tei:note>
         </tei:person>
         <tei:person xml:id="83695">
@@ -6921,10 +6797,8 @@
           <tei:note>chevalier</tei:note>
         </tei:person>
         <tei:person xml:id="83732">
-          <tei:persName>
-            <tei:name>Jean de Dijon (Me)</tei:name>
-            <tei:name>J. de Dyvione (magister)</tei:name>
-          </tei:persName>
+          <tei:persName>Jean de Dijon (Me)</tei:persName>
+          <tei:persName>J. de Dyvione (magister)</tei:persName>
           <tei:note>magister J. de Dyvione, clerc du roi, chanoine de Meaux et de Sens</tei:note>
         </tei:person>
         <tei:person xml:id="83733">
@@ -7025,10 +6899,8 @@
           <tei:note>clerc</tei:note>
         </tei:person>
         <tei:person xml:id="83758">
-          <tei:persName>
-            <tei:name>Jean de Grez</tei:name>
-            <tei:name>Johannes de Gressibus</tei:name>
-          </tei:persName>
+          <tei:persName>Jean de Grez</tei:persName>
+          <tei:persName>Johannes de Gressibus</tei:persName>
           <tei:note>Johannes de Gressibus, chevalier du roi, maréchal de France</tei:note>
         </tei:person>
         <tei:person xml:id="83759">
@@ -7186,10 +7058,8 @@
           <tei:note>damoiseau</tei:note>
         </tei:person>
         <tei:person xml:id="83800">
-          <tei:persName>
-            <tei:name>Jean de La Planque</tei:name>
-            <tei:name>Jean de Plancha</tei:name>
-          </tei:persName>
+          <tei:persName>Jean de La Planque</tei:persName>
+          <tei:persName>Jean de Plancha</tei:persName>
           <tei:note>de Plancha, chevalier</tei:note>
         </tei:person>
         <tei:person xml:id="83801">
@@ -7219,10 +7089,8 @@
           <tei:persName>Jean de La Vente</tei:persName>
         </tei:person>
         <tei:person xml:id="83808">
-          <tei:persName>
-            <tei:name>Arvard de Verneuil</tei:name>
-            <tei:name>Arvardus de Vernolio</tei:name>
-          </tei:persName>
+          <tei:persName>Arvard de Verneuil</tei:persName>
+          <tei:persName>Arvardus de Vernolio</tei:persName>
           <tei:note>procurator hominum et universitatis castri de Gordonio (Arvard de Verneuil, procureur de Gourdon)</tei:note>
         </tei:person>
         <tei:person xml:id="83809">
@@ -7280,11 +7148,9 @@
           <tei:note>médecin de Louis, roi de Navarre</tei:note>
         </tei:person>
         <tei:person xml:id="83823">
-          <tei:persName>
-            <tei:name>Jean de Machau</tei:name>
-            <tei:name>Johannes de Machello</tei:name>
-            <tei:name>J. de Machello</tei:name>
-          </tei:persName>
+          <tei:persName>Jean de Machau</tei:persName>
+          <tei:persName>Johannes de Machello</tei:persName>
+          <tei:persName>J. de Machello</tei:persName>
           <tei:note>dominus J. de Machello, chevalier et chambellan du roi</tei:note>
         </tei:person>
         <tei:person xml:id="83824">
@@ -7432,10 +7298,8 @@
           <tei:note>juif</tei:note>
         </tei:person>
         <tei:person xml:id="83864">
-          <tei:persName>
-            <tei:name>Aimar Gilbert</tei:name>
-            <tei:name>Ademarus Gilleberti</tei:name>
-          </tei:persName>
+          <tei:persName>Aimar Gilbert</tei:persName>
+          <tei:persName>Ademarus Gilleberti</tei:persName>
         </tei:person>
         <tei:person xml:id="83865">
           <tei:persName>Asseline</tei:persName>
@@ -7525,10 +7389,8 @@
           <tei:note>sa fiefferme</tei:note>
         </tei:person>
         <tei:person xml:id="83887">
-          <tei:persName>
-            <tei:name>Assieu IV de Galard</tei:name>
-            <tei:name>Assivus de Galardo</tei:name>
-          </tei:persName>
+          <tei:persName>Assieu IV de Galard</tei:persName>
+          <tei:persName>Assivus de Galardo</tei:persName>
           <tei:note>Assivus de Galardo</tei:note>
         </tei:person>
         <tei:person xml:id="83888">
@@ -7881,10 +7743,8 @@
           <tei:persName>Jean du Puits (Me)</tei:persName>
         </tei:person>
         <tei:person xml:id="83979">
-          <tei:persName>
-            <tei:name>Jean du Saint-Esprit (Me)</tei:name>
-            <tei:name>Johannes de Sancto Spiritu</tei:name>
-          </tei:persName>
+          <tei:persName>Jean du Saint-Esprit (Me)</tei:persName>
+          <tei:persName>Johannes de Sancto Spiritu</tei:persName>
           <tei:note>chapelain dudit lieu, collecteur des annates</tei:note>
         </tei:person>
         <tei:person xml:id="83980">
@@ -8153,10 +8013,8 @@
           <tei:note>femme de Guillaume d'Ivry</tei:note>
         </tei:person>
         <tei:person xml:id="84050">
-          <tei:persName>
-            <tei:name>Jeanne d'Artois</tei:name>
-            <tei:name>Jeanne</tei:name>
-          </tei:persName>
+          <tei:persName>Jeanne d'Artois</tei:persName>
+          <tei:persName>Jeanne</tei:persName>
           <tei:note>femme de Gaston Ier, comte de Foix ; fille de Philippe, fils aîné de Robert II comte d'Artois</tei:note>
         </tei:person>
         <tei:person xml:id="84051">
@@ -8186,17 +8044,13 @@
           <tei:note>fille de Robert II, duc de Bourgogne, et d'Agnès de France, femme de Philippe de Valois</tei:note>
         </tei:person>
         <tei:person xml:id="84058">
-          <tei:persName>
-            <tei:name>Jeanne de Bourgogne</tei:name>
-            <tei:name>Jeanne</tei:name>
-          </tei:persName>
+          <tei:persName>Jeanne de Bourgogne</tei:persName>
+          <tei:persName>Jeanne</tei:persName>
           <tei:note>fille d'Othon IV et de Mahaut, femme de Philippe, fils du roi, comtesse de Bourgogne</tei:note>
         </tei:person>
         <tei:person xml:id="84059">
-          <tei:persName>
-            <tei:name>Jeanne de Bouvelinghem</tei:name>
-            <tei:name>Jeanne de Boulingueham</tei:name>
-          </tei:persName>
+          <tei:persName>Jeanne de Bouvelinghem</tei:persName>
+          <tei:persName>Jeanne de Boulingueham</tei:persName>
           <tei:note>dame de Fréauville</tei:note>
         </tei:person>
         <tei:person xml:id="84060">
@@ -8215,10 +8069,8 @@
           <tei:persName>Jeanne de Champotran</tei:persName>
         </tei:person>
         <tei:person xml:id="84064">
-          <tei:persName>
-            <tei:name>Aubert V de Hangest</tei:name>
-            <tei:name>Albertus de Hangesto</tei:name>
-          </tei:persName>
+          <tei:persName>Aubert V de Hangest</tei:persName>
+          <tei:persName>Albertus de Hangesto</tei:persName>
           <tei:note>dit le fils, Albertus de Hangesto, chevalier du roi, seigneur de Fontaine-Châtel et de Genlis</tei:note>
         </tei:person>
         <tei:person xml:id="84065">
@@ -8465,10 +8317,8 @@
           <tei:persName>Johannes de Crispeio (magister)</tei:persName>
         </tei:person>
         <tei:person xml:id="84134">
-          <tei:persName>
-            <tei:name>Johannes de Donno Martino</tei:name>
-            <tei:name>Johannes de Domno Martino</tei:name>
-          </tei:persName>
+          <tei:persName>Johannes de Donno Martino</tei:persName>
+          <tei:persName>Johannes de Domno Martino</tei:persName>
           <tei:note>maître-clerc des Comptes</tei:note>
         </tei:person>
         <tei:person xml:id="84135">
@@ -8618,11 +8468,9 @@
           <tei:note>notaire</tei:note>
         </tei:person>
         <tei:person xml:id="84186">
-          <tei:persName>
-            <tei:name>Audouin de Barbezieux</tei:name>
-            <tei:name>Odoinus de Berbezillo</tei:name>
-            <tei:name>Oduinus de Brebezallo</tei:name>
-          </tei:persName>
+          <tei:persName>Audouin de Barbezieux</tei:persName>
+          <tei:persName>Odoinus de Berbezillo</tei:persName>
+          <tei:persName>Oduinus de Brebezallo</tei:persName>
           <tei:note>chevalier, procureur de plusieurs nobles</tei:note>
         </tei:person>
         <tei:person xml:id="84187">
@@ -8659,12 +8507,10 @@
           <tei:note>viguier royal de Montauban</tei:note>
         </tei:person>
         <tei:person xml:id="84197">
-          <tei:persName>
-            <tei:name>Pierre Adouart</tei:name>
-            <tei:name>Pierre Adounart le jeune</tei:name>
-            <tei:name>Pierre Adounarc</tei:name>
-            <tei:name>Pierre Adourardi</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre Adouart</tei:persName>
+          <tei:persName>Pierre Adounart le jeune</tei:persName>
+          <tei:persName>Pierre Adounarc</tei:persName>
+          <tei:persName>Pierre Adourardi</tei:persName>
           <tei:note>de Presles-sur-Aisne, sa veuve. Sa femme (puis veuve) et ses enfants</tei:note>
           <tei:note>corr. Adouvart ou Adowart ?</tei:note>
         </tei:person>
@@ -9093,14 +8939,12 @@
           <tei:note>de Villepreux, bailli de Cotentin</tei:note>
         </tei:person>
         <tei:person xml:id="84349">
-          <tei:persName>
-            <tei:name>Philippe Le Convers (Me)</tei:name>
-            <tei:name>Phelippe le Convers (mestre)</tei:name>
-            <tei:name>Philippe de Villepreux (Me)</tei:name>
-            <tei:name>Philippus</tei:name>
-            <tei:name>Philippus Conversi</tei:name>
-            <tei:name>Conversi (Philippus)</tei:name>
-          </tei:persName>
+          <tei:persName>Philippe Le Convers (Me)</tei:persName>
+          <tei:persName>Phelippe le Convers (mestre)</tei:persName>
+          <tei:persName>Philippe de Villepreux (Me)</tei:persName>
+          <tei:persName>Philippus</tei:persName>
+          <tei:persName>Philippus Conversi</tei:persName>
+          <tei:persName>Conversi (Philippus)</tei:persName>
           <tei:note>de Villepreux, Philippe de Villepreux, Phelippe le Convers, Philippus Conversi, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="84350">
@@ -9766,17 +9610,13 @@
           <tei:persName>Aysson (Élie)</tei:persName>
         </tei:person>
         <tei:person xml:id="84565">
-          <tei:persName>
-            <tei:name>Louis VII</tei:name>
-            <tei:name>Louis VII le Jeune</tei:name>
-          </tei:persName>
+          <tei:persName>Louis VII</tei:persName>
+          <tei:persName>Louis VII le Jeune</tei:persName>
           <tei:note>roi de France</tei:note>
         </tei:person>
         <tei:person xml:id="84566">
-          <tei:persName>
-            <tei:name>Louis VIII</tei:name>
-            <tei:name>Louis VIII le Lion</tei:name>
-          </tei:persName>
+          <tei:persName>Louis VIII</tei:persName>
+          <tei:persName>Louis VIII le Lion</tei:persName>
           <tei:note>roi de France</tei:note>
         </tei:person>
         <tei:person xml:id="84568">
@@ -9800,10 +9640,8 @@
           <tei:note>duc de Bourbon</tei:note>
         </tei:person>
         <tei:person xml:id="84573">
-          <tei:persName>
-            <tei:name>Louis</tei:name>
-            <tei:name>Louis X le Hutin</tei:name>
-          </tei:persName>
+          <tei:persName>Louis</tei:persName>
+          <tei:persName>Louis X le Hutin</tei:persName>
           <tei:note>fils aîné du roi</tei:note>
           <tei:note>le futur Louis X le Hutin</tei:note>
         </tei:person>
@@ -9829,11 +9667,9 @@
           <tei:note>le futur Louis Ier, duc de Bourbon</tei:note>
         </tei:person>
         <tei:person xml:id="84581">
-          <tei:persName>
-            <tei:name>Louis de Bourgogne</tei:name>
-            <tei:name>Bourgogne (Louis de)</tei:name>
-            <tei:name>Louis</tei:name>
-          </tei:persName>
+          <tei:persName>Louis de Bourgogne</tei:persName>
+          <tei:persName>Bourgogne (Louis de)</tei:persName>
+          <tei:persName>Louis</tei:persName>
           <tei:note>prince d'Achaïe, frère d'Hugues, duc de Bourgogne et fils du duc Robert II de Bourgogne</tei:note>
         </tei:person>
         <tei:person xml:id="84582">
@@ -9992,10 +9828,8 @@
           <tei:note>fille de Gui de Châtillon</tei:note>
         </tei:person>
         <tei:person xml:id="84641">
-          <tei:persName>
-            <tei:name>Alice de Montbéliard</tei:name>
-            <tei:name>Aelipdis</tei:name>
-          </tei:persName>
+          <tei:persName>Alice de Montbéliard</tei:persName>
+          <tei:persName>Aelipdis</tei:persName>
           <tei:note>femme de Jean II de Chalon</tei:note>
         </tei:person>
         <tei:person xml:id="84643">
@@ -10283,20 +10117,16 @@
           <tei:note>femme de Guiard de Jouy</tei:note>
         </tei:person>
         <tei:person xml:id="84741">
-          <tei:persName>
-            <tei:name>Palenque</tei:name>
-            <tei:name>Balenque</tei:name>
-          </tei:persName>
+          <tei:persName>Palenque</tei:persName>
+          <tei:persName>Balenque</tei:persName>
         </tei:person>
         <tei:person xml:id="84742">
           <tei:persName>Marguerite de Bommiers</tei:persName>
           <tei:note>veuve de Jean IV de Bouville, dame de Milly et de Sully-sur-Loire</tei:note>
         </tei:person>
         <tei:person xml:id="84743">
-          <tei:persName>
-            <tei:name>Marguerite de Bourgogne</tei:name>
-            <tei:name>Marguerite</tei:name>
-          </tei:persName>
+          <tei:persName>Marguerite de Bourgogne</tei:persName>
+          <tei:persName>Marguerite</tei:persName>
           <tei:note>reine de Navarre</tei:note>
         </tei:person>
         <tei:person xml:id="84744">
@@ -10513,10 +10343,8 @@
           <tei:note>dame d'Haverskerque, femme de Jean, sire d'Haverskerque</tei:note>
         </tei:person>
         <tei:person xml:id="84802">
-          <tei:persName>
-            <tei:name>Marie de Hainaut</tei:name>
-            <tei:name>Marie</tei:name>
-          </tei:persName>
+          <tei:persName>Marie de Hainaut</tei:persName>
+          <tei:persName>Marie</tei:persName>
           <tei:note>sœur de Guillaume, comte de Hainaut</tei:note>
         </tei:person>
         <tei:person xml:id="84803">
@@ -10650,10 +10478,8 @@
           <tei:note>procureur du roi dans la sénéchaussée de Périgord et Quercy</tei:note>
         </tei:person>
         <tei:person xml:id="84846">
-          <tei:persName>
-            <tei:name>Martin des Essarts</tei:name>
-            <tei:name>Martinus de Essartis</tei:name>
-          </tei:persName>
+          <tei:persName>Martin des Essarts</tei:persName>
+          <tei:persName>Martinus de Essartis</tei:persName>
           <tei:note>Martinus de Essartis, bourgeois de Rouen</tei:note>
         </tei:person>
         <tei:person xml:id="84847">
@@ -10929,10 +10755,8 @@
           <tei:note>charpentier de Négrepelisse</tei:note>
         </tei:person>
         <tei:person xml:id="84953">
-          <tei:persName>
-            <tei:name>Michel de Bourdenay (Me)</tei:name>
-            <tei:name>Bordeneto (Michaelem de)</tei:name>
-          </tei:persName>
+          <tei:persName>Michel de Bourdenay (Me)</tei:persName>
+          <tei:persName>Bordeneto (Michaelem de)</tei:persName>
           <tei:note>Michael de Bordeneto, Bourdeneto, clerc du roi, maître-clerc des Comptes, chanoine de Meaux</tei:note>
         </tei:person>
         <tei:person xml:id="84954">
@@ -10958,10 +10782,8 @@
           <tei:note>chanoine de Noyon</tei:note>
         </tei:person>
         <tei:person xml:id="84960">
-          <tei:persName>
-            <tei:name>Michel du Mauconduit</tei:name>
-            <tei:name>Michael de Maloconductu</tei:name>
-          </tei:persName>
+          <tei:persName>Michel du Mauconduit</tei:persName>
+          <tei:persName>Michael de Maloconductu</tei:persName>
         </tei:person>
         <tei:person xml:id="84961">
           <tei:persName>Michelone</tei:persName>
@@ -11014,10 +10836,8 @@
           <tei:note>juif de Béziers</tei:note>
         </tei:person>
         <tei:person xml:id="84975">
-          <tei:persName>
-            <tei:name>Bertrand Agasse</tei:name>
-            <tei:name>Bertrand Agace</tei:name>
-          </tei:persName>
+          <tei:persName>Bertrand Agasse</tei:persName>
+          <tei:persName>Bertrand Agace</tei:persName>
         </tei:person>
         <tei:person xml:id="84976">
           <tei:persName>Bardin de Rabastens ? (Me)</tei:persName>
@@ -11257,10 +11077,8 @@
           <tei:note>Barrier, P. Barrer, P. Barrerii, notaire du roi, signatures et mentions diverses</tei:note>
         </tei:person>
         <tei:person xml:id="85143">
-          <tei:persName>
-            <tei:name>Nicolas de Ermenonvilla</tei:name>
-            <tei:name>Nicolas de Hemenovilla</tei:name>
-          </tei:persName>
+          <tei:persName>Nicolas de Ermenonvilla</tei:persName>
+          <tei:persName>Nicolas de Hemenovilla</tei:persName>
           <tei:note>Hemenovilla, Hermeno(n)villa, receveur du roi dans la sénéchaussée de Rouergue</tei:note>
         </tei:person>
         <tei:person xml:id="85144">
@@ -11394,10 +11212,8 @@
           <tei:note>notaire de la Cour du viguier de Toulouse</tei:note>
         </tei:person>
         <tei:person xml:id="85197">
-          <tei:persName>
-            <tei:name>Bertrand Agasse</tei:name>
-            <tei:name>Bertrand Agace</tei:name>
-          </tei:persName>
+          <tei:persName>Bertrand Agasse</tei:persName>
+          <tei:persName>Bertrand Agace</tei:persName>
           <tei:note>Agace (Bertrand), chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85198">
@@ -11507,10 +11323,8 @@
           <tei:note>juif de Béziers</tei:note>
         </tei:person>
         <tei:person xml:id="85231">
-          <tei:persName>
-            <tei:name>Barthélemi de Cluséllo</tei:name>
-            <tei:name>Barthélemi de Clusellis</tei:name>
-          </tei:persName>
+          <tei:persName>Barthélemi de Cluséllo</tei:persName>
+          <tei:persName>Barthélemi de Clusellis</tei:persName>
           <tei:note>docteur ou professeur ès lois, juge d'Aigues-mortes</tei:note>
         </tei:person>
         <tei:person xml:id="85233">
@@ -11611,10 +11425,8 @@
           <tei:persName>P. Barrerii</tei:persName>
         </tei:person>
         <tei:person xml:id="85263">
-          <tei:persName>
-            <tei:name>P. d'Aubigni</tei:name>
-            <tei:name>Aubigni (P. d')</tei:name>
-          </tei:persName>
+          <tei:persName>P. d'Aubigni</tei:persName>
+          <tei:persName>Aubigni (P. d')</tei:persName>
           <tei:note>de Albigniaco, signatures</tei:note>
           <tei:note>Pierre d'Aubigny, notaire du roi</tei:note>
         </tei:person>
@@ -12136,10 +11948,8 @@
           <tei:note>juif converti</tei:note>
         </tei:person>
         <tei:person xml:id="85442">
-          <tei:persName>
-            <tei:name>Baudouin de Meulles</tei:name>
-            <tei:name>Baudouin</tei:name>
-          </tei:persName>
+          <tei:persName>Baudouin de Meulles</tei:persName>
+          <tei:persName>Baudouin</tei:persName>
           <tei:note>fils de Gilbert, comte</tei:note>
           <tei:note>de Brionne</tei:note>
         </tei:person>
@@ -12152,10 +11962,8 @@
           <tei:note>comte de Flandre</tei:note>
         </tei:person>
         <tei:person xml:id="85445">
-          <tei:persName>
-            <tei:name>Philippe d'Artois</tei:name>
-            <tei:name>Philippe</tei:name>
-          </tei:persName>
+          <tei:persName>Philippe d'Artois</tei:persName>
+          <tei:persName>Philippe</tei:persName>
           <tei:note>fils aîné de Robert II, comte d'Artois</tei:note>
         </tei:person>
         <tei:person xml:id="85446">
@@ -12224,10 +12032,8 @@
           <tei:note>clerc du Roi, commissaire aux nouveaux-acquêts dans la prévôté de Paris</tei:note>
         </tei:person>
         <tei:person xml:id="85463">
-          <tei:persName>
-            <tei:name>Philippe de Melun</tei:name>
-            <tei:name>Philippe</tei:name>
-          </tei:persName>
+          <tei:persName>Philippe de Melun</tei:persName>
+          <tei:persName>Philippe</tei:persName>
           <tei:note>fils de feu Adam, vicomte de Melun</tei:note>
         </tei:person>
         <tei:person xml:id="85464">
@@ -12325,10 +12131,8 @@
           <tei:persName>Philippot du Mesnil</tei:persName>
         </tei:person>
         <tei:person xml:id="85492">
-          <tei:persName>
-            <tei:name>Philippus de Blanello seu de Sancto Verano</tei:name>
-            <tei:name>Blanello (Philippus de)</tei:name>
-          </tei:persName>
+          <tei:persName>Philippus de Blanello seu de Sancto Verano</tei:persName>
+          <tei:persName>Blanello (Philippus de)</tei:persName>
         </tei:person>
         <tei:person xml:id="85493">
           <tei:persName>Philippus de Chauverio</tei:persName>
@@ -12503,10 +12307,8 @@
           <tei:note>valet du roi, seigneur de Launac</tei:note>
         </tei:person>
         <tei:person xml:id="85544">
-          <tei:persName>
-            <tei:name>Pierre de Bourges (Me)</tei:name>
-            <tei:name>Bituris (P. de)</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre de Bourges (Me)</tei:persName>
+          <tei:persName>Bituris (P. de)</tei:persName>
           <tei:note>P. de Bituris, sous-chantre d'Orléans, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85545">
@@ -12566,18 +12368,14 @@
           <tei:note>ses hoirs</tei:note>
         </tei:person>
         <tei:person xml:id="85561">
-          <tei:persName>
-            <tei:name>Pierre de Chalon (Me)</tei:name>
-            <tei:name>Petrus de Cabilone (magister)</tei:name>
-            <tei:name>Cabilone (magister Petrus de)</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre de Chalon (Me)</tei:persName>
+          <tei:persName>Petrus de Cabilone (magister)</tei:persName>
+          <tei:persName>Cabilone (magister Petrus de)</tei:persName>
           <tei:note>magister Petrus de Cabilone, clerc du roi, chanoine d'Autun, doyen d'Aigueperse</tei:note>
         </tei:person>
         <tei:person xml:id="85562">
-          <tei:persName>
-            <tei:name>Pierre V de Chambly</tei:name>
-            <tei:name>Pierre</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre V de Chambly</tei:persName>
+          <tei:persName>Pierre</tei:persName>
           <tei:note>seigneur du lieu, chevalier et chambellan du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85563">
@@ -12635,12 +12433,10 @@
           <tei:persName>Pierre de Denestanville</tei:persName>
         </tei:person>
         <tei:person xml:id="85578">
-          <tei:persName>
-            <tei:name>Pierre de Dicy</tei:name>
-            <tei:name>Petrus de Diciaco</tei:name>
-            <tei:name>Petrus de Dissi</tei:name>
-            <tei:name>P.</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre de Dicy</tei:persName>
+          <tei:persName>Petrus de Diciaco</tei:persName>
+          <tei:persName>Petrus de Dissi</tei:persName>
+          <tei:persName>P.</tei:persName>
           <tei:note>P., Petrus de Diciaco, de Dissi</tei:note>
         </tei:person>
         <tei:person xml:id="85579">
@@ -12779,10 +12575,8 @@
           <tei:persName>Pierre de La Motte</tei:persName>
         </tei:person>
         <tei:person xml:id="85615">
-          <tei:persName>
-            <tei:name>Pierre de Laon</tei:name>
-            <tei:name>Petrus de Lauduno</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre de Laon</tei:persName>
+          <tei:persName>Petrus de Lauduno</tei:persName>
           <tei:note>dominus Petrus de Lauduno, chanoine de Paris, clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85616">
@@ -12948,10 +12742,8 @@
           <tei:persName>Pierre de Remies</tei:persName>
         </tei:person>
         <tei:person xml:id="85660">
-          <tei:persName>
-            <tei:name>Pierre de Rougé</tei:name>
-            <tei:name>Pierre de Rogieu</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre de Rougé</tei:persName>
+          <tei:persName>Pierre de Rogieu</tei:persName>
           <tei:note>de Rogieu (Me), receveur de l'exécution de la reine Jeanne en Champagne</tei:note>
         </tei:person>
         <tei:person xml:id="85661">
@@ -13094,11 +12886,9 @@
           <tei:note>écuyer</tei:note>
         </tei:person>
         <tei:person xml:id="85697">
-          <tei:persName>
-            <tei:name>Béatrice de Bourgogne</tei:name>
-            <tei:name>Bourgogne (Béatrice de)</tei:name>
-            <tei:name>Béatrice</tei:name>
-          </tei:persName>
+          <tei:persName>Béatrice de Bourgogne</tei:persName>
+          <tei:persName>Bourgogne (Béatrice de)</tei:persName>
+          <tei:persName>Béatrice</tei:persName>
           <tei:note>comtesse de Clermont et dame de Bourbon, femme de Robert de France</tei:note>
         </tei:person>
         <tei:person xml:id="85698">
@@ -13645,10 +13435,8 @@
           <tei:note>seigneur de Gramont, chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85924">
-          <tei:persName>
-            <tei:name>Raimond-Guilhem de Budos</tei:name>
-            <tei:name>Raymundus Guillelmi, dominus de Bedolio</tei:name>
-          </tei:persName>
+          <tei:persName>Raimond-Guilhem de Budos</tei:persName>
+          <tei:persName>Raymundus Guillelmi, dominus de Bedolio</tei:persName>
           <tei:note>Raymundus Guillelmi, dominus de Bedolio, neveu du pape Clément V, chevalier ou chevalier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85925">
@@ -13683,10 +13471,8 @@
           <tei:note>évêque de Limoges</tei:note>
         </tei:person>
         <tei:person xml:id="85934">
-          <tei:persName>
-            <tei:name>Rainaud de La Ville Nueve</tei:name>
-            <tei:name>Rainaud de Villanova</tei:name>
-          </tei:persName>
+          <tei:persName>Rainaud de La Ville Nueve</tei:persName>
+          <tei:persName>Rainaud de Villanova</tei:persName>
           <tei:note>de Villanova, archidiacre de Kalamata, chancelier de l'empire de Constantinople</tei:note>
         </tei:person>
         <tei:person xml:id="85936">
@@ -13705,10 +13491,8 @@
           <tei:note>notaire public de Sienne, fils de feu Accorso</tei:note>
         </tei:person>
         <tei:person xml:id="85945">
-          <tei:persName>
-            <tei:name>Rannoux de Brie</tei:name>
-            <tei:name>Brie (Rannoux de)</tei:name>
-          </tei:persName>
+          <tei:persName>Rannoux de Brie</tei:persName>
+          <tei:persName>Brie (Rannoux de)</tei:persName>
           <tei:note>procureur de l'archevêque de Bordeaux</tei:note>
         </tei:person>
         <tei:person xml:id="85947">
@@ -13737,10 +13521,8 @@
           <tei:note>de Ruffec</tei:note>
         </tei:person>
         <tei:person xml:id="85953">
-          <tei:persName>
-            <tei:name>Raoul de Beaumont</tei:name>
-            <tei:name>Beaumont (Raoul de)</tei:name>
-          </tei:persName>
+          <tei:persName>Raoul de Beaumont</tei:persName>
+          <tei:persName>Beaumont (Raoul de)</tei:persName>
           <tei:note>queux du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85954">
@@ -13771,11 +13553,9 @@
           <tei:note>sergent d'armes du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85961">
-          <tei:persName>
-            <tei:name>Raoul de Jouy (Me)</tei:name>
-            <tei:name>Radulphus de Joyaco</tei:name>
-            <tei:name>R. de Joiaco</tei:name>
-          </tei:persName>
+          <tei:persName>Raoul de Jouy (Me)</tei:persName>
+          <tei:persName>Radulphus de Joyaco</tei:persName>
+          <tei:persName>R. de Joiaco</tei:persName>
           <tei:note>clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85962">
@@ -13797,10 +13577,8 @@
           <tei:note>chantre de Meaux</tei:note>
         </tei:person>
         <tei:person xml:id="85967">
-          <tei:persName>
-            <tei:name>Raoul de Préaux</tei:name>
-            <tei:name>R. de Perellis</tei:name>
-          </tei:persName>
+          <tei:persName>Raoul de Préaux</tei:persName>
+          <tei:persName>R. de Perellis</tei:persName>
           <tei:note>clerc du roi</tei:note>
         </tei:person>
         <tei:person xml:id="85968">
@@ -14065,10 +13843,8 @@
           <tei:persName>Renaud d'Ozereau</tei:persName>
         </tei:person>
         <tei:person xml:id="86050">
-          <tei:persName>
-            <tei:name>Renaud du Cavech</tei:name>
-            <tei:name>Reginaldus du Kavech</tei:name>
-          </tei:persName>
+          <tei:persName>Renaud du Cavech</tei:persName>
+          <tei:persName>Reginaldus du Kavech</tei:persName>
           <tei:note>Reginaldus du Kavech, garde du sceau du bailliage du Vermandois</tei:note>
         </tei:person>
         <tei:person xml:id="86051">
@@ -14153,10 +13929,8 @@
           <tei:persName>Richaud d'Autun</tei:persName>
         </tei:person>
         <tei:person xml:id="86078">
-          <tei:persName>
-            <tei:name>Assé (Richer d')</tei:name>
-            <tei:name>Assé (Richer d')</tei:name>
-          </tei:persName>
+          <tei:persName>Assé (Richer d')</tei:persName>
+          <tei:persName>Assé (Richer d')</tei:persName>
           <tei:note>baile d'Anglès-du-Tarn</tei:note>
         </tei:person>
         <tei:person xml:id="86079">
@@ -14242,18 +14016,14 @@
           <tei:note>demeurant à Sens</tei:note>
         </tei:person>
         <tei:person xml:id="86110">
-          <tei:persName>
-            <tei:name>Robert VI</tei:name>
-            <tei:name>Robert de Boulogne</tei:name>
-            <tei:name>Robert</tei:name>
-          </tei:persName>
+          <tei:persName>Robert VI</tei:persName>
+          <tei:persName>Robert de Boulogne</tei:persName>
+          <tei:persName>Robert</tei:persName>
           <tei:note>comte d'Auvergne et de Boulogne, comes Bolonie</tei:note>
         </tei:person>
         <tei:person xml:id="86111">
-          <tei:persName>
-            <tei:name>Robert VII</tei:name>
-            <tei:name>Robert</tei:name>
-          </tei:persName>
+          <tei:persName>Robert VII</tei:persName>
+          <tei:persName>Robert</tei:persName>
           <tei:note>fils de Robert VI, chevalier, comte de Boulogne</tei:note>
           <tei:note>comte d'Auvergne et de Boulogne par la suite</tei:note>
         </tei:person>
@@ -14306,17 +14076,13 @@
           <tei:note>sire de Beauval</tei:note>
         </tei:person>
         <tei:person xml:id="86127">
-          <tei:persName>
-            <tei:name>Robert d'Archioles</tei:name>
-            <tei:name>Robert de Archiolis</tei:name>
-          </tei:persName>
+          <tei:persName>Robert d'Archioles</tei:persName>
+          <tei:persName>Robert de Archiolis</tei:persName>
           <tei:note>de Archiolis (Me), bénéficié en la cathédrale de Paris</tei:note>
         </tei:person>
         <tei:person xml:id="86128">
-          <tei:persName>
-            <tei:name>Robert d'Artois</tei:name>
-            <tei:name>Robert</tei:name>
-          </tei:persName>
+          <tei:persName>Robert d'Artois</tei:persName>
+          <tei:persName>Robert</tei:persName>
           <tei:note>fils d'Othon IV et de Mahaut</tei:note>
         </tei:person>
         <tei:person xml:id="86129">
@@ -14390,10 +14156,8 @@
           <tei:note>écuyer</tei:note>
         </tei:person>
         <tei:person xml:id="86151">
-          <tei:persName>
-            <tei:name>Robert de France</tei:name>
-            <tei:name>Robert de Clermont</tei:name>
-          </tei:persName>
+          <tei:persName>Robert de France</tei:persName>
+          <tei:persName>Robert de Clermont</tei:persName>
           <tei:note>comte de Clermont et sire de Bourbon, fils de saint Louis</tei:note>
         </tei:person>
         <tei:person xml:id="86152">
@@ -14530,10 +14294,8 @@
           <tei:note>damoiseau</tei:note>
         </tei:person>
         <tei:person xml:id="86188">
-          <tei:persName>
-            <tei:name>Robert de Tancarville</tei:name>
-            <tei:name>Robert</tei:name>
-          </tei:persName>
+          <tei:persName>Robert de Tancarville</tei:persName>
+          <tei:persName>Robert</tei:persName>
           <tei:note>chambellan de Normandie, chevalier, chambellan de Tancarville</tei:note>
         </tei:person>
         <tei:person xml:id="86189">
@@ -14566,10 +14328,8 @@
           <tei:note>damoiselle du lieu, femme de Louis de Marigny</tei:note>
         </tei:person>
         <tei:person xml:id="86197">
-          <tei:persName>
-            <tei:name>Agnès de Traînel</tei:name>
-            <tei:name>Agnès</tei:name>
-          </tei:persName>
+          <tei:persName>Agnès de Traînel</tei:persName>
+          <tei:persName>Agnès</tei:persName>
           <tei:note>femme de Jean II du Châtel, seigneur de Nangis</tei:note>
         </tei:person>
         <tei:person xml:id="86198">
@@ -15629,10 +15389,8 @@
           <tei:note>dit le roi juif de Narbonne</tei:note>
         </tei:person>
         <tei:person xml:id="86653">
-          <tei:persName>
-            <tei:name>Bernard de Cénaret (frère)</tei:name>
-            <tei:name>Bernard (frère)</tei:name>
-          </tei:persName>
+          <tei:persName>Bernard de Cénaret (frère)</tei:persName>
+          <tei:persName>Bernard (frère)</tei:persName>
           <tei:note>dom d'Aubrac</tei:note>
         </tei:person>
         <tei:person xml:id="86654">
@@ -15954,10 +15712,8 @@
           <tei:note>femme de feu Garcia Vidal</tei:note>
         </tei:person>
         <tei:person xml:id="86752">
-          <tei:persName>
-            <tei:name>Agnès de Melun</tei:name>
-            <tei:name>Agnès</tei:name>
-          </tei:persName>
+          <tei:persName>Agnès de Melun</tei:persName>
+          <tei:persName>Agnès</tei:persName>
           <tei:note>fille de Philippe de Melun</tei:note>
         </tei:person>
         <tei:person xml:id="86753">
@@ -16022,10 +15778,8 @@
           <tei:note>valet du roi</tei:note>
         </tei:person>
         <tei:person xml:id="86794">
-          <tei:persName>
-            <tei:name>Tristan (Marguerite),Marguerite</tei:name>
-            <tei:name>Marguerite</tei:name>
-          </tei:persName>
+          <tei:persName>Tristan (Marguerite),Marguerite</tei:persName>
+          <tei:persName>Marguerite</tei:persName>
           <tei:note>1re femme de Pierre V de Chambly, dame de Chambly</tei:note>
         </tei:person>
         <tei:person xml:id="86795">
@@ -16299,10 +16053,8 @@
           <tei:note>archidiacre de Cambrai</tei:note>
         </tei:person>
         <tei:person xml:id="86963">
-          <tei:persName>
-            <tei:name>Bernard du Mès</tei:name>
-            <tei:name>Bernardus de Meso</tei:name>
-          </tei:persName>
+          <tei:persName>Bernard du Mès</tei:persName>
+          <tei:persName>Bernardus de Meso</tei:persName>
           <tei:note>Bernardus de Meso, conseiller et familier du roi</tei:note>
         </tei:person>
         <tei:person xml:id="86964">
@@ -16457,10 +16209,8 @@
           <tei:note>veuve de Pierre de Remies</tei:note>
         </tei:person>
         <tei:person xml:id="87012">
-          <tei:persName>
-            <tei:name>Bertrand de Bonet</tei:name>
-            <tei:name>Bonet (Bertrand de)</tei:name>
-          </tei:persName>
+          <tei:persName>Bertrand de Bonet</tei:persName>
+          <tei:persName>Bonet (Bertrand de)</tei:persName>
           <tei:note>valet du roi, porteur de son sceau à Benon</tei:note>
           <tei:note>cacographie pour Bertaud de Borest?</tei:note>
         </tei:person>
@@ -16626,10 +16376,8 @@
           <tei:note>femme de Guillaume d'Harcourt</tei:note>
         </tei:person>
         <tei:person xml:id="87073">
-          <tei:persName>
-            <tei:name>Blanche de Bourgogne</tei:name>
-            <tei:name>Blanche</tei:name>
-          </tei:persName>
+          <tei:persName>Blanche de Bourgogne</tei:persName>
+          <tei:persName>Blanche</tei:persName>
           <tei:note>Femme de Charles, fils du roi. Fille d'Othon IV et de Mahaut</tei:note>
         </tei:person>
         <tei:person xml:id="87074">
@@ -16637,10 +16385,8 @@
           <tei:note>femme de Jean, vicomte de Thouars</tei:note>
         </tei:person>
         <tei:person xml:id="87075">
-          <tei:persName>
-            <tei:name>Blanche de Bretagne</tei:name>
-            <tei:name>Blanche</tei:name>
-          </tei:persName>
+          <tei:persName>Blanche de Bretagne</tei:persName>
+          <tei:persName>Blanche</tei:persName>
           <tei:note>femme puis veuve de Philippe d'Artois, mère de Robert, fils de feu Philippe d'Artois</tei:note>
         </tei:person>
         <tei:person xml:id="87076">
@@ -16648,10 +16394,8 @@
           <tei:note>reine de France, mère de saint Louis</tei:note>
         </tei:person>
         <tei:person xml:id="87077">
-          <tei:persName>
-            <tei:name>Agnès de Caumont</tei:name>
-            <tei:name>Agnès</tei:name>
-          </tei:persName>
+          <tei:persName>Agnès de Caumont</tei:persName>
+          <tei:persName>Agnès</tei:persName>
           <tei:note>soeur de Baudouin de Caumont</tei:note>
         </tei:person>
         <tei:person xml:id="87078">
@@ -16674,10 +16418,8 @@
           <tei:note>belle-mère du roi</tei:note>
         </tei:person>
         <tei:person xml:id="87083">
-          <tei:persName>
-            <tei:name>Blanche d'Haverskerque</tei:name>
-            <tei:name>Blanche</tei:name>
-          </tei:persName>
+          <tei:persName>Blanche d'Haverskerque</tei:persName>
+          <tei:persName>Blanche</tei:persName>
           <tei:note>fille de Jean, sire d'Haverskerque</tei:note>
         </tei:person>
         <tei:person xml:id="87087">
@@ -16685,10 +16427,8 @@
           <tei:note>notaire de Béziers</tei:note>
         </tei:person>
         <tei:person xml:id="87088">
-          <tei:persName>
-            <tei:name>Agnès de France</tei:name>
-            <tei:name>Agnès</tei:name>
-          </tei:persName>
+          <tei:persName>Agnès de France</tei:persName>
+          <tei:persName>Agnès</tei:persName>
           <tei:note>duchesse de Bourgogne</tei:note>
         </tei:person>
         <tei:person xml:id="87091">
@@ -16707,10 +16447,8 @@
           <tei:persName>Boileau (Jean)</tei:persName>
         </tei:person>
         <tei:person xml:id="87099">
-          <tei:persName>
-            <tei:name>Agnès de Melun</tei:name>
-            <tei:name>Agnès</tei:name>
-          </tei:persName>
+          <tei:persName>Agnès de Melun</tei:persName>
+          <tei:persName>Agnès</tei:persName>
         </tei:person>
         <tei:person xml:id="87109">
           <tei:persName>Bomacip (Samuel) ou Macip</tei:persName>
@@ -19440,16 +19178,12 @@
           <tei:note>de la synagogue de Janville</tei:note>
         </tei:person>
         <tei:person xml:id="324521">
-          <tei:persName>
-            <tei:name>Gautier, prieur de Flavigny (ca. 1142)</tei:name>
-            <tei:name>Galterius prior Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gautier, prieur de Flavigny (ca. 1142)</tei:persName>
+          <tei:persName>Galterius prior Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324522">
-          <tei:persName>
-            <tei:name>Narduinus, moine de Flavigny</tei:name>
-            <tei:name>Narduinus monachus Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Narduinus, moine de Flavigny</tei:persName>
+          <tei:persName>Narduinus monachus Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324523">
           <tei:persName>Martinus IV papa (1281-1285)</tei:persName>
@@ -19515,10 +19249,8 @@
           <tei:persName>Bernard Ier, abbé de Fontenay (1170-1186)</tei:persName>
         </tei:person>
         <tei:person xml:id="324544">
-          <tei:persName>
-            <tei:name>Geoffroi, moine de Clairvaux (1142)</tei:name>
-            <tei:name>Gaufridus monachus Clarae Vallis</tei:name>
-          </tei:persName>
+          <tei:persName>Geoffroi, moine de Clairvaux (1142)</tei:persName>
+          <tei:persName>Gaufridus monachus Clarae Vallis</tei:persName>
         </tei:person>
         <tei:person xml:id="324545">
           <tei:persName>Justin, abbé de Fontenay (1186-1194)</tei:persName>
@@ -19584,10 +19316,8 @@
           <tei:persName>Guillaume VI, abbé de Fontenay (1433-1438)</tei:persName>
         </tei:person>
         <tei:person xml:id="324566">
-          <tei:persName>
-            <tei:name>Gauthier de Bourgogne, évêque de Langres (1163-1179)</tei:name>
-            <tei:name>Galterus filius Hugonis II ducis Burgundiae, archiepiscopus Bisuntiae, episcopus Lingonensis</tei:name>
-          </tei:persName>
+          <tei:persName>Gauthier de Bourgogne, évêque de Langres (1163-1179)</tei:persName>
+          <tei:persName>Galterus filius Hugonis II ducis Burgundiae, archiepiscopus Bisuntiae, episcopus Lingonensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324567">
           <tei:persName>Jean IV de Fontanet, abbé de Fontenay (1438-1440)</tei:persName>
@@ -19620,10 +19350,8 @@
           <tei:persName>Fastré de Cambron, abbé de Clairvaux (1157-1161)</tei:persName>
         </tei:person>
         <tei:person xml:id="324577">
-          <tei:persName>
-            <tei:name>Hugues III, duc de Bourgogne (1162-1192)</tei:name>
-            <tei:name>Hugo III dux Burgundiae</tei:name>
-          </tei:persName>
+          <tei:persName>Hugues III, duc de Bourgogne (1162-1192)</tei:persName>
+          <tei:persName>Hugo III dux Burgundiae</tei:persName>
           <tei:note>Hugues III, né en 1148, mort à Acre en août 1192, duc de Bourgogne de 1162 à 1192, comte d'Albon en 1183, fils de Eudes II de Bourgogne et de Marie de Blois-Champagne.</tei:note>
         </tei:person>
         <tei:person xml:id="324578">
@@ -19657,10 +19385,8 @@
           <tei:persName>Laurent, abbé d'Ursariae, abbé de Clairvaux (1223-1224)</tei:persName>
         </tei:person>
         <tei:person xml:id="324588">
-          <tei:persName>
-            <tei:name>Henri de Bourgogne, évêque d'Autun (1148 -1171)</tei:name>
-            <tei:name>Henricus filius Odonis ducis Burgundiae, archidiaconus postea episcopus Eduensis</tei:name>
-          </tei:persName>
+          <tei:persName>Henri de Bourgogne, évêque d'Autun (1148 -1171)</tei:persName>
+          <tei:persName>Henricus filius Odonis ducis Burgundiae, archidiaconus postea episcopus Eduensis</tei:persName>
           <tei:note>Henri (? - † 1er mars 1170), seigneur de Flavigny, doyen de l’Église d'Autun en 1143, élu évêque d'Autun en 1148. Le 28 juin 1156 il fonde l'anniversaire de son frère Raymond avec une donation à l'abbaye de Grosbois. Il est enterré à l'abbaye de Cîteaux.</tei:note>
         </tei:person>
         <tei:person xml:id="324589">
@@ -19694,10 +19420,8 @@
           <tei:persName>Gérard II, abbé d'Igny, abbé de Clairvaux (1284-1285)</tei:persName>
         </tei:person>
         <tei:person xml:id="324599">
-          <tei:persName>
-            <tei:name>Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)</tei:name>
-            <tei:name>Manasses episcopus Lingonensis</tei:name>
-          </tei:persName>
+          <tei:persName>Manassès de Bar-sur-Seine, évêque de Langres (1179-1193)</tei:persName>
+          <tei:persName>Manasses episcopus Lingonensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324600">
           <tei:persName>Jean II de La Prée, abbé de Maison-Dieu, abbé de Clairvaux (1286-1291)</tei:persName>
@@ -19757,37 +19481,27 @@
           <tei:persName>Hilduin de Vendeuvre, évêque de Langres (1200-1203)</tei:persName>
         </tei:person>
         <tei:person xml:id="324619">
-          <tei:persName>
-            <tei:name>Eudes, prieur de Flavigny (1142)</tei:name>
-            <tei:name>Odo prior Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Eudes, prieur de Flavigny (1142)</tei:persName>
+          <tei:persName>Odo prior Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324620">
           <tei:persName>Guillaume II de Joinville, évêque de Langres (1210-1219), archevêque de Reims (1219-1226)</tei:persName>
         </tei:person>
         <tei:person xml:id="324621">
-          <tei:persName>
-            <tei:name>Boson, doyen de chrétienté de Montbard</tei:name>
-            <tei:name>Boso decanus Montis Barri</tei:name>
-          </tei:persName>
+          <tei:persName>Boson, doyen de chrétienté de Montbard</tei:persName>
+          <tei:persName>Boso decanus Montis Barri</tei:persName>
         </tei:person>
         <tei:person xml:id="324622">
-          <tei:persName>
-            <tei:name>Jordan, archiprêtre de Touillon (v.1155-v.1170)</tei:name>
-            <tei:name>Jordanus archipresbiter Tullionis</tei:name>
-          </tei:persName>
+          <tei:persName>Jordan, archiprêtre de Touillon (v.1155-v.1170)</tei:persName>
+          <tei:persName>Jordanus archipresbiter Tullionis</tei:persName>
         </tei:person>
         <tei:person xml:id="324623">
-          <tei:persName>
-            <tei:name>Eudes, archiprêtre de Touillon (1173-1200)</tei:name>
-            <tei:name>Odo archipresbiter Tullionis</tei:name>
-          </tei:persName>
+          <tei:persName>Eudes, archiprêtre de Touillon (1173-1200)</tei:persName>
+          <tei:persName>Odo archipresbiter Tullionis</tei:persName>
         </tei:person>
         <tei:person xml:id="324624">
-          <tei:persName>
-            <tei:name>Eudes III, duc de Bourgogne (1192-1218)</tei:name>
-            <tei:name>Odo III dux Burgundiae</tei:name>
-          </tei:persName>
+          <tei:persName>Eudes III, duc de Bourgogne (1192-1218)</tei:persName>
+          <tei:persName>Odo III dux Burgundiae</tei:persName>
           <tei:note>Wikipedia indique qu'il ne porte le titre qu'en 1192. L'acte de Fontenay avec persName xml:id="d1e78766" explicitement daté de 1191 est une reproduction de l'acte de 1191 donné par Eudes comme "filius ducis" en 1191</tei:note>
         </tei:person>
         <tei:person xml:id="324625">
@@ -19806,10 +19520,8 @@
           <tei:persName>Galterius archipresbiter Eduensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324630">
-          <tei:persName>
-            <tei:name>Gui de Grignon, sacristain de Flavigny (ca. 1142)</tei:name>
-            <tei:name>Guido de Grinione, sacrista Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gui de Grignon, sacristain de Flavigny (ca. 1142)</tei:persName>
+          <tei:persName>Guido de Grinione, sacrista Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324631">
           <tei:persName>Petrus archipresbiter Lucennaci</tei:persName>
@@ -19824,10 +19536,8 @@
           <tei:persName>Petrus canonicus Lugdunensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324635">
-          <tei:persName>
-            <tei:name>Hugues IV, duc de Bourgogne (1218-1272)</tei:name>
-            <tei:name>Hugo IV dux Burgundiae</tei:name>
-          </tei:persName>
+          <tei:persName>Hugues IV, duc de Bourgogne (1218-1272)</tei:persName>
+          <tei:persName>Hugo IV dux Burgundiae</tei:persName>
           <tei:note>WIKIPEDIA: Hugues IV de Bourgogne, né le 9 mars 1213, mort à Villaines-en-Duesmois le 27 octobre ou 30 octobre 1272, duc de Bourgogne de 1218 à 1272, roi titulaire de Thessalonique (1266-1272), est le fils du duc de Bourgogne Eudes III et d'Alix de Vergy.</tei:note>
         </tei:person>
         <tei:person xml:id="324636">
@@ -19846,83 +19556,59 @@
           <tei:persName>Hugues de Noyers, évêque d'Auxerre (1183-1206)</tei:persName>
         </tei:person>
         <tei:person xml:id="324641">
-          <tei:persName>
-            <tei:name>Lambert, chapelain de l'abbé de Flavigny (1142)</tei:name>
-            <tei:name>Lambertus capellanus abbatis Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Lambert, chapelain de l'abbé de Flavigny (1142)</tei:persName>
+          <tei:persName>Lambertus capellanus abbatis Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324642">
           <tei:persName>Guillaume II de Seignelay, évêque d'Auxerre (1207-1220), évêque de Paris (1220-1223)</tei:persName>
         </tei:person>
         <tei:person xml:id="324643">
-          <tei:persName>
-            <tei:name>Étienne Ier de Baugé, évêque d'Autun (1112 -1139)</tei:name>
-            <tei:name>Stephanus I episcopus Eduensis</tei:name>
-          </tei:persName>
+          <tei:persName>Étienne Ier de Baugé, évêque d'Autun (1112 -1139)</tei:persName>
+          <tei:persName>Stephanus I episcopus Eduensis</tei:persName>
           <tei:note>Etienne I de Baugé ou Bâgé, évêque d'Autun (1112-1139). Gams, p. 500, donne 1139 comme date de décès. Il se retire en 1136 ou plutôt 1139 à Cluny : pour 1136, voir DHGE, t. V, 1931, col. 908 et t. XV, 1963, col. 1209. C’est la date de 1139 qui est retenue par J.Régnier p. 76-79 et reprise ensuite (cf. notice d’Humbert de Bâgé, DHGE, t. XXV, 1995, col. 347). Indépendamment, G. Constable vient aux mêmes conclusions p. 139 note 99 . La discussion sur le lieu de sépulture d’Etienne de Bâgé, peut-être à Fontenay, est complétée par P. Bourgeois, cf. BOURGEOIS, Abbaye Notre-Dame de Fontenay, t. I, p. 188-189.</tei:note>
         </tei:person>
         <tei:person xml:id="324644">
-          <tei:persName>
-            <tei:name>Hugues II, duc de Bourgogne (1103-1143)</tei:name>
-            <tei:name>Hugo II dux Burgundiae</tei:name>
-          </tei:persName>
+          <tei:persName>Hugues II, duc de Bourgogne (1103-1143)</tei:persName>
+          <tei:persName>Hugo II dux Burgundiae</tei:persName>
           <tei:note>Hugues II, dit le Pacifique, né vers 1085 et mort peu après le 6 février 1143ML 1, est duc de Bourgogne de 1103 à 1143.</tei:note>
         </tei:person>
         <tei:person xml:id="324645">
-          <tei:persName>
-            <tei:name>Étienne II, évêque d'Autun (1171-1189)</tei:name>
-            <tei:name>Stephanus II episcopus Eduensis</tei:name>
-          </tei:persName>
+          <tei:persName>Étienne II, évêque d'Autun (1171-1189)</tei:persName>
+          <tei:persName>Stephanus II episcopus Eduensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324646">
-          <tei:persName>
-            <tei:name>Guillenc d'Aigremont, évêque de Langres (1125-1136)</tei:name>
-            <tei:name>Guilencus episcopus Lingonensis</tei:name>
-          </tei:persName>
+          <tei:persName>Guillenc d'Aigremont, évêque de Langres (1125-1136)</tei:persName>
+          <tei:persName>Guilencus episcopus Lingonensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324647">
-          <tei:persName>
-            <tei:name>Garnier II de Rochefort, abbé d'Auberive, abbé de Clairvaux (1186-1193), évêque de Langres (1193-1199)</tei:name>
-            <tei:name>Garnerius episcopus Lingonensis</tei:name>
-          </tei:persName>
+          <tei:persName>Garnier II de Rochefort, abbé d'Auberive, abbé de Clairvaux (1186-1193), évêque de Langres (1193-1199)</tei:persName>
+          <tei:persName>Garnerius episcopus Lingonensis</tei:persName>
           <tei:note>1193-1199 : Garnier II de Rochefort, ancien abbé d'Auberive et de Clairvaux.</tei:note>
         </tei:person>
         <tei:person xml:id="324648">
-          <tei:persName>
-            <tei:name>Robert II de Châtillon, évêque de Langres (1203-1209)</tei:name>
-            <tei:name>Robertus episcopus Lingonensis</tei:name>
-          </tei:persName>
+          <tei:persName>Robert II de Châtillon, évêque de Langres (1203-1209)</tei:persName>
+          <tei:persName>Robertus episcopus Lingonensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324649">
-          <tei:persName>
-            <tei:name>Armannus, archidiacre dans le diocèse d'Autun</tei:name>
-            <tei:name>Armannus Eduensis archidiaconus</tei:name>
-          </tei:persName>
+          <tei:persName>Armannus, archidiacre dans le diocèse d'Autun</tei:persName>
+          <tei:persName>Armannus Eduensis archidiaconus</tei:persName>
           <tei:note>Armannus Eduensis archidiaconus|ArmannusEduensisarchidiaconus</tei:note>
         </tei:person>
         <tei:person xml:id="324650">
-          <tei:persName>
-            <tei:name>Geoffroy, archidiacre dans le diocèse d'Autun</tei:name>
-            <tei:name>Gaufridusarchidiaconus in dioecesi Eduensi</tei:name>
-          </tei:persName>
+          <tei:persName>Geoffroy, archidiacre dans le diocèse d'Autun</tei:persName>
+          <tei:persName>Gaufridusarchidiaconus in dioecesi Eduensi</tei:persName>
         </tei:person>
         <tei:person xml:id="324651">
-          <tei:persName>
-            <tei:name>Seguin, archidiacre dans le diocèse d'Autun</tei:name>
-            <tei:name>Seguinus archidiaconus in dioecesi Eduensi</tei:name>
-          </tei:persName>
+          <tei:persName>Seguin, archidiacre dans le diocèse d'Autun</tei:persName>
+          <tei:persName>Seguinus archidiaconus in dioecesi Eduensi</tei:persName>
         </tei:person>
         <tei:person xml:id="324652">
-          <tei:persName>
-            <tei:name>Gislerus, sous-prieur de Flavigny (ca. 1142)</tei:name>
-            <tei:name>Gislerus subprior Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gislerus, sous-prieur de Flavigny (ca. 1142)</tei:persName>
+          <tei:persName>Gislerus subprior Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324653">
-          <tei:persName>
-            <tei:name>Aimon, archidiacre de Flavigny</tei:name>
-            <tei:name>Haimo archidiaconus Flaviniacensis</tei:name>
-          </tei:persName>
+          <tei:persName>Aimon, archidiacre de Flavigny</tei:persName>
+          <tei:persName>Haimo archidiaconus Flaviniacensis</tei:persName>
           <tei:note>Haymo archidiaconus Flaviniacensis|Aymo, archidiaconus Flaviniacensis|Haymone archidiacono Flaviniaci|Haymo Dei pacientia archidiaconus Flaviniaci|Haymo, archidiaconus Flaviacensis</tei:note>
         </tei:person>
         <tei:person xml:id="324654">
@@ -19930,10 +19616,8 @@
           <tei:note>Humbert, archidiacre puis évêque d'Autun de 1140 à 1148, succède à son oncle après l’éphémère épiscopat de Robert de Bourgogne (mort le 18 juillet 1140), il reçoit le pallium dès le 21 janvier 1141 et devient, en 1148, archevêque de Lyon. J. Régnier préfère la date de 1147, car il dit que son successeur Henri reçut le pallium dès la mi-septembre 1147 avant d’assister à la dédicace de l’église de Fontenay p. 83. Néanmoins l’inscription de dédicace de Fontenay mentionne explicitement Humbert comme évêque d’Autun. Si l’on accepte le témoignage épigraphique, ce que fait manifestement J. Régnier pour la date de la dédicace, il faut renoncer à l’idée qu’Eugène III, « pendant qu’il présidait le chapitre général de Cîteaux, accorda le pallium à Henri, donc entre le 14 et le 16 septembre 1147 » p. 83. Bibliographie : Gams, p. 500;DHGE, t. XXV, 1995, col. 347; Régnier, 1988, p. 79-82</tei:note>
         </tei:person>
         <tei:person xml:id="324655">
-          <tei:persName>
-            <tei:name>Robert de Bourgogne, évêque d'Autun (1140)</tei:name>
-            <tei:name>Robertus episcopus Eduensis</tei:name>
-          </tei:persName>
+          <tei:persName>Robert de Bourgogne, évêque d'Autun (1140)</tei:persName>
+          <tei:persName>Robertus episcopus Eduensis</tei:persName>
           <tei:note>Robert de Bourgogne, fils du duc de Bourgogne, évêque en 1140</tei:note>
         </tei:person>
         <tei:person xml:id="324656">
@@ -19979,62 +19663,44 @@
           <tei:persName>Haimo conversus Fonteneti</tei:persName>
         </tei:person>
         <tei:person xml:id="324670">
-          <tei:persName>
-            <tei:name>Eudes II, duc de Bourgogne (1143-1162)</tei:name>
-            <tei:name>Odo II dux Burgundiae</tei:name>
-          </tei:persName>
+          <tei:persName>Eudes II, duc de Bourgogne (1143-1162)</tei:persName>
+          <tei:persName>Odo II dux Burgundiae</tei:persName>
           <tei:note>Eudes II, né en 1118, mort le 27 juin 1162, duc de Bourgogne de 1143 à 1162, fils de Hugues II le Pacifique, duc de Bourgogne, et de Mathilde de Turenne.</tei:note>
         </tei:person>
         <tei:person xml:id="324671">
-          <tei:persName>
-            <tei:name>Étienne de Toucy, abbé de Reigny (1128-1162)</tei:name>
-            <tei:name>Stephanus abbas Reigniacensis</tei:name>
-          </tei:persName>
+          <tei:persName>Étienne de Toucy, abbé de Reigny (1128-1162)</tei:persName>
+          <tei:persName>Stephanus abbas Reigniacensis</tei:persName>
           <tei:note>Stephanus Regniaci abbas|StephanusRegniaciabbas|Stephani Regniacensis abbatis</tei:note>
         </tei:person>
         <tei:person xml:id="324672">
-          <tei:persName>
-            <tei:name>Obert, prieur de Saint-Symphorien (av.1139-av.1151)</tei:name>
-            <tei:name>Obertusprior Sancti Symphoriani</tei:name>
-          </tei:persName>
+          <tei:persName>Obert, prieur de Saint-Symphorien (av.1139-av.1151)</tei:persName>
+          <tei:persName>Obertusprior Sancti Symphoriani</tei:persName>
           <tei:note>Obert, prieur de Saint-Symphorien, est attesté aux dates suivantes : 25 mai 1139 t. I, p. 342-344, n° 204 ; juin 1139 6 vol., p. 416-418, n° 4067 ; 1142 (ADCO 15 H 257 / 7 : 1142) ; 1er septembre 1142 (Cartulaire 1, fol. 74v = Puteolum, 6) ; 1147 (Cartulaire 1, fol. 40v-41r = Flaciacum, 5) ; sans date, mais pour la période 1139-1148 (Cartulaire 2, fol. 90v-91r = Morvilla, 3). En 1151, il est déjà remplacé par un Jean, cf. U. CHEVALIER, Chartularium prioratus Beatae Mariae de Paredo Monachorum, Montbéliard, 1891, p. 101- 102, n° 202. Cet abbé n’apparaît pas dans les actes édités par André Déléage, mais lui est connu, cf. A. DÉLÉAGE, Recueil des actes du prieuré de Saint-Symphorien d’Autun de 696 à 1300, Autun, 1936, p. XIV-XV, qui ajoute une référence à un acte non daté, ADCO G 964, n° 1 [1112-1140]</tei:note>
         </tei:person>
         <tei:person xml:id="324673">
-          <tei:persName>
-            <tei:name>Aimon, abbé de Flavigny (1199)</tei:name>
-            <tei:name>Haimo abbas Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Aimon, abbé de Flavigny (1199)</tei:persName>
+          <tei:persName>Haimo abbas Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324674">
-          <tei:persName>
-            <tei:name>Gerard, doyen de Flavigny</tei:name>
-            <tei:name>Girardus decanus Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gerard, doyen de Flavigny</tei:persName>
+          <tei:persName>Girardus decanus Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324675">
-          <tei:persName>
-            <tei:name>Renaud, abbé de Flavigny (1152-1160)</tei:name>
-            <tei:name>Rainaldus abbas Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Renaud, abbé de Flavigny (1152-1160)</tei:persName>
+          <tei:persName>Rainaldus abbas Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324676">
-          <tei:persName>
-            <tei:name>Ainon, abbé de Flavigny (av. 1142-1149)</tei:name>
-            <tei:name>Agano abbas Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Ainon, abbé de Flavigny (av. 1142-1149)</tei:persName>
+          <tei:persName>Agano abbas Flaviniaci</tei:persName>
           <tei:note>Ainon, avant 1142-1149. DHGE, t. XVII, 17, col. 405</tei:note>
         </tei:person>
         <tei:person xml:id="324677">
-          <tei:persName>
-            <tei:name>Gaucher, abbé de Flavigny (1173-1185)</tei:name>
-            <tei:name>Galcherius abbas Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gaucher, abbé de Flavigny (1173-1185)</tei:persName>
+          <tei:persName>Galcherius abbas Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324678">
-          <tei:persName>
-            <tei:name>Gui, prieur de Flavigny (ca. 1180)</tei:name>
-            <tei:name>Guido prior Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Gui, prieur de Flavigny (ca. 1180)</tei:persName>
+          <tei:persName>Guido prior Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324679">
           <tei:persName>Urbanus II papa (1088-1099)</tei:persName>
@@ -20055,10 +19721,8 @@
           <tei:persName>Celestinus II papa (1143-1144)</tei:persName>
         </tei:person>
         <tei:person xml:id="324685">
-          <tei:persName>
-            <tei:name>Hugues, sous-prieur de Flavigny (1175)</tei:name>
-            <tei:name>Hugo subprior Flaviniaci</tei:name>
-          </tei:persName>
+          <tei:persName>Hugues, sous-prieur de Flavigny (1175)</tei:persName>
+          <tei:persName>Hugo subprior Flaviniaci</tei:persName>
         </tei:person>
         <tei:person xml:id="324686">
           <tei:persName>Eugenius III papa (1145-1153)</tei:persName>
@@ -20091,10 +19755,8 @@
           <tei:persName>Gregorius IX papa (1227-1241)</tei:persName>
         </tei:person>
         <tei:person xml:id="324696">
-          <tei:persName>
-            <tei:name>Thibaud, chantre de Flavigny (1142)</tei:name>
-            <tei:name>Theobaldus cantor Flaviniacensis</tei:name>
-          </tei:persName>
+          <tei:persName>Thibaud, chantre de Flavigny (1142)</tei:persName>
+          <tei:persName>Theobaldus cantor Flaviniacensis</tei:persName>
         </tei:person>
         <tei:person xml:id="324697">
           <tei:persName>Celestinus IV papa (1241-1241)</tei:persName>
@@ -20136,10 +19798,8 @@
           <tei:persName>Eudes, abbé de la Bussière (ca. 1270)</tei:persName>
         </tei:person>
         <tei:person xml:id="325461">
-          <tei:persName>
-            <tei:name>Louis IX (saint), roi de France (1226-1270)</tei:name>
-            <tei:name>Louis IX le Saint</tei:name>
-          </tei:persName>
+          <tei:persName>Louis IX (saint), roi de France (1226-1270)</tei:persName>
+          <tei:persName>Louis IX le Saint</tei:persName>
           <tei:note>roi de France</tei:note>
         </tei:person>
         <tei:person xml:id="325463">
@@ -20153,16 +19813,12 @@
           <tei:note>ermite vivant sur le lieu qui devint l'abbaye cistercienne de Fontenay</tei:note>
         </tei:person>
         <tei:person xml:id="325468">
-          <tei:persName>
-            <tei:name>Thibaut, prieur de Molesme (ca. 1117)</tei:name>
-            <tei:name>Teobaudus prior Molismensis</tei:name>
-          </tei:persName>
+          <tei:persName>Thibaut, prieur de Molesme (ca. 1117)</tei:persName>
+          <tei:persName>Teobaudus prior Molismensis</tei:persName>
         </tei:person>
         <tei:person xml:id="325470">
-          <tei:persName>
-            <tei:name>Déodat, prieur de Molesme (ca. 1117)</tei:name>
-            <tei:name>Deodatus prior Molismensis</tei:name>
-          </tei:persName>
+          <tei:persName>Déodat, prieur de Molesme (ca. 1117)</tei:persName>
+          <tei:persName>Deodatus prior Molismensis</tei:persName>
         </tei:person>
         <tei:person xml:id="325472">
           <tei:persName>Richer, camérier de Molesme (ca. 1117), Richerius camerarius Molismensis</tei:persName>
@@ -20171,26 +19827,20 @@
           <tei:persName>Robert, cellérier de Molesme (ca. 1117)</tei:persName>
         </tei:person>
         <tei:person xml:id="325476">
-          <tei:persName>
-            <tei:name>Luca scriptor papae</tei:name>
-            <tei:name>Luc, scribe de la chancellerie apostolique (fl. 1131)</tei:name>
-          </tei:persName>
+          <tei:persName>Luca scriptor papae</tei:persName>
+          <tei:persName>Luc, scribe de la chancellerie apostolique (fl. 1131)</tei:persName>
         </tei:person>
         <tei:person xml:id="325477">
           <tei:persName>Aimericus, cardinal-diacre de Sancta Maria Nova (1123–1141), chancelier apostolique</tei:persName>
           <tei:note>cf. Harry Bresslau: Handbuch der Urkundenlehre für Deutschland und Italien. 3e éd. Walter de Gruyter, Berlin 1958</tei:note>
         </tei:person>
         <tei:person xml:id="325478">
-          <tei:persName>
-            <tei:name>Constantin, abbé d'Oigny (fl. 1142)</tei:name>
-            <tei:name>Constantinus abbas Ungiacensis</tei:name>
-          </tei:persName>
+          <tei:persName>Constantin, abbé d'Oigny (fl. 1142)</tei:persName>
+          <tei:persName>Constantinus abbas Ungiacensis</tei:persName>
         </tei:person>
         <tei:person xml:id="325480">
-          <tei:persName>
-            <tei:name>Jean, sénéchal de l'évêque d'Autun (fl. 1142)</tei:name>
-            <tei:name>Johannes, dapifer episcopi Eduensis</tei:name>
-          </tei:persName>
+          <tei:persName>Jean, sénéchal de l'évêque d'Autun (fl. 1142)</tei:persName>
+          <tei:persName>Johannes, dapifer episcopi Eduensis</tei:persName>
         </tei:person>
         <tei:person xml:id="325482">
           <tei:persName>Gérard de Clairvaux (1138)</tei:persName>
@@ -20200,16 +19850,12 @@
           <tei:persName>Foucher, archidiacre de Langres (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325486">
-          <tei:persName>
-            <tei:name>Gérard, archidiacre dans le diocèse d'Autun</tei:name>
-            <tei:name>Girardus archidiaconus in dioecesi Eduensi</tei:name>
-          </tei:persName>
+          <tei:persName>Gérard, archidiacre dans le diocèse d'Autun</tei:persName>
+          <tei:persName>Girardus archidiaconus in dioecesi Eduensi</tei:persName>
         </tei:person>
         <tei:person xml:id="325488">
-          <tei:persName>
-            <tei:name>Humbert, archidiacre dans le diocèse d'Autun</tei:name>
-            <tei:name>Humbertus archidiaconus in dioecesi Eduensi</tei:name>
-          </tei:persName>
+          <tei:persName>Humbert, archidiacre dans le diocèse d'Autun</tei:persName>
+          <tei:persName>Humbertus archidiaconus in dioecesi Eduensi</tei:persName>
         </tei:person>
         <tei:person xml:id="325490">
           <tei:persName>Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis</tei:persName>
@@ -20227,10 +19873,8 @@
           <tei:persName>Aanoldis, épouse de Renard seigneur de Montbard (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325503">
-          <tei:persName>
-            <tei:name>Gaudri, moine [de Fontenay] (fl. 1136)</tei:name>
-            <tei:name>Waldricus monachus [Fontenetensis]</tei:name>
-          </tei:persName>
+          <tei:persName>Gaudri, moine [de Fontenay] (fl. 1136)</tei:persName>
+          <tei:persName>Waldricus monachus [Fontenetensis]</tei:persName>
         </tei:person>
         <tei:person xml:id="325507">
           <tei:persName>Milon, convers [de Fontenay] (fl. 1136)</tei:persName>
@@ -20315,10 +19959,8 @@
           <tei:persName>Nivard, frère de Gauthier connétable (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325578">
-          <tei:persName>
-            <tei:name>Gilbert, miles de Til</tei:name>
-            <tei:name>Gislebertus, miles de Tilio</tei:name>
-          </tei:persName>
+          <tei:persName>Gilbert, miles de Til</tei:persName>
+          <tei:persName>Gislebertus, miles de Tilio</tei:persName>
         </tei:person>
         <tei:person xml:id="325580">
           <tei:persName>Humbaud de Rougemont</tei:persName>
@@ -20414,10 +20056,8 @@
           <tei:persName>Raoul de Seigny</tei:persName>
         </tei:person>
         <tei:person xml:id="325648">
-          <tei:persName>
-            <tei:name>Obert Villain, miles</tei:name>
-            <tei:name>Obertus Villanus</tei:name>
-          </tei:persName>
+          <tei:persName>Obert Villain, miles</tei:persName>
+          <tei:persName>Obertus Villanus</tei:persName>
         </tei:person>
         <tei:person xml:id="325652">
           <tei:persName>Foucher de Velbrey (fl. 1136)</tei:persName>
@@ -20468,10 +20108,8 @@
           <tei:persName>Josbert (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325693">
-          <tei:persName>
-            <tei:name>Aimon de Ménétreux (fl. 1136)</tei:name>
-            <tei:name>Haymo de Monesterul</tei:name>
-          </tei:persName>
+          <tei:persName>Aimon de Ménétreux (fl. 1136)</tei:persName>
+          <tei:persName>Haymo de Monesterul</tei:persName>
         </tei:person>
         <tei:person xml:id="325701">
           <tei:persName>Vaslinus, fils de Aimon de Ménétreux</tei:persName>
@@ -20486,43 +20124,31 @@
           <tei:persName>Constantin, nepos de Robert de Seigny</tei:persName>
         </tei:person>
         <tei:person xml:id="325787">
-          <tei:persName>
-            <tei:name>Gilbert de Marmagne (fl. 1136)</tei:name>
-            <tei:name>Gislebertus de Marmania</tei:name>
-          </tei:persName>
+          <tei:persName>Gilbert de Marmagne (fl. 1136)</tei:persName>
+          <tei:persName>Gislebertus de Marmania</tei:persName>
         </tei:person>
         <tei:person xml:id="325789">
-          <tei:persName>
-            <tei:name>Ermensende de Venarey</tei:name>
-            <tei:name>Hermesendis de Venerre</tei:name>
-          </tei:persName>
+          <tei:persName>Ermensende de Venarey</tei:persName>
+          <tei:persName>Hermesendis de Venerre</tei:persName>
         </tei:person>
         <tei:person xml:id="325792">
-          <tei:persName>
-            <tei:name>Artaud, chanoine de Saulieu (fl. 1136)</tei:name>
-            <tei:name>Artaldus canonicus Sedeloci</tei:name>
-          </tei:persName>
+          <tei:persName>Artaud, chanoine de Saulieu (fl. 1136)</tei:persName>
+          <tei:persName>Artaldus canonicus Sedeloci</tei:persName>
         </tei:person>
         <tei:person xml:id="325794">
-          <tei:persName>
-            <tei:name>Gilbert de Montbard</tei:name>
-            <tei:name>Girbertus de Monte Barro</tei:name>
-          </tei:persName>
+          <tei:persName>Gilbert de Montbard</tei:persName>
+          <tei:persName>Girbertus de Monte Barro</tei:persName>
         </tei:person>
         <tei:person xml:id="325796">
           <tei:persName>Tecelin, fils de Gilbert de Montbard (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325798">
-          <tei:persName>
-            <tei:name>Pierre, scribe (fl. 1136)</tei:name>
-            <tei:name>Petrus scriptor</tei:name>
-          </tei:persName>
+          <tei:persName>Pierre, scribe (fl. 1136)</tei:persName>
+          <tei:persName>Petrus scriptor</tei:persName>
         </tei:person>
         <tei:person xml:id="325799">
-          <tei:persName>
-            <tei:name>Lambert, forgeron de Saulieu (fl. 1136)</tei:name>
-            <tei:name>Lamberti fabri de Sedeloco</tei:name>
-          </tei:persName>
+          <tei:persName>Lambert, forgeron de Saulieu (fl. 1136)</tei:persName>
+          <tei:persName>Lamberti fabri de Sedeloco</tei:persName>
         </tei:person>
         <tei:person xml:id="325801">
           <tei:persName>Bruno, fils de Lambert forgeron de Saulieu (fl. 1136)</tei:persName>
@@ -20579,10 +20205,8 @@
           <tei:persName>Ponce, fils d'Ermensende de Venarey (fl. 1136)</tei:persName>
         </tei:person>
         <tei:person xml:id="325837">
-          <tei:persName>
-            <tei:name>Gilbert Malvaslet</tei:name>
-            <tei:name>Gislebertus frater Malvaslet</tei:name>
-          </tei:persName>
+          <tei:persName>Gilbert Malvaslet</tei:persName>
+          <tei:persName>Gislebertus frater Malvaslet</tei:persName>
         </tei:person>
         <tei:person xml:id="325838">
           <tei:persName>Morin, fils de Foucher de Velbrey</tei:persName>
@@ -20755,17 +20379,13 @@
           <tei:persName>Ermengarde, épouse de Robert de Salmaise (fl. 1143)</tei:persName>
         </tei:person>
         <tei:person xml:id="326643">
-          <tei:persName>
-            <tei:name>Barthélémy Barrian (Me)</tei:name>
-            <tei:name>Barthélemi Barrian</tei:name>
-          </tei:persName>
+          <tei:persName>Barthélémy Barrian (Me)</tei:persName>
+          <tei:persName>Barthélemi Barrian</tei:persName>
           <tei:note>Bernard et Me Raimond Barrian</tei:note>
         </tei:person>
         <tei:person xml:id="326645">
-          <tei:persName>
-            <tei:name>Barthélémy Barrian</tei:name>
-            <tei:name>Barthélemi Barrian</tei:name>
-          </tei:persName>
+          <tei:persName>Barthélémy Barrian</tei:persName>
+          <tei:persName>Barthélemi Barrian</tei:persName>
           <tei:note>Bernard et Me Raimond Barrian</tei:note>
         </tei:person>
         <tei:person xml:id="326646">
@@ -20891,10 +20511,8 @@
           <tei:persName>Nicolas (saint)</tei:persName>
         </tei:person>
         <tei:person xml:id="331345">
-          <tei:persName>
-            <tei:name>Outrille (saint)</tei:name>
-            <tei:name>Bourges (de), Austrégésile</tei:name>
-          </tei:persName>
+          <tei:persName>Outrille (saint)</tei:persName>
+          <tei:persName>Bourges (de), Austrégésile</tei:persName>
         </tei:person>
         <tei:person xml:id="331416">
           <tei:persName>Paul (saint)</tei:persName>
@@ -21088,10 +20706,8 @@
           <tei:persName>Marc (saint)</tei:persName>
         </tei:person>
         <tei:person xml:id="331900">
-          <tei:persName>
-            <tei:name>Marie (sainte)</tei:name>
-            <tei:name>Vierge (Sainte)</tei:name>
-          </tei:persName>
+          <tei:persName>Marie (sainte)</tei:persName>
+          <tei:persName>Vierge (Sainte)</tei:persName>
         </tei:person>
         <tei:person xml:id="331920">
           <tei:persName>Mars (saint)</tei:persName>
