@@ -822,7 +822,6 @@
     
     <xsl:template match="rdg[not(ancestor::rdg) and @wit]">
         <cei:note>
-            <xsl:value-of select="@wit"/>
             <xsl:text>] </xsl:text>
             <xsl:if test="@rend">
                 <xsl:value-of select="@rend/data()"/>
@@ -831,12 +830,15 @@
                 </xsl:if>
             </xsl:if>
             <xsl:apply-templates/>
+            <xsl:text> </xsl:text>
+            <cei:foreign>
+                <xsl:value-of select="@wit"/>
+            </cei:foreign>
         </cei:note>
     </xsl:template>
     
     <xsl:template match="rdg[ancestor::rdg and @wit]">
         <xsl:text> (</xsl:text>
-        <xsl:value-of select="@wit"/>
         <xsl:text>] </xsl:text>
         <xsl:if test="@rend">
             <xsl:value-of select="@rend/data()"/>
@@ -845,6 +847,10 @@
             </xsl:if>
         </xsl:if>
         <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+        <cei:foreign>
+            <xsl:value-of select="@wit"/>
+        </cei:foreign>
         <xsl:text>)</xsl:text>
     </xsl:template>
     
