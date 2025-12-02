@@ -574,6 +574,15 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
         </cei:witDetail>
+        
+    </xsl:template>
+    
+    <xsl:template match="witDetail[parent::rdg or parent::lem]">
+        <xsl:text>(</xsl:text>
+        <xsl:value-of select="@*"/>
+        <xsl:text>: </xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>)</xsl:text>
     </xsl:template>
     
     <xsl:template match="witStart">
@@ -592,6 +601,10 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates/>
         </cei:witEnd>
+    </xsl:template>
+    
+    <xsl:template match="witEnd[parent::rdg or parent::lem]">
+        <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="lacunaStart">
@@ -812,29 +825,39 @@
     </xsl:template>
     
     <xsl:template match="app">
-        <xsl:apply-templates select="lem"/>
-        <xsl:apply-templates select="rdg"/>
+        <xsl:apply-templates select="lem" mode="intenor"/>
+        <cei:note>
+            <xsl:apply-templates select="rdg"/>
+        </cei:note>
     </xsl:template>
     
-    <xsl:template match="lem">
+    <xsl:template match="lem" mode="intenor">
         <xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="lem" mode="footnote">
+        <xsl:apply-templates/>
+        <xsl:text>] </xsl:text>
+    </xsl:template>
+    
     <xsl:template match="rdg[not(ancestor::rdg) and @wit]">
-        <cei:note>
-            <xsl:text>] </xsl:text>
-            <xsl:if test="@rend">
-                <xsl:value-of select="@rend/data()"/>
-                <xsl:if test="normalize-space()">
-                    <xsl:text>: </xsl:text>
-                </xsl:if>
+        <xsl:if test="count(preceding-sibling::rdg) = 0">
+            <xsl:apply-templates select="parent::app/lem" mode="footnote"/>
+        </xsl:if>
+        <xsl:if test="@rend">
+            <xsl:value-of select="@rend/data()"/>
+            <xsl:if test="normalize-space()">
+                <xsl:text>: </xsl:text>
             </xsl:if>
-            <xsl:apply-templates/>
-            <xsl:text> </xsl:text>
-            <cei:foreign>
-                <xsl:value-of select="@wit"/>
-            </cei:foreign>
-        </cei:note>
+        </xsl:if>
+        <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+        <cei:foreign>
+            <xsl:value-of select="@wit"/>
+        </cei:foreign>
+        <xsl:if test="following-sibling::*[1]/name() = 'rdg'">
+            <xsl:text>, </xsl:text>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="rdg[ancestor::rdg and @wit]">
