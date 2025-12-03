@@ -593,7 +593,9 @@
     </xsl:template>
     
     <xsl:template match="witStart[parent::rdg]">
-        <xsl:apply-templates/>
+        <cei:foreign>
+            <xsl:value-of select="concat('witness start: ', replace(@wit/data(), '#', ''))"/>
+        </cei:foreign>
     </xsl:template>
     
     <xsl:template match="witEnd">
@@ -604,7 +606,9 @@
     </xsl:template>
     
     <xsl:template match="witEnd[parent::rdg or parent::lem]">
-        <xsl:apply-templates/>
+        <cei:foreign>
+            <xsl:value-of select="concat('witness end: ', replace(@wit/data(), '#', ''))"/>
+        </cei:foreign>
     </xsl:template>
     
     <xsl:template match="lacunaStart">
@@ -826,9 +830,11 @@
     
     <xsl:template match="app">
         <xsl:apply-templates select="lem" mode="intenor"/>
-        <cei:note>
-            <xsl:apply-templates select="rdg"/>
-        </cei:note>
+        <xsl:if test="rdg">
+            <cei:note>
+                <xsl:apply-templates select="rdg"/>
+            </cei:note>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="lem" mode="intenor">
@@ -853,7 +859,7 @@
         <xsl:apply-templates/>
         <xsl:text> </xsl:text>
         <cei:foreign>
-            <xsl:value-of select="@wit"/>
+            <xsl:value-of select="replace(@wit, '#', '')"/>
         </cei:foreign>
         <xsl:if test="following-sibling::*[1]/name() = 'rdg'">
             <xsl:text>, </xsl:text>
