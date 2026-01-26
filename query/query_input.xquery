@@ -3,5 +3,4 @@ declare default element namespace "http://www.tei-c.org/ns/1.0";
 declare namespace file = "http://basex.org/modules/file";
 
 for $charter in collection('../input')/TEI
-where $charter//app
-return <result>{base-uri($charter)}</result>
+return $charter//imprint

@@ -712,13 +712,13 @@
     <xsl:template match="seg">
         <cei:seg id="{@xml:id}">
             <xsl:copy-of select="@*[not(name() = 'xml:id')]"/>
-            <xsl:if test="ends-with(@xml:id/data(), '_2')">
+            <!--<xsl:if test="ends-with(@xml:id/data(), '_2')">
                 <xsl:text>-</xsl:text>
-            </xsl:if>
+            </xsl:if>-->
             <xsl:apply-templates/>
-            <xsl:if test="ends-with(@xml:id/data(), '_1')">
+            <!--<xsl:if test="ends-with(@xml:id/data(), '_1')">
                 <xsl:text>-</xsl:text>
-            </xsl:if>
+            </xsl:if>-->
         </cei:seg>
     </xsl:template>
 
@@ -977,7 +977,7 @@
     
     <xsl:template match="monogr | analytic">
         <xsl:apply-templates select="author"/>
-        <xsl:apply-templates select="title"/>
+        <xsl:apply-templates select="title[1]"/>
         <xsl:text>.</xsl:text>
         <xsl:apply-templates select="imprint"/>
     </xsl:template>
@@ -1002,7 +1002,12 @@
     
     <xsl:template match="imprint">
         <cei:imprint>
-            <xsl:apply-templates/>
+            <xsl:for-each select="*">
+                <xsl:apply-templates select="."/>
+                <xsl:if test="position() ne last()">
+                    <xsl:text>, </xsl:text>
+                </xsl:if>
+            </xsl:for-each>
         </cei:imprint>
     </xsl:template>
     

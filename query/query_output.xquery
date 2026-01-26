@@ -4,5 +4,4 @@ declare namespace cei = "http://www.monasterium.net/NS/cei";
 for $charter in collection('../output')//cei:text[@type='charter']:)
 let $charters := collection('../output')//cei:text[@type='charter']
 for $charter in $charters
-where $charter//cei:note//cei:witDetail
-return $charter/base-uri()
+return $charter//cei:bibl
